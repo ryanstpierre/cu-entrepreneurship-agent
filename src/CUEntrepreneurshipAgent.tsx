@@ -1,8 +1,10 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import './CUEntrepreneurshipAgent.css'
 import InteractiveJourney from './InteractiveJourney'
 import InteractiveGraph from './InteractiveGraph'
 import Onboarding from './Onboarding'
+import { useSemanticSearch } from './useSemanticSearch'
+import { CorpusLoader } from './CorpusLoader'
 
 interface UserProfile {
   stage?: 'idea' | 'validation' | 'prototype' | 'launching' | 'scaling'
@@ -23,6 +25,16 @@ const CUEntrepreneurshipAgent = () => {
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
   const [view, setView] = useState<'chat' | 'browse' | 'staff' | 'journey' | 'explore'>('explore')
+  const { search, addDocuments, initialized } = useSemanticSearch()
+
+  // Initialize embeddings with default corpus
+  useEffect(() => {
+    if (initialized) {
+      addDocuments(CorpusLoader.getDefaultDocuments()).catch(err => {
+        console.error('Failed to load corpus:', err)
+      })
+    }
+  }, [initialized, addDocuments])
 
   const handleSend = async () => {
     if (!input.trim()) return
@@ -32,6 +44,18 @@ const CUEntrepreneurshipAgent = () => {
     setInput('')
 
     try {
+      // Perform semantic search for relevant programs
+      let searchContext = ''
+      try {
+        const searchResults = await search(input, 5)
+        if (searchResults.length > 0) {
+          const programs = searchResults.map(result => result.document.metadata.name).join(', ')
+          searchContext = `Relevant programs: ${programs}. `
+        }
+      } catch (searchErr) {
+        console.warn('Semantic search failed, continuing without context:', searchErr)
+      }
+
       // Determine API endpoint based on environment
       let API_URL: string
       if (window.location.hostname === 'localhost') {
@@ -48,7 +72,11 @@ const CUEntrepreneurshipAgent = () => {
       const response = await fetch(API_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query: input })
+        body: JSON.stringify({
+          query: input,
+          context: searchContext,
+          userProfile: userProfile
+        })
       })
       const data = await response.json()
       setMessages(prev => [...prev, { role: 'assistant', content: data.response }])
