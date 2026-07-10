@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import './CUEntrepreneurshipAgent.css'
 import InteractiveJourney from './InteractiveJourney'
 import InteractiveGraph from './InteractiveGraph'
+import RidgelineVisualization from './RidgelineVisualization'
 import Onboarding from './Onboarding'
 import { useSemanticSearch } from './useSemanticSearch'
 import { CorpusLoader } from './CorpusLoader'
@@ -25,6 +26,7 @@ const CUEntrepreneurshipAgent = () => {
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
   const [view, setView] = useState<'chat' | 'browse' | 'staff' | 'journey' | 'explore'>('explore')
+  const [activeTrack, setActiveTrack] = useState<'founder' | 'commercialization'>('founder')
   const { search, addDocuments, initialized } = useSemanticSearch()
 
   // Initialize embeddings with default corpus
@@ -280,7 +282,10 @@ const CUEntrepreneurshipAgent = () => {
         )}
 
         {view === 'explore' && (
-          <InteractiveGraph userProfile={userProfile} />
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem', padding: '2.5rem' }}>
+            <RidgelineVisualization userProfile={userProfile} onTrackChange={setActiveTrack} />
+            <InteractiveGraph userProfile={userProfile} />
+          </div>
         )}
       </main>
     </div>
