@@ -1,8 +1,18 @@
 import React, { useState } from 'react'
 import './CUEntrepreneurshipAgent.css'
 import InteractiveJourney from './InteractiveJourney'
+import Onboarding from './Onboarding'
+
+interface UserProfile {
+  stage?: 'idea' | 'validation' | 'prototype' | 'launching' | 'scaling'
+  sectors?: string[]
+  constraints?: string[]
+  role?: 'student' | 'faculty' | 'community' | 'alum'
+  name?: string
+}
 
 const CUEntrepreneurshipAgent = () => {
+  const [userProfile, setUserProfile] = useState<UserProfile | null>(null)
   const [messages, setMessages] = useState<Array<{ role: string; content: string }>>([
     {
       role: 'assistant',
@@ -47,14 +57,19 @@ const CUEntrepreneurshipAgent = () => {
     setLoading(false)
   }
 
+  if (!userProfile) {
+    return <Onboarding onComplete={setUserProfile} />
+  }
+
   return (
     <div className="cu-agent-container">
       {/* Header */}
       <header className="cu-header">
         <div className="cu-header-content">
           <div className="cu-logo">
-            <h1>CU Boulder</h1>
+            <h1>🏔️ CU Boulder</h1>
             <p>Entrepreneurship Navigator</p>
+            {userProfile.name && <p className="greeting">Welcome, {userProfile.name}!</p>}
           </div>
           <nav className="cu-nav">
             <button
