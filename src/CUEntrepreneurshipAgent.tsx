@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import './CUEntrepreneurshipAgent.css'
 import InteractiveJourney from './InteractiveJourney'
+import InteractiveGraph from './InteractiveGraph'
 import Onboarding from './Onboarding'
 
 interface UserProfile {
@@ -21,7 +22,7 @@ const CUEntrepreneurshipAgent = () => {
   ])
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
-  const [view, setView] = useState<'chat' | 'browse' | 'staff' | 'journey'>('chat')
+  const [view, setView] = useState<'chat' | 'browse' | 'staff' | 'journey' | 'explore'>('explore')
 
   const handleSend = async () => {
     if (!input.trim()) return
@@ -73,6 +74,12 @@ const CUEntrepreneurshipAgent = () => {
           </div>
           <nav className="cu-nav">
             <button
+              className={`nav-btn ${view === 'explore' ? 'active' : ''}`}
+              onClick={() => setView('explore')}
+            >
+              🌐 Explore
+            </button>
+            <button
               className={`nav-btn ${view === 'chat' ? 'active' : ''}`}
               onClick={() => setView('chat')}
             >
@@ -94,7 +101,7 @@ const CUEntrepreneurshipAgent = () => {
               className={`nav-btn ${view === 'journey' ? 'active' : ''}`}
               onClick={() => setView('journey')}
             >
-              🏔️ Journey Map
+              🏔️ Journey
             </button>
           </nav>
         </div>
@@ -242,6 +249,10 @@ const CUEntrepreneurshipAgent = () => {
 
         {view === 'journey' && (
           <InteractiveJourney />
+        )}
+
+        {view === 'explore' && (
+          <InteractiveGraph userProfile={userProfile} />
         )}
       </main>
     </div>
