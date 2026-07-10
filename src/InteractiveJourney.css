@@ -1,0 +1,208 @@
+.journey-container {
+  width: 100%;
+  padding: 40px;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.journey-header {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #2c3e50;
+}
+
+.journey-header h1 {
+  font-size: 32px;
+  margin: 0 0 10px 0;
+  color: #1a202c;
+}
+
+.journey-header p {
+  font-size: 16px;
+  color: #666;
+  margin: 0;
+}
+
+.journey-map {
+  width: 100%;
+  max-width: 1200px;
+  height: auto;
+  margin: 30px auto;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+  display: block;
+}
+
+.journey-path {
+  opacity: 0.5;
+  transition: all 0.3s ease;
+}
+
+.journey-node circle {
+  transition: all 0.3s ease;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+}
+
+.journey-node:hover circle {
+  r: 50;
+  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.3));
+}
+
+.journey-node.selected circle {
+  r: 55;
+  stroke-width: 3;
+  filter: drop-shadow(0 6px 20px rgba(0,0,0,0.4));
+}
+
+.node-label {
+  pointer-events: none;
+  user-select: none;
+  font-size: 12px !important;
+  text-shadow: 0 1px 2px rgba(255,255,255,0.8);
+}
+
+.legend {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  color: #666;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.detail-panel {
+  position: fixed;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 320px;
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+  max-height: 80vh;
+  overflow-y: auto;
+  z-index: 100;
+  animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(-50%) translateX(400px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(-50%) translateX(0);
+    opacity: 1;
+  }
+}
+
+.close-btn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 32px;
+  height: 32px;
+  border: none;
+  background: #f0f0f0;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 24px;
+  color: #666;
+  transition: all 0.3s ease;
+}
+
+.close-btn:hover {
+  background: #e0e0e0;
+  color: #000;
+}
+
+.detail-panel h2 {
+  margin: 0 0 20px 0;
+  color: #1a202c;
+  font-size: 20px;
+}
+
+.programs-list {
+  margin-bottom: 20px;
+}
+
+.program-card {
+  background: #f8f9fa;
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  border-left: 4px solid #4ECDC4;
+}
+
+.program-card h3 {
+  margin: 0 0 8px 0;
+  font-size: 14px;
+  color: #2c3e50;
+}
+
+.program-card p {
+  margin: 4px 0;
+  font-size: 13px;
+  color: #666;
+}
+
+.program-card .contact {
+  font-size: 12px;
+  color: #999;
+  margin-top: 8px;
+}
+
+.cta-btn {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.cta-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 768px) {
+  .journey-container {
+    padding: 20px;
+  }
+
+  .journey-header h1 {
+    font-size: 24px;
+  }
+
+  .detail-panel {
+    position: static;
+    width: 100%;
+    margin-top: 30px;
+    transform: none;
+    max-height: none;
+  }
+
+  .legend {
+    gap: 20px;
+  }
+}

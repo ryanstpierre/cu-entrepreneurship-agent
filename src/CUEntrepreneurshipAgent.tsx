@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import './CUEntrepreneurshipAgent.css'
+import InteractiveJourney from './InteractiveJourney'
 
 const CUEntrepreneurshipAgent = () => {
   const [messages, setMessages] = useState<Array<{ role: string; content: string }>>([
@@ -10,7 +11,7 @@ const CUEntrepreneurshipAgent = () => {
   ])
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
-  const [view, setView] = useState<'chat' | 'browse' | 'staff'>('chat')
+  const [view, setView] = useState<'chat' | 'browse' | 'staff' | 'journey'>('chat')
 
   const handleSend = async () => {
     if (!input.trim()) return
@@ -73,6 +74,12 @@ const CUEntrepreneurshipAgent = () => {
               onClick={() => setView('staff')}
             >
               📊 Staff
+            </button>
+            <button
+              className={`nav-btn ${view === 'journey' ? 'active' : ''}`}
+              onClick={() => setView('journey')}
+            >
+              🏔️ Journey Map
             </button>
           </nav>
         </div>
@@ -216,6 +223,10 @@ const CUEntrepreneurshipAgent = () => {
               </div>
             </div>
           </div>
+        )}
+
+        {view === 'journey' && (
+          <InteractiveJourney />
         )}
       </main>
     </div>
