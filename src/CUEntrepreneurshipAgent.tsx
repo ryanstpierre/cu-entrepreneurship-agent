@@ -1,9 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import './CUEntrepreneurshipAgent.css'
 import InteractiveJourney from './InteractiveJourney'
-import InteractiveGraph from './InteractiveGraph'
 import RidgelineVisualization from './RidgelineVisualization'
-import Onboarding from './Onboarding'
 import { useSemanticSearch } from './useSemanticSearch'
 import { CorpusLoader } from './CorpusLoader'
 
@@ -16,7 +14,7 @@ interface UserProfile {
 }
 
 const CUEntrepreneurshipAgent = () => {
-  const [userProfile, setUserProfile] = useState<UserProfile | null>(null)
+  const [userProfile, setUserProfile] = useState<UserProfile>({ stage: 'idea' })
   const [messages, setMessages] = useState<Array<{ role: string; content: string }>>([
     {
       role: 'assistant',
@@ -86,10 +84,6 @@ const CUEntrepreneurshipAgent = () => {
       setMessages(prev => [...prev, { role: 'assistant', content: 'Error connecting to agent. Make sure the worker is running.' }])
     }
     setLoading(false)
-  }
-
-  if (!userProfile) {
-    return <Onboarding onComplete={setUserProfile} />
   }
 
   return (
@@ -283,8 +277,14 @@ const CUEntrepreneurshipAgent = () => {
 
         {view === 'explore' && (
           <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem', padding: '2.5rem' }}>
-            <RidgelineVisualization userProfile={userProfile} onTrackChange={setActiveTrack} />
-            <InteractiveGraph userProfile={userProfile} />
+            <RidgelineVisualization
+              userProfile={userProfile}
+              onTrackChange={setActiveTrack}
+              onStageChange={(idx) => {
+                const stages: Array<'idea' | 'validation' | 'prototype' | 'launching' | 'scaling'> = ['idea', 'validation', 'prototype', 'launching']
+                setUserProfile(prev => ({ ...prev, stage: stages[idx] }))
+              }}
+            />
           </div>
         )}
       </main>

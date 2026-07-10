@@ -4,8 +4,8 @@
   height: 500px;
   overflow: hidden;
   border-radius: 16px;
-  background: linear-gradient(135deg, #DDD3BE 0%, #E8DFD0 100%);
-  box-shadow: 0 4px 6px rgba(52, 49, 42, 0.12);
+  background: linear-gradient(135deg, #1a1428 0%, #2d1f3a 50%, #3d2847 100%);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
 }
 
 .ridgeline-canvas {
@@ -33,18 +33,19 @@
   display: flex;
   gap: 0.5rem;
   width: fit-content;
-  background: rgba(255, 255, 255, 0.95);
+  background: rgba(30, 20, 50, 0.9);
   padding: 0.5rem;
   border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(52, 49, 42, 0.15);
-  backdrop-filter: blur(4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(200, 180, 240, 0.2);
 }
 
 .track-btn {
   padding: 0.75rem 1.5rem;
   border: 2px solid transparent;
-  background: white;
-  color: #6E6552;
+  background: rgba(100, 80, 150, 0.5);
+  color: #d4b5ff;
   border-radius: 8px;
   cursor: pointer;
   font-family: 'Manrope', sans-serif;
@@ -54,20 +55,21 @@
 }
 
 .track-btn:hover {
-  border-color: #A87C2C;
-  color: #A87C2C;
+  border-color: #c8b4f0;
+  background: rgba(150, 120, 200, 0.6);
+  color: white;
   transform: translateY(-1px);
 }
 
 .track-btn.active {
-  background: linear-gradient(135deg, #A87C2C 0%, #8B6A25 100%);
-  color: white;
-  border-color: #A87C2C;
-  box-shadow: 0 4px 12px rgba(168, 124, 44, 0.25);
+  background: linear-gradient(135deg, #d4a5ff 0%, #b88fd4 100%);
+  color: #1a1428;
+  border-color: #d4a5ff;
+  box-shadow: 0 8px 16px rgba(212, 165, 255, 0.4);
 }
 
 .terrain-labels {
-  pointer-events: none;
+  pointer-events: auto;
   display: flex;
   justify-content: space-around;
   align-items: flex-end;
@@ -81,27 +83,41 @@
   align-items: center;
   gap: 0.25rem;
   animation: fadeIn 0.6s ease-out;
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.stage-marker:hover {
+  transform: translateY(-8px);
+}
+
+.stage-marker.active .stage-name {
+  background: rgba(200, 180, 240, 0.95);
+  color: #1a1428;
+  box-shadow: 0 8px 20px rgba(200, 180, 240, 0.4);
 }
 
 .stage-name {
   font-family: 'Space Mono', monospace;
   font-size: 0.85rem;
   color: white;
-  background: rgba(52, 49, 42, 0.7);
+  background: rgba(60, 40, 90, 0.8);
   padding: 0.5rem 1rem;
   border-radius: 6px;
   font-weight: 500;
   letter-spacing: 0.5px;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(200, 180, 240, 0.2);
+  transition: all 0.3s ease;
 }
 
 .elevation {
   font-family: 'Space Mono', monospace;
   font-size: 0.75rem;
-  color: #A87C2C;
+  color: #d4b5ff;
   font-weight: 700;
   letter-spacing: 1px;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
 }
 
 @keyframes fadeIn {
