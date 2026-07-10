@@ -1,0 +1,17 @@
+name = "cu-entrepreneurship-agent"
+main = "worker.ts"
+compatibility_date = "2024-10-14"
+compatibility_flags = ["nodejs_compat"]
+
+[env.production]
+vars = { USE_LOCAL_CLAUDE = "true", LOCAL_CLAUDE_URL = "https://8ea4-174-29-96-84.ngrok-free.app/v1" }
+
+[env.local]
+vars = { USE_LOCAL_CLAUDE = "true", LOCAL_CLAUDE_URL = "http://localhost:9090/v1" }
+
+[build]
+command = "npm run build"
+cwd = "."
+
+[triggers]
+crons = ["0 */12 * * *"]

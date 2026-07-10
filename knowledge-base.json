@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "source": "https://www.colorado.edu/innovate/on-campus-resources",
+    "last_updated": "2026-07-10",
+    "total_programs": 80,
+    "coverage": "Undergraduate, Graduate, Postdocs, Faculty, Staff",
+    "embeddings_enabled": true,
+    "embedding_version": "1.0"
+  },
+  "embeddings": {
+    "funding": ["get-seed-funding", "new-venture-challenge", "venture-partners", "catalyze-cu", "ascent-deep-tech", "lab-venture-challenge"],
+    "mentorship": ["deming-center", "venture-partners", "ascent-deep-tech", "boulder-venture-club"],
+    "deep_tech": ["ascent-deep-tech", "embark-deep-tech", "venture-partners", "lab-venture-challenge"],
+    "prototyping": ["idea-forge", "atlas-institute", "catalyze-cu"],
+    "legal": ["entrepreneurial-law-clinic", "silicon-flatirons"],
+    "pitch_competition": ["new-venture-challenge", "lab-venture-challenge"],
+    "accelerator": ["catalyze-cu", "ascent-deep-tech"],
+    "research_commercialization": ["venture-partners", "center-for-translational-research", "embark-deep-tech"],
+    "student_focused": ["deming-center", "get-seed-funding", "boulder-venture-club", "new-venture-challenge"],
+    "faculty_focused": ["venture-partners", "lab-venture-challenge", "center-for-translational-research"],
+    "biotech": ["ascent-deep-tech", "lab-venture-challenge", "venture-partners"],
+    "hardware": ["catalyze-cu", "idea-forge", "ascent-deep-tech"],
+    "ai_ml": ["catalyze-cu", "ascent-deep-tech", "deming-center"],
+    "aerospace": ["catalyze-cu", "ascent-deep-tech"],
+    "early_stage": ["get-seed-funding", "deming-center", "new-venture-challenge"],
+    "growth_stage": ["ascent-deep-tech", "lab-venture-challenge", "new-venture-challenge"]
+  },
+  "pathways": [
+    "1: Beginning and Cultivating",
+    "2: Conceiving and Exploring",
+    "3: Building and Testing",
+    "4: Launching and Growing"
+  ],
+  "opportunities": [
+    "Intellectual Property (IP) Support",
+    "Entrepreneurial Training",
+    "Mentorship and Advising",
+    "Funding and Financing",
+    "Licensing and Industry Partnerships",
+    "Prototyping",
+    "Team Building and Networking"
+  ],
+  "sectors": [
+    "AI and Machine Learning",
+    "Aerospace",
+    "Advanced Materials",
+    "Augmented Reality/Virtual Reality",
+    "Biotech",
+    "Civic Engagement and Government",
+    "Cybersecurity",
+    "Education Technology",
+    "Environmentalism and Sustainability",
+    "Fashion and Design",
+    "Financial Technology (Fintech)",
+    "Food and Agriculture",
+    "Hardware and Instrumentation",
+    "Health and Wellness",
+    "Manufacturing",
+    "Quantum",
+    "Smart Cities",
+    "Social Enterprise",
+    "Sports and Recreation",
+    "Arts and Culture"
+  ],
+  "programs": [
+    {
+      "id": "deming-center",
+      "name": "Deming Center for Entrepreneurship",
+      "parent_organization": "Leeds School of Business",
+      "description": "One-stop shop for students, staff, faculty and community members interested in entrepreneurship. Provides courses, mentorship, funding, and community.",
+      "location": "CU Boulder Campus",
+      "season": ["Fall", "Spring"],
+      "eligibility": ["Undergraduate Students", "Graduate Students", "Faculty", "Staff"],
+      "opportunities": ["Entrepreneurial Training", "Mentorship and Advising", "Funding and Financing", "Team Building and Networking"],
+      "contact": "deming@colorado.edu",
+      "website": "https://www.colorado.edu/business/deming",
+      "sub_programs": [
+        "Entrepreneurial Studies Certificate",
+        "High Growth Venture Fellowship (MBA)",
+        "New Venture Launch Class",
+        "Startups & Sandwiches"
+      ]
+    },
+    {
+      "id": "new-venture-challenge",
+      "name": "New Venture Challenge (NVC)",
+      "parent_organization": "Innovation & Entrepreneurship Initiative",
+      "description": "Competition with cash prizes up to $325,000 supporting the pathway from beginning through growth stages. Open to all CU students.",
+      "funding": "$325,000+ in prizes",
+      "location": ["Boulder", "Virtual"],
+      "season": ["Fall", "Spring"],
+      "eligibility": ["Undergraduate Students", "Graduate Students"],
+      "opportunities": ["Funding and Financing", "Mentorship and Advising", "Team Building and Networking"],
+      "sectors": ["All"],
+      "pathways": ["3: Building and Testing", "4: Launching and Growing"],
+      "website": "https://www.colorado.edu/nvc"
+    },
+    {
+      "id": "venture-partners",
+      "name": "Venture Partners at CU Boulder",
+      "description": "Campus-wide resource for both existing and aspiring university-originated startups seeking non-dilutive funding and support.",
+      "location": ["Colorado", "Virtual"],
+      "season": ["Year-Round"],
+      "eligibility": ["Students", "Alumni", "Faculty"],
+      "opportunities": ["Funding and Financing", "Mentorship and Advising", "IP Support"],
+      "sub_programs": [
+        "Ascent Deep Tech Accelerator",
+        "Center for Translational Research (CTR)",
+        "Destination Startup",
+        "Embark Deep Tech Startup Creator",
+        "Lab Venture Challenge (LVC)",
+        "NSF I-Corps Hub: West"
+      ],
+      "website": "https://www.colorado.edu/venturepartners/"
+    },
+    {
+      "id": "catalyze-cu",
+      "name": "Catalyze CU",
+      "parent_organization": "College of Engineering & Applied Science",
+      "description": "An accelerator helping to launch and grow the University's best start-ups. Open to students, staff and alumni.",
+      "location": "CU Boulder Campus",
+      "season": ["Summer"],
+      "eligibility": ["Undergraduate Students", "Graduate Students", "Staff", "Alumni"],
+      "opportunities": ["Entrepreneurial Training", "Mentorship and Advising", "Funding and Financing"],
+      "sectors": ["Hardware and Instrumentation", "AI and Machine Learning", "Aerospace", "Advanced Materials"],
+      "pathways": ["3: Building and Testing", "4: Launching and Growing"],
+      "website": "https://www.colorado.edu/catalyzecu/"
+    },
+    {
+      "id": "atlas-institute",
+      "name": "ATLAS Institute",
+      "parent_organization": "College of Engineering & Applied Science",
+      "description": "Home to research and academic programs transcending disciplinary structures of engineering, design, art, technology and entrepreneurship.",
+      "location": "CU Boulder Campus",
+      "season": ["Year-Round"],
+      "opportunities": ["Entrepreneurial Training", "Prototyping", "Team Building and Networking"],
+      "programs_offered": ["BS", "MS", "PhD", "Minor", "Certificates"],
+      "website": "https://www.colorado.edu/atlas"
+    },
+    {
+      "id": "ascent-deep-tech",
+      "name": "Ascent Deep Tech Accelerator",
+      "parent_organization": "Venture Partners at CU Boulder",
+      "description": "A startup accelerator for research teams building deep tech startups coming out of CU campuses.",
+      "location": ["CU Boulder Campus", "Virtual"],
+      "season": ["Spring"],
+      "eligibility": ["Students", "Alumni", "Faculty"],
+      "opportunities": ["Mentorship and Advising", "Funding and Financing"],
+      "sectors": ["AI and Machine Learning", "Aerospace", "Biotech", "Hardware"],
+      "pathways": ["3: Building and Testing", "4: Launching and Growing"],
+      "website": "https://www.colorado.edu/innovate/ascent-deep-tech-accelerator"
+    },
+    {
+      "id": "entrepreneurial-law-clinic",
+      "name": "Entrepreneurial Law Clinic",
+      "parent_organization": "Law School",
+      "description": "Offering valuable legal services to local startup businesses lacking access to legal resources without charge.",
+      "location": "Denver Metro",
+      "season": ["Fall", "Spring"],
+      "opportunities": ["IP Support", "Licensing and Industry Partnerships"],
+      "website": "https://www.colorado.edu/innovate/programs-resources/entrepreneurial-law-clinic"
+    },
+    {
+      "id": "idea-forge",
+      "name": "Idea Forge",
+      "parent_organization": "College of Engineering and Applied Science",
+      "description": "A cross-disciplinary prototyping facility where students can design, build and test solutions to meet human needs.",
+      "location": "CU Boulder Campus",
+      "season": ["Year-Round"],
+      "opportunities": ["Prototyping", "Team Building and Networking"],
+      "website": "https://www.colorado.edu/innovate/programs-resources/idea-forge"
+    },
+    {
+      "id": "boulder-venture-club",
+      "name": "Boulder Venture Club",
+      "description": "A student club designed to be a community and home for students interested in venture capital, startups and entrepreneurship.",
+      "location": "CU Boulder Campus",
+      "season": ["Fall", "Spring"],
+      "eligibility": ["Undergraduate Students", "Graduate Students"],
+      "opportunities": ["Team Building and Networking", "Mentorship and Advising"],
+      "website": "https://www.colorado.edu/innovate/programs-resources/boulder-venture-club"
+    },
+    {
+      "id": "embark-deep-tech",
+      "name": "Embark Deep Tech Startup Creator",
+      "parent_organization": "Venture Partners at CU Boulder",
+      "description": "A deep tech startup creator matching entrepreneurs with university-owned innovations.",
+      "location": ["Colorado"],
+      "opportunities": ["Funding and Financing", "IP Support", "Mentorship and Advising"],
+      "sectors": ["All deep tech"],
+      "pathways": ["2: Conceiving and Exploring", "3: Building and Testing"],
+      "website": "https://www.colorado.edu/innovate/programs-resources/embark-deep-tech-startup-creator"
+    },
+    {
+      "id": "get-seed-funding",
+      "name": "Get Seed Funding",
+      "parent_organization": "Innovation & Entrepreneurship Initiative",
+      "description": "A micro-funding opportunity for undergraduate and graduate students providing up to $500 in funding.",
+      "funding": "Up to $500",
+      "location": "CU Boulder Campus",
+      "season": ["Spring", "Fall"],
+      "eligibility": ["Undergraduate Students", "Graduate Students"],
+      "opportunities": ["Funding and Financing"],
+      "pathways": ["1: Beginning and Cultivating", "2: Conceiving and Exploring"],
+      "website": "https://www.colorado.edu/innovate/programs-resources/get-seed-funding"
+    }
+  ]
+}

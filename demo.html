@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CU Boulder Entrepreneurship Navigator</title>
+  <style>
+    :root {
+      --cu-black: #1a1a1a;
+      --cu-gold: #cfb53b;
+      --cu-gray: #f5f5f5;
+      --cu-white: #ffffff;
+      --text-primary: #1a1a1a;
+      --text-secondary: #666666;
+      --border-color: #e0e0e0;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: var(--cu-gray);
+      color: var(--text-primary);
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      background: var(--cu-white);
+    }
+
+    /* Header */
+    header {
+      background: linear-gradient(135deg, var(--cu-black) 0%, #2a2a2a 100%);
+      color: var(--cu-white);
+      padding: 1.5rem 2rem;
+      border-bottom: 3px solid var(--cu-gold);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .header-content {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo h1 {
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: var(--cu-gold);
+      margin-bottom: 0.25rem;
+    }
+
+    .logo p {
+      font-size: 0.9rem;
+      color: #aaa;
+      font-weight: 300;
+    }
+
+    .nav {
+      display: flex;
+      gap: 1rem;
+    }
+
+    .nav-btn {
+      background: transparent;
+      border: 2px solid transparent;
+      color: var(--cu-white);
+      padding: 0.6rem 1.2rem;
+      cursor: pointer;
+      font-size: 0.95rem;
+      border-radius: 4px;
+      transition: all 0.2s ease;
+    }
+
+    .nav-btn:hover {
+      border-color: var(--cu-gold);
+      color: var(--cu-gold);
+    }
+
+    .nav-btn.active {
+      background: var(--cu-gold);
+      color: var(--cu-black);
+      border-color: var(--cu-gold);
+    }
+
+    /* Main */
+    main {
+      flex: 1;
+      overflow-y: auto;
+      padding: 2rem;
+      max-width: 1400px;
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    /* Chat View */
+    .view {
+      display: none;
+    }
+
+    .view.active {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .chat-view.active {
+      display: flex;
+    }
+
+    .messages {
+      flex: 1;
+      overflow-y: auto;
+      margin-bottom: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      padding-right: 1rem;
+    }
+
+    .message {
+      display: flex;
+      max-width: 70%;
+      animation: slideIn 0.3s ease;
+    }
+
+    .message.user {
+      align-self: flex-end;
+    }
+
+    .message.assistant {
+      align-self: flex-start;
+    }
+
+    .message-content {
+      padding: 1rem 1.25rem;
+      border-radius: 8px;
+      line-height: 1.5;
+    }
+
+    .message.user .message-content {
+      background: var(--cu-black);
+      color: var(--cu-white);
+    }
+
+    .message.assistant .message-content {
+      background: var(--cu-gray);
+      color: var(--text-primary);
+      border-left: 3px solid var(--cu-gold);
+    }
+
+    @keyframes slideIn {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .input-area {
+      display: flex;
+      gap: 0.75rem;
+      padding: 1rem;
+      background: var(--cu-gray);
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+    }
+
+    .input-area input {
+      flex: 1;
+      padding: 0.75rem 1rem;
+      border: none;
+      border-radius: 4px;
+      font-size: 0.95rem;
+      background: var(--cu-white);
+    }
+
+    .input-area input:focus {
+      outline: none;
+      box-shadow: 0 0 0 2px var(--cu-gold);
+    }
+
+    .input-area button {
+      background: var(--cu-black);
+      color: var(--cu-white);
+      border: none;
+      padding: 0.75rem 1.5rem;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.2s ease;
+    }
+
+    .input-area button:hover {
+      background: var(--cu-gold);
+      color: var(--cu-black);
+    }
+
+    .example-prompts {
+      margin-top: 1.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border-color);
+    }
+
+    .example-prompts p {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+      margin-bottom: 0.75rem;
+    }
+
+    .example-prompts button {
+      display: inline-block;
+      background: var(--cu-gray);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
+      padding: 0.5rem 1rem;
+      margin-right: 0.5rem;
+      margin-bottom: 0.5rem;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      transition: all 0.2s ease;
+    }
+
+    .example-prompts button:hover {
+      background: var(--cu-gold);
+      border-color: var(--cu-gold);
+      color: var(--cu-black);
+    }
+
+    /* Browse View */
+    .browse-view h2,
+    .staff-view h2 {
+      margin-bottom: 1.5rem;
+      color: var(--cu-black);
+    }
+
+    .filters {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .filter-group label {
+      display: block;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+    }
+
+    .filter-group select {
+      width: 100%;
+      padding: 0.6rem;
+      border: 1px solid var(--border-color);
+      border-radius: 4px;
+    }
+
+    .programs-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .program-card {
+      background: var(--cu-white);
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 1.5rem;
+      transition: all 0.3s ease;
+    }
+
+    .program-card:hover {
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+      border-color: var(--cu-gold);
+      transform: translateY(-4px);
+    }
+
+    .card-icon {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .program-card h3 {
+      font-size: 1.2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .program-card p {
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      margin-bottom: 1rem;
+    }
+
+    /* Staff View */
+    .dashboard-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 3rem;
+    }
+
+    .stat-card {
+      background: linear-gradient(135deg, var(--cu-black) 0%, #2a2a2a 100%);
+      color: var(--cu-white);
+      padding: 2rem;
+      border-radius: 8px;
+      border-left: 4px solid var(--cu-gold);
+      text-align: center;
+    }
+
+    .stat-number {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+      color: var(--cu-gold);
+    }
+
+    .stat-label {
+      font-size: 0.95rem;
+      color: #aaa;
+    }
+
+    .coverage-section {
+      background: var(--cu-white);
+      padding: 2rem;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+    }
+
+    .coverage-section h3 {
+      margin-bottom: 1.5rem;
+    }
+
+    .college-coverage {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .coverage-bar {
+      position: relative;
+      height: 40px;
+      background: var(--cu-gray);
+      border-radius: 4px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+    }
+
+    .bar-fill {
+      background: linear-gradient(90deg, var(--cu-gold) 0%, #cfb53b 100%);
+      height: 100%;
+      transition: width 0.5s ease;
+    }
+
+    .coverage-bar span {
+      position: absolute;
+      left: 12px;
+      font-weight: 600;
+      z-index: 1;
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 768px) {
+      .header-content {
+        flex-direction: column;
+        gap: 1rem;
+      }
+
+      .nav {
+        width: 100%;
+        justify-content: center;
+      }
+
+      main {
+        padding: 1rem;
+      }
+
+      .message {
+        max-width: 90%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="header-content">
+        <div class="logo">
+          <h1>CU Boulder</h1>
+          <p>Entrepreneurship Navigator</p>
+        </div>
+        <nav class="nav">
+          <button class="nav-btn active" onclick="switchView('chat')">💬 Ask</button>
+          <button class="nav-btn" onclick="switchView('browse')">📚 Browse</button>
+          <button class="nav-btn" onclick="switchView('staff')">📊 Staff</button>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <!-- Chat View -->
+      <div id="chat-view" class="view chat-view active">
+        <div class="messages" id="messages">
+          <div class="message assistant">
+            <div class="message-content">
+              Welcome to the CU Boulder Entrepreneurship Navigator! I can help you find programs, funding, mentorship, and resources to bring your startup idea to life. What would you like to explore?
+            </div>
+          </div>
+        </div>
+
+        <div class="input-area">
+          <input
+            type="text"
+            id="input"
+            placeholder="Ask me anything about CU startup resources..."
+            onkeypress="if(event.key === 'Enter') sendMessage()"
+          />
+          <button onclick="sendMessage()">Send</button>
+        </div>
+
+        <div class="example-prompts">
+          <p>Try asking:</p>
+          <button onclick="examplePrompt('I want to build an AI startup. What programs can help?')">AI Startup Help</button>
+          <button onclick="examplePrompt('I need funding for my biotech idea')">Biotech Funding</button>
+          <button onclick="examplePrompt('Where can I prototype my idea?')">Prototyping Spaces</button>
+          <button onclick="examplePrompt('What mentors are available?')">Mentorship</button>
+        </div>
+      </div>
+
+      <!-- Browse View -->
+      <div id="browse-view" class="view browse-view">
+        <h2>Browse All Programs</h2>
+        <div class="filters">
+          <div class="filter-group">
+            <label>Opportunity Type</label>
+            <select>
+              <option>All</option>
+              <option>Funding & Financing</option>
+              <option>Mentorship & Advising</option>
+              <option>Entrepreneurial Training</option>
+              <option>IP Support</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label>Sector</label>
+            <select>
+              <option>All</option>
+              <option>AI & Machine Learning</option>
+              <option>Biotech</option>
+              <option>Hardware</option>
+              <option>Aerospace</option>
+              <option>Fintech</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="programs-grid">
+          <div class="program-card">
+            <div class="card-icon">🏆</div>
+            <h3>New Venture Challenge</h3>
+            <p>$325K+ in prizes supporting startups from beginning through growth</p>
+          </div>
+          <div class="program-card">
+            <div class="card-icon">🎯</div>
+            <h3>Deming Center</h3>
+            <p>One-stop entrepreneurship hub in Leeds School of Business</p>
+          </div>
+          <div class="program-card">
+            <div class="card-icon">🚀</div>
+            <h3>Catalyze CU</h3>
+            <p>Summer accelerator for engineering startups</p>
+          </div>
+          <div class="program-card">
+            <div class="card-icon">🤝</div>
+            <h3>Venture Partners</h3>
+            <p>Support for university-originated startups</p>
+          </div>
+          <div class="program-card">
+            <div class="card-icon">🛠️</div>
+            <h3>ATLAS Institute</h3>
+            <p>Design and technology academic programs</p>
+          </div>
+          <div class="program-card">
+            <div class="card-icon">⚙️</div>
+            <h3>Idea Forge</h3>
+            <p>Prototyping space in College of Engineering</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Staff View -->
+      <div id="staff-view" class="view staff-view">
+        <h2>Coordinator Dashboard</h2>
+        <div class="dashboard-grid">
+          <div class="stat-card">
+            <div class="stat-number">80+</div>
+            <div class="stat-label">Programs & Resources</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">$325K+</div>
+            <div class="stat-label">Annual Prize Money</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">20+</div>
+            <div class="stat-label">Sectors Covered</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">5 Colleges</div>
+            <div class="stat-label">Engaged</div>
+          </div>
+        </div>
+
+        <div class="coverage-section">
+          <h3>Coverage by College</h3>
+          <div class="college-coverage">
+            <div class="coverage-bar">
+              <div class="bar-fill" style="width: 95%"></div>
+              <span>Leeds School of Business</span>
+            </div>
+            <div class="coverage-bar">
+              <div class="bar-fill" style="width: 85%"></div>
+              <span>College of Engineering</span>
+            </div>
+            <div class="coverage-bar">
+              <div class="bar-fill" style="width: 60%"></div>
+              <span>College of Music</span>
+            </div>
+            <div class="coverage-bar">
+              <div class="bar-fill" style="width: 55%"></div>
+              <span>College of Arts & Sciences</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    function switchView(view) {
+      // Hide all views
+      document.getElementById('chat-view').classList.remove('active')
+      document.getElementById('browse-view').classList.remove('active')
+      document.getElementById('staff-view').classList.remove('active')
+
+      // Show selected view
+      document.getElementById(view + '-view').classList.add('active')
+
+      // Update nav
+      document.querySelectorAll('.nav-btn').forEach(btn => btn.classList.remove('active'))
+      event.target.classList.add('active')
+    }
+
+    function examplePrompt(prompt) {
+      document.getElementById('input').value = prompt
+    }
+
+    async function sendMessage() {
+      const input = document.getElementById('input')
+      const message = input.value.trim()
+
+      if (!message) return
+
+      // Add user message
+      const messagesDiv = document.getElementById('messages')
+      const userDiv = document.createElement('div')
+      userDiv.className = 'message user'
+      userDiv.innerHTML = `<div class="message-content">${escapeHtml(message)}</div>`
+      messagesDiv.appendChild(userDiv)
+
+      input.value = ''
+
+      // Simulate agent response (in production, call your API)
+      const assistantDiv = document.createElement('div')
+      assistantDiv.className = 'message assistant'
+      assistantDiv.innerHTML = `<div class="message-content">Thinking...</div>`
+      messagesDiv.appendChild(assistantDiv)
+      messagesDiv.scrollTop = messagesDiv.scrollHeight
+
+      // Simulate response
+      setTimeout(() => {
+        const response = getResponseForQuery(message)
+        assistantDiv.innerHTML = `<div class="message-content">${response}</div>`
+        messagesDiv.scrollTop = messagesDiv.scrollHeight
+      }, 500)
+    }
+
+    function getResponseForQuery(query) {
+      const q = query.toLowerCase()
+
+      if (q.includes('ai') || q.includes('machine learning')) {
+        return `<strong>AI/ML Startup Resources:</strong><br><br>
+          🏆 <strong>New Venture Challenge</strong> - Perfect for AI startups, $325K+ in prizes<br><br>
+          🤝 <strong>Venture Partners at CU Boulder</strong> - Support for deep tech startups<br><br>
+          🎯 <strong>Deming Center</strong> - Mentorship and entrepreneurial training<br><br>
+          Next steps: Visit deming@colorado.edu or https://www.colorado.edu/nvc`
+      }
+
+      if (q.includes('funding') || q.includes('money')) {
+        return `<strong>Funding Opportunities:</strong><br><br>
+          💰 <strong>Get Seed Funding</strong> - Up to $500 micro-grants<br><br>
+          🏆 <strong>New Venture Challenge</strong> - Up to $325,000<br><br>
+          🤝 <strong>Venture Partners</strong> - Non-dilutive funding for university startups<br><br>
+          📊 <strong>Lab Venture Challenge</strong> - For research-based innovations<br><br>
+          All available to CU students. Check eligibility and deadlines.`
+      }
+
+      if (q.includes('prototype') || q.includes('build') || q.includes('maker')) {
+        return `<strong>Making & Prototyping Spaces:</strong><br><br>
+          ⚙️ <strong>Idea Forge</strong> - Cross-disciplinary prototyping facility<br><br>
+          🛠️ <strong>ATLAS Institute</strong> - Design and technology workspace<br><br>
+          🎨 <strong>BTU Lab (Blow Things Up)</strong> - Maker space for art & engineering<br><br>
+          All open year-round for students. Equipment and materials provided.`
+      }
+
+      if (q.includes('mentor') || q.includes('advisor')) {
+        return `<strong>Mentorship & Advising:</strong><br><br>
+          👥 <strong>Mentor Matching Program</strong> - Connect with experienced founders<br><br>
+          🎓 <strong>Deming Center</strong> - Faculty advisors and industry mentors<br><br>
+          📚 <strong>Boulder Venture Club</strong> - Peer mentorship and networking<br><br>
+          Available for undergrad and grad students.`
+      }
+
+      return `<strong>CU Boulder Entrepreneurship Resources:</strong><br><br>
+        Looking for something specific? Try asking about:<br><br>
+        💰 Funding options<br>
+        🏆 Competitions and prizes<br>
+        🤝 Mentors and advisors<br>
+        🛠️ Prototyping spaces<br>
+        📚 Classes and training<br>
+        🚀 Startup programs<br><br>
+        Or visit: https://www.colorado.edu/innovate/on-campus-resources`
+    }
+
+    function escapeHtml(text) {
+      const map = {
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#039;'
+      }
+      return text.replace(/[&<>"']/g, m => map[m])
+    }
+  </script>
+</body>
+</html>
