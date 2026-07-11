@@ -96,20 +96,54 @@ const DEFAULT_CORPUS: Program[] = [
 ]
 
 export class CorpusLoader {
+  static stageToPathways(stages: string[]): string[] {
+    const stageMap: Record<string, string> = {
+      'Idea': '1: Beginning and Cultivating',
+      'Validation': '2: Conceiving and Exploring',
+      'Prototype': '3: Building and Testing',
+      'Launching': '4: Launching and Growing',
+      'Scaling': '4: Launching and Growing'
+    }
+    return stages.map(s => stageMap[s] || '').filter(Boolean)
+  }
+
+  static categoryToOpportunities(category: string): string[] {
+    const categoryMap: Record<string, string[]> = {
+      'Funding & Prizes': ['Funding and Financing'],
+      'Entrepreneurship Hub': ['Entrepreneurial Training', 'Mentorship and Advising'],
+      'Accelerator': ['Mentorship and Advising', 'Funding and Financing', 'Entrepreneurial Training'],
+      'Space & Resources': ['Prototyping', 'Team Building and Networking'],
+      'Design & Innovation': ['Prototyping', 'Entrepreneurial Training'],
+      'Funding & Mentorship': ['Funding and Financing', 'Mentorship and Advising'],
+      'IP & Commercialization': ['IP Support', 'Licensing and Industry Partnerships'],
+      'Immersion Program': ['Mentorship and Advising', 'Team Building and Networking'],
+      'Other': ['Entrepreneurial Training']
+    }
+    return categoryMap[category] || ['Entrepreneurial Training']
+  }
+
   static convertToDocuments(programs: Program[]): EmbeddingDocument[] {
-    return programs.map(program => ({
-      id: program.id,
-      text: `${program.name}. ${program.description}${program.sectors ? ` Sectors: ${program.sectors.join(', ')}.` : ''}${program.stage ? ` Stages: ${program.stage.join(', ')}.` : ''}`,
-      type: 'program',
-      metadata: {
-        name: program.name,
-        category: program.category || 'Other',
-        sectors: program.sectors?.join(',') || 'All',
-        stage: program.stage?.join(',') || 'All',
-        website: program.website || '',
-        contact: program.contact || ''
+    return programs.map(program => {
+      const pathways = this.stageToPathways(program.stage || [])
+      const opportunities = this.categoryToOpportunities(program.category || 'Other')
+      return {
+        id: program.id,
+        text: `${program.name}. ${program.description}${program.sectors ? ` Sectors: ${program.sectors.join(', ')}.` : ''}${program.stage ? ` Stages: ${program.stage.join(', ')}.` : ''}`,
+        type: 'program',
+        metadata: {
+          name: program.name,
+          category: program.category || 'Other',
+          sectors: program.sectors?.join(',') || 'All',
+          stage: program.stage?.join(',') || 'All',
+          pathways: pathways,
+          opportunities: opportunities,
+          season: ['Year-Round'],
+          description: program.description,
+          website: program.website || '',
+          contact: program.contact || ''
+        }
       }
-    }))
+    })
   }
 
   static getDefaultCorpus(): Program[] {

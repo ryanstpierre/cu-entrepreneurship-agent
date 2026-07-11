@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import './CUEntrepreneurshipAgent.css'
 import InteractiveJourney from './InteractiveJourney'
 import RidgelineVisualization from './RidgelineVisualization'
+import ResourcesPanel from './ResourcesPanel'
 import { useSemanticSearch } from './useSemanticSearch'
 import { CorpusLoader } from './CorpusLoader'
 
@@ -36,24 +37,31 @@ const CUEntrepreneurshipAgent = () => {
     }
   }, [initialized, addDocuments])
 
-  const handleSend = async () => {
-    if (!input.trim()) return
+  const handleSend = async (queryText?: string) => {
+    const textToSend = queryText || input
+    if (!textToSend.trim()) return
 
-    setMessages(prev => [...prev, { role: 'user', content: input }])
+    setMessages(prev => [...prev, { role: 'user', content: textToSend }])
     setLoading(true)
-    setInput('')
+    if (!queryText) setInput('')
 
     try {
       // Perform semantic search for relevant programs
       let searchContext = ''
       try {
-        const searchResults = await search(input, 5)
+        const searchResults = await search(textToSend, 5)
         if (searchResults.length > 0) {
           const programs = searchResults.map(result => result.document.metadata.name).join(', ')
           searchContext = `Relevant programs: ${programs}. `
         }
       } catch (searchErr) {
         console.warn('Semantic search failed, continuing without context:', searchErr)
+      }
+
+      // Add stage context if selected
+      let stageContext = ''
+      if (userProfile.stage) {
+        stageContext = `User is at the "${userProfile.stage}" stage of entrepreneurship. `
       }
 
       // Determine API endpoint based on environment
@@ -73,13 +81,16 @@ const CUEntrepreneurshipAgent = () => {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          query: input,
-          context: searchContext,
+          query: textToSend,
+          context: searchContext + stageContext,
           userProfile: userProfile
         })
       })
       const data = await response.json()
       setMessages(prev => [...prev, { role: 'assistant', content: data.response }])
+
+      // Switch to chat view to show response
+      setView('chat')
     } catch (e) {
       setMessages(prev => [...prev, { role: 'assistant', content: 'Error connecting to agent. Make sure the worker is running.' }])
     }
@@ -276,7 +287,7 @@ const CUEntrepreneurshipAgent = () => {
         )}
 
         {view === 'explore' && (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem', padding: '2.5rem' }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem', padding: '2.5rem', height: '100%' }}>
             <RidgelineVisualization
               userProfile={userProfile}
               onTrackChange={setActiveTrack}
@@ -285,6 +296,13 @@ const CUEntrepreneurshipAgent = () => {
                 setUserProfile(prev => ({ ...prev, stage: stages[idx] }))
               }}
             />
+            <div style={{ flex: 1, minHeight: '300px' }}>
+              <ResourcesPanel
+                stage={userProfile.stage}
+                onQuery={handleSend}
+                loading={loading}
+              />
+            </div>
           </div>
         )}
       </main>
