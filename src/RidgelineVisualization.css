@@ -1,11 +1,11 @@
 .ridgeline-container {
   position: relative;
   width: 100%;
-  height: 500px;
+  height: 100%;
   overflow: hidden;
-  border-radius: 16px;
+  border-radius: 0;
   background: linear-gradient(135deg, #1a1428 0%, #2d1f3a 50%, #3d2847 100%);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+  box-shadow: none;
 }
 
 .ridgeline-canvas {

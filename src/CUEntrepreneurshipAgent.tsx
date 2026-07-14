@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import './CUEntrepreneurshipAgent.css'
 import InteractiveJourney from './InteractiveJourney'
 import RidgelineVisualization from './RidgelineVisualization'
-import ResourcesPanel from './ResourcesPanel'
+import DiscoveryModal from './DiscoveryModal'
 import { useSemanticSearch } from './useSemanticSearch'
 import { CorpusLoader } from './CorpusLoader'
 
@@ -26,6 +26,7 @@ const CUEntrepreneurshipAgent = () => {
   const [loading, setLoading] = useState(false)
   const [view, setView] = useState<'chat' | 'browse' | 'staff' | 'journey' | 'explore'>('explore')
   const [activeTrack, setActiveTrack] = useState<'founder' | 'commercialization'>('founder')
+  const [modalOpen, setModalOpen] = useState(false)
   const { search, addDocuments, initialized } = useSemanticSearch()
 
   // Initialize embeddings with default corpus
@@ -287,24 +288,26 @@ const CUEntrepreneurshipAgent = () => {
         )}
 
         {view === 'explore' && (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem', padding: '2.5rem', height: '100%' }}>
+          <div style={{ display: 'flex', width: '100%', height: '100%', padding: 0, overflow: 'hidden' }}>
             <RidgelineVisualization
               userProfile={userProfile}
               onTrackChange={setActiveTrack}
               onStageChange={(idx) => {
                 const stages: Array<'idea' | 'validation' | 'prototype' | 'launching' | 'scaling'> = ['idea', 'validation', 'prototype', 'launching']
                 setUserProfile(prev => ({ ...prev, stage: stages[idx] }))
+                setModalOpen(true)
               }}
             />
-            <div style={{ flex: 1, minHeight: '300px' }}>
-              <ResourcesPanel
-                stage={userProfile.stage}
-                onQuery={handleSend}
-                loading={loading}
-              />
-            </div>
           </div>
         )}
+
+        <DiscoveryModal
+          stage={userProfile.stage as 'idea' | 'validation' | 'prototype' | 'launching' | undefined}
+          isOpen={modalOpen}
+          onClose={() => setModalOpen(false)}
+          onQuery={handleSend}
+          loading={loading}
+        />
       </main>
     </div>
   )
