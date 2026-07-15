@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.20.0",
+    "@mlc-ai/web-llm": "^0.2.84",
     "@xenova/transformers": "^2.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

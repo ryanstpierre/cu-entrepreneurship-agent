@@ -64,9 +64,20 @@ const DiscoveryModal: React.FC<DiscoveryModalProps> = ({ stage, isOpen, onClose,
       if (!matchesStage) return false
 
       if (filters.sector && !doc.metadata.sectors?.includes(filters.sector)) return false
+
+      if (filters.funding) {
+        const fundingStr = (doc.metadata.metadata || '').toLowerCase()
+        if (!fundingStr.includes(filters.funding.toLowerCase())) return false
+      }
+
       if (filters.eligibility) {
         const eligStr = (doc.metadata.metadata || '').toLowerCase()
         if (!eligStr.includes(filters.eligibility.toLowerCase())) return false
+      }
+
+      if (filters.timeline) {
+        const timelineStr = (doc.metadata.metadata || '').toLowerCase()
+        if (!timelineStr.includes(filters.timeline.toLowerCase())) return false
       }
 
       return true

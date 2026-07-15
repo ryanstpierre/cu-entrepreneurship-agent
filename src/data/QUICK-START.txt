@@ -1,0 +1,88 @@
+CU ENTREPRENEURSHIP ENTITY GRAPH - QUICK START
+===============================================
+
+WHAT'S IN THIS FOLDER?
+──────────────────────
+✓ entity-graph.json          - Core data (15 programs, 45 relationships)
+✓ README.md                  - Navigation hub (start here)
+✓ ENTITY-GRAPH-ANALYSIS.md  - Deep analysis (why programs connect)
+✓ DISCOVERED-PATHWAYS.md    - Visual pathways (how to route founders)
+✓ INTEGRATION-GUIDE.md      - Code examples (how to implement)
+
+QUICK ANSWERS
+─────────────
+
+Q: What comes after Get Seed Funding?
+A: New Venture Challenge OR Deming Center
+   (See DISCOVERED-PATHWAYS.md "Stage-Based Progression")
+
+Q: I have hardware to build - what's my path?
+A: Idea Forge → Catalyze CU → Ascent Deep Tech
+   (See DISCOVERED-PATHWAYS.md "Sector-Specific Clustering")
+
+Q: I'm faculty with research to commercialize - what's my path?
+A: CTR → Embark → Lab Venture Challenge → Ascent
+   (See DISCOVERED-PATHWAYS.md "Research-to-Startup Pipeline")
+
+Q: How do I load this in code?
+A: const graph = require('./entity-graph.json');
+   (See INTEGRATION-GUIDE.md "Using entity-graph.json in Code")
+
+Q: What are the main insights?
+A: 5 discovered relationships listed in README.md
+   (See ENTITY-GRAPH-ANALYSIS.md for details)
+
+GRAPH STATS
+───────────
+Programs:     15
+Entities:     12
+Relationships: 45
+Top Hub:      Venture Partners (11 connections)
+Most Common:  Complement relationships (18/45)
+
+TOP 5 INSIGHTS
+──────────────
+1. Venture Partners = Hub (6 sub-programs coordinate)
+2. Stage-based ladder (Early→Growth→Scaling→Institutional)
+3. Research pipeline (CTR→Embark→LVC→Ascent)
+4. Support services stack (Law+Forge+VenturClub layer on top)
+5. Sector clustering (hardware/biotech/software paths differ)
+
+FILE PURPOSES
+─────────────
+1. Start with README.md
+   - Overview of all files
+   - Quick reference table
+   - Implementation checklist
+
+2. For product/UX design: DISCOVERED-PATHWAYS.md
+   - Visual flowcharts
+   - Stage breakdowns
+   - Sector stacking recommendations
+
+3. For backend integration: INTEGRATION-GUIDE.md
+   - Code examples
+   - Query patterns
+   - API response formats
+
+4. For strategic understanding: ENTITY-GRAPH-ANALYSIS.md
+   - Deep relationship analysis
+   - Organizational structure
+   - Gaps & opportunities
+
+5. For raw data: entity-graph.json
+   - Program metadata
+   - Edge definitions
+   - Discovered relationships
+
+NEXT STEPS
+──────────
+[ ] Load entity-graph.json into navigator backend
+[ ] Implement query functions from INTEGRATION-GUIDE.md
+[ ] Design pathway UI using DISCOVERED-PATHWAYS.md
+[ ] Wire up search indexing from README.md section
+[ ] Test with validation scripts in INTEGRATION-GUIDE.md
+
+QUESTIONS?
+──────────
+Most questions answered in README.md "Questions This Data Answers" section

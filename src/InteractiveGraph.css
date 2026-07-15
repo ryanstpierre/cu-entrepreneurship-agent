@@ -91,167 +91,65 @@ svg {
   border-radius: 50%;
 }
 
-.graph-detail-panel {
-  position: fixed;
-  right: 2.5rem;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 340px;
-  background: white;
-  border-radius: 16px;
-  padding: 2rem;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
-  border: 2px solid #e5e7eb;
-  max-height: 80vh;
-  overflow-y: auto;
-  z-index: 100;
-  animation: slideInRight 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
-}
 
-@keyframes slideInRight {
-  from {
-    opacity: 0;
-    transform: translateY(-50%) translateX(400px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(-50%) translateX(0);
-  }
-}
-
-.close-panel {
-  position: absolute;
-  top: 1rem;
-  right: 1rem;
-  width: 36px;
-  height: 36px;
-  border: none;
-  background: #f8f9fa;
-  border-radius: 50%;
-  cursor: pointer;
-  font-size: 24px;
-  color: #6b7280;
-  transition: all 0.3s ease;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.close-panel:hover {
-  background: #e5e7eb;
-  color: #2c2c2c;
-}
-
-.graph-detail-panel h3 {
-  font-size: 1.4rem;
-  font-weight: 700;
-  color: #2c2c2c;
-  margin: 0 0 1rem 0;
-}
-
-.detail-badge {
-  display: inline-block;
-  padding: 0.4rem 1rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  border-radius: 8px;
-  font-size: 0.75rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin-bottom: 1rem;
-}
-
-.graph-detail-panel p {
-  color: #6b7280;
-  font-size: 0.95rem;
-  line-height: 1.6;
-  margin-bottom: 1.5rem;
-}
-
-.related-items {
-  margin-bottom: 2rem;
-}
-
-.related-items h4 {
-  font-size: 0.9rem;
-  font-weight: 600;
-  color: #2c2c2c;
-  margin-bottom: 0.75rem;
-}
-
-.related-items ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.related-items li {
-  padding: 0.6rem;
-  background: #f8f9fa;
-  border-radius: 8px;
-  margin-bottom: 0.5rem;
-  font-size: 0.85rem;
-  color: #6b7280;
-  border-left: 3px solid #667eea;
-}
-
-.action-btn {
-  width: 100%;
-  padding: 0.875rem;
-  background: linear-gradient(135deg, #2c2c2c 0%, #3a3a3a 100%);
-  color: white;
-  border: none;
-  border-radius: 8px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
-  font-size: 0.9rem;
-}
-
-.action-btn:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-  background: linear-gradient(135deg, #cfb53b 0%, #e0c060 100%);
-  color: #2c2c2c;
-}
-
-/* Responsive */
-@media (max-width: 1024px) {
-  .graph-detail-panel {
-    position: static;
-    width: 100%;
-    transform: none;
-    max-height: none;
-    margin-top: 2rem;
+/* Responsive: Sidebar layout */
+@media (max-width: 1200px) {
+  .interactive-graph-container {
+    padding: 1rem;
   }
 
-  @keyframes slideInRight {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
+  .graph-header {
+    margin-bottom: 0.75rem;
+  }
+
+  .graph-header h2 {
+    font-size: 1rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .graph-header p {
+    font-size: 0.75rem;
+  }
+
+  .graph-canvas {
+    margin-bottom: 0.75rem;
+  }
+
+  .graph-legend {
+    gap: 0.75rem;
+    padding: 0.5rem;
+  }
+
+  .legend-item {
+    font-size: 0.7rem;
+  }
+
+  .legend-dot {
+    width: 12px;
+    height: 12px;
   }
 }
 
 @media (max-width: 768px) {
   .interactive-graph-container {
-    padding: 1.5rem;
-  }
-
-  .graph-header h2 {
-    font-size: 1.4rem;
-  }
-
-  .graph-legend {
-    gap: 1rem;
     padding: 1rem;
   }
 
+  .graph-header h2 {
+    font-size: 0.95rem;
+  }
+
+  .graph-header p {
+    font-size: 0.75rem;
+  }
+
+  .graph-legend {
+    gap: 0.5rem;
+    padding: 0.5rem;
+    flex-wrap: wrap;
+  }
+
   .legend-item {
-    font-size: 0.8rem;
+    font-size: 0.65rem;
   }
 }

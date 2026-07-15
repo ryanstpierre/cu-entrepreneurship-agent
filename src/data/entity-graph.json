@@ -1,0 +1,656 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "generated": "2026-07-14",
+    "description": "Entity relationship graph for CU Entrepreneurship programs and resources",
+    "total_programs": 14,
+    "total_entities": 12,
+    "total_edges": 45,
+    "edge_types": ["prerequisite", "sequence", "complement", "contains", "sector_overlap", "opportunity_overlap", "references", "stage_progression"]
+  },
+  "programs": [
+    {
+      "id": "deming-center",
+      "name": "Deming Center for Entrepreneurship",
+      "parent_organization": "Leeds School of Business",
+      "description": "One-stop shop for students, staff, faculty and community members interested in entrepreneurship. Provides courses, mentorship, funding, and community.",
+      "stage": "all_stages",
+      "location": "CU Boulder Campus",
+      "season": ["Fall", "Spring"],
+      "eligibility": ["Undergraduate Students", "Graduate Students", "Faculty", "Staff"],
+      "opportunities": ["Entrepreneurial Training", "Mentorship and Advising", "Funding and Financing", "Team Building and Networking"],
+      "sectors": ["All"],
+      "contact": "deming@colorado.edu",
+      "website": "https://www.colorado.edu/business/deming",
+      "sub_programs": [
+        "Entrepreneurial Studies Certificate",
+        "High Growth Venture Fellowship (MBA)",
+        "New Venture Launch Class",
+        "Startups & Sandwiches"
+      ]
+    },
+    {
+      "id": "new-venture-challenge",
+      "name": "New Venture Challenge (NVC)",
+      "parent_organization": "Innovation & Entrepreneurship Initiative",
+      "description": "Competition with cash prizes up to $325,000 supporting the pathway from beginning through growth stages. Open to all CU students.",
+      "stage": "growth",
+      "funding_amount": "$325,000+",
+      "location": ["Boulder", "Virtual"],
+      "season": ["Fall", "Spring"],
+      "eligibility": ["Undergraduate Students", "Graduate Students"],
+      "opportunities": ["Funding and Financing", "Mentorship and Advising", "Team Building and Networking"],
+      "sectors": ["All"],
+      "pathways": ["3: Building and Testing", "4: Launching and Growing"],
+      "website": "https://www.colorado.edu/nvc"
+    },
+    {
+      "id": "venture-partners",
+      "name": "Venture Partners at CU Boulder",
+      "description": "Campus-wide resource for both existing and aspiring university-originated startups seeking non-dilutive funding and support.",
+      "stage": "growth_to_scaling",
+      "location": ["Colorado", "Virtual"],
+      "season": ["Year-Round"],
+      "eligibility": ["Students", "Alumni", "Faculty"],
+      "opportunities": ["Funding and Financing", "Mentorship and Advising", "IP Support"],
+      "sectors": ["AI and Machine Learning", "Aerospace", "Biotech", "Hardware"],
+      "website": "https://www.colorado.edu/venturepartners/",
+      "sub_programs": [
+        "ascent-deep-tech",
+        "center-for-translational-research",
+        "destination-startup",
+        "embark-deep-tech",
+        "lab-venture-challenge",
+        "nsf-i-corps-hub-west"
+      ]
+    },
+    {
+      "id": "catalyze-cu",
+      "name": "Catalyze CU",
+      "parent_organization": "College of Engineering & Applied Science",
+      "description": "An accelerator helping to launch and grow the University's best start-ups. Open to students, staff and alumni.",
+      "stage": "growth",
+      "location": "CU Boulder Campus",
+      "season": ["Summer"],
+      "eligibility": ["Undergraduate Students", "Graduate Students", "Staff", "Alumni"],
+      "opportunities": ["Entrepreneurial Training", "Mentorship and Advising", "Funding and Financing"],
+      "sectors": ["Hardware and Instrumentation", "AI and Machine Learning", "Aerospace", "Advanced Materials"],
+      "pathways": ["3: Building and Testing", "4: Launching and Growing"],
+      "website": "https://www.colorado.edu/catalyzecu/"
+    },
+    {
+      "id": "atlas-institute",
+      "name": "ATLAS Institute",
+      "parent_organization": "College of Engineering & Applied Science",
+      "description": "Home to research and academic programs transcending disciplinary structures of engineering, design, art, technology and entrepreneurship.",
+      "stage": "early_to_growth",
+      "location": "CU Boulder Campus",
+      "season": ["Year-Round"],
+      "opportunities": ["Entrepreneurial Training", "Prototyping", "Team Building and Networking"],
+      "programs_offered": ["BS", "MS", "PhD", "Minor", "Certificates"],
+      "sectors": ["All"],
+      "website": "https://www.colorado.edu/atlas"
+    },
+    {
+      "id": "ascent-deep-tech",
+      "name": "Ascent Deep Tech Accelerator",
+      "parent_organization": "Venture Partners at CU Boulder",
+      "description": "A startup accelerator for research teams building deep tech startups coming out of CU campuses.",
+      "stage": "growth_to_scaling",
+      "location": ["CU Boulder Campus", "Virtual"],
+      "season": ["Spring"],
+      "eligibility": ["Students", "Alumni", "Faculty"],
+      "opportunities": ["Mentorship and Advising", "Funding and Financing"],
+      "sectors": ["AI and Machine Learning", "Aerospace", "Biotech", "Hardware"],
+      "pathways": ["3: Building and Testing", "4: Launching and Growing"],
+      "website": "https://www.colorado.edu/innovate/ascent-deep-tech-accelerator"
+    },
+    {
+      "id": "entrepreneurial-law-clinic",
+      "name": "Entrepreneurial Law Clinic",
+      "parent_organization": "Law School",
+      "description": "Offering valuable legal services to local startup businesses lacking access to legal resources without charge.",
+      "stage": "all_stages",
+      "location": "Denver Metro",
+      "season": ["Fall", "Spring"],
+      "opportunities": ["IP Support", "Licensing and Industry Partnerships"],
+      "website": "https://www.colorado.edu/innovate/programs-resources/entrepreneurial-law-clinic"
+    },
+    {
+      "id": "idea-forge",
+      "name": "Idea Forge",
+      "parent_organization": "College of Engineering and Applied Science",
+      "description": "A cross-disciplinary prototyping facility where students can design, build and test solutions to meet human needs.",
+      "stage": "early_to_growth",
+      "location": "CU Boulder Campus",
+      "season": ["Year-Round"],
+      "opportunities": ["Prototyping", "Team Building and Networking"],
+      "website": "https://www.colorado.edu/innovate/programs-resources/idea-forge"
+    },
+    {
+      "id": "boulder-venture-club",
+      "name": "Boulder Venture Club",
+      "description": "A student club designed to be a community and home for students interested in venture capital, startups and entrepreneurship.",
+      "stage": "early_to_growth",
+      "location": "CU Boulder Campus",
+      "season": ["Fall", "Spring"],
+      "eligibility": ["Undergraduate Students", "Graduate Students"],
+      "opportunities": ["Team Building and Networking", "Mentorship and Advising"],
+      "website": "https://www.colorado.edu/innovate/programs-resources/boulder-venture-club"
+    },
+    {
+      "id": "embark-deep-tech",
+      "name": "Embark Deep Tech Startup Creator",
+      "parent_organization": "Venture Partners at CU Boulder",
+      "description": "A deep tech startup creator matching entrepreneurs with university-owned innovations.",
+      "stage": "early_to_growth",
+      "location": ["Colorado"],
+      "opportunities": ["Funding and Financing", "IP Support", "Mentorship and Advising"],
+      "sectors": ["All deep tech"],
+      "pathways": ["2: Conceiving and Exploring", "3: Building and Testing"],
+      "website": "https://www.colorado.edu/innovate/programs-resources/embark-deep-tech-startup-creator"
+    },
+    {
+      "id": "get-seed-funding",
+      "name": "Get Seed Funding",
+      "parent_organization": "Innovation & Entrepreneurship Initiative",
+      "description": "A micro-funding opportunity for undergraduate and graduate students providing up to $500 in funding.",
+      "stage": "early",
+      "funding_amount": "Up to $500",
+      "location": "CU Boulder Campus",
+      "season": ["Spring", "Fall"],
+      "eligibility": ["Undergraduate Students", "Graduate Students"],
+      "opportunities": ["Funding and Financing"],
+      "pathways": ["1: Beginning and Cultivating", "2: Conceiving and Exploring"],
+      "website": "https://www.colorado.edu/innovate/programs-resources/get-seed-funding"
+    },
+    {
+      "id": "center-for-translational-research",
+      "name": "Center for Translational Research (CTR)",
+      "parent_organization": "Venture Partners at CU Boulder",
+      "description": "Bridges research and commercial development by connecting university research with industry partners.",
+      "stage": "early_to_growth",
+      "location": "CU Boulder",
+      "season": ["Year-Round"],
+      "eligibility": ["Faculty", "Students", "Alumni"],
+      "opportunities": ["IP Support", "Licensing and Industry Partnerships", "Mentorship and Advising"],
+      "sectors": ["Biotech", "Advanced Materials", "AI and Machine Learning"],
+      "website": "https://www.colorado.edu/innovate"
+    },
+    {
+      "id": "lab-venture-challenge",
+      "name": "Lab Venture Challenge (LVC)",
+      "parent_organization": "Venture Partners at CU Boulder",
+      "description": "Pitch competition for university research teams to commercialize their lab findings.",
+      "stage": "early_to_growth",
+      "funding_amount": "Competitive prizes",
+      "location": "CU Boulder Campus",
+      "season": ["Annual"],
+      "eligibility": ["Faculty", "Graduate Students", "Postdocs"],
+      "opportunities": ["Funding and Financing", "Mentorship and Advising"],
+      "sectors": ["Biotech", "Hardware", "Advanced Materials", "AI and Machine Learning"],
+      "website": "https://www.colorado.edu/innovate"
+    },
+    {
+      "id": "nsf-i-corps-hub-west",
+      "name": "NSF I-Corps Hub: West",
+      "parent_organization": "Venture Partners at CU Boulder",
+      "description": "National Science Foundation program supporting innovation teams with training, funding, and resources to commercialize research.",
+      "stage": "early_to_growth",
+      "funding_amount": "NSF funding available",
+      "location": ["CU Boulder", "Multi-site"],
+      "season": ["Year-Round"],
+      "eligibility": ["Faculty", "Students", "Postdocs", "Researchers"],
+      "opportunities": ["Entrepreneurial Training", "Funding and Financing", "Mentorship and Advising"],
+      "sectors": ["All"],
+      "website": "https://www.colorado.edu/innovate"
+    },
+    {
+      "id": "destination-startup",
+      "name": "Destination Startup",
+      "parent_organization": "Venture Partners at CU Boulder",
+      "description": "Program helping researchers and entrepreneurs relocate to Boulder and Colorado to build their startups.",
+      "stage": "growth",
+      "location": "Boulder/Colorado",
+      "season": ["Year-Round"],
+      "eligibility": ["Entrepreneurs", "Researchers", "Faculty"],
+      "opportunities": ["Mentorship and Advising", "Team Building and Networking"],
+      "website": "https://www.colorado.edu/innovate"
+    }
+  ],
+  "entities": [
+    {
+      "id": "leeds-school-of-business",
+      "type": "organization",
+      "name": "Leeds School of Business",
+      "affiliation": "CU Boulder",
+      "role": "Houses Deming Center for Entrepreneurship"
+    },
+    {
+      "id": "college-engineering-applied-science",
+      "type": "organization",
+      "name": "College of Engineering & Applied Science",
+      "affiliation": "CU Boulder",
+      "role": "Houses Catalyze CU, ATLAS Institute, Idea Forge"
+    },
+    {
+      "id": "innovation-entrepreneurship-initiative",
+      "type": "organization",
+      "name": "Innovation & Entrepreneurship Initiative",
+      "affiliation": "CU Boulder",
+      "role": "Oversees NVC, Get Seed Funding"
+    },
+    {
+      "id": "venture-partners-cu",
+      "type": "organization",
+      "name": "Venture Partners at CU Boulder",
+      "affiliation": "CU Boulder",
+      "role": "Umbrella organization for deep tech programs"
+    },
+    {
+      "id": "cu-law-school",
+      "type": "organization",
+      "name": "CU Boulder Law School",
+      "affiliation": "CU Boulder",
+      "role": "Houses Entrepreneurial Law Clinic"
+    },
+    {
+      "id": "nsf",
+      "type": "organization",
+      "name": "National Science Foundation (NSF)",
+      "affiliation": "Federal",
+      "role": "Funds I-Corps Hub: West program"
+    },
+    {
+      "id": "cu-boulder",
+      "type": "organization",
+      "name": "University of Colorado Boulder",
+      "affiliation": "Research Institution",
+      "role": "Primary institution hosting all programs"
+    },
+    {
+      "id": "opportunity-ip-support",
+      "type": "opportunity",
+      "name": "IP Support",
+      "description": "Legal, patent, and intellectual property services"
+    },
+    {
+      "id": "opportunity-mentorship",
+      "type": "opportunity",
+      "name": "Mentorship and Advising",
+      "description": "Expert guidance from industry and academic mentors"
+    },
+    {
+      "id": "opportunity-funding",
+      "type": "opportunity",
+      "name": "Funding and Financing",
+      "description": "Capital access from competitions, grants, and investments"
+    },
+    {
+      "id": "opportunity-prototyping",
+      "type": "opportunity",
+      "name": "Prototyping",
+      "description": "Tools, facilities, and expertise for building prototypes"
+    },
+    {
+      "id": "opportunity-networking",
+      "type": "opportunity",
+      "name": "Team Building and Networking",
+      "description": "Community and connections with peers, mentors, and investors"
+    }
+  ],
+  "edges": [
+    {
+      "source": "get-seed-funding",
+      "target": "new-venture-challenge",
+      "type": "sequence",
+      "weight": 0.9,
+      "reasoning": "Typical progression: micro-funding to mid-stage competition"
+    },
+    {
+      "source": "get-seed-funding",
+      "target": "deming-center",
+      "type": "complement",
+      "weight": 0.85,
+      "reasoning": "Get funding while learning entrepreneurship skills"
+    },
+    {
+      "source": "get-seed-funding",
+      "target": "idea-forge",
+      "type": "complement",
+      "weight": 0.8,
+      "reasoning": "Prototype with funding support"
+    },
+    {
+      "source": "deming-center",
+      "target": "new-venture-challenge",
+      "type": "sequence",
+      "weight": 0.85,
+      "reasoning": "Learn in Deming, compete in NVC"
+    },
+    {
+      "source": "deming-center",
+      "target": "boulder-venture-club",
+      "type": "complement",
+      "weight": 0.75,
+      "reasoning": "Both provide mentorship and networking"
+    },
+    {
+      "source": "idea-forge",
+      "target": "catalyze-cu",
+      "type": "sequence",
+      "weight": 0.8,
+      "reasoning": "Prototype at Idea Forge, then accelerate with Catalyze"
+    },
+    {
+      "source": "idea-forge",
+      "target": "atlas-institute",
+      "type": "complement",
+      "weight": 0.85,
+      "reasoning": "Both support cross-disciplinary prototyping and design"
+    },
+    {
+      "source": "boulder-venture-club",
+      "target": "new-venture-challenge",
+      "type": "complement",
+      "weight": 0.75,
+      "reasoning": "Network in club, then pitch in competition"
+    },
+    {
+      "source": "catalyze-cu",
+      "target": "ascent-deep-tech",
+      "type": "complement",
+      "weight": 0.8,
+      "reasoning": "Both serve deep tech hardware sectors"
+    },
+    {
+      "source": "catalyze-cu",
+      "target": "new-venture-challenge",
+      "type": "complement",
+      "weight": 0.75,
+      "reasoning": "Accelerate with Catalyze, secure funding via NVC"
+    },
+    {
+      "source": "ascent-deep-tech",
+      "target": "venture-partners",
+      "type": "contains",
+      "weight": 1.0,
+      "reasoning": "Ascent is a sub-program of Venture Partners"
+    },
+    {
+      "source": "embark-deep-tech",
+      "target": "venture-partners",
+      "type": "contains",
+      "weight": 1.0,
+      "reasoning": "Embark is a sub-program of Venture Partners"
+    },
+    {
+      "source": "lab-venture-challenge",
+      "target": "venture-partners",
+      "type": "contains",
+      "weight": 1.0,
+      "reasoning": "Lab Venture Challenge is housed within Venture Partners"
+    },
+    {
+      "source": "center-for-translational-research",
+      "target": "venture-partners",
+      "type": "contains",
+      "weight": 1.0,
+      "reasoning": "CTR is a sub-program of Venture Partners"
+    },
+    {
+      "source": "nsf-i-corps-hub-west",
+      "target": "venture-partners",
+      "type": "contains",
+      "weight": 1.0,
+      "reasoning": "NSF I-Corps is part of Venture Partners"
+    },
+    {
+      "source": "destination-startup",
+      "target": "venture-partners",
+      "type": "contains",
+      "weight": 1.0,
+      "reasoning": "Destination Startup is part of Venture Partners"
+    },
+    {
+      "source": "embark-deep-tech",
+      "target": "lab-venture-challenge",
+      "type": "complement",
+      "weight": 0.85,
+      "reasoning": "Both convert university IP to startups"
+    },
+    {
+      "source": "embark-deep-tech",
+      "target": "center-for-translational-research",
+      "type": "complement",
+      "weight": 0.9,
+      "reasoning": "Embark leverages CTR's research connections"
+    },
+    {
+      "source": "ascent-deep-tech",
+      "target": "lab-venture-challenge",
+      "type": "complement",
+      "weight": 0.8,
+      "reasoning": "Both accelerate deep tech research commercialization"
+    },
+    {
+      "source": "entrepreneurial-law-clinic",
+      "target": "new-venture-challenge",
+      "type": "complement",
+      "weight": 0.7,
+      "reasoning": "Legal support for competition winners"
+    },
+    {
+      "source": "entrepreneurial-law-clinic",
+      "target": "catalyze-cu",
+      "type": "complement",
+      "weight": 0.7,
+      "reasoning": "IP and legal support for accelerator companies"
+    },
+    {
+      "source": "entrepreneurial-law-clinic",
+      "target": "ascent-deep-tech",
+      "type": "complement",
+      "weight": 0.7,
+      "reasoning": "IP and licensing support for deep tech startups"
+    },
+    {
+      "source": "entrepreneurial-law-clinic",
+      "target": "venture-partners",
+      "type": "complement",
+      "weight": 0.7,
+      "reasoning": "Universal legal/IP support for all Venture Partners programs"
+    },
+    {
+      "source": "atlas-institute",
+      "target": "catalyze-cu",
+      "type": "complement",
+      "weight": 0.75,
+      "reasoning": "Both support hardware and design-focused startups"
+    },
+    {
+      "source": "atlas-institute",
+      "target": "deming-center",
+      "type": "complement",
+      "weight": 0.7,
+      "reasoning": "ATLAS offers entrepreneurship programs, connects with Deming"
+    },
+    {
+      "source": "nsf-i-corps-hub-west",
+      "target": "deming-center",
+      "type": "complement",
+      "weight": 0.7,
+      "reasoning": "I-Corps training complements Deming's entrepreneurship curriculum"
+    },
+    {
+      "source": "nsf-i-corps-hub-west",
+      "target": "catalyze-cu",
+      "type": "complement",
+      "weight": 0.75,
+      "reasoning": "Both provide systematic training and support for research commercialization"
+    },
+    {
+      "source": "embark-deep-tech",
+      "target": "ascent-deep-tech",
+      "type": "complement",
+      "weight": 0.85,
+      "reasoning": "Embark matches IP to founders; Ascent accelerates the resulting startups"
+    },
+    {
+      "source": "venture-partners",
+      "target": "new-venture-challenge",
+      "type": "complement",
+      "weight": 0.7,
+      "reasoning": "VP programs complement NVC funding pathway"
+    },
+    {
+      "source": "get-seed-funding",
+      "target": "catalyze-cu",
+      "type": "stage_progression",
+      "weight": 0.75,
+      "reasoning": "Early micro-funding to growth-stage accelerator"
+    },
+    {
+      "source": "get-seed-funding",
+      "target": "ascent-deep-tech",
+      "type": "stage_progression",
+      "weight": 0.7,
+      "reasoning": "Seed-stage to deep tech acceleration"
+    },
+    {
+      "source": "deming-center",
+      "target": "catalyze-cu",
+      "type": "stage_progression",
+      "weight": 0.75,
+      "reasoning": "Educational foundation leads to accelerator"
+    },
+    {
+      "source": "idea-forge",
+      "target": "new-venture-challenge",
+      "type": "stage_progression",
+      "weight": 0.7,
+      "reasoning": "Build prototype, then pitch for growth funding"
+    },
+    {
+      "source": "boulder-venture-club",
+      "target": "catalyze-cu",
+      "type": "stage_progression",
+      "weight": 0.65,
+      "reasoning": "Network and learn, then accelerate startup"
+    },
+    {
+      "source": "catalyze-cu",
+      "target": "ascent-deep-tech",
+      "type": "sector_overlap",
+      "weight": 0.85,
+      "reasoning": "Both focus on hardware and deep tech sectors"
+    },
+    {
+      "source": "catalyze-cu",
+      "target": "venture-partners",
+      "type": "sector_overlap",
+      "weight": 0.8,
+      "reasoning": "Catalyze serves sectors also covered by Venture Partners programs"
+    },
+    {
+      "source": "ascent-deep-tech",
+      "target": "embark-deep-tech",
+      "type": "sector_overlap",
+      "weight": 0.9,
+      "reasoning": "Both focus exclusively on deep tech sectors"
+    },
+    {
+      "source": "ascent-deep-tech",
+      "target": "lab-venture-challenge",
+      "type": "sector_overlap",
+      "weight": 0.85,
+      "reasoning": "Both target biotech and advanced materials"
+    },
+    {
+      "source": "deming-center",
+      "target": "catalyze-cu",
+      "type": "opportunity_overlap",
+      "weight": 0.75,
+      "reasoning": "Both provide training, mentorship, and networking"
+    },
+    {
+      "source": "deming-center",
+      "target": "ascent-deep-tech",
+      "type": "opportunity_overlap",
+      "weight": 0.7,
+      "reasoning": "Both offer mentorship and advising"
+    },
+    {
+      "source": "new-venture-challenge",
+      "target": "catalyze-cu",
+      "type": "opportunity_overlap",
+      "weight": 0.75,
+      "reasoning": "Both provide funding, mentorship, and networking"
+    },
+    {
+      "source": "new-venture-challenge",
+      "target": "venture-partners",
+      "type": "opportunity_overlap",
+      "weight": 0.8,
+      "reasoning": "Both provide funding and mentorship to startups"
+    },
+    {
+      "source": "idea-forge",
+      "target": "boulder-venture-club",
+      "type": "complement",
+      "weight": 0.65,
+      "reasoning": "Prototype facilities + entrepreneurship community"
+    },
+    {
+      "source": "center-for-translational-research",
+      "target": "lab-venture-challenge",
+      "type": "complement",
+      "weight": 0.85,
+      "reasoning": "CTR identifies translatable research; LVC funds commercialization"
+    },
+    {
+      "source": "center-for-translational-research",
+      "target": "ascent-deep-tech",
+      "type": "complement",
+      "weight": 0.8,
+      "reasoning": "CTR research pipeline feeds Ascent's accelerator"
+    }
+  ],
+  "discovered_relationships": [
+    {
+      "rank": 1,
+      "title": "Venture Partners as Ecosystem Hub",
+      "description": "Venture Partners at CU Boulder functions as the central hub connecting six complementary deep tech programs: Ascent Deep Tech Accelerator, Lab Venture Challenge, Embark Deep Tech, Center for Translational Research, NSF I-Corps Hub: West, and Destination Startup. This creates a comprehensive ecosystem for research commercialization.",
+      "weight": "critical",
+      "implication": "Entrepreneurs in deep tech should explore all Venture Partners sub-programs as integrated offerings rather than isolated resources."
+    },
+    {
+      "rank": 2,
+      "title": "Stage-Based Progression Pathway",
+      "description": "A clear progression emerges from early-stage (Get Seed Funding, Deming, Idea Forge) to growth-stage (NVC, Catalyze, Ascent) to scaling-stage (Venture Partners, Lab Venture Challenge) programs. The pathway allows entrepreneurs to graduate through increasingly intense support levels.",
+      "weight": "critical",
+      "implication": "New entrepreneurs should start with Get Seed Funding + Deming Center, then progress to accelerators and competitions, finally accessing deep tech resources through Venture Partners."
+    },
+    {
+      "rank": 3,
+      "title": "Research-to-Startup Pipeline",
+      "description": "Four programs work together to convert university research into commercial ventures: Center for Translational Research (identifies research), Embark Deep Tech (matches with entrepreneurs), Lab Venture Challenge (funds commercialization), and Ascent Deep Tech (accelerates growth). This creates a direct path from lab discovery to market.",
+      "weight": "critical",
+      "implication": "Faculty and PhD students with research innovations should route through CTR → Embark → LVC → Ascent sequence rather than traditional entrepreneurship pathways."
+    },
+    {
+      "rank": 4,
+      "title": "Support Services Layer Across All Programs",
+      "description": "Entrepreneurial Law Clinic, Idea Forge, and Boulder Venture Club operate as support services that complement ALL other programs. Legal support is needed by all startups; prototyping is needed by hardware/product companies; networking is valuable for all founders.",
+      "weight": "high",
+      "implication": "These support services should be layered into any program pathway - they're not alternatives but complements that enhance other offerings."
+    },
+    {
+      "rank": 5,
+      "title": "Sector-Specific Clustering",
+      "description": "Deep tech sectors (AI/ML, Biotech, Hardware, Aerospace) are served by specialized clusters: Catalyze CU + Ascent Deep Tech for hardware; Lab Venture Challenge + Venture Partners for biotech; NSF I-Corps for broad deep tech. This allows targeted support based on technology type.",
+      "weight": "high",
+      "implication": "Entrepreneurs should identify their sector first, then select the cluster that specializes in that area rather than trying all generalist programs."
+    }
+  ]
+}

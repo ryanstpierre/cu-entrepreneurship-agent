@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react'
 import './CUEntrepreneurshipAgent.css'
 import InteractiveJourney from './InteractiveJourney'
-import RidgelineVisualization from './RidgelineVisualization'
-import DiscoveryModal from './DiscoveryModal'
+import UnifiedTerrain from './UnifiedTerrain'
 import { useSemanticSearch } from './useSemanticSearch'
 import { CorpusLoader } from './CorpusLoader'
+import { RelevanceExplainer } from './RelevanceExplainer'
 
 interface UserProfile {
   stage?: 'idea' | 'validation' | 'prototype' | 'launching' | 'scaling'
@@ -24,9 +24,7 @@ const CUEntrepreneurshipAgent = () => {
   ])
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
-  const [view, setView] = useState<'chat' | 'browse' | 'staff' | 'journey' | 'explore'>('explore')
-  const [activeTrack, setActiveTrack] = useState<'founder' | 'commercialization'>('founder')
-  const [modalOpen, setModalOpen] = useState(false)
+  const [view, setView] = useState<'chat' | 'browse' | 'staff' | 'journey' | 'explore' | 'webllm'>('explore')
   const { search, addDocuments, initialized } = useSemanticSearch()
 
   // Initialize embeddings with default corpus
@@ -138,6 +136,13 @@ const CUEntrepreneurshipAgent = () => {
               onClick={() => setView('journey')}
             >
               🏔️ Journey
+            </button>
+            <button
+              className={`nav-btn ${view === 'webllm' ? 'active' : ''}`}
+              onClick={() => setView('webllm')}
+              title="WebLLM: In-browser AI inference"
+            >
+              🧠 Local AI
             </button>
           </nav>
         </div>
@@ -288,26 +293,21 @@ const CUEntrepreneurshipAgent = () => {
         )}
 
         {view === 'explore' && (
-          <div style={{ display: 'flex', width: '100%', height: '100%', padding: 0, overflow: 'hidden' }}>
-            <RidgelineVisualization
-              userProfile={userProfile}
-              onTrackChange={setActiveTrack}
-              onStageChange={(idx) => {
-                const stages: Array<'idea' | 'validation' | 'prototype' | 'launching' | 'scaling'> = ['idea', 'validation', 'prototype', 'launching']
-                setUserProfile(prev => ({ ...prev, stage: stages[idx] }))
-                setModalOpen(true)
-              }}
-            />
-          </div>
+          <UnifiedTerrain
+            userProfile={userProfile}
+            onProgramSelect={(program) => {
+              // User clicked a program on the terrain
+              // Don't update parent state - let the terrain handle selection
+            }}
+            onQuery={handleSend}
+          />
         )}
 
-        <DiscoveryModal
-          stage={userProfile.stage as 'idea' | 'validation' | 'prototype' | 'launching' | undefined}
-          isOpen={modalOpen}
-          onClose={() => setModalOpen(false)}
-          onQuery={handleSend}
-          loading={loading}
-        />
+        {view === 'webllm' && (
+          <div className="webllm-view">
+            <RelevanceExplainer />
+          </div>
+        )}
       </main>
     </div>
   )

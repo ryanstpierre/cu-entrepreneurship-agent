@@ -249,6 +249,7 @@
     border-radius: 16px 16px 0 0;
     box-shadow: 0 -8px 32px rgba(0, 0, 0, 0.4);
     animation: slideInUp 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+    padding: 1.5rem;
   }
 
   .close-btn {
@@ -258,6 +259,60 @@
 
   .program-details {
     padding-top: 1rem;
+  }
+
+  .program-details h3 {
+    font-size: 1.1rem;
+  }
+
+  .waypoint-label {
+    font-size: 0.65rem;
+    padding: 0.25rem 0.5rem;
+    max-width: 100px;
+  }
+
+  .tooltip {
+    font-size: 0.75rem;
+    padding: 0.4rem 0.7rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .details-panel {
+    height: 70%;
+    padding: 1rem;
+  }
+
+  .close-btn {
+    width: 32px;
+    height: 32px;
+    font-size: 1.5rem;
+  }
+
+  .program-details h3 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .season-badge {
+    font-size: 0.75rem;
+    padding: 0.3rem 0.6rem;
+  }
+
+  .description {
+    font-size: 0.9rem;
+  }
+
+  .waypoint-label {
+    font-size: 0.6rem;
+    padding: 0.2rem 0.4rem;
+    max-width: 90px;
+    border-radius: 3px;
+  }
+
+  .tooltip {
+    font-size: 0.7rem;
+    padding: 0.3rem 0.6rem;
   }
 }
 

@@ -195,8 +195,8 @@ const InteractiveGraph = ({ userProfile, onSelectNode }: InteractiveGraphProps) 
   return (
     <div className="interactive-graph-container">
       <div className="graph-header">
-        <h2>🌐 Explore the Ecosystem</h2>
-        <p>Click any node to learn more. Nodes are connected by opportunity and resource flows.</p>
+        <h2>🌐 Ecosystem</h2>
+        <p>Click programs to explore</p>
       </div>
 
       <div className="graph-canvas">
@@ -275,10 +275,6 @@ const InteractiveGraph = ({ userProfile, onSelectNode }: InteractiveGraphProps) 
           <span>Program</span>
         </div>
         <div className="legend-item">
-          <div className="legend-dot" style={{ backgroundColor: '#ff9f43' }}></div>
-          <span>Stage</span>
-        </div>
-        <div className="legend-item">
           <div className="legend-dot" style={{ backgroundColor: '#26de81' }}></div>
           <span>Sector</span>
         </div>
@@ -287,32 +283,6 @@ const InteractiveGraph = ({ userProfile, onSelectNode }: InteractiveGraphProps) 
           <span>Opportunity</span>
         </div>
       </div>
-
-      {/* Detail Panel */}
-      {selectedNode && (
-        <div className="graph-detail-panel">
-          <button className="close-panel" onClick={() => setSelectedNode(null)}>×</button>
-          <h3>{selectedNode.label}</h3>
-          <div className="detail-badge">{selectedNode.type}</div>
-          <p>{selectedNode.description}</p>
-
-          {/* Show related items */}
-          <div className="related-items">
-            <h4>Connected to:</h4>
-            <ul>
-              {links
-                .filter(link => link.source === selectedNode.id || link.target === selectedNode.id)
-                .map((link, i) => (
-                  <li key={i}>
-                    {link.label} → {link.source === selectedNode.id ? link.target : link.source}
-                  </li>
-                ))}
-            </ul>
-          </div>
-
-          <button className="action-btn">Learn More</button>
-        </div>
-      )}
     </div>
   )
 }

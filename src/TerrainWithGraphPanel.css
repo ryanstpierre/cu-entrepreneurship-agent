@@ -1,0 +1,368 @@
+/* Split Layout: Sidebar + Terrain + Details Panel */
+.terrain-with-graph-panel {
+  display: grid;
+  grid-template-columns: 1fr 2fr 320px;
+  width: 100%;
+  height: 100%;
+  gap: 1rem;
+  padding: 1rem;
+  background: linear-gradient(135deg, #DDD3BE 0%, #E8DFD0 100%);
+  overflow: hidden;
+}
+
+/* Left Sidebar: Interactive Graph */
+.graph-sidebar {
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-radius: 12px;
+  border: 2px solid #D4CCC0;
+  box-shadow: 0 4px 12px rgba(52, 49, 42, 0.08);
+  overflow: hidden;
+  position: relative;
+  min-width: 0;
+}
+
+.graph-sidebar .interactive-graph-container {
+  padding: 1.5rem;
+  background: white;
+  height: 100%;
+}
+
+.graph-sidebar .graph-header {
+  margin-bottom: 1rem;
+}
+
+.graph-sidebar .graph-header h2 {
+  font-size: 1.2rem;
+}
+
+.graph-sidebar .graph-header p {
+  font-size: 0.85rem;
+}
+
+.graph-sidebar .graph-canvas {
+  margin-bottom: 1rem;
+  max-height: 50%;
+}
+
+.graph-sidebar .graph-legend {
+  padding: 0.75rem;
+  gap: 1rem;
+}
+
+.graph-sidebar .legend-item {
+  font-size: 0.8rem;
+}
+
+/* Center: Terrain Visualization */
+.terrain-main {
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-radius: 12px;
+  border: 2px solid #D4CCC0;
+  box-shadow: 0 4px 12px rgba(52, 49, 42, 0.08);
+  overflow: hidden;
+  position: relative;
+  min-width: 0;
+}
+
+.terrain-main .ridgeline-container {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+/* Right Panel: Program Details */
+.program-details-panel {
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-radius: 12px;
+  border: 2px solid #D4CCC0;
+  box-shadow: 0 4px 12px rgba(52, 49, 42, 0.08);
+  overflow: hidden;
+  position: relative;
+  animation: slideInRight 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.close-details {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  width: 32px;
+  height: 32px;
+  background: #F3EAD5;
+  border: none;
+  border-radius: 6px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #6E6552;
+  transition: all 0.2s ease;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.close-details:hover {
+  background: #A87C2C;
+  color: white;
+  transform: scale(1.1);
+}
+
+.details-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 2rem 1.5rem;
+  padding-top: 3rem;
+}
+
+.program-name {
+  margin: 0 0 1rem 0;
+  color: #34312A;
+  font-size: 1.1rem;
+  font-weight: 700;
+  font-family: 'Space Grotesk', sans-serif;
+  line-height: 1.3;
+  word-wrap: break-word;
+}
+
+.program-meta {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.season-badge {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  background: linear-gradient(135deg, #A87C2C 0%, #B89544 100%);
+  color: white;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.program-description {
+  margin: 0 0 1.5rem 0;
+  color: #6E6552;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  font-family: 'Manrope', sans-serif;
+}
+
+.opportunities-section,
+.sectors-section,
+.pathways-section {
+  margin-bottom: 1.5rem;
+}
+
+.opportunities-section h4,
+.sectors-section h4,
+.pathways-section h4 {
+  margin: 0 0 0.75rem 0;
+  color: #34312A;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-family: 'Space Mono', monospace;
+}
+
+.opportunities-list,
+.sectors-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.opportunity-tag,
+.sector-tag {
+  display: inline-block;
+  padding: 0.4rem 0.75rem;
+  background: #F3EAD5;
+  color: #6E6552;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  border: 1px solid #D4CCC0;
+}
+
+.pathways-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.pathways-list li {
+  padding: 0.5rem;
+  background: #F3EAD5;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  color: #34312A;
+  border-left: 3px solid #A87C2C;
+  font-family: 'Manrope', sans-serif;
+}
+
+.learn-more-btn {
+  width: 100%;
+  padding: 0.875rem 1rem;
+  background: linear-gradient(135deg, #34312A 0%, #2D2A24 100%);
+  color: #F3EAD5;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  font-family: 'Manrope', sans-serif;
+  margin-top: 1rem;
+}
+
+.learn-more-btn:hover {
+  background: linear-gradient(135deg, #A87C2C 0%, #B89544 100%);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(168, 124, 44, 0.2);
+}
+
+.details-content::-webkit-scrollbar {
+  width: 6px;
+}
+
+.details-content::-webkit-scrollbar-track {
+  background: #F3EAD5;
+  border-radius: 3px;
+}
+
+.details-content::-webkit-scrollbar-thumb {
+  background: #D4CCC0;
+  border-radius: 3px;
+}
+
+.details-content::-webkit-scrollbar-thumb:hover {
+  background: #B8AFA0;
+}
+
+/* Responsive: Tablet (1200px and below) */
+@media (max-width: 1200px) {
+  .terrain-with-graph-panel {
+    grid-template-columns: 1fr 1.5fr;
+    padding: 0.75rem;
+    gap: 0.75rem;
+  }
+
+  .program-details-panel {
+    position: absolute;
+    right: 0.75rem;
+    top: 0.75rem;
+    bottom: 0.75rem;
+    width: 280px;
+    z-index: 50;
+    border: 2px solid #D4CCC0;
+  }
+
+  .terrain-main {
+    margin-right: 0;
+  }
+
+  .graph-sidebar {
+    overflow-y: auto;
+  }
+
+  .graph-sidebar .graph-canvas {
+    max-height: 40%;
+  }
+}
+
+/* Responsive: Mobile (768px and below) */
+@media (max-width: 768px) {
+  .terrain-with-graph-panel {
+    grid-template-columns: 1fr;
+    padding: 0.5rem;
+    gap: 0.5rem;
+    grid-template-rows: 1fr auto;
+  }
+
+  .graph-sidebar {
+    display: none;
+  }
+
+  .terrain-main {
+    grid-column: 1;
+    grid-row: 1;
+    min-height: 300px;
+  }
+
+  .program-details-panel {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+    border: none;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .details-content {
+    padding: 1.5rem;
+    padding-top: 3rem;
+  }
+
+  .close-details {
+    width: 40px;
+    height: 40px;
+    font-size: 1.75rem;
+    top: 1rem;
+    right: 1rem;
+  }
+}
+
+/* Responsive: Small Mobile (480px and below) */
+@media (max-width: 480px) {
+  .terrain-with-graph-panel {
+    padding: 0;
+    gap: 0;
+  }
+
+  .program-name {
+    font-size: 1rem;
+  }
+
+  .opportunities-list,
+  .sectors-list {
+    gap: 0.35rem;
+  }
+
+  .opportunity-tag,
+  .sector-tag {
+    font-size: 0.75rem;
+    padding: 0.3rem 0.5rem;
+  }
+
+  .learn-more-btn {
+    padding: 0.75rem 0.875rem;
+    font-size: 0.85rem;
+  }
+}

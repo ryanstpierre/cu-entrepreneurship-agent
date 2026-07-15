@@ -49,11 +49,17 @@ const RidgelineVisualization: React.FC<RidgelineVisualizationProps> = ({ userPro
   const drawFaceted = () => {
     const canvas = terrainRef.current
     const container = containerRef.current
-    if (!canvas || !container) return
+    if (!canvas || !container) {
+      console.warn('[RidgelineVisualization] Missing refs:', { canvas: !!canvas, container: !!container })
+      return
+    }
 
     const W = container.clientWidth
     const H = container.clientHeight
-    if (!W || !H) return
+    if (!W || !H) {
+      console.warn('[RidgelineVisualization] Container has 0 dimensions:', { W, H })
+      return
+    }
 
     const dpr = Math.min(window.devicePixelRatio || 1, 1.6)
     canvas.width = Math.floor(W * dpr)
