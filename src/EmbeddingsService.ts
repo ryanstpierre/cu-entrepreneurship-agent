@@ -49,6 +49,12 @@ class EmbeddingsService {
   async loadModel(): Promise<void> {
     if (this.modelLoaded) return
 
+    // Suppress transformers.js console errors during model loading
+    const originalError = console.error
+    const originalWarn = console.warn
+    console.error = () => {}
+    console.warn = () => {}
+
     try {
       // Dynamically import Transformers.js
       const { pipeline } = await import('@xenova/transformers')
@@ -60,8 +66,11 @@ class EmbeddingsService {
       this.modelLoaded = true
     } catch (error) {
       // Silently fail - embeddings are optional, UI works without them
-      console.warn('Embeddings model not available. Semantic search disabled.')
       return
+    } finally {
+      // Restore console methods
+      console.error = originalError
+      console.warn = originalWarn
     }
   }
 

@@ -30,8 +30,8 @@ const CUEntrepreneurshipAgent = () => {
   // Initialize embeddings with default corpus
   useEffect(() => {
     if (initialized) {
-      addDocuments(CorpusLoader.getDefaultDocuments()).catch(err => {
-        console.error('Failed to load corpus:', err)
+      addDocuments(CorpusLoader.getDefaultDocuments()).catch(() => {
+        // Silently fail - embeddings are optional
       })
     }
   }, [initialized, addDocuments])
@@ -54,7 +54,7 @@ const CUEntrepreneurshipAgent = () => {
           searchContext = `Relevant programs: ${programs}. `
         }
       } catch (searchErr) {
-        console.warn('Semantic search failed, continuing without context:', searchErr)
+        // Semantic search is optional; continue without context if it fails
       }
 
       // Add stage context if selected
