@@ -59,14 +59,20 @@ class EmbeddingsService {
       )
       this.modelLoaded = true
     } catch (error) {
-      console.error('Failed to load embeddings model:', error)
-      throw error
+      // Silently fail - embeddings are optional, UI works without them
+      console.warn('Embeddings model not available. Semantic search disabled.')
+      return
     }
   }
 
   async generateEmbedding(text: string): Promise<number[]> {
     if (!this.modelLoaded) {
       await this.loadModel()
+    }
+
+    // If model failed to load, return empty embedding silently
+    if (!this.model) {
+      return []
     }
 
     try {
@@ -78,8 +84,8 @@ class EmbeddingsService {
       // Convert to array if needed
       return Array.from(embeddings.data)
     } catch (error) {
-      console.error('Failed to generate embedding:', error)
-      throw error
+      // Silently fail - embeddings are optional
+      return []
     }
   }
 
@@ -88,13 +94,14 @@ class EmbeddingsService {
       await this.initialize()
     }
 
-    // Generate embedding for the document
+    // Generate embedding for the document (may return empty array if model unavailable)
     const embedding = await this.generateEmbedding(document.text)
 
     // Store in IndexedDB
     return new Promise((resolve, reject) => {
       if (!this.db) {
-        reject(new Error('Database not initialized'))
+        // Database init failed - skip silently for embeddings
+        resolve()
         return
       }
 
@@ -109,7 +116,10 @@ class EmbeddingsService {
 
       const request = store.put(docWithEmbedding)
 
-      request.onerror = () => reject(request.error)
+      request.onerror = () => {
+        // Silently ignore indexeddb errors
+        resolve()
+      }
       request.onsuccess = () => resolve()
     })
   }

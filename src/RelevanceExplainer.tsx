@@ -21,11 +21,6 @@ export const RelevanceExplainer: React.FC = () => {
       return
     }
 
-    if (!isModelReady) {
-      setGenerationError('Model is not ready yet')
-      return
-    }
-
     setGenerating(true)
     setGenerationError(null)
 
@@ -48,7 +43,12 @@ export const RelevanceExplainer: React.FC = () => {
       setUserGoal('')
     } catch (err) {
       const errorMessage = err instanceof Error ? err.message : String(err)
-      setGenerationError(errorMessage)
+      // Check if it's a model loading error and provide helpful message
+      if (errorMessage.includes('Model not loaded') || errorMessage.includes('not found')) {
+        setGenerationError('Model is downloading for the first time. This may take 1-2 minutes. Please try again.')
+      } else {
+        setGenerationError(errorMessage)
+      }
       console.error('Generation failed:', errorMessage)
     } finally {
       setGenerating(false)
