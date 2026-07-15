@@ -194,6 +194,7 @@ const UnifiedTerrain: React.FC<UnifiedTerrainProps> = ({
         onTrackChange={onTrackChange}
         onStageChange={onStageChange}
       />
+      {/* Interactive terrain with waypoint canvas and labels */}
 
       {/* Overlay canvas for program waypoints */}
       <canvas
