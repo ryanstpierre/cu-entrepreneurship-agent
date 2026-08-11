@@ -125,7 +125,8 @@ function loadCrawledCorpus() {
   const curatedNames = new Set(curated.map(c => c.name.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim()));
 
   return resources
-    .filter(r => !news.test(r.url) && r.specificity >= 4 && r.type !== 'reference')
+    .filter(r => r.sources?.includes('impact-dashboard') ||
+      (!news.test(r.url) && r.specificity >= 4 && r.type !== 'reference'))
     .filter(r => {
       const norm = r.title.toLowerCase().replace(/\s*\|.*$/, '').replace(/[^a-z0-9]+/g, ' ').trim();
       return !curatedNames.has(norm);
@@ -133,7 +134,7 @@ function loadCrawledCorpus() {
     .map(r => ({
       id: r.id,
       name: r.title.replace(/\s*\|.*$/, '').trim(),
-      description: r.description || '',
+      description: r.summary || r.description || '',
       category: TYPE_TO_CATEGORY[r.type] || 'Other',
       sectors: r.sectors?.length ? r.sectors : ['All'],
       stage: r.stage?.length ? [...new Set(r.stage.map(s => STAGE_MAP[s] || s))] : ['Idea', 'Validation', 'Prototype', 'Launching'],
@@ -143,6 +144,8 @@ function loadCrawledCorpus() {
         r.funding?.length ? `Funding: ${r.funding.slice(0, 3).join(', ')}.` : '',
         r.deadlines?.length ? `${r.deadlines[0]}.` : '',
         r.audience?.length ? `For: ${r.audience.join(', ')}.` : '',
+        r.access?.length ? `Access: ${r.access.join('; ')}.` : '',
+        r.campus?.length ? `Campus: ${r.campus.join(', ')}.` : '',
         `Org: ${r.org}.`
       ].filter(Boolean).join(' ')
     }));
