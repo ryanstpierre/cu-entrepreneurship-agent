@@ -17,6 +17,8 @@ const courses = j('courses.json')
 const graph = j('entity-graph.json')
 const seq = j('sequence-edges.json')
 const evalData = j('persona-eval.json')
+let companies = null
+try { companies = j('company-journeys.json') } catch {}
 
 const count = (arr) => {
   const c = {}
@@ -44,7 +46,6 @@ const schema = {
         title: 'string',
         org: { description: 'owning subsite/domain', values: count(resources.map(r => r.org)) },
         type: { description: 'resource kind', values: count(resources.map(r => r.type)) },
-        campus: { description: 'CU campus attribution (array; only on impact-dashboard-merged rows)', values: count(resources.flatMap(r => r.campus || [])) },
         audience: { description: 'detected eligibility (array)', values: count(resources.flatMap(r => r.audience || [])) },
         access: { description: 'verbatim access tags from CU System impact dashboard (array)', values: count(resources.flatMap(r => r.access || [])) },
         stage: { description: 'startup-journey stage (array)', values: count(resources.flatMap(r => r.stage || [])) },
@@ -63,20 +64,18 @@ const schema = {
       rows: people.people.length,
       fields: {
         roleClass: { description: 'classified university role', values: people.stats.byRoleClass },
-        'affinity.orgs/types/campuses': 'top-5 {name, score} — specificity-weighted appearance counts',
+        'affinity.orgs/types': 'top-5 {name, score} — specificity-weighted appearance counts',
         'affinity.programs': 'up to 8 {id, title, weight} — programs/centers/funding this person appears on',
         resources: 'up to 10 {id, title, url} they were seen on',
       },
     },
     'courses.json': {
-      description: 'I&E courses across the CU System (from the impact dashboard) + enrollment trends + search vocabulary. Object: {enrollment, courses[], searchTerms[]}.',
+      description: 'CU Boulder I&E courses (from the CU System impact dashboard) + search vocabulary. Object: {courses[], searchTerms[]}.',
       rows: courses.courses.length,
       fields: {
-        'courses[].campus': { values: count(courses.courses.map(c => c.campus)) },
         'courses[].level': { values: count(courses.courses.map(c => c.level)) },
         'courses[].college': { values: count(courses.courses.map(c => c.college)) },
         searchTerms: 'top course-title terms {term, courses, examples[]} — use for query expansion',
-        enrollment: 'I&E enrollment by campus, 2023–2026',
       },
     },
     'relationships.json': { description: 'Typed link edges between resources: {from, to, kind, weight}. kind=links_to mostly; use for adjacency/pathfinding.', rows: j('relationships.json').length },
@@ -96,6 +95,12 @@ const schema = {
       rows: evalData.results.length,
       note: 'results[].weak=true rows are known retrieval gaps — useful as a test set',
     },
+    ...(companies ? { 'company-journeys.json': {
+      description: 'Golden test set: historical companies with the programs/entities they touched + outcomes with verbatim evidence. {stats, programEfficacy[], companies[]}.',
+      rows: companies.companies.length,
+      outcomeKinds: companies.stats.byOutcomeKind,
+      note: 'programEfficacy[] = per-program company counts + funding/exit counts. Coverage bounded by crawled narratives — absence is not evidence of absence.',
+    } } : {}),
     'summary.json': { description: 'Crawl totals, depth histogram + saturation, per-org depth.' },
     'analysis-queue.json': { description: 'Pages flagged for deeper extraction (PDFs etc), relevance-sorted.' },
     'discovery-queue.json': { description: 'External domains cited by the ecosystem, citation-count-sorted.' },
@@ -105,10 +110,10 @@ writeFileSync(join(OUT_DIR, 'schema.json'), JSON.stringify(schema, null, 1))
 
 const llms = `# CU Entrepreneurship Ecosystem Dataset
 
-> ${resources.length} catalogued innovation & entrepreneurship resources across the CU System
-> (CU Boulder, CU Denver, UCCS, CU Anschutz) from a depth-8 saturated crawl of 4,700+ pages
-> plus the CU System I&E impact dashboard. Includes ${people.people.length} tagged people,
-> ${courses.courses.length} courses, LLM summaries, entities, sequencing edges, and a persona eval set.
+> ${resources.length} catalogued CU Boulder innovation & entrepreneurship resources from a
+> depth-8 saturated crawl of 4,700+ pages plus the CU System I&E impact dashboard
+> (filtered to Boulder). Includes ${people.people.length} tagged people, ${courses.courses.length} courses,
+> LLM summaries, entities, sequencing edges, and a persona eval set.
 > All JSON, CORS-open, no auth. Base: ${BASE}
 
 ## Start here
@@ -121,19 +126,20 @@ const llms = `# CU Entrepreneurship Ecosystem Dataset
 - ${BASE}enriched.json — LLM summaries + entities per resource
 - ${BASE}entity-graph.json — consolidated people/org/program entities + co-occurrence
 - ${BASE}people.json — faculty/staff/mentors with program affinity scores
-- ${BASE}courses.json — I&E courses (all 4 campuses) + enrollment + search vocabulary
+- ${BASE}courses.json — CU Boulder I&E courses + search vocabulary
 - ${BASE}sequence-edges.json — which programs precede/feed into which
 - ${BASE}persona-eval.json — 44 personas, 322 queries, RAG hit rates (weak rows = known gaps)
+${companies ? `- ${BASE}company-journeys.json — ${companies.companies.length} historical company journeys: programs touched + outcomes (golden test set)` : ''}
 - ${BASE}summary.json — crawl stats and depth-saturation proof
 
 ## How to query (for LLM agents)
 1. Fetch schema.json for valid field values — do not guess enum strings.
 2. Filter resources.json client-side (it is a plain array; ~2MB).
-   Typical filters: type, campus[], audience[], stage[], sectors[], specificity>=6, funding.length>0.
+   Typical filters: type, audience[], stage[], sectors[], specificity>=6, funding.length>0.
 3. Resolve names→people via people.json (roleClass: faculty|staff|mentor|founder-alum).
 4. For "what comes next" questions use sequence-edges.json, then stage[] ordering
    (explore→validate→build→launch), then funding amounts ascending.
-5. For course questions filter courses.json by campus/level; use searchTerms for synonyms.
+5. For course questions filter courses.json by level; use searchTerms for synonyms.
 
 ## Interfaces
 - / — chat navigator (client-side RAG over this dataset)

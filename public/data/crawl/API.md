@@ -16,6 +16,7 @@ the same data: https://cu-entrepreneurship-agent.pages.dev/crawl
 | Endpoint | What it is |
 |---|---|
 | `summary.json` | Totals, depth histogram + saturation, per-org depth, type/org breakdowns |
+| `company-journeys.json` | Golden set: historical CU Boulder startups with the programs/entities they touched + outcomes |
 | `resources.json` | The catalogue — every resource, sorted by specificity (desc) |
 | `relationships.json` | Typed edges between resources, weight-sorted |
 | `enriched.json` | LLM-generated summaries + extracted entities per resource |
@@ -24,7 +25,7 @@ the same data: https://cu-entrepreneurship-agent.pages.dev/crawl
 | `recent.json` | Last ~60 catalogued finds (feed) |
 | `entity-graph.json` | Consolidated people/org/program entities, co-occurrence edges, in-link centrality |
 | `people.json` | Faculty/staff/mentors with role class + org/program affinity scores |
-| `courses.json` | 275 I&E courses across all 4 CU campuses + enrollment trends + search-term vocabulary (from the CU System impact dashboard) |
+| `courses.json` | CU Boulder I&E courses + search-term vocabulary (from the CU System impact dashboard, filtered to Boulder) |
 | `persona-eval.json` | 44 personas, 322 queries, retrieval hit rates against the live RAG stack |
 | `sequence-edges.json` | Extracted program-sequencing edges (prerequisite / feeds-into / alumni-pathway) |
 
@@ -53,7 +54,6 @@ the same data: https://cu-entrepreneurship-agent.pages.dev/crawl
   "alsoSeenOn": ["colorado.edu/business"], // orgs where duplicate copies were collapsed
   "needsAnalysis": false,
   // present on resources merged from the CU System impact dashboard:
-  "campus": ["CU Denver"],               // CU Boulder | CU Denver | UCCS | CU Anschutz
   "access": ["Open to Alumni"],          // verbatim access/eligibility tags
   "sources": ["crawl", "impact-dashboard"]
 }
@@ -70,7 +70,6 @@ the same data: https://cu-entrepreneurship-agent.pages.dev/crawl
   "affinity": {                          // specificity-weighted appearance scores
     "orgs": [{ "name": "colorado.edu/venturepartners", "score": 11.2 }],
     "types": [{ "name": "funding", "score": 6.1 }],
-    "campuses": [{ "name": "CU Boulder", "score": 4.0 }],
     "programs": [{ "id": "…", "title": "…", "weight": 1.8 }]
   },
   "resources": [{ "id": "…", "title": "…", "url": "…" }]
@@ -135,18 +134,17 @@ superficial. This crawl holds 1.0 at every depth through 8.
 
 **First fetch [`schema.json`](schema.json)** — it lists every filterable field with its
 *actual* value vocabulary and counts, regenerated from the data. Never guess enum
-strings (e.g. audience is `"grad students"` not `"graduate students"`; campus is
-`"CU Anschutz"` not `"Anschutz Medical Campus"`).
+strings (e.g. audience is `"grad students"` not `"graduate students"`).
 
 Mappings from question shapes to queries (all client-side filters, no server):
 
 | User question shape | Query |
 |---|---|
-| "funding for X at campus Y" | `resources` where `type ∈ {funding, competition}` ∧ `audience` ∋ X ∧ (`campus` ∋ Y or org matches campus domain), sort by `specificity` desc |
+| "funding for X" | `resources` where `type ∈ {funding, competition}` ∧ `audience` ∋ X, sort by `specificity` desc |
 | "what should I do first / what's next after P" | `sequence-edges` where from/to = P; fallback: same `type`+`sectors` resources ordered by `stage` (explore→validate→build→launch), then `funding` amounts ascending |
 | "who runs / who can help with P" | `people` where `affinity.programs[].title` or `affinity.orgs[].name` matches P; prefer `roleClass ∈ {staff, mentor, faculty}` |
 | "who's a mentor for sector S" | `people` where `roleClass ∈ {mentor, founder-alum}` joined via `resources[].id` → `resources` where `sectors` ∋ S |
-| "courses about T at campus Y" | `courses.json` `courses` filter by `campus`/`level`, match T against title; expand T with `searchTerms` examples |
+| "courses about T" | `courses.json` `courses` filter by `level`, match T against title; expand T with `searchTerms` examples |
 | "is there anything for alumni" | `resources` where `access` ∋ "Open to Alumni" or `audience` ∋ "alumni" |
 | "deadlines coming up" | `resources` where `deadlines.length > 0` — deadline strings carry dates; parse client-side |
 | "how do X and Y relate" | `relationships` edges between their ids; `entity-graph.cooccurrence` for entity-level ties |

@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-08-11T18:34:48.062Z",
+ "updatedAt": "2026-08-11T18:51:58.205Z",
  "startedAt": "2026-08-11T16:50:27.591Z",
  "batches": 19,
  "pagesFetched": 4767,
- "resourcesCatalogued": 2149,
- "relationshipEdges": 2005,
+ "resourcesCatalogued": 1719,
+ "relationshipEdges": 1006,
  "frontierSize": 0,
  "analysisQueueSize": 318,
  "externalDomainsFound": 512,

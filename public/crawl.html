@@ -55,7 +55,6 @@
         <h2>Catalogued Resources <span id="rescount" style="color:var(--dim);font-weight:400"></span></h2>
         <div>
           <select id="ftype"><option value="">all types</option></select>
-          <select id="fcampus"><option value="">all campuses</option></select>
           <select id="forg"><option value="">all orgs</option></select>
           <input id="fq" placeholder="search…" size="14">
         </div>
@@ -91,7 +90,7 @@
 </div>
 <script>
 const $ = id => document.getElementById(id)
-let RES = [], filters = { type:'', org:'', campus:'', q:'' }
+let RES = [], filters = { type:'', org:'', q:'' }
 
 async function j(p) { const r = await fetch('/data/crawl/' + p + '?t=' + Date.now()); if (!r.ok) throw 0; return r.json() }
 
@@ -101,7 +100,6 @@ function renderRows() {
   const rows = RES.filter(r =>
     (!filters.type || r.type === filters.type) &&
     (!filters.org || r.org === filters.org) &&
-    (!filters.campus || (r.campus||[]).includes(filters.campus)) &&
     (!filters.q || (r.title + r.description + r.org).toLowerCase().includes(filters.q)))
   $('rescount').textContent = `(${rows.length})`
   $('rows').innerHTML = rows.slice(0, 200).map(r => `<tr>
@@ -145,7 +143,6 @@ async function refresh() {
     RES = res
     const opts = (sel, vals) => { const cur = sel.value; sel.innerHTML = sel.options[0].outerHTML + [...new Set(vals)].sort().map(v=>`<option>${esc(v)}</option>`).join(''); sel.value = cur }
     opts($('ftype'), res.map(r=>r.type)); opts($('forg'), res.map(r=>r.org))
-    opts($('fcampus'), res.flatMap(r=>r.campus||[]))
     renderRows()
 
     $('edges').innerHTML = rel.slice(0, 40).map(e =>
@@ -165,7 +162,6 @@ async function refresh() {
 }
 
 $('ftype').onchange = e => { filters.type = e.target.value; renderRows() }
-$('fcampus').onchange = e => { filters.campus = e.target.value; renderRows() }
 $('forg').onchange = e => { filters.org = e.target.value; renderRows() }
 $('fq').oninput = e => { filters.q = e.target.value.toLowerCase(); renderRows() }
 refresh(); setInterval(refresh, 30000)

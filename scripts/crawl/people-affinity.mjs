@@ -70,13 +70,12 @@ for (const e of graph.entities) {
   if (!res.length) continue
 
   // affinity scores: weight each appearance by resource specificity
-  const orgs = {}, types = {}, campuses = {}
+  const orgs = {}, types = {}
   const programs = []
   for (const r of res) {
     const w = 1 + (r.specificity || 0) / 10
     orgs[r.org] = (orgs[r.org] || 0) + w
     types[r.type] = (types[r.type] || 0) + w
-    for (const c of r.campus || []) campuses[c] = (campuses[c] || 0) + w
     if (['program', 'center', 'competition', 'funding'].includes(r.type))
       programs.push({ id: r.id, title: r.title.split('|')[0].trim(), weight: +w.toFixed(2) })
   }
@@ -96,7 +95,6 @@ for (const e of graph.entities) {
     affinity: {
       orgs: top(orgs),
       types: top(types),
-      campuses: top(campuses),
       programs: programs.sort((a, b) => b.weight - a.weight).slice(0, 8),
     },
     resources: res.slice(0, 10).map(r => ({ id: r.id, title: r.title.split('|')[0].trim(), url: r.url })),

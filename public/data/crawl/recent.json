@@ -45,15 +45,6 @@
   "at": "2026-08-11T17:25:17.791Z"
  },
  {
-  "id": "startupcolorado-org-series-service-to-success-veterans-connection-kickoff",
-  "title": "Service to Success Veterans Connection Kickoff - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 8,
-  "specificity": 2,
-  "at": "2026-08-11T17:25:13.229Z"
- },
- {
   "id": "startupcolorado-org-event-women-in-cpg-the-power-of-resiliency",
   "title": "Women in CPG: The Power of Resiliency - Startup Colorado",
   "type": "event",
@@ -61,96 +52,6 @@
   "depth": 8,
   "specificity": 4,
   "at": "2026-08-11T17:25:09.137Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-yam-login-auth-config-id-158",
-  "title": "Federated Identity Service",
-  "type": "service",
-  "org": "colorado.edu/p",
-  "depth": 8,
-  "specificity": 4,
-  "at": "2026-08-11T17:25:05.893Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-undergraduatepmp-contact-admin",
-  "title": "Professional Mentorship Program for Undergraduates  | Send Message to Administrator",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 8,
-  "specificity": 1,
-  "at": "2026-08-11T17:25:05.706Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-undergraduatepmp-login-mode-strict",
-  "title": "Professional Mentorship Program for Undergraduates",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 8,
-  "specificity": 1,
-  "at": "2026-08-11T17:25:05.483Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-yam",
-  "title": "Young Alumni Mentors Program  | Program Overview",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 8,
-  "specificity": 5,
-  "at": "2026-08-11T17:25:05.457Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-undergraduatepmp",
-  "title": "Professional Mentorship Program for Undergraduates  | Program Overview",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 8,
-  "specificity": 3,
-  "at": "2026-08-11T17:25:05.432Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-yam-contact-admin",
-  "title": "Young Alumni Mentors Program  | Send Message to Administrator",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 8,
-  "specificity": 1,
-  "at": "2026-08-11T17:25:05.242Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-yam-login-mode-strict",
-  "title": "Young Alumni Mentors Program",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 8,
-  "specificity": 1,
-  "at": "2026-08-11T17:25:04.993Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-yam-about",
-  "title": "Young Alumni Mentors Program  | Program Overview",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 8,
-  "specificity": 5,
-  "at": "2026-08-11T17:25:04.949Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-p2p-admin-messages-new",
-  "title": "Leeds Peer2Peer Mentoring Program  | Send Message to Administrator",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 8,
-  "specificity": 0,
-  "at": "2026-08-11T17:25:04.883Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-p2p-login-auth-config-id-158",
-  "title": "Federated Identity Service",
-  "type": "service",
-  "org": "colorado.edu/p",
-  "depth": 8,
-  "specificity": 4,
-  "at": "2026-08-11T17:25:04.827Z"
  },
  {
   "id": "startupcolorado-org-organizer-town-of-hayden-eventdisplay-past",
@@ -189,15 +90,6 @@
   "at": "2026-08-11T17:24:45.432Z"
  },
  {
-  "id": "startupcolorado-org-stories-why-your-startup-needs-a-press-page",
-  "title": "Why Your Startup Needs a Press Page - Startup Colorado",
-  "type": "reference",
-  "org": "startupcolorado.org",
-  "depth": 7,
-  "specificity": 4,
-  "at": "2026-08-11T17:24:45.382Z"
- },
- {
   "id": "startupcolorado-org-all-events-list-page-5-eventdisplay-past",
   "title": "Past Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 5 &#8211; Startup Colorado",
   "type": "event",
@@ -225,15 +117,6 @@
   "at": "2026-08-11T17:24:36.660Z"
  },
  {
-  "id": "startupcolorado-org-organizer-northwest-sbdc-eventdisplay-past",
-  "title": "Northwest SBDC - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 7,
-  "specificity": 1,
-  "at": "2026-08-11T17:24:33.897Z"
- },
- {
   "id": "startupcolorado-org-organizer-east-colorado-sbdc-eventdisplay-past",
   "title": "East Colorado SBDC - Startup Colorado",
   "type": "event",
@@ -241,15 +124,6 @@
   "depth": 7,
   "specificity": 1,
   "at": "2026-08-11T17:24:33.380Z"
- },
- {
-  "id": "startupcolorado-org-organizer-northwest-sbdc-4-eventdisplay-past",
-  "title": "Northwest SBDC - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 7,
-  "specificity": 1,
-  "at": "2026-08-11T17:24:30.844Z"
  },
  {
   "id": "startupcolorado-org-organizer-nocobiz-connect-eventdisplay-past",
@@ -297,24 +171,6 @@
   "at": "2026-08-11T17:24:22.740Z"
  },
  {
-  "id": "leedsmentoring-colorado-edu-p-yam-pages-944-edit-lst-c",
-  "title": "Young Alumni Mentors Program",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 7,
-  "specificity": 1,
-  "at": "2026-08-11T17:24:21.506Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-undergraduatepmp-membership-requests-new",
-  "title": "Professional Mentorship Program for Undergraduates",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 7,
-  "specificity": 1,
-  "at": "2026-08-11T17:24:21.325Z"
- },
- {
   "id": "leedsmentoring-colorado-edu-p-undergraduatepmp-about",
   "title": "Professional Mentorship Program for Undergraduates  | Program Overview",
   "type": "program",
@@ -322,51 +178,6 @@
   "depth": 7,
   "specificity": 3,
   "at": "2026-08-11T17:24:21.251Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-yam-membership-requests-new",
-  "title": "Young Alumni Mentors Program",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 7,
-  "specificity": 1,
-  "at": "2026-08-11T17:24:21.189Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-p2p",
-  "title": "Leeds Peer2Peer Mentoring Program  | Program Overview",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 7,
-  "specificity": 5,
-  "at": "2026-08-11T17:24:20.846Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-p2p-contact-admin",
-  "title": "Leeds Peer2Peer Mentoring Program  | Send Message to Administrator",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 7,
-  "specificity": 0,
-  "at": "2026-08-11T17:24:20.733Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-p2p-login-mode-strict",
-  "title": "Leeds Peer2Peer Mentoring Program",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 7,
-  "specificity": 1,
-  "at": "2026-08-11T17:24:20.613Z"
- },
- {
-  "id": "leedsmentoring-colorado-edu-p-p2p-about",
-  "title": "Leeds Peer2Peer Mentoring Program  | Program Overview",
-  "type": "program",
-  "org": "colorado.edu/p",
-  "depth": 7,
-  "specificity": 5,
-  "at": "2026-08-11T17:24:20.330Z"
  },
  {
   "id": "startupcolorado-org-organizer-naturally-colorado-eventdisplay-past",
@@ -387,15 +198,6 @@
   "at": "2026-08-11T17:24:19.563Z"
  },
  {
-  "id": "colorado-edu-outreach-paces-funding-and-resources-tools-communication-resources",
-  "title": "Communication Resources | Office for Outreach and Community Engagement",
-  "type": "funding",
-  "org": "colorado.edu/outreach",
-  "depth": 7,
-  "specificity": 6,
-  "at": "2026-08-11T17:24:18.399Z"
- },
- {
   "id": "startupcolorado-org-stories-2023-08-08",
   "title": "August 8, 2023 - Startup Colorado",
   "type": "reference",
@@ -403,15 +205,6 @@
   "depth": 7,
   "specificity": 3,
   "at": "2026-08-11T17:24:13.309Z"
- },
- {
-  "id": "startupcolorado-org-news",
-  "title": "Home - Startup Colorado",
-  "type": "community",
-  "org": "startupcolorado.org",
-  "depth": 7,
-  "specificity": 4,
-  "at": "2026-08-11T17:24:09.629Z"
  },
  {
   "id": "startupcolorado-org-stories-2023-annual-report",
@@ -468,15 +261,6 @@
   "at": "2026-08-11T17:24:03.310Z"
  },
  {
-  "id": "online-colorado-edu-teacher-leadership-certificates-teacher-leadership-certifica",
-  "title": "Admissions | Teacher Leadership Certificates | CU Boulder Online",
-  "type": "course",
-  "org": "colorado.edu/teacher-leadership-certificates",
-  "depth": 6,
-  "specificity": 8,
-  "at": "2026-08-11T17:24:02.310Z"
- },
- {
   "id": "startupcolorado-org-stories-startup-colorado-announces-nonprofit-status",
   "title": "Startup Colorado Announces Nonprofit Status - Startup Colorado",
   "type": "funding",
@@ -493,15 +277,6 @@
   "depth": 6,
   "specificity": 6,
   "at": "2026-08-11T17:24:00.395Z"
- },
- {
-  "id": "startupcolorado-org-stories-west-slope-startup-week-comes-to-durango-2",
-  "title": "West Slope Startup Week Comes to Durango - Startup Colorado",
-  "type": "reference",
-  "org": "startupcolorado.org",
-  "depth": 6,
-  "specificity": 2,
-  "at": "2026-08-11T17:23:59.665Z"
  },
  {
   "id": "startupcolorado-org-stories-west-slope-startup-week-comes-to-durango-4",
@@ -529,14 +304,5 @@
   "depth": 6,
   "specificity": 2,
   "at": "2026-08-11T17:23:56.094Z"
- },
- {
-  "id": "startupcolorado-org-why-pitch-competitions-are-essential",
-  "title": "Why Rural Pitch Competitions Are Essential to Startup Ecosystem Development - Startup Colorado",
-  "type": "competition",
-  "org": "startupcolorado.org",
-  "depth": 7,
-  "specificity": 10,
-  "at": "2026-08-11T17:23:54.081Z"
  }
 ]

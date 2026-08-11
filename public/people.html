@@ -39,8 +39,7 @@
   <div class="grid" id="stats"></div>
 
   <div class="card">
-    <h2>I&E Courses (CU System impact dashboard) <span id="ccount" style="color:var(--dim);font-weight:400"></span></h2>
-    <select id="fcampus2"><option value="">all campuses</option></select>
+    <h2>CU Boulder I&E Courses <span id="ccount" style="color:var(--dim);font-weight:400"></span></h2>
     <select id="flevel"><option value="">all levels</option></select>
     <table style="border-collapse:collapse;width:100%;font-size:.82rem"><tbody id="courses"></tbody></table>
   </div>
@@ -55,7 +54,7 @@
 <script>
 const $ = id => document.getElementById(id)
 const esc = s => (s||'').toString().replace(/[<>&]/g, c => ({'<':'&lt;','>':'&gt;','&':'&amp;'}[c]))
-let P = [], C = [], pf = { cls:'', q:'' }, cf = { campus:'', level:'' }
+let P = [], C = [], pf = { cls:'', q:'' }, cf = { level:'' }
 
 async function j(p){ const r = await fetch('/data/crawl/'+p+'?t='+Date.now()); if(!r.ok) throw 0; return r.json() }
 
@@ -74,11 +73,11 @@ function renderPeople() {
 }
 
 function renderCourses() {
-  const cs = C.filter(c => (!cf.campus || c.campus === cf.campus) && (!cf.level || c.level === cf.level))
+  const cs = C.filter(c => !cf.level || c.level === cf.level)
   $('ccount').textContent = `(${cs.length})`
   $('courses').innerHTML = cs.slice(0, 300).map(c =>
     `<tr><td style="padding:4px 8px;border-bottom:1px solid var(--line)"><b>${esc(c.code)}</b> ${esc(c.title)}
-     <span class="pill">${esc(c.level)}</span> <span class="pill hot">${esc(c.campus)}</span>
+     <span class="pill">${esc(c.level)}</span>
      <span class="meta" style="display:inline">${esc(c.college)}</span></td></tr>`).join('')
 }
 
@@ -98,14 +97,12 @@ async function load() {
   try {
     const cd = await j('courses.json')
     C = cd.courses
-    $('fcampus2').innerHTML = '<option value="">all campuses</option>' + [...new Set(C.map(c=>c.campus))].map(c=>`<option>${esc(c)}</option>`).join('')
     $('flevel').innerHTML = '<option value="">all levels</option>' + [...new Set(C.map(c=>c.level))].map(c=>`<option>${esc(c)}</option>`).join('')
     renderCourses()
   } catch { $('courses').innerHTML = '<tr><td class="meta">courses.json not deployed yet</td></tr>' }
 }
 $('fclass').onchange = e => { pf.cls = e.target.value; renderPeople() }
 $('fq').oninput = e => { pf.q = e.target.value.toLowerCase(); renderPeople() }
-$('fcampus2').onchange = e => { cf.campus = e.target.value; renderCourses() }
 $('flevel').onchange = e => { cf.level = e.target.value; renderCourses() }
 load()
 </script>

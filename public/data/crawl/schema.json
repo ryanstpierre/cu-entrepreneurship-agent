@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11T18:39:18.604Z",
+ "generatedAt": "2026-08-11T18:56:25.530Z",
  "baseUrl": "https://cu-entrepreneurship-agent.pages.dev/data/crawl/",
  "cors": "Access-Control-Allow-Origin: * — fetchable from any origin, no auth",
  "joinKeys": {
@@ -10,7 +10,7 @@
  "endpoints": {
   "resources.json": {
    "description": "The catalogue. Array of resource objects.",
-   "rows": 2149,
+   "rows": 1719,
    "fields": {
     "id": "string, stable slug, primary join key",
     "url": "string (empty for courses)",
@@ -21,14 +21,11 @@
       "startupcolorado.org": 402,
       "colorado.edu/innovate": 291,
       "colorado.edu/venturepartners": 247,
-      "cuanschutz.edu": 224,
       "CU Boulder": 123,
       "colorado.edu/researchinnovation": 100,
       "colorado.edu/nvc": 89,
-      "CU Denver": 88,
       "colorado.edu/business": 60,
       "watson.is": 50,
-      "UCCS": 47,
       "siliconflatirons.org": 45,
       "colorado.edu/event": 41,
       "colorado.edu/ideaforge": 29,
@@ -37,7 +34,6 @@
       "innosphereventures.org": 18,
       "colorado.edu/today": 17,
       "colorado.edu/oce": 17,
-      "CU Anschutz": 17,
       "colorado.edu/graduateschool": 13,
       "colorado.edu/research": 12,
       "colorado.edu/services": 11,
@@ -45,18 +41,12 @@
       "colorado.edu/engineering": 8,
       "colorado.edu/catalyzecu": 8,
       "colorado.edu/initiative": 7,
-      "catalog.ucdenver.edu": 7,
       "colorado.edu/organizational-leadership-ms": 6,
       "colorado.edu/group": 6,
-      "business.uccs.edu": 6,
-      "business.ucdenver.edu": 5,
       "colorado.edu/aerospaceventures": 4,
-      "medschool.cuanschutz.edu": 4,
-      "jakejabscenter.org": 4,
       "colorado.edu/news": 3,
       "colorado.edu/center/teaching-learning": 3,
       "colorado.edu/emp": 3,
-      "research.cuanschutz.edu": 3,
       "colorado.edu/service": 2,
       "colorado.edu/register": 2,
       "colorado.edu/mechanical": 2,
@@ -75,12 +65,6 @@
       "ctlj.colorado.edu": 2,
       "colorado.edu/faculty-articles": 2,
       "colorado.edu/academics": 2,
-      "cctsi.cuanschutz.edu": 2,
-      "engineering.ucdenver.edu": 2,
-      "ucdenver.edu": 2,
-      "innovation.uccs.edu": 2,
-      "uccs.edu": 2,
-      "garageatuccs.com": 2,
       "colorado.edu/blog": 1,
       "colorado.edu/coloradan": 1,
       "colorado.edu/teacher-leadership-ma": 1,
@@ -101,76 +85,49 @@
       "colorado.edu/Account": 1,
       "boulderstartupweek.com": 1,
       "itll.colorado.edu": 1,
-      "cdifund.secure-platform.com": 1,
-      "gates.cuanschutz.edu": 1,
-      "mentalhealthinnovation.org": 1,
-      "pharmacy.cuanschutz.edu": 1,
-      "fitzsimonsinnovation.com": 1,
-      "coloradosph.cuanschutz.edu": 1,
-      "hackcu.org": 1,
-      "research.ucdenver.edu": 1,
-      "womensdaycolorado.com": 1,
-      "news.ucdenver.edu": 1,
-      "clas.ucdenver.edu": 1,
-      "cse.ucdenver.edu": 1,
-      "studentresearch.uccs.edu": 1,
-      "resilience.uccs.edu": 1
+      "hackcu.org": 1
      }
     },
     "type": {
      "description": "resource kind",
      "values": {
-      "reference": 421,
-      "funding": 413,
-      "course": 363,
+      "funding": 347,
       "competition": 303,
-      "event": 255,
-      "center": 180,
-      "community": 97,
+      "reference": 284,
+      "event": 247,
+      "course": 183,
+      "center": 172,
+      "community": 91,
       "program": 53,
-      "service": 39,
-      "space": 25
-     }
-    },
-    "campus": {
-     "description": "CU campus attribution (array; only on impact-dashboard-merged rows)",
-     "values": {
-      "CU Boulder": 164,
-      "CU Denver": 115,
-      "UCCS": 63,
-      "CU Anschutz": 46
+      "service": 26,
+      "space": 13
      }
     },
     "audience": {
      "description": "detected eligibility (array)",
      "values": {
-      "community": 1350,
-      "students": 1062,
-      "faculty": 716,
-      "staff": 615,
-      "alumni": 495,
-      "grad students": 371,
-      "researchers": 366,
-      "high school": 200,
-      "undergrads": 198,
-      "postdocs": 195
+      "community": 1187,
+      "students": 700,
+      "faculty": 489,
+      "staff": 396,
+      "researchers": 309,
+      "grad students": 296,
+      "alumni": 276,
+      "high school": 197,
+      "undergrads": 192,
+      "postdocs": 191
      }
     },
     "access": {
      "description": "verbatim access tags from CU System impact dashboard (array)",
      "values": {
-      "Open to Students": 44,
-      "Open to Community": 24,
-      "Open to Researchers & Graduate Students": 22,
-      "Open to Faculty": 14,
-      "Open to Accepted Students": 13,
-      "Open to Faculty / Medical Professionals": 3,
+      "Open to Students": 14,
+      "Open to Community": 9,
+      "Open to Accepted Students": 7,
+      "Open to Faculty": 7,
+      "Open to Researchers & Graduate Students": 7,
       "Open to Business Students": 3,
-      "Open to Researchers": 3,
-      "Faculty & Graduate Students": 3,
-      "Open to Medical Students": 2,
       "Open to Alumni": 1,
-      "Open to Healthcare / Innovation Students only": 1,
       "Open to Engineering Students": 1,
       "Open to Music Students": 1,
       "Open to Researchers and Faculty": 1,
@@ -180,33 +137,33 @@
     "stage": {
      "description": "startup-journey stage (array)",
      "values": {
-      "explore": 1340,
-      "launch": 1263,
-      "build": 1204,
-      "validate": 121
+      "explore": 1122,
+      "launch": 1114,
+      "build": 988,
+      "validate": 112
      }
     },
     "sectors": {
      "description": "sector tags (array)",
      "values": {
-      "ai": 1786,
-      "health": 543,
-      "space": 399,
-      "arts": 293,
+      "ai": 1566,
+      "space": 391,
+      "health": 324,
       "deep tech": 286,
-      "energy": 221,
+      "arts": 282,
+      "energy": 214,
       "quantum": 196,
-      "climate": 145,
-      "food": 144,
-      "aerospace": 89,
+      "climate": 143,
+      "food": 141,
+      "aerospace": 88,
       "hardware": 73,
-      "bioscience": 66,
-      "biotech": 61,
+      "bioscience": 62,
+      "biotech": 50,
       "cybersecurity": 32,
       "social enterprise": 17,
-      "edtech": 12,
       "fintech": 8,
-      "medtech": 7
+      "edtech": 8,
+      "medtech": 3
      }
     },
     "specificity": "int 0–10: actionability score (contacts+dollars+deadlines+apply-links+eligibility). >=6 is highly actionable.",
@@ -218,89 +175,64 @@
     "sources": {
      "description": "provenance (absent = crawl)",
      "values": {
-      "crawl": 1794,
-      "impact-dashboard": 381
+      "crawl": 1574,
+      "impact-dashboard": 163
      }
     }
    }
   },
   "people.json": {
    "description": "University people extracted from page text with affinity scores. Object: {generatedAt, stats, people[]}.",
-   "rows": 997,
+   "rows": 920,
    "fields": {
     "roleClass": {
      "description": "classified university role",
      "values": {
-      "staff": 128,
-      "faculty": 126,
+      "staff": 102,
+      "faculty": 100,
       "student": 26,
-      "founder-alum": 155,
-      "unknown": 523,
+      "founder-alum": 154,
+      "unknown": 499,
       "mentor": 39
      }
     },
-    "affinity.orgs/types/campuses": "top-5 {name, score} — specificity-weighted appearance counts",
+    "affinity.orgs/types": "top-5 {name, score} — specificity-weighted appearance counts",
     "affinity.programs": "up to 8 {id, title, weight} — programs/centers/funding this person appears on",
     "resources": "up to 10 {id, title, url} they were seen on"
    }
   },
   "courses.json": {
-   "description": "I&E courses across the CU System (from the impact dashboard) + enrollment trends + search vocabulary. Object: {enrollment, courses[], searchTerms[]}.",
-   "rows": 275,
+   "description": "CU Boulder I&E courses (from the CU System impact dashboard) + search vocabulary. Object: {courses[], searchTerms[]}.",
+   "rows": 123,
    "fields": {
-    "courses[].campus": {
-     "values": {
-      "CU Boulder": 123,
-      "CU Denver": 88,
-      "UCCS": 47,
-      "CU Anschutz": 17
-     }
-    },
     "courses[].level": {
      "values": {
-      "Graduate": 139,
-      "Undergraduate": 136
+      "Graduate": 85,
+      "Undergraduate": 38
      }
     },
     "courses[].college": {
      "values": {
       "Leeds School of Business": 59,
-      "Business School": 38,
       "College of Engr & Applied Sci": 35,
-      "College of Arts & Media": 25,
-      "Coll of Letters, Arts & Sci": 18,
-      "College of Engr Design & Comp": 17,
-      "Coll of Business & Admin": 12,
-      "Coll of Engineering & Appl Sci": 12,
       "College of Media, Comm & Info": 11,
       "College of Arts & Sciences": 9,
-      "School of Medicine": 8,
-      "College of Liberal Arts & Sci": 5,
-      "School of Pharmacy": 4,
       "College of Music": 3,
       "Cross-College Programs": 3,
-      "College of Public Service": 3,
-      "College of Nursing": 2,
-      "School of Public Health": 2,
       "School of Law": 2,
-      "School of Educ & Human Dev": 2,
-      "School of Public Affairs": 2,
-      "Pgm Environmental Design": 1,
-      "Coll of Nursing & Health Sci": 1,
-      "College of Education": 1
+      "Pgm Environmental Design": 1
      }
     },
-    "searchTerms": "top course-title terms {term, courses, examples[]} — use for query expansion",
-    "enrollment": "I&E enrollment by campus, 2023–2026"
+    "searchTerms": "top course-title terms {term, courses, examples[]} — use for query expansion"
    }
   },
   "relationships.json": {
    "description": "Typed link edges between resources: {from, to, kind, weight}. kind=links_to mostly; use for adjacency/pathfinding.",
-   "rows": 2005
+   "rows": 1006
   },
   "enriched.json": {
    "description": "Object keyed by resource id: {summary, entities:{people, orgs, programs, amounts, dates, eligibility}} — all string arrays.",
-   "rows": 1746
+   "rows": 1517
   },
   "entity-graph.json": {
    "description": "Consolidated entities + co-occurrence. {entities[], cooccurrence[], programMentions[], inLinkTop[]}.",
@@ -329,6 +261,19 @@
    "description": "44 personas × ~7 queries evaluated against the live RAG stack. {summary, personas[], results[]}.",
    "rows": 322,
    "note": "results[].weak=true rows are known retrieval gaps — useful as a test set"
+  },
+  "company-journeys.json": {
+   "description": "Golden test set: historical companies with the programs/entities they touched + outcomes with verbatim evidence. {stats, programEfficacy[], companies[]}.",
+   "rows": 153,
+   "outcomeKinds": {
+    "award": 81,
+    "launch": 20,
+    "funding": 56,
+    "active": 8,
+    "acquisition": 6,
+    "ipo": 2
+   },
+   "note": "programEfficacy[] = per-program company counts + funding/exit counts. Coverage bounded by crawled narratives — absence is not evidence of absence."
   },
   "summary.json": {
    "description": "Crawl totals, depth histogram + saturation, per-org depth."

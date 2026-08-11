@@ -57,13 +57,13 @@ function accessToAudience(access) {
 const funded = new Map((impact.FUNDING.funded || []).map(f => [norm(f.name), f]))
 let matched = 0, added = 0
 for (const p of impact.PROGRAMS) {
-  const hit = byUrl.get(normUrl(p.url)) || byTitle.get(norm(p.name))
   const campuses = (p.schools || []).map(s => CAMPUS[s] || s)
+  if (!campuses.includes('CU Boulder')) continue // Boulder focus
+  const hit = byUrl.get(normUrl(p.url)) || byTitle.get(norm(p.name))
   const audience = accessToAudience(p.access)
   const fund = funded.get(norm(p.name))
   if (hit) {
     matched++
-    hit.campus = [...new Set([...(hit.campus || []), ...campuses])]
     hit.audience = [...new Set([...(hit.audience || []), ...audience])]
     hit.access = [...new Set([...(hit.access || []), ...(p.access || [])])]
     if (fund && !(hit.funding || []).length)
@@ -77,7 +77,7 @@ for (const p of impact.PROGRAMS) {
       org: normUrl(p.url).split('/')[0] || 'cu.edu',
       type: CAT_TO_TYPE[(p.categories || [])[0]] || 'program',
       description: `${p.name} — ${(p.categories || []).join(', ')} program at ${campuses.join(', ')}. ${(p.access || []).join('; ')}.`,
-      audience, access: p.access || [], campus: campuses,
+      audience, access: p.access || [],
       stage: [], sectors: [], contacts: [],
       funding: fund ? [`$${fund.amount.toLocaleString()} (${fund.qualifier})`] : [],
       deadlines: [], specificity: 4, depth: 0,
@@ -87,17 +87,17 @@ for (const p of impact.PROGRAMS) {
 }
 
 // ---- courses ----
-const courses = impact.CLASSES.map(c => ({
-  id: 'course-' + c.code.toLowerCase().replace(/\s+/g, '-'),
-  code: c.code, title: c.title, level: c.level,
-  campus: CAMPUS[c.campus] || c.campus, college: c.group,
-}))
+const courses = impact.CLASSES.filter(c => (CAMPUS[c.campus] || c.campus) === 'CU Boulder')
+  .map(c => ({
+    id: 'course-' + c.code.toLowerCase().replace(/\s+/g, '-'),
+    code: c.code, title: c.title, level: c.level, college: c.group,
+  }))
 const courseResources = courses.map(c => ({
   id: c.id, url: '', title: `${c.code}: ${c.title}`,
-  org: c.campus, type: 'course',
-  description: `${c.level} innovation & entrepreneurship course at ${c.campus} (${c.college}).`,
+  org: 'CU Boulder', type: 'course',
+  description: `${c.level} innovation & entrepreneurship course at CU Boulder (${c.college}).`,
   audience: [c.level === 'Graduate' ? 'grad students' : 'students'],
-  access: [], campus: [c.campus], stage: [], sectors: [], contacts: [],
+  access: [], stage: [], sectors: [], contacts: [],
   funding: [], deadlines: [], specificity: 3, depth: 0,
   sources: ['impact-dashboard'],
 }))
@@ -122,7 +122,7 @@ writeFileSync(join(OUT_DIR, 'resources.json'), JSON.stringify(resources, null, 1
 writeFileSync(join(OUT_DIR, 'courses.json'), JSON.stringify({
   generatedAt: new Date().toISOString(),
   source: 'https://2026-impact-production.up.railway.app/education-dashboard.html',
-  enrollment: impact.ENROLLMENT,
+  scope: 'CU Boulder only',
   courses,
   searchTerms: searchTerms.slice(0, 200),
 }, null, 1))
@@ -134,4 +134,3 @@ writeFileSync(join(OUT_DIR, 'summary.json'), JSON.stringify(summary, null, 1))
 
 console.log(`✓ programs: ${matched} matched, ${added} added; courses added: ${coursesAdded}`)
 console.log(`✓ resources total: ${resources.length}; vocab terms: ${searchTerms.length}`)
-console.log('  campus coverage:', JSON.stringify(resources.reduce((a, r) => { for (const c of r.campus || []) a[c] = (a[c] || 0) + 1; return a }, {})))

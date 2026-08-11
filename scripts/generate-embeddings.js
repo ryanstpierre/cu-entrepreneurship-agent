@@ -145,7 +145,6 @@ function loadCrawledCorpus() {
         r.deadlines?.length ? `${r.deadlines[0]}.` : '',
         r.audience?.length ? `For: ${r.audience.join(', ')}.` : '',
         r.access?.length ? `Access: ${r.access.join('; ')}.` : '',
-        r.campus?.length ? `Campus: ${r.campus.join(', ')}.` : '',
         `Org: ${r.org}.`
       ].filter(Boolean).join(' ')
     }));

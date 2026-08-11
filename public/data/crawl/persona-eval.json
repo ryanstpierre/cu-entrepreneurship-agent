@@ -1,16 +1,16 @@
 {
  "summary": {
-  "generatedAt": "2026-08-11T18:36:28.601Z",
+  "generatedAt": "2026-08-11T18:55:12.731Z",
   "personas": 44,
   "queries": 322,
-  "typeHitRate": 0.77,
-  "orgHitRate": 0.916,
-  "weakQueries": 96,
+  "typeHitRate": 0.761,
+  "orgHitRate": 0.913,
+  "weakQueries": 100,
   "byRole": {
    "founder": {
     "n": 41,
-    "hits": 32,
-    "rate": 0.78
+    "hits": 31,
+    "rate": 0.756
    },
    "mentor": {
     "n": 6,
@@ -24,8 +24,8 @@
    },
    "community": {
     "n": 40,
-    "hits": 36,
-    "rate": 0.9
+    "hits": 37,
+    "rate": 0.925
    },
    "investor/mentor": {
     "n": 8,
@@ -44,8 +44,8 @@
    },
    "faculty": {
     "n": 43,
-    "hits": 29,
-    "rate": 0.674
+    "hits": 27,
+    "rate": 0.628
    },
    "research staff": {
     "n": 13,
@@ -54,13 +54,13 @@
    },
    "grad student": {
     "n": 61,
-    "hits": 48,
-    "rate": 0.787
+    "hits": 49,
+    "rate": 0.803
    },
    "postdoc": {
     "n": 14,
-    "hits": 11,
-    "rate": 0.786
+    "hits": 9,
+    "rate": 0.643
    },
    "undergraduate": {
     "n": 74,
@@ -965,10 +965,10 @@
      "score": 0.478
     },
     {
-     "name": "Licensing Opportunities for Climate, Energy and Sustainability",
-     "category": "Mentorship & Advising",
-     "website": "https://colorado.edu/venturepartners/technology-portfolio/licensing-opportunities-climate-energy-and-sustainability",
-     "score": 0.475
+     "name": "Venture Partner Grants",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
+     "score": 0.476
     }
    ],
    "typeHit": true,
@@ -999,18 +999,6 @@
      "score": 0.705
     },
     {
-     "name": "Embark",
-     "category": "Mentorship & Advising",
-     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
-     "score": 0.696
-    },
-    {
-     "name": "Get Seed Funding",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/innovate/getseedfunding",
-     "score": 0.666
-    },
-    {
      "name": "Join a Venture or Find Partners",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/nvc/join-venture-or-find-partners",
@@ -1021,6 +1009,18 @@
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/innovate/get-seed-funding-provides-financial-backing-help-jumpstart-student-innovations",
      "score": 0.651
+    },
+    {
+     "name": "Embark",
+     "category": "Mentorship & Advising",
+     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
+     "score": 0.647
+    },
+    {
+     "name": "Awards & Grants",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/graduateschool/funding/awards-grants",
+     "score": 0.64
     }
    ],
    "typeHit": true,
@@ -1120,10 +1120,10 @@
      "score": 0.465
     },
     {
-     "name": "Catalyze",
-     "category": "Mentorship & Advising",
-     "website": "https://www.colorado.edu/catalyzecu/",
-     "score": 0.445
+     "name": "Past Grantees - Limited Submission Funding Opportunities",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/researchinnovation/research-development/funding/limited-submission-funding-opportunities/past-winners-limited",
+     "score": 0.441
     }
    ],
    "typeHit": true,
@@ -1163,7 +1163,7 @@
      "name": "Boulder Startup Week 2026",
      "category": "Events & Workshops",
      "website": "https://boulderstartupweek.com/",
-     "score": 0.558
+     "score": 0.555
     },
     {
      "name": "New Venture Challenge - University of Colorado Boulder",
@@ -1199,28 +1199,28 @@
    },
    "top5": [
     {
+     "name": "Boulder Venture Club",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
+     "score": 0.675
+    },
+    {
      "name": "Boulder Startup Week 2026",
      "category": "Events & Workshops",
      "website": "https://boulderstartupweek.com/",
-     "score": 0.693
+     "score": 0.664
     },
     {
      "name": "APRD 5006: Design for Startups",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.665
+     "score": 0.662
     },
     {
-     "name": "Get Seed Funding",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/innovate/getseedfunding",
-     "score": 0.658
-    },
-    {
-     "name": "Boulder Venture Club",
-     "category": "Community & Networking",
-     "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
-     "score": 0.657
+     "name": "APRD 5006: Design for Startups",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.659
     },
     {
      "name": "Startups2Students - University of Colorado Boulder",
@@ -1231,7 +1231,7 @@
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.693,
+   "topScore": 0.675,
    "weak": true
   },
   {
@@ -1269,9 +1269,9 @@
      "score": 0.393
     },
     {
-     "name": "FaM Mentor Program",
-     "category": "Mentorship & Advising",
-     "website": "https://business.ucdenver.edu/centers-programs/first-generation-and-multicultural-fam-business-program/become-fam-mentor",
+     "name": "LaunchPad Mentor Network",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/innovate/support/mentorship",
      "score": 0.377
     },
     {
@@ -1358,7 +1358,7 @@
      "name": "LaunchPad Mentor Network",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/innovate/support/mentorship",
-     "score": 0.741
+     "score": 0.721
     },
     {
      "name": "Young Alumni Mentors Program",
@@ -1373,21 +1373,21 @@
      "score": 0.644
     },
     {
-     "name": "Startups2Students (S2S)",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.colorado.edu/innovate/startups2students-s2s",
-     "score": 0.633
-    },
-    {
      "name": "Boulder Venture Club",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
-     "score": 0.626
+     "score": 0.633
+    },
+    {
+     "name": "Startups2Students (S2S)",
+     "category": "Entrepreneurship Hub",
+     "website": "https://www.colorado.edu/innovate/startups2students-s2s",
+     "score": 0.623
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.741,
+   "topScore": 0.721,
    "weak": false
   },
   {
@@ -1513,16 +1513,16 @@
      "score": 0.654
     },
     {
+     "name": "Venture Partner Grants",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
+     "score": 0.593
+    },
+    {
      "name": "Licensing for University Innovators",
      "category": "Mentorship & Advising",
      "website": "https://colorado.edu/venturepartners/university-innovators/licensing-university-innovators",
      "score": 0.578
-    },
-    {
-     "name": "Venture Partner Grants",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
-     "score": 0.577
     },
     {
      "name": "About Us",
@@ -1615,7 +1615,7 @@
      "name": "EMEA 5091: Getting Started Tech Startups",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.483
+     "score": 0.469
     },
     {
      "name": "Getting started? Do these things first!",
@@ -1627,24 +1627,24 @@
      "name": "EMEA 5092: Creating a Startup Business",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.46
+     "score": 0.466
     },
     {
      "name": "EMEA 5091: Getting Started with Startups",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.455
+     "score": 0.461
     },
     {
      "name": "EMEA 5092: Creating a Tech Startup",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.452
+     "score": 0.456
     }
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.483,
+   "topScore": 0.469,
    "weak": true
   },
   {
@@ -1672,7 +1672,7 @@
      "name": "Catalyze",
      "category": "Mentorship & Advising",
      "website": "https://www.colorado.edu/catalyzecu/",
-     "score": 0.58
+     "score": 0.555
     },
     {
      "name": "Become a Catalyze CU Partner",
@@ -1681,16 +1681,16 @@
      "score": 0.553
     },
     {
-     "name": "Research & Innovation Office",
-     "category": "Space & Resources",
-     "website": "https://www.colorado.edu/researchinnovation/node/8528/funding/rio-funding-limited-submission-opportunities",
-     "score": 0.543
-    },
-    {
      "name": "About",
      "category": "Accelerator",
      "website": "http://colorado.edu/catalyzecu/about",
      "score": 0.534
+    },
+    {
+     "name": "Young Alumni Mentors Program",
+     "category": "Accelerator",
+     "website": "https://colorado.edu/business/current-students/career/mentoring/young-alumni-mentors-program",
+     "score": 0.531
     }
    ],
    "typeHit": true,
@@ -1765,12 +1765,6 @@
    },
    "top5": [
     {
-     "name": "Entrepreneur or Investor",
-     "category": "Mentorship & Advising",
-     "website": "http://www.cuanschutz.edu/innovations/industry-partner/entrepreneur-investor",
-     "score": 0.478
-    },
-    {
      "name": "Startup Colorado Partners with Colorado Office of Just Transition to Support Coal Transition Workers Through Entrepreneurship - Startup Colo",
      "category": "Entrepreneurship Hub",
      "website": "https://startupcolorado.org/stories/startup-colorado-partners-with-colorado-ojt",
@@ -1783,21 +1777,27 @@
      "score": 0.463
     },
     {
-     "name": "Academia Industry Alliance",
-     "category": "Community & Networking",
-     "website": "https://www.cuanschutz.edu/services/academia-industry-alliance",
-     "score": 0.459
-    },
-    {
      "name": "Research-to-Market (R2M) Customer Discovery Program",
      "category": "Accelerator",
      "website": "http://www.colorado.edu/venturepartners/innovators/commercialization-academy/research-market-r2m",
      "score": 0.452
+    },
+    {
+     "name": "Venture Partners at CU",
+     "category": "IP & Commercialization",
+     "website": "https://www.colorado.edu/venturepartners/",
+     "score": 0.441
+    },
+    {
+     "name": "Meet your Future Employer at Startups2Students!",
+     "category": "Events & Workshops",
+     "website": "https://www.colorado.edu/innovate/meet-your-future-employer-startups2students",
+     "score": 0.437
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.478,
+   "topScore": 0.47,
    "weak": false
   },
   {
@@ -1817,12 +1817,6 @@
    },
    "top5": [
     {
-     "name": "Boulder Climate Ventures",
-     "category": "Accelerator",
-     "website": "https://colorado.edu/innovate/boulder-climate-ventures",
-     "score": 0.479
-    },
-    {
      "name": "Research &amp; Innovation Office - University of Colorado Boulder",
      "category": "Events & Workshops",
      "website": "https://calendar.colorado.edu/group/rio",
@@ -1833,6 +1827,12 @@
      "category": "Entrepreneurship Hub",
      "website": "https://www.colorado.edu/innovate/entrepreneurial-programs/student-programs",
      "score": 0.46
+    },
+    {
+     "name": "Boulder Climate Ventures",
+     "category": "Accelerator",
+     "website": "https://colorado.edu/innovate/boulder-climate-ventures",
+     "score": 0.454
     },
     {
      "name": "Colorado&#039;s Rural Accelerators Drive Innovation and Opportunity - Startup Colorado",
@@ -1849,7 +1849,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.479,
+   "topScore": 0.478,
    "weak": false
   },
   {
@@ -1918,28 +1918,28 @@
    },
    "top5": [
     {
+     "name": "Venture Partners",
+     "category": "Entrepreneurial Training",
+     "website": "https://www.colorado.edu/researchinnovation/venture-partners",
+     "score": 0.692
+    },
+    {
      "name": "Venture Partners at CU Boulder - University of Colorado Boulder",
      "category": "Events & Workshops",
      "website": "https://calendar.colorado.edu/group/venture_partners",
      "score": 0.684
     },
     {
-     "name": "Venture Partners",
+     "name": "About Us",
      "category": "Entrepreneurial Training",
-     "website": "https://www.colorado.edu/researchinnovation/venture-partners",
-     "score": 0.683
+     "website": "https://colorado.edu/venturepartners/about",
+     "score": 0.68
     },
     {
      "name": "Venture Partner Grants",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
-     "score": 0.681
-    },
-    {
-     "name": "About Us",
-     "category": "Entrepreneurial Training",
-     "website": "https://colorado.edu/venturepartners/about",
-     "score": 0.68
+     "score": 0.676
     },
     {
      "name": "Venture Partners at CU",
@@ -1950,7 +1950,7 @@
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.684,
+   "topScore": 0.692,
    "weak": true
   },
   {
@@ -1980,22 +1980,22 @@
      "score": 0.549
     },
     {
-     "name": "Boulder Startup Week 2026",
-     "category": "Events & Workshops",
-     "website": "https://boulderstartupweek.com/",
-     "score": 0.536
-    },
-    {
-     "name": "MBAE 6100: Entrepreneurship",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.528
-    },
-    {
      "name": "Innovation &amp; Entrepreneurship - University of Colorado Boulder",
      "category": "Events & Workshops",
      "website": "https://calendar.colorado.edu/group/innovate",
      "score": 0.526
+    },
+    {
+     "name": "MBAE 6530: Negotiations",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.524
+    },
+    {
+     "name": "MBAX 6195: Topics in Entrepreneurship",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.521
     }
    ],
    "typeHit": true,
@@ -2040,13 +2040,13 @@
      "name": "EMEA 5092: Creating a Startup Business",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.655
+     "score": 0.658
     },
     {
-     "name": "Startups2Students - University of Colorado Boulder",
-     "category": "Events & Workshops",
-     "website": "https://calendar.colorado.edu/event/startups2students-jan29?amp%3Butm_medium=widget&amp%3Butm_source=University+of+Colorado+Boulder",
-     "score": 0.646
+     "name": "APRD 5012: Entrepreneurial Design",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.649
     }
    ],
    "typeHit": true,
@@ -2070,22 +2070,16 @@
    },
    "top5": [
     {
-     "name": "LaunchPad Mentor Network",
-     "category": "Community & Networking",
-     "website": "https://www.colorado.edu/innovate/support/mentorship",
-     "score": 0.645
-    },
-    {
      "name": "Boulder Venture Club",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
-     "score": 0.614
+     "score": 0.613
     },
     {
-     "name": "Embark",
-     "category": "Mentorship & Advising",
-     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
-     "score": 0.596
+     "name": "LaunchPad Mentor Network",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/innovate/support/mentorship",
+     "score": 0.606
     },
     {
      "name": "Past Grantees - Limited Submission Funding Opportunities",
@@ -2098,11 +2092,17 @@
      "category": "Events & Workshops",
      "website": "https://colorado.edu/venturepartners/opportunities-and-events",
      "score": 0.582
+    },
+    {
+     "name": "Venture Partners at CU Boulder - University of Colorado Boulder",
+     "category": "Events & Workshops",
+     "website": "https://calendar.colorado.edu/group/venture_partners",
+     "score": 0.575
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.645,
+   "topScore": 0.613,
    "weak": false
   },
   {
@@ -2174,24 +2174,24 @@
      "name": "Entrepreneurial Studies Certificate",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/innovate/programs-resources/entrepreneurial-studies-certificate",
-     "score": 0.535
+     "score": 0.539
     },
     {
      "name": "MBAE 6530: Negotiations",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.519
-    },
-    {
-     "name": "MBAE 6065: Business Finance",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.517
+     "score": 0.536
     },
     {
      "name": "Finance Certificate, Trainings, Events and Case Competitions",
      "category": "Funding & Prizes",
      "website": "https://colorado.edu/business/burridge-center/programs",
+     "score": 0.515
+    },
+    {
+     "name": "MBAE 6065: Business Finance",
+     "category": "Entrepreneurial Training",
+     "website": "",
      "score": 0.515
     },
     {
@@ -2203,7 +2203,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.535,
+   "topScore": 0.539,
    "weak": false
   },
   {
@@ -2231,7 +2231,7 @@
      "name": "LaunchPad Mentor Network",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/innovate/support/mentorship",
-     "score": 0.465
+     "score": 0.45
     },
     {
      "name": "Join a Venture or Find Partners",
@@ -2240,16 +2240,16 @@
      "score": 0.419
     },
     {
-     "name": "Embark",
-     "category": "Mentorship & Advising",
-     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
-     "score": 0.402
-    },
-    {
      "name": "PACES Lunch &amp; Learn Series: Securing External Funding for Public and Community-Engaged Scholarship - University of Colorado Boulder",
      "category": "Funding & Prizes",
      "website": "https://calendar.colorado.edu/event/workshop-series-securing-external-funding-for-public-and-community-engaged-scholarship",
      "score": 0.402
+    },
+    {
+     "name": "Communication Resources",
+     "category": "Funding & Prizes",
+     "website": "https://colorado.edu/oce/paces/funding-and-resources/tools/communication-resources",
+     "score": 0.398
     }
    ],
    "typeHit": true,
@@ -2538,6 +2538,12 @@
      "score": 0.588
     },
     {
+     "name": "LaunchPad Mentor Network",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/innovate/support/mentorship",
+     "score": 0.559
+    },
+    {
      "name": "Dedicated Funding Opportunities for Woman-Owned Businesses - Startup Colorado",
      "category": "Funding & Prizes",
      "website": "https://startupcolorado.org/dedicated-funding-opportunities-for-woman-owned-businesses",
@@ -2548,12 +2554,6 @@
      "category": "Entrepreneurship Hub",
      "website": "https://colorado.edu/venturepartners/about/people/sarah-hughes",
      "score": 0.558
-    },
-    {
-     "name": "Entrepreneurial Mentor Interest Form",
-     "category": "Mentorship & Advising",
-     "website": "https://www.colorado.edu/venturepartners/content/entrepreneurial-mentor-interest-form",
-     "score": 0.549
     }
    ],
    "typeHit": true,
@@ -2631,7 +2631,7 @@
      "name": "Boulder Climate Ventures",
      "category": "Accelerator",
      "website": "https://colorado.edu/innovate/boulder-climate-ventures",
-     "score": 0.674
+     "score": 0.695
     },
     {
      "name": "Boulder Climate Ventures Connects Leeds MBA Students to Climate Tech Innovation",
@@ -2660,7 +2660,7 @@
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.674,
+   "topScore": 0.695,
    "weak": true
   },
   {
@@ -2684,7 +2684,7 @@
      "name": "Boulder Climate Ventures",
      "category": "Accelerator",
      "website": "https://colorado.edu/innovate/boulder-climate-ventures",
-     "score": 0.693
+     "score": 0.668
     },
     {
      "name": "Programs and Resources",
@@ -2713,7 +2713,7 @@
    ],
    "typeHit": true,
    "orgHit": false,
-   "topScore": 0.693,
+   "topScore": 0.668,
    "weak": false
   },
   {
@@ -2735,7 +2735,7 @@
      "name": "Boulder Climate Ventures",
      "category": "Accelerator",
      "website": "https://colorado.edu/innovate/boulder-climate-ventures",
-     "score": 0.711
+     "score": 0.725
     },
     {
      "name": "Boulder Climate Ventures Connects Leeds MBA Students to Climate Tech Innovation",
@@ -2764,7 +2764,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.711,
+   "topScore": 0.725,
    "weak": false
   },
   {
@@ -2787,7 +2787,7 @@
      "name": "Boulder Climate Ventures",
      "category": "Accelerator",
      "website": "https://colorado.edu/innovate/boulder-climate-ventures",
-     "score": 0.585
+     "score": 0.553
     },
     {
      "name": "Boulder Climate Ventures Connects Leeds MBA Students to Climate Tech Innovation",
@@ -2816,7 +2816,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.585,
+   "topScore": 0.553,
    "weak": false
   },
   {
@@ -2859,16 +2859,16 @@
      "score": 0.528
     },
     {
-     "name": "Boulder Climate Ventures",
-     "category": "Accelerator",
-     "website": "https://colorado.edu/innovate/boulder-climate-ventures",
-     "score": 0.52
+     "name": "Academics",
+     "category": "Entrepreneurial Training",
+     "website": "https://online.colorado.edu/teacher-leadership-certificates/academics",
+     "score": 0.511
     }
    ],
-   "typeHit": true,
+   "typeHit": false,
    "orgHit": true,
    "topScore": 0.547,
-   "weak": false
+   "weak": true
   },
   {
    "persona": "a06",
@@ -2890,7 +2890,7 @@
      "name": "Boulder Climate Ventures",
      "category": "Accelerator",
      "website": "https://colorado.edu/innovate/boulder-climate-ventures",
-     "score": 0.669
+     "score": 0.646
     },
     {
      "name": "Startup Hikes &mdash; Colorado Startups",
@@ -2919,7 +2919,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.669,
+   "topScore": 0.646,
    "weak": false
   },
   {
@@ -2999,16 +2999,16 @@
      "score": 0.579
     },
     {
+     "name": "MUSC 5988: The Entrepreneurial Artist",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.576
+    },
+    {
      "name": "Past Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 6 &#8211; Startup Colorado",
      "category": "Events & Workshops",
      "website": "https://startupcolorado.org/all-events/list/page/6/?eventDisplay=past",
      "score": 0.568
-    },
-    {
-     "name": "Downtown Startup Ecosystem Access",
-     "category": "Space & Resources",
-     "website": "https://www.ucdenver.edu/about-cu-denver/innovation",
-     "score": 0.558
     },
     {
      "name": "Startup Colorado Partners with Colorado Office of Just Transition to Support Coal Transition Workers Through Entrepreneurship - Startup Colo",
@@ -3038,16 +3038,22 @@
    },
    "top5": [
     {
-     "name": "Entrepreneurship Center for Music",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.colorado.edu/music/academics/centers-and-programs/entrepreneurship-center-music",
-     "score": 0.715
-    },
-    {
      "name": "MUSC 5988: The Entrepreneurial Artist",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.709
+     "score": 0.748
+    },
+    {
+     "name": "MUSC 4988: The Entrepreneurial Artist",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.722
+    },
+    {
+     "name": "Entrepreneurship Center for Music",
+     "category": "Entrepreneurship Hub",
+     "website": "https://www.colorado.edu/music/academics/centers-and-programs/entrepreneurship-center-music",
+     "score": 0.718
     },
     {
      "name": "Getting started? Do these things first!",
@@ -3056,21 +3062,15 @@
      "score": 0.707
     },
     {
-     "name": "MUSC 4988: The Entrepreneurial Artist",
+     "name": "APRD 5012: Entrepreneurial Design",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.699
-    },
-    {
-     "name": "Off-Campus Resources",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.colorado.edu/innovate/off-campus-resources",
-     "score": 0.699
+     "score": 0.702
     }
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.715,
+   "topScore": 0.748,
    "weak": true
   },
   {
@@ -3200,16 +3200,16 @@
      "score": 0.602
     },
     {
-     "name": "Venture Partner Grants",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
-     "score": 0.585
-    },
-    {
      "name": "About Us",
      "category": "Entrepreneurial Training",
      "website": "https://colorado.edu/venturepartners/about",
      "score": 0.584
+    },
+    {
+     "name": "Venture Partner Grants",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
+     "score": 0.571
     },
     {
      "name": "Technology Portfolio",
@@ -3255,7 +3255,7 @@
      "name": "CESR Fellows",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/business/CESR",
-     "score": 0.557
+     "score": 0.561
     },
     {
      "name": "Professional Development Opportunities",
@@ -3267,7 +3267,7 @@
      "name": "CSCI 4348: Entrepreneurial Projects",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.534
+     "score": 0.536
     }
    ],
    "typeHit": true,
@@ -3342,39 +3342,39 @@
    },
    "top5": [
     {
-     "name": "Entrepreneurship Certificate (Undergraduate)",
-     "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/undergraduate/schools-colleges-departments/business-school/business-administration/entrepreneurship-certificate/",
-     "score": 0.533
+     "name": "Entrepreneurial Training",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/venturepartners/innovators/commercialization-academy",
+     "score": 0.437
     },
     {
-     "name": "Entrepreneurship Certificate (Graduate)",
-     "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/entrepreneurship-certificate/",
-     "score": 0.515
+     "name": "Startup Colorado Partners with Colorado Office of Just Transition to Support Coal Transition Workers Through Entrepreneurship - Startup Colo",
+     "category": "Entrepreneurship Hub",
+     "website": "https://startupcolorado.org/stories/startup-colorado-partners-with-colorado-ojt",
+     "score": 0.431
     },
     {
-     "name": "Entrepreneurship Minor",
+     "name": "Entrepreneurial Studies Certificate",
      "category": "Entrepreneurial Training",
-     "website": "https://business.ucdenver.edu/minors/entrepreneurship",
-     "score": 0.495
+     "website": "https://www.colorado.edu/innovate/programs-resources/entrepreneurial-studies-certificate",
+     "score": 0.431
     },
     {
-     "name": "International Entrepreneurship Certificate (Graduate)",
+     "name": "Certificate Frequently Asked Questions",
      "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/international-entrepreneurship-certificate/",
-     "score": 0.469
+     "website": "https://colorado.edu/business/deming/undergraduates/certificate-entrepreneurial-studies/certificate-frequently-asked-questions",
+     "score": 0.417
     },
     {
-     "name": "Entrepreneurship Specialization, MBA",
-     "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/business-administration/business-administration-mba/#degreerequirementstext",
-     "score": 0.462
+     "name": "Entrepreneurial Solutions",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/innovate/programs-resources/entrepreneurial-solutions",
+     "score": 0.413
     }
    ],
    "typeHit": false,
-   "orgHit": false,
-   "topScore": 0.533,
+   "orgHit": true,
+   "topScore": 0.437,
    "weak": true
   },
   {
@@ -3506,22 +3506,22 @@
      "score": 0.405
     },
     {
-     "name": "Startups2Students (S2S)",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.colorado.edu/innovate/startups2students-s2s",
-     "score": 0.405
-    },
-    {
-     "name": "Faculty Consulting",
-     "category": "Mentorship & Advising",
-     "website": "http://www.cuanschutz.edu/innovations/campus-innovator/faculty-consulting",
-     "score": 0.391
-    },
-    {
      "name": "Referral Disclaimer - Startup Colorado",
      "category": "Accelerator",
      "website": "https://startupcolorado.org/referral-disclaimer",
      "score": 0.39
+    },
+    {
+     "name": "Startups2Students (S2S)",
+     "category": "Entrepreneurship Hub",
+     "website": "https://www.colorado.edu/innovate/startups2students-s2s",
+     "score": 0.386
+    },
+    {
+     "name": "Venture Partners",
+     "category": "Entrepreneurial Training",
+     "website": "https://www.colorado.edu/researchinnovation/venture-partners",
+     "score": 0.376
     }
    ],
    "typeHit": true,
@@ -3549,19 +3549,7 @@
      "name": "Venture Partner Grants",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
-     "score": 0.675
-    },
-    {
-     "name": "Get Seed Funding",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/innovate/getseedfunding",
-     "score": 0.663
-    },
-    {
-     "name": "Embark",
-     "category": "Mentorship & Advising",
-     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
-     "score": 0.644
+     "score": 0.643
     },
     {
      "name": "Get Seed Funding Provides Financial Backing to Help Jumpstart Student Innovations",
@@ -3574,11 +3562,23 @@
      "category": "Events & Workshops",
      "website": "https://calendar.colorado.edu/group/venture_partners",
      "score": 0.638
+    },
+    {
+     "name": "Boulder Venture Club",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
+     "score": 0.635
+    },
+    {
+     "name": "Pitch your idea to Get Seed Funding",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/innovate/pitch-your-idea-get-seed-funding",
+     "score": 0.634
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.675,
+   "topScore": 0.643,
    "weak": false
   },
   {
@@ -3673,10 +3673,10 @@
      "score": 0.578
     },
     {
-     "name": "ENTP 3201: Power of Lean Startup",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.568
+     "name": "Getting started? Do these things first!",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/innovate/get-involved",
+     "score": 0.561
     }
    ],
    "typeHit": true,
@@ -3863,19 +3863,19 @@
      "name": "LaunchPad Mentor Network",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/innovate/support/mentorship",
-     "score": 0.529
+     "score": 0.521
+    },
+    {
+     "name": "Embark",
+     "category": "Mentorship & Advising",
+     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
+     "score": 0.494
     },
     {
      "name": "Professional Sales Mentor Program - Annual Meetup - University of Colorado Boulder",
      "category": "Entrepreneurial Training",
      "website": "https://calendar.colorado.edu/event/professional-sales-mentor-program-annual-meetup-444",
      "score": 0.489
-    },
-    {
-     "name": "Embark",
-     "category": "Mentorship & Advising",
-     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
-     "score": 0.486
     },
     {
      "name": "Join the Professional Mentorship Program",
@@ -3969,7 +3969,7 @@
      "name": "Entrepreneurship Center for Music",
      "category": "Entrepreneurship Hub",
      "website": "https://www.colorado.edu/music/academics/centers-and-programs/entrepreneurship-center-music",
-     "score": 0.432
+     "score": 0.435
     },
     {
      "name": "What’s Next: A Roadmap for Bringing Your Creative Business to Life - Startup Colorado",
@@ -4023,16 +4023,16 @@
      "score": 0.494
     },
     {
-     "name": "Startups & Sandwiches",
-     "category": "Events & Workshops",
-     "website": "https://www.colorado.edu/business/deming/entrepreneurship-events",
-     "score": 0.483
-    },
-    {
      "name": "Event Connect &mdash; Colorado Startups",
      "category": "Events & Workshops",
      "website": "https://coloradostartups.org/events",
      "score": 0.481
+    },
+    {
+     "name": "New Venture Challenge Events\n  \n  on August 11 - September 10, 2026 - University of Colorado Boulder",
+     "category": "Funding & Prizes",
+     "website": "https://calendar.colorado.edu/group/nvc/calendar",
+     "score": 0.478
     }
    ],
    "typeHit": true,
@@ -4060,36 +4060,36 @@
      "name": "Boulder Venture Club",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
-     "score": 0.61
-    },
-    {
-     "name": "Embark",
-     "category": "Mentorship & Advising",
-     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
-     "score": 0.58
-    },
-    {
-     "name": "ORGL 5320: Bldg & Ldng Innov Work Teams",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.565
+     "score": 0.623
     },
     {
      "name": "MBAE 6806: Global Business Experience",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.56
+     "score": 0.564
+    },
+    {
+     "name": "Embark",
+     "category": "Mentorship & Advising",
+     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
+     "score": 0.564
     },
     {
      "name": "Join a Venture or Find Partners",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/nvc/join-venture-or-find-partners",
      "score": 0.555
+    },
+    {
+     "name": "ORGL 5320: Bldg & Ldng Innov Work Teams",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.555
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.61,
+   "topScore": 0.623,
    "weak": false
   },
   {
@@ -4163,19 +4163,13 @@
      "name": "Boulder Startup Week 2026",
      "category": "Events & Workshops",
      "website": "https://boulderstartupweek.com/",
-     "score": 0.71
+     "score": 0.677
     },
     {
      "name": "Hackathons & Startup Weekends",
      "category": "Events & Workshops",
      "website": "https://www.colorado.edu/innovate/hackathons-startup-weekends",
      "score": 0.597
-    },
-    {
-     "name": "Startups & Sandwiches",
-     "category": "Events & Workshops",
-     "website": "https://www.colorado.edu/business/deming/entrepreneurship-events",
-     "score": 0.567
     },
     {
      "name": "Startups2Students - University of Colorado Boulder",
@@ -4188,11 +4182,17 @@
      "category": "Community & Networking",
      "website": "https://coloradostartups.org/startup-happy-hour",
      "score": 0.557
+    },
+    {
+     "name": "Colorado Startup Week",
+     "category": "Accelerator",
+     "website": "https://www.colorado.edu/innovate/programs-resources/denver-startup-week",
+     "score": 0.556
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.71,
+   "topScore": 0.677,
    "weak": false
   },
   {
@@ -4231,7 +4231,7 @@
      "name": "Silicon Flatirons",
      "category": "Entrepreneurial Training",
      "website": "https://siliconflatirons.org/",
-     "score": 0.431
+     "score": 0.429
     },
     {
      "name": "Transcript 2023-02-05 Flagship Conference",
@@ -4265,7 +4265,7 @@
      "name": "LaunchPad Mentor Network",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/innovate/support/mentorship",
-     "score": 0.65
+     "score": 0.645
     },
     {
      "name": "Professional Development Opportunities",
@@ -4294,7 +4294,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.65,
+   "topScore": 0.645,
    "weak": false
   },
   {
@@ -4417,40 +4417,40 @@
    },
    "top5": [
     {
-     "name": "Entrepreneurial Studies Certificate",
-     "category": "Entrepreneurial Training",
-     "website": "https://www.colorado.edu/innovate/programs-resources/entrepreneurial-studies-certificate",
-     "score": 0.703
-    },
-    {
      "name": "Certificate Frequently Asked Questions",
      "category": "Entrepreneurial Training",
      "website": "https://colorado.edu/business/deming/undergraduates/certificate-entrepreneurial-studies/certificate-frequently-asked-questions",
      "score": 0.691
     },
     {
+     "name": "Entrepreneurial Studies Certificate",
+     "category": "Entrepreneurial Training",
+     "website": "https://www.colorado.edu/innovate/programs-resources/entrepreneurial-studies-certificate",
+     "score": 0.691
+    },
+    {
+     "name": "Join the Professional Mentorship Program",
+     "category": "Accelerator",
+     "website": "https://colorado.edu/business/current-students/career/mentoring/professional",
+     "score": 0.653
+    },
+    {
      "name": "MBAE 6100: Entrepreneurship",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.669
+     "score": 0.64
     },
     {
      "name": "MBAX 6140: Social Entrepreneurship",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.653
-    },
-    {
-     "name": "MBAX 6101: Entrepreneurship",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.653
+     "score": 0.636
     }
    ],
-   "typeHit": false,
+   "typeHit": true,
    "orgHit": true,
-   "topScore": 0.703,
-   "weak": true
+   "topScore": 0.691,
+   "weak": false
   },
   {
    "persona": "c03",
@@ -4587,16 +4587,16 @@
      "score": 0.574
     },
     {
+     "name": "LaunchPad Mentor Network",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/innovate/support/mentorship",
+     "score": 0.571
+    },
+    {
      "name": "Join the Professional Mentorship Program",
      "category": "Accelerator",
      "website": "https://colorado.edu/business/current-students/career/mentoring/professional",
      "score": 0.568
-    },
-    {
-     "name": "LaunchPad Mentor Network",
-     "category": "Community & Networking",
-     "website": "https://www.colorado.edu/innovate/support/mentorship",
-     "score": 0.554
     }
    ],
    "typeHit": true,
@@ -4626,6 +4626,12 @@
      "score": 0.626
     },
     {
+     "name": "Boulder Venture Club",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
+     "score": 0.601
+    },
+    {
      "name": "Venture Partners at CU Boulder - University of Colorado Boulder",
      "category": "Events & Workshops",
      "website": "https://calendar.colorado.edu/group/venture_partners",
@@ -4636,12 +4642,6 @@
      "category": "Events & Workshops",
      "website": "https://calendar.colorado.edu/event/startups2students-jan29?amp%3Butm_medium=widget&amp%3Butm_source=University+of+Colorado+Boulder",
      "score": 0.598
-    },
-    {
-     "name": "Boulder Venture Club",
-     "category": "Community & Networking",
-     "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
-     "score": 0.586
     },
     {
      "name": "Innovation &amp; Entrepreneurship - University of Colorado Boulder",
@@ -4684,12 +4684,6 @@
      "score": 0.519
     },
     {
-     "name": "BOND Mentoring Program",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.cuanschutz.edu/offices/access-engagement/programs-and-initiatives/access-and-engagement/bond-mentoring-program",
-     "score": 0.505
-    },
-    {
      "name": "Events and Opportunities",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/nvc/schedule",
@@ -4700,6 +4694,12 @@
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/nvc/2025-nvc-competition-promo-kits",
      "score": 0.474
+    },
+    {
+     "name": "REGISTRATION OPENS on Feb. 8: NVC Women Founders Competition - University of Colorado Boulder",
+     "category": "Funding & Prizes",
+     "website": "https://calendar.colorado.edu/event/registration-opens-nvc-women-founders-competition",
+     "score": 0.473
     }
    ],
    "typeHit": true,
@@ -4724,39 +4724,39 @@
    },
    "top5": [
     {
-     "name": "APRD 5006: Design for Startups",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.602
-    },
-    {
      "name": "Entrepreneurs Unplugged: Bryn Rees, Venture Partners at CU Boulder",
      "category": "Events & Workshops",
      "website": "https://siliconflatirons.org/events/entrepreneurs-unplugged-bryn-rees_2024-03-19",
      "score": 0.596
     },
     {
-     "name": "CMCI 3202: Entrepreneurial Media",
+     "name": "APRD 5006: Design for Startups",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.579
-    },
-    {
-     "name": "BCOR 2304: Strategic and Entrepr Thinking",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.574
+     "score": 0.591
     },
     {
      "name": "APRD 5006: Design for Startups",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.573
+     "score": 0.584
+    },
+    {
+     "name": "CSCI 4348: Entrepreneurial Projects",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.584
+    },
+    {
+     "name": "CMCI 3202: Entrepreneurial Media",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.577
     }
    ],
    "typeHit": false,
    "orgHit": false,
-   "topScore": 0.602,
+   "topScore": 0.596,
    "weak": true
   },
   {
@@ -4846,7 +4846,7 @@
      "name": "Silicon Flatirons",
      "category": "Entrepreneurial Training",
      "website": "https://siliconflatirons.org/",
-     "score": 0.555
+     "score": 0.539
     },
     {
      "name": "Intellectual Property Initiative",
@@ -4893,16 +4893,16 @@
      "score": 0.538
     },
     {
+     "name": "Six teams kick off Catalyze CU startup accelerator",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/engineering/six-teams-kick-catalyze-cu-startup-accelerator",
+     "score": 0.474
+    },
+    {
      "name": "Catalyze",
      "category": "Mentorship & Advising",
      "website": "https://www.colorado.edu/catalyzecu/",
-     "score": 0.493
-    },
-    {
-     "name": "Faculty Consulting",
-     "category": "Mentorship & Advising",
-     "website": "http://www.cuanschutz.edu/innovations/campus-innovator/faculty-consulting",
-     "score": 0.479
+     "score": 0.465
     }
    ],
    "typeHit": true,
@@ -5033,7 +5033,7 @@
      "name": "Venture Partner Grants",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
-     "score": 0.678
+     "score": 0.671
     },
     {
      "name": "About Us",
@@ -5062,7 +5062,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.678,
+   "topScore": 0.671,
    "weak": false
   },
   {
@@ -5137,6 +5137,12 @@
      "score": 0.612
     },
     {
+     "name": "Research & Innovation Office",
+     "category": "Space & Resources",
+     "website": "https://www.colorado.edu/researchinnovation/node/8528/funding/rio-funding-limited-submission-opportunities",
+     "score": 0.544
+    },
+    {
      "name": "Research &amp; Innovation Office - University of Colorado Boulder",
      "category": "Events & Workshops",
      "website": "https://calendar.colorado.edu/group/rio",
@@ -5147,12 +5153,6 @@
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/researchinnovation/find-funding/resources/research-development-and-grantwriting-newsletters",
      "score": 0.528
-    },
-    {
-     "name": "Research & Innovation Office",
-     "category": "Space & Resources",
-     "website": "https://www.colorado.edu/researchinnovation/node/8528/funding/rio-funding-limited-submission-opportunities",
-     "score": 0.512
     },
     {
      "name": "Industry Pathways Workshop: Turning Research Strengths into New Funding Streams",
@@ -5238,12 +5238,6 @@
      "score": 0.485
     },
     {
-     "name": "Collaborative Workspaces",
-     "category": "Space & Resources",
-     "website": "https://news.ucdenver.edu/cu-denver-community-collaborative-research-center-empowers-communities/",
-     "score": 0.477
-    },
-    {
      "name": "Professional Development Opportunities",
      "category": "Funding & Prizes",
      "website": "https://colorado.edu/oce/funding-and-resources/professional-development/opportunities",
@@ -5253,13 +5247,19 @@
      "name": "LaunchPad Mentor Network",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/innovate/support/mentorship",
-     "score": 0.449
+     "score": 0.448
     },
     {
      "name": "Venture Partners at CU Boulder - University of Colorado Boulder",
      "category": "Events & Workshops",
      "website": "https://calendar.colorado.edu/group/venture_partners",
      "score": 0.448
+    },
+    {
+     "name": "Join a Venture or Find Partners",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/nvc/join-venture-or-find-partners",
+     "score": 0.436
     }
    ],
    "typeHit": true,
@@ -5285,7 +5285,7 @@
      "name": "New Venture Launch Class",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/business/deming/student-opportunities/new-venture-launch",
-     "score": 0.661
+     "score": 0.66
     },
     {
      "name": "Venture Partners at CU Boulder - University of Colorado Boulder",
@@ -5306,15 +5306,15 @@
      "score": 0.585
     },
     {
-     "name": "Venture Partner Grants",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
-     "score": 0.582
+     "name": "Licensing for University Innovators",
+     "category": "Mentorship & Advising",
+     "website": "https://colorado.edu/venturepartners/university-innovators/licensing-university-innovators",
+     "score": 0.571
     }
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.661,
+   "topScore": 0.66,
    "weak": true
   },
   {
@@ -5385,16 +5385,10 @@
    },
    "top5": [
     {
-     "name": "Get Seed Funding",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/innovate/getseedfunding",
-     "score": 0.47
-    },
-    {
-     "name": "Downtown Startup Ecosystem Access",
-     "category": "Space & Resources",
-     "website": "https://www.ucdenver.edu/about-cu-denver/innovation",
-     "score": 0.465
+     "name": "New Venture Launch Class",
+     "category": "Entrepreneurial Training",
+     "website": "https://www.colorado.edu/business/deming/student-opportunities/new-venture-launch",
+     "score": 0.461
     },
     {
      "name": "Startup Information",
@@ -5403,21 +5397,27 @@
      "score": 0.46
     },
     {
-     "name": "Buff Venture Fund",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/venturepartners/what-we-do/funding/buff-venture-fund",
-     "score": 0.457
-    },
-    {
      "name": "Awards & Grants",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/graduateschool/funding/awards-grants",
      "score": 0.456
+    },
+    {
+     "name": "Six teams kick off Catalyze CU startup accelerator",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/engineering/six-teams-kick-catalyze-cu-startup-accelerator",
+     "score": 0.456
+    },
+    {
+     "name": "Promo Kit: 2025 High School New Venture Challenge—powered by FirstBank",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/nvc/promo-kit-2025-high-school-new-venture-challenge-powered-firstbank",
+     "score": 0.454
     }
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.47,
+   "topScore": 0.461,
    "weak": true
   },
   {
@@ -5439,7 +5439,7 @@
      "name": "New Venture Launch Class",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/business/deming/student-opportunities/new-venture-launch",
-     "score": 0.7
+     "score": 0.697
     },
     {
      "name": "New Venture Launch",
@@ -5468,7 +5468,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.7,
+   "topScore": 0.697,
    "weak": false
   },
   {
@@ -5490,7 +5490,7 @@
      "name": "Buff Venture Fund",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/what-we-do/funding/buff-venture-fund",
-     "score": 0.501
+     "score": 0.503
     },
     {
      "name": "How do you secure financing for a small business? - Startup Colorado",
@@ -5505,21 +5505,21 @@
      "score": 0.494
     },
     {
+     "name": "Get Seed Funding",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/innovate/getseedfunding",
+     "score": 0.491
+    },
+    {
      "name": "Six teams kick off Catalyze CU startup accelerator",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/engineering/six-teams-kick-catalyze-cu-startup-accelerator",
      "score": 0.49
-    },
-    {
-     "name": "Get Seed Funding",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/innovate/getseedfunding",
-     "score": 0.488
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.501,
+   "topScore": 0.503,
    "weak": false
   },
   {
@@ -5542,36 +5542,36 @@
      "name": "ECON 4717: Economics of Entrepreneurship",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.586
+     "score": 0.585
     },
     {
-     "name": "EMEA 5092: Creating a Startup Business",
+     "name": "MBAX 6101: Entrepreneurship",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.579
+     "score": 0.572
+    },
+    {
+     "name": "INBU 4925: Entrepreneurship: South Africa",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.572
+    },
+    {
+     "name": "MBAX 6100: Entrepreneurship",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.57
     },
     {
      "name": "MGMT 4160: Managing Growth: Entrep High",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.577
-    },
-    {
-     "name": "MGMT 4160: Managing Growth:Entrep High",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.577
-    },
-    {
-     "name": "ENTP 4840: Entrepreneurship Ind Study",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.575
+     "score": 0.567
     }
    ],
    "typeHit": true,
    "orgHit": false,
-   "topScore": 0.586,
+   "topScore": 0.585,
    "weak": false
   },
   {
@@ -5597,16 +5597,16 @@
      "score": 0.548
     },
     {
+     "name": "LaunchPad Mentor Network",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/innovate/support/mentorship",
+     "score": 0.492
+    },
+    {
      "name": "Leeds Mentoring Programs",
      "category": "Accelerator",
      "website": "https://colorado.edu/business/current-students/career/mentoring",
      "score": 0.491
-    },
-    {
-     "name": "LaunchPad Mentor Network",
-     "category": "Community & Networking",
-     "website": "https://www.colorado.edu/innovate/support/mentorship",
-     "score": 0.461
     },
     {
      "name": "Navigating Business Transition and Growth Through Employee Ownership - Startup Colorado",
@@ -5759,16 +5759,16 @@
      "score": 0.526
     },
     {
-     "name": "Embark",
-     "category": "Mentorship & Advising",
-     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
-     "score": 0.522
+     "name": "Boulder Venture Club",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
+     "score": 0.508
     },
     {
-     "name": "CESR Fellows",
-     "category": "Community & Networking",
-     "website": "https://www.colorado.edu/business/CESR",
-     "score": 0.515
+     "name": "Administrative and Research Center - University of Colorado Boulder",
+     "category": "Funding & Prizes",
+     "website": "https://calendar.colorado.edu/administrative_and_research_center",
+     "score": 0.504
     }
    ],
    "typeHit": true,
@@ -5899,16 +5899,16 @@
      "score": 0.496
     },
     {
+     "name": "Community Impact Grants",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/oce/paces/funding",
+     "score": 0.447
+    },
+    {
      "name": "Awards & Grants",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/graduateschool/funding/awards-grants",
      "score": 0.446
-    },
-    {
-     "name": "Community Impact Grants",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/oce/paces/funding",
-     "score": 0.445
     },
     {
      "name": "Grants Selection Committee",
@@ -5961,10 +5961,10 @@
      "score": 0.445
     },
     {
-     "name": "MBAE 6091: Strategic Marketing I",
+     "name": "ENVM 5076: Entrepr and Appl Project Mgmt",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.435
+     "score": 0.437
     },
     {
      "name": "How to Launch Your Business - Startup Colorado",
@@ -6017,10 +6017,10 @@
      "score": 0.56
     },
     {
-     "name": "High School New Venture Challenge Finals",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/nvc/high-school-new-venture-challenge-finals",
-     "score": 0.551
+     "name": "ATLS 5240: Tech Social Impact Laboratory",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.556
     }
    ],
    "typeHit": true,
@@ -6046,19 +6046,7 @@
      "name": "Engineering Entrepreneurship Minor",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/innovate/programs-resources/engineering-entrepreneurship-minor",
-     "score": 0.455
-    },
-    {
-     "name": "Entrepreneurship Minor",
-     "category": "Entrepreneurial Training",
-     "website": "https://business.ucdenver.edu/minors/entrepreneurship",
-     "score": 0.414
-    },
-    {
-     "name": "Entrepreneurship Minor",
-     "category": "Entrepreneurial Training",
-     "website": "https://business.uccs.edu/academics/programs/entrepreneurship-minor-business-students",
-     "score": 0.382
+     "score": 0.433
     },
     {
      "name": "Caring for Denver – Youth Grants",
@@ -6070,13 +6058,25 @@
      "name": "Business Minor",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/business/academic-programs/minor-business",
-     "score": 0.379
+     "score": 0.375
+    },
+    {
+     "name": "Awards & Grants",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/graduateschool/funding/awards-grants",
+     "score": 0.374
+    },
+    {
+     "name": "Graduate School Funding Administration's General Form",
+     "category": "Funding & Prizes",
+     "website": "https://grad.apply.colorado.edu/register/GSfundingadmingeneralform",
+     "score": 0.369
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.455,
-   "weak": false
+   "topScore": 0.433,
+   "weak": true
   },
   {
    "persona": "c07",
@@ -6105,16 +6105,16 @@
      "score": 0.576
     },
     {
-     "name": "Catalyze",
-     "category": "Mentorship & Advising",
-     "website": "https://www.colorado.edu/catalyzecu/",
-     "score": 0.538
-    },
-    {
      "name": "Home",
      "category": "Accelerator",
      "website": "https://www.colorado.edu/innovate/programs-resources/catalyze-cu",
      "score": 0.531
+    },
+    {
+     "name": "Catalyze",
+     "category": "Mentorship & Advising",
+     "website": "https://www.colorado.edu/catalyzecu/",
+     "score": 0.52
     },
     {
      "name": "Alumni Startups",
@@ -6248,39 +6248,39 @@
    },
    "top5": [
     {
-     "name": "Entrepreneurship Curriculum",
-     "category": "Entrepreneurial Training",
-     "website": "https://business.uccs.edu/entrepreneurship-emphasis",
-     "score": 0.635
-    },
-    {
      "name": "Entrepreneurial Studies Certificate",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/innovate/programs-resources/entrepreneurial-studies-certificate",
-     "score": 0.62
-    },
-    {
-     "name": "Entrepreneurship Minor",
-     "category": "Entrepreneurial Training",
-     "website": "https://business.uccs.edu/academics/programs/entrepreneurship-minor-business-students",
-     "score": 0.608
-    },
-    {
-     "name": "Entrepreneurship Certificate (Undergraduate)",
-     "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/undergraduate/schools-colleges-departments/business-school/business-administration/entrepreneurship-certificate/",
-     "score": 0.606
+     "score": 0.618
     },
     {
      "name": "Certificate Frequently Asked Questions",
      "category": "Entrepreneurial Training",
      "website": "https://colorado.edu/business/deming/undergraduates/certificate-entrepreneurial-studies/certificate-frequently-asked-questions",
      "score": 0.605
+    },
+    {
+     "name": "Entrepreneurial Training",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/venturepartners/innovators/commercialization-academy",
+     "score": 0.563
+    },
+    {
+     "name": "Certificate in Entrepreneurial Studies",
+     "category": "Entrepreneurial Training",
+     "website": "https://www.colorado.edu/business/deming/undergraduates/certificate-entrepreneurial-studies",
+     "score": 0.562
+    },
+    {
+     "name": "MBAX 6100: Entrepreneurship",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.534
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.635,
+   "topScore": 0.618,
    "weak": false
   },
   {
@@ -6311,12 +6311,6 @@
      "score": 0.561
     },
     {
-     "name": "Quantum Certificate",
-     "category": "Entrepreneurial Training",
-     "website": "https://clas.ucdenver.edu/certificate-quantum-information-technologyy",
-     "score": 0.547
-    },
-    {
      "name": "Industry Engagement",
      "category": "Entrepreneurial Training",
      "website": "https://colorado.edu/initiative/cubit/industry-partners",
@@ -6327,6 +6321,12 @@
      "category": "Events & Workshops",
      "website": "https://innosphereventures.org/accelerators",
      "score": 0.464
+    },
+    {
+     "name": "NSF Q-AMASE-i (Enabling Quantum Leap: Convergent Accelerated Discovery Foundries for Quantum Materials Science, Engineering and Information)",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/researchinnovation/nsf-q-amase-i-enabling-quantum-leap-convergent-accelerated-discovery-foundries-quantum-materials",
+     "score": 0.463
     }
    ],
    "typeHit": false,
@@ -6353,13 +6353,13 @@
      "name": "LaunchPad Mentor Network",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/innovate/support/mentorship",
-     "score": 0.594
+     "score": 0.584
     },
     {
      "name": "Boulder Venture Club",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
-     "score": 0.547
+     "score": 0.539
     },
     {
      "name": "Join The Community - Startup Colorado",
@@ -6368,21 +6368,21 @@
      "score": 0.539
     },
     {
-     "name": "Downtown Startup Ecosystem Access",
-     "category": "Space & Resources",
-     "website": "https://www.ucdenver.edu/about-cu-denver/innovation",
-     "score": 0.536
-    },
-    {
      "name": "Startups2Students - University of Colorado Boulder",
      "category": "Events & Workshops",
      "website": "https://calendar.colorado.edu/event/startups2students-jan29?amp%3Butm_medium=widget&amp%3Butm_source=University+of+Colorado+Boulder",
      "score": 0.536
+    },
+    {
+     "name": "Join a Venture or Find Partners",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/nvc/join-venture-or-find-partners",
+     "score": 0.533
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.594,
+   "topScore": 0.584,
    "weak": false
   },
   {
@@ -6470,16 +6470,16 @@
      "score": 0.343
     },
     {
-     "name": "Startups & Sandwiches",
-     "category": "Events & Workshops",
-     "website": "https://www.colorado.edu/business/deming/entrepreneurship-events",
-     "score": 0.342
-    },
-    {
      "name": "New Events &mdash; Colorado Startups",
      "category": "Events & Workshops",
      "website": "https://coloradostartups.org/new-events-1",
      "score": 0.338
+    },
+    {
+     "name": "Public and Engaged Scholarship Faculty Meetup - University of Colorado Boulder",
+     "category": "Funding & Prizes",
+     "website": "https://calendar.colorado.edu/event/public-and-engaged-scholarship-faculty-meetup",
+     "score": 0.337
     }
    ],
    "typeHit": true,
@@ -6564,6 +6564,12 @@
      "score": 0.6
     },
     {
+     "name": "ATLS 6910: Social Impact Practicum",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.546
+    },
+    {
      "name": "Catalyst Competition",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/innovate/catalyst-competition",
@@ -6574,12 +6580,6 @@
      "category": "Funding & Prizes",
      "website": "https://calendar.colorado.edu/event/deadline-social-impact-new-venture-challenge-competition-registration?amp%3Butm_medium=widget&amp%3Butm_source=University+of+Colorado+Boulder",
      "score": 0.533
-    },
-    {
-     "name": "Competitions",
-     "category": "Funding & Prizes",
-     "website": "https://siliconflatirons.org/student-opportunities/competitions",
-     "score": 0.518
     }
    ],
    "typeHit": true,
@@ -6713,16 +6713,10 @@
      "score": 0.534
     },
     {
-     "name": "Downtown Startup Ecosystem Access",
-     "category": "Space & Resources",
-     "website": "https://www.ucdenver.edu/about-cu-denver/innovation",
-     "score": 0.515
-    },
-    {
-     "name": "Venture Partner Grants",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
-     "score": 0.511
+     "name": "CESR Fellows",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/business/CESR",
+     "score": 0.51
     },
     {
      "name": "Startup Colorado Teams Up with Naturally Colorado and CSU to Offer Food &amp; Ag Idea Factory - Startup Colorado",
@@ -6735,6 +6729,12 @@
      "category": "Accelerator",
      "website": "http://startupcolorado.org/programs",
      "score": 0.504
+    },
+    {
+     "name": "Licensing for University Innovators",
+     "category": "Mentorship & Advising",
+     "website": "https://colorado.edu/venturepartners/university-innovators/licensing-university-innovators",
+     "score": 0.503
     }
    ],
    "typeHit": true,
@@ -6965,7 +6965,7 @@
      "name": "Lab Venture Challenge",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
-     "score": 0.766
+     "score": 0.772
     },
     {
      "name": "Lab Venture Challenge - University of Colorado Boulder",
@@ -6994,7 +6994,7 @@
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.766,
+   "topScore": 0.772,
    "weak": true
   },
   {
@@ -7128,12 +7128,6 @@
      "score": 0.445
     },
     {
-     "name": "Bioinnovation and Entrepreneurship Certificate (Graduate)",
-     "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/business-administration/bioinnovation-entrepreneurship-certificate/",
-     "score": 0.444
-    },
-    {
      "name": "Entrepreneurs Unplugged: David Brown and David Cohen of Techstars",
      "category": "Events & Workshops",
      "website": "https://siliconflatirons.org/events/entrepreneurs-unplugged-david-brown-techstars-and-david-cohen-techstars",
@@ -7143,11 +7137,17 @@
      "name": "LAWS 7271: Ventur Cap & Priv Equity",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.433
+     "score": 0.431
+    },
+    {
+     "name": "The Future of the Founder Institute: A Letter from Adeo Ressi",
+     "category": "Entrepreneurship Hub",
+     "website": "https://www.colorado.edu/innovate/programs-resources/founder-institute",
+     "score": 0.43
     }
    ],
    "typeHit": false,
-   "orgHit": false,
+   "orgHit": true,
    "topScore": 0.463,
    "weak": true
   },
@@ -7223,7 +7223,7 @@
      "name": "Ascent Deep Tech Accelerator",
      "category": "Accelerator",
      "website": "https://www.colorado.edu/innovate/ascent-deep-tech-accelerator",
-     "score": 0.676
+     "score": 0.665
     },
     {
      "name": "Colorado&#039;s Rural Accelerators Drive Innovation and Opportunity - Startup Colorado",
@@ -7252,7 +7252,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.676,
+   "topScore": 0.665,
    "weak": false
   },
   {
@@ -7277,6 +7277,12 @@
      "score": 0.499
     },
     {
+     "name": "Embark",
+     "category": "Mentorship & Advising",
+     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
+     "score": 0.451
+    },
+    {
      "name": "NSF Research Traineeship Institutional Partnership Pilot",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/researchinnovation/nsf-research-traineeship-institutional-partnership-pilot",
@@ -7289,16 +7295,10 @@
      "score": 0.42
     },
     {
-     "name": "Meet your Future Employer at Startups2Students!",
-     "category": "Events & Workshops",
-     "website": "https://www.colorado.edu/innovate/meet-your-future-employer-startups2students",
-     "score": 0.401
-    },
-    {
-     "name": "Belonging Prospects Info Session - Startup Colorado",
-     "category": "Events & Workshops",
-     "website": "https://startupcolorado.org/event/belonging-prospects-info-session",
-     "score": 0.401
+     "name": "Startups2Students (S2S)",
+     "category": "Entrepreneurship Hub",
+     "website": "https://www.colorado.edu/innovate/startups2students-s2s",
+     "score": 0.407
     }
    ],
    "typeHit": true,
@@ -7398,10 +7398,10 @@
      "score": 0.501
     },
     {
-     "name": "Venture Studio Office Hours: Pre-Seed &amp; Seed Strategy - Startup Colorado",
+     "name": "Center for Translational Research",
      "category": "Funding & Prizes",
-     "website": "https://startupcolorado.org/event/venture-studio-office-hours-pre-seed-seed-strategy",
-     "score": 0.484
+     "website": "https://www.colorado.edu/venturepartners/funding-week",
+     "score": 0.492
     }
    ],
    "typeHit": true,
@@ -7479,28 +7479,28 @@
      "score": 0.417
     },
     {
-     "name": "Bioengineering Program",
-     "category": "Entrepreneurial Training",
-     "website": "https://engineering.ucdenver.edu/academics/departments/bioengineering",
-     "score": 0.38
-    },
-    {
      "name": "EPA Source Reduction Assistance Grant Program",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/researchinnovation/epa-source-reduction-assistance-grant-program",
      "score": 0.379
     },
     {
-     "name": "Brews and Biotech",
-     "category": "Events & Workshops",
-     "website": "https://www.cuanschutz.edu/services/academia-industry-alliance/events/brews-and-biotech",
-     "score": 0.366
-    },
-    {
      "name": "Cleantech Open National",
      "category": "Accelerator",
      "website": "https://www.colorado.edu/venturepartners/commercialization-resources/cleantech-open-accelerator",
      "score": 0.366
+    },
+    {
+     "name": "MCDB 3333: Biomed Innovations/Discoveries",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.355
+    },
+    {
+     "name": "BioFrontiers",
+     "category": "Entrepreneurial Training",
+     "website": "https://www.colorado.edu/biofrontiers/",
+     "score": 0.343
     }
    ],
    "typeHit": true,
@@ -7587,12 +7587,6 @@
      "score": 0.225
     },
     {
-     "name": "Company",
-     "category": "Mentorship & Advising",
-     "website": "http://www.cuanschutz.edu/innovations/innovations/industry-partner/company",
-     "score": 0.215
-    },
-    {
      "name": "Intellectual Property Initiative",
      "category": "Entrepreneurship Hub",
      "website": "https://siliconflatirons.org/initiatives/content-and-ip-initiative",
@@ -7603,6 +7597,12 @@
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/researchinnovation/nsf-cyberinfrastructure-technology-acceleration-pathway-citap",
      "score": 0.21
+    },
+    {
+     "name": "The Cable and Satellite Compulsory Copyright Licenses",
+     "category": "Mentorship & Advising",
+     "website": "https://siliconflatirons.org/publications/the-cable-and-satellite-compulsory-copyright-licenses-2",
+     "score": 0.205
     }
    ],
    "typeHit": true,
@@ -7636,13 +7636,7 @@
      "name": "Center for Translational Research",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/funding-week",
-     "score": 0.601
-    },
-    {
-     "name": "SSIR 1010: Innovating Sustainability",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.554
+     "score": 0.559
     },
     {
      "name": "Sustainability Hackathon - University of Colorado Boulder",
@@ -7655,6 +7649,12 @@
      "category": "Accelerator",
      "website": "https://www.colorado.edu/venturepartners/commercialization-resources/cleantech-open-accelerator",
      "score": 0.548
+    },
+    {
+     "name": "SSIR 1010: Innovating Sustainability",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.546
     }
    ],
    "typeHit": true,
@@ -7679,12 +7679,6 @@
    },
    "top5": [
     {
-     "name": "Quantum Certificate",
-     "category": "Entrepreneurial Training",
-     "website": "https://clas.ucdenver.edu/certificate-quantum-information-technologyy",
-     "score": 0.473
-    },
-    {
      "name": "2023-24 Awardees",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/initiative/cubit/industry-partners/oedit-translational-quantum-research-seed-grants/2023-24-awardees",
@@ -7707,12 +7701,18 @@
      "category": "Accelerator",
      "website": "https://startupcolorado.org/Founder-Coopetition",
      "score": 0.432
+    },
+    {
+     "name": "Innosphere’s facilities",
+     "category": "Events & Workshops",
+     "website": "https://innosphereventures.org/facilities",
+     "score": 0.429
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.473,
-   "weak": false
+   "topScore": 0.446,
+   "weak": true
   },
   {
    "persona": "f03",
@@ -7805,10 +7805,10 @@
      "score": 0.406
     },
     {
-     "name": "Quantum Certificate",
-     "category": "Entrepreneurial Training",
-     "website": "https://clas.ucdenver.edu/certificate-quantum-information-technologyy",
-     "score": 0.392
+     "name": "Patents and Licensing Opportunities for CU Bioscience Technologies",
+     "category": "Mentorship & Advising",
+     "website": "https://colorado.edu/venturepartners/technology-portfolio/biosciences",
+     "score": 0.38
     }
    ],
    "typeHit": true,
@@ -7842,7 +7842,7 @@
      "name": "Lab Venture Challenge",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
-     "score": 0.599
+     "score": 0.605
     },
     {
      "name": "2023-24 Awardees",
@@ -8007,16 +8007,16 @@
      "score": 0.552
     },
     {
-     "name": "grant.petersen@cuanschutz.edu",
+     "name": "Make a Gift and Translate Discovery into Impact",
      "category": "Funding & Prizes",
-     "website": "https://www.cuanschutz.edu/innovations/about-us/team/profile/Petersen-Grant-EXTER0KS4",
-     "score": 0.539
+     "website": "https://colorado.edu/venturepartners/make-gift-and-translate-discovery-impact",
+     "score": 0.522
     },
     {
-     "name": "Innovation Hub",
-     "category": "Other",
-     "website": "https://www.cuanschutz.edu/cu-innovations/cu-innovations/innovator-resources/innovation-hub",
-     "score": 0.526
+     "name": "Venture Partners at CU",
+     "category": "IP & Commercialization",
+     "website": "https://www.colorado.edu/venturepartners/",
+     "score": 0.52
     }
    ],
    "typeHit": true,
@@ -8100,7 +8100,7 @@
      "name": "Lab Venture Challenge",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
-     "score": 0.68
+     "score": 0.668
     },
     {
      "name": "New Venture Challenge Deep Tech Competition Finals",
@@ -8361,19 +8361,19 @@
      "name": "Entrepreneurial Studies Certificate",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/innovate/programs-resources/entrepreneurial-studies-certificate",
-     "score": 0.594
+     "score": 0.595
+    },
+    {
+     "name": "BPOL 7560: Doc. Sem. - Special Topics",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.546
     },
     {
      "name": "MBAX 6140: Social Entrepreneurship",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.556
-    },
-    {
-     "name": "MBAE 6100: Entrepreneurship",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.555
+     "score": 0.543
     }
    ],
    "typeHit": true,
@@ -8400,7 +8400,7 @@
      "name": "LaunchPad Mentor Network",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/innovate/support/mentorship",
-     "score": 0.623
+     "score": 0.651
     },
     {
      "name": "Advisor Program - Startup Colorado",
@@ -8429,7 +8429,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.623,
+   "topScore": 0.651,
    "weak": false
   },
   {
@@ -8563,12 +8563,6 @@
      "score": 0.327
     },
     {
-     "name": "Faculty Consulting",
-     "category": "Mentorship & Advising",
-     "website": "http://www.cuanschutz.edu/innovations/campus-innovator/faculty-consulting",
-     "score": 0.323
-    },
-    {
      "name": "Entrepreneurship Academic Interest Group",
      "category": "Accelerator",
      "website": "https://www.colorado.edu/emp/undergraduate-programs/entrepreneurship-academic-interest-group",
@@ -8579,9 +8573,15 @@
      "category": "Community & Networking",
      "website": "https://siliconflatirons.org/publications/boundary-jumping-understanding-the-value-of-modest-anarchy-in-entrepreneurial-networks-2",
      "score": 0.311
+    },
+    {
+     "name": "MBAE 6050: Executive Level Strategy",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.302
     }
    ],
-   "typeHit": true,
+   "typeHit": false,
    "orgHit": true,
    "topScore": 0.336,
    "weak": true
@@ -8672,16 +8672,16 @@
      "score": 0.463
     },
     {
-     "name": "maxwell.simon@cuanschutz.edu",
-     "category": "Funding & Prizes",
-     "website": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Simon-Maxwell-EXT06PH9Z",
-     "score": 0.463
-    },
-    {
      "name": "Boulder Climate Ventures Connects Leeds MBA Students to Climate Tech Innovation",
      "category": "Accelerator",
      "website": "https://www.colorado.edu/business/cesr/insights-news/boulder-climate-ventures-connects-leeds-mba-students-climate-tech-innovation",
      "score": 0.461
+    },
+    {
+     "name": "William T. Grant Scholars",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/researchinnovation/william-t-grant-scholars-program",
+     "score": 0.46
     }
    ],
    "typeHit": false,
@@ -8707,7 +8707,7 @@
      "name": "Lab Venture Challenge",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
-     "score": 0.66
+     "score": 0.679
     },
     {
      "name": "Lab Venture Challenge Opportunities for Support",
@@ -8736,7 +8736,7 @@
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.66,
+   "topScore": 0.679,
    "weak": true
   },
   {
@@ -8808,39 +8808,39 @@
    },
    "top5": [
     {
-     "name": "Anschutz Acceleration Initiative",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.cuanschutz.edu/chancellor/anschutz-acceleration-initiative",
-     "score": 0.754
-    },
-    {
-     "name": "Announcing the Anschutz Acceleration Initiative",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.cuanschutz.edu/chancellor/messages/communiques/announcing-the-anschutz-acceleration-initiative",
-     "score": 0.734
-    },
-    {
-     "name": "Update on Anschutz Acceleration Initiative",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.cuanschutz.edu/chancellor/messages/communiques/update-on-anschutz-acceleration-initiative",
-     "score": 0.713
-    },
-    {
-     "name": "Announcing Anschutz Acceleration Initiative Awardees - 1/8/24",
+     "name": "The BMO Fellowship",
      "category": "Funding & Prizes",
-     "website": "https://www.cuanschutz.edu/chancellor/messages/communiques/announcing-anschutz-acceleration-initiative-awardees",
-     "score": 0.709
+     "website": "https://watson.is/bmo-fellowship",
+     "score": 0.472
     },
     {
-     "name": "Funding Resources",
+     "name": "2024 AB Nexus Grant Awards",
      "category": "Funding & Prizes",
-     "website": "http://www.cuanschutz.edu/innovations/campus-innovator/funding",
-     "score": 0.607
+     "website": "http://colorado.edu/research/abnexus/grant-awardees/2024-ab-nexus-grant-awards",
+     "score": 0.461
+    },
+    {
+     "name": "2023 AB Nexus Grant Awards",
+     "category": "Funding & Prizes",
+     "website": "http://colorado.edu/research/abnexus/grant-awardees/2023-ab-nexus-grant-awards",
+     "score": 0.461
+    },
+    {
+     "name": "Funding",
+     "category": "Funding & Prizes",
+     "website": "https://colorado.edu/business/phd/funding",
+     "score": 0.455
+    },
+    {
+     "name": "The 2026 Halloran Fellowship",
+     "category": "Funding & Prizes",
+     "website": "https://watson.is/halloranfellowship",
+     "score": 0.451
     }
    ],
    "typeHit": true,
-   "orgHit": true,
-   "topScore": 0.754,
+   "orgHit": false,
+   "topScore": 0.472,
    "weak": false
   },
   {
@@ -8857,12 +8857,6 @@
     "note": "Should surface CU Innovations' Faculty Consulting service specifically."
    },
    "top5": [
-    {
-     "name": "Faculty Consulting",
-     "category": "Mentorship & Advising",
-     "website": "http://www.cuanschutz.edu/innovations/campus-innovator/faculty-consulting",
-     "score": 0.675
-    },
     {
      "name": "Consultations and Presentations",
      "category": "Funding & Prizes",
@@ -8882,16 +8876,22 @@
      "score": 0.532
     },
     {
-     "name": "Faculty Resources",
-     "category": "Other",
-     "website": "http://www.cuanschutz.edu/innovations/campus-innovator/faculty-or-researcher",
-     "score": 0.527
+     "name": "Professional Development Opportunities",
+     "category": "Funding & Prizes",
+     "website": "https://colorado.edu/oce/funding-and-resources/professional-development/opportunities",
+     "score": 0.511
+    },
+    {
+     "name": "Communication Resources",
+     "category": "Funding & Prizes",
+     "website": "https://colorado.edu/oce/paces/funding-and-resources/tools/communication-resources",
+     "score": 0.507
     }
    ],
-   "typeHit": true,
-   "orgHit": true,
-   "topScore": 0.675,
-   "weak": false
+   "typeHit": false,
+   "orgHit": false,
+   "topScore": 0.588,
+   "weak": true
   },
   {
    "persona": "f06",
@@ -8919,7 +8919,7 @@
      "name": "Center for Translational Research",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/funding-week",
-     "score": 0.374
+     "score": 0.387
     },
     {
      "name": "Licensing with EASE for Entrepreneurs and Startups",
@@ -8934,10 +8934,10 @@
      "score": 0.336
     },
     {
-     "name": "BSBT 6802: Reg Env Life Sci - Drug Disc",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.319
+     "name": "Software Licensing - FAQ",
+     "category": "Entrepreneurship Hub",
+     "website": "https://oit.colorado.edu/services/software-licensing/faq",
+     "score": 0.309
     }
    ],
    "typeHit": true,
@@ -8974,22 +8974,22 @@
      "score": 0.657
     },
     {
-     "name": "Venture Partners",
-     "category": "Entrepreneurial Training",
-     "website": "https://www.colorado.edu/researchinnovation/venture-partners",
-     "score": 0.643
-    },
-    {
      "name": "Boulder Venture Club",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
-     "score": 0.641
+     "score": 0.648
+    },
+    {
+     "name": "About the Innovation & Entrepreneurship Initiative",
+     "category": "Entrepreneurship Hub",
+     "website": "https://colorado.edu/innovate/about",
+     "score": 0.621
     },
     {
      "name": "Venture Partner Grants",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
-     "score": 0.641
+     "score": 0.619
     }
    ],
    "typeHit": false,
@@ -9081,16 +9081,16 @@
      "score": 0.629
     },
     {
-     "name": "Lab Venture Challenge",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
-     "score": 0.611
-    },
-    {
      "name": "New Venture Challenge Deep Tech Competition Finals - University of Colorado Boulder",
      "category": "Funding & Prizes",
      "website": "https://calendar.colorado.edu/event/new_venture_challenge_deep_tech_competition_finals",
      "score": 0.606
+    },
+    {
+     "name": "About the New Venture Challenge (NVC)",
+     "category": "Funding & Prizes",
+     "website": "https://colorado.edu/nvc/about",
+     "score": 0.598
     }
    ],
    "typeHit": false,
@@ -9237,13 +9237,13 @@
      "name": "Creative Labs Center",
      "category": "Space & Resources",
      "website": "https://www.colorado.edu/envd/facilities-labs/creative-labs-center",
-     "score": 0.54
+     "score": 0.538
     },
     {
-     "name": "The Garage Space",
-     "category": "Space & Resources",
-     "website": "https://garageatuccs.com/",
-     "score": 0.521
+     "name": "Patrick Maguire",
+     "category": "Entrepreneurial Training",
+     "website": "http://colorado.edu/ideaforge/people/patrick-maguire",
+     "score": 0.517
     }
    ],
    "typeHit": true,
@@ -9269,7 +9269,7 @@
      "name": "Lab Venture Challenge",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
-     "score": 0.573
+     "score": 0.574
     },
     {
      "name": "Lab Venture Challenge - University of Colorado Boulder",
@@ -9298,7 +9298,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.573,
+   "topScore": 0.574,
    "weak": false
   },
   {
@@ -9375,12 +9375,6 @@
      "score": 0.662
     },
     {
-     "name": "Lab Venture Challenge",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
-     "score": 0.611
-    },
-    {
      "name": "Catalyze CU",
      "category": "Accelerator",
      "website": "",
@@ -9397,6 +9391,12 @@
      "category": "Accelerator",
      "website": "http://colorado.edu/catalyzecu/support",
      "score": 0.597
+    },
+    {
+     "name": "Lab Venture Challenge",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
+     "score": 0.589
     }
    ],
    "typeHit": true,
@@ -9524,16 +9524,16 @@
    },
    "top5": [
     {
+     "name": "LaunchPad Mentor Network",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/innovate/support/mentorship",
+     "score": 0.571
+    },
+    {
      "name": "Professional Sales Mentor Program - Annual Meetup - University of Colorado Boulder",
      "category": "Entrepreneurial Training",
      "website": "https://calendar.colorado.edu/event/professional-sales-mentor-program-annual-meetup-444",
      "score": 0.552
-    },
-    {
-     "name": "LaunchPad Mentor Network",
-     "category": "Community & Networking",
-     "website": "https://www.colorado.edu/innovate/support/mentorship",
-     "score": 0.544
     },
     {
      "name": "Leeds Mentoring Programs",
@@ -9556,7 +9556,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.552,
+   "topScore": 0.571,
    "weak": false
   },
   {
@@ -9583,7 +9583,7 @@
      "name": "Lab Venture Challenge",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
-     "score": 0.695
+     "score": 0.699
     },
     {
      "name": "Lab Venture Challenge Opportunities for Support",
@@ -9696,16 +9696,16 @@
      "score": 0.444
     },
     {
+     "name": "Lab Venture Challenge",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
+     "score": 0.441
+    },
+    {
      "name": "Leeds Mentoring Programs",
      "category": "Accelerator",
      "website": "https://colorado.edu/business/current-students/career/mentoring",
      "score": 0.439
-    },
-    {
-     "name": "Frequently Asked Questions",
-     "category": "Funding & Prizes",
-     "website": "https://colorado.edu/oce/funding-and-resources/engaged-scholarship-grants/frequently-asked-questions",
-     "score": 0.426
     }
    ],
    "typeHit": true,
@@ -9755,7 +9755,7 @@
      "name": "Silicon Flatirons",
      "category": "Entrepreneurial Training",
      "website": "https://siliconflatirons.org/",
-     "score": 0.48
+     "score": 0.467
     }
    ],
    "typeHit": true,
@@ -9891,7 +9891,7 @@
      "name": "Center for Translational Research",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/funding-week",
-     "score": 0.618
+     "score": 0.608
     },
     {
      "name": "About Us",
@@ -10034,39 +10034,39 @@
    },
    "top5": [
     {
-     "name": "Entrepreneurship Minor",
-     "category": "Entrepreneurial Training",
-     "website": "https://business.uccs.edu/academics/programs/entrepreneurship-minor-business-students",
-     "score": 0.451
-    },
-    {
      "name": "Engineering Entrepreneurship Minor",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/innovate/programs-resources/engineering-entrepreneurship-minor",
-     "score": 0.427
+     "score": 0.411
     },
     {
-     "name": "Entrepreneurship Minor",
+     "name": "Entrepreneurial Studies Certificate",
      "category": "Entrepreneurial Training",
-     "website": "https://business.ucdenver.edu/minors/entrepreneurship",
-     "score": 0.419
+     "website": "https://www.colorado.edu/innovate/programs-resources/entrepreneurial-studies-certificate",
+     "score": 0.384
     },
     {
-     "name": "International Entrepreneurship Certificate (Graduate)",
-     "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/international-entrepreneurship-certificate/",
-     "score": 0.403
+     "name": "Startup Summer",
+     "category": "Accelerator",
+     "website": "https://www.colorado.edu/innovate/programs-resources/startup-summer",
+     "score": 0.375
     },
     {
-     "name": "Entrepreneurship Certificate (Undergraduate)",
+     "name": "Off-Campus Resources",
+     "category": "Entrepreneurship Hub",
+     "website": "https://www.colorado.edu/innovate/off-campus-resources",
+     "score": 0.374
+    },
+    {
+     "name": "Certificate Frequently Asked Questions",
      "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/undergraduate/schools-colleges-departments/business-school/business-administration/entrepreneurship-certificate/",
-     "score": 0.395
+     "website": "https://colorado.edu/business/deming/undergraduates/certificate-entrepreneurial-studies/certificate-frequently-asked-questions",
+     "score": 0.367
     }
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.451,
+   "topScore": 0.411,
    "weak": true
   },
   {
@@ -10094,7 +10094,7 @@
      "name": "Ascent Deep Tech Accelerator",
      "category": "Accelerator",
      "website": "https://www.colorado.edu/innovate/ascent-deep-tech-accelerator",
-     "score": 0.534
+     "score": 0.529
     },
     {
      "name": "Become a Catalyze CU Partner",
@@ -10244,28 +10244,28 @@
      "score": 0.495
     },
     {
-     "name": "EPOD 3105: Humn Centrd Dsgn Entrshp Strat",
+     "name": "CSCI 4348: Entrepreneurial Projects",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.488
-    },
-    {
-     "name": "CSCI 4358: Entrepreneurial Projects II",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.473
-    },
-    {
-     "name": "GEEN 3400: Invention and Innovation",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.473
+     "score": 0.48
     },
     {
      "name": "APRD 5006: Design for Startups",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.47
+     "score": 0.48
+    },
+    {
+     "name": "CMCI 3202: Entrepreneurial Media",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.476
+    },
+    {
+     "name": "APRD 5012: Entrepreneurial Design",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.473
     }
    ],
    "typeHit": false,
@@ -10292,13 +10292,13 @@
      "name": "Boulder Climate Ventures",
      "category": "Accelerator",
      "website": "https://colorado.edu/innovate/boulder-climate-ventures",
-     "score": 0.599
+     "score": 0.588
     },
     {
      "name": "SSIR 1010: Innovating Sustainability",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.585
+     "score": 0.587
     },
     {
      "name": "Colorado Climate Week - Startup Colorado",
@@ -10310,7 +10310,7 @@
      "name": "EPOD 3105: Humn Centrd Dsgn Entrshp Strat",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.551
+     "score": 0.543
     },
     {
      "name": "Sustainability Hackathon - University of Colorado Boulder",
@@ -10321,7 +10321,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.599,
+   "topScore": 0.588,
    "weak": false
   },
   {
@@ -10361,7 +10361,7 @@
      "name": "Get Seed Funding",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/innovate/getseedfunding",
-     "score": 0.523
+     "score": 0.521
     },
     {
      "name": "Edward Mallinckrodt, Jr. Foundation Grants",
@@ -10404,22 +10404,22 @@
      "score": 0.387
     },
     {
-     "name": "BIOL 2040: PLTW - Biomedical Innovation",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.383
-    },
-    {
      "name": "Patents and Licensing Opportunities for CU Bioscience Technologies",
      "category": "Mentorship & Advising",
      "website": "https://colorado.edu/venturepartners/technology-portfolio/biosciences",
      "score": 0.376
     },
     {
-     "name": "BIOE 1020: BIOE Design and Proto II",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.366
+     "name": "Nicole R. Stone",
+     "category": "Mentorship & Advising",
+     "website": "https://colorado.edu/venturepartners/about/people/nicole-r-stone",
+     "score": 0.36
+    },
+    {
+     "name": "Arpeggio Biosciences Inc.",
+     "category": "Community & Networking",
+     "website": "https://colorado.edu/venturepartners/arpeggio-biosciences-inc",
+     "score": 0.349
     }
    ],
    "typeHit": true,
@@ -10504,13 +10504,13 @@
      "name": "Center for Translational Research",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/funding-week",
-     "score": 0.636
+     "score": 0.617
     },
     {
-     "name": "BIOE 5300: Med Device Entrepreneurship",
+     "name": "MCDB 3333: Biomed Innovations/Discoveries",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.521
+     "score": 0.522
     },
     {
      "name": "SBA Federal and State Technology Partnership Program (FAST)",
@@ -10519,10 +10519,10 @@
      "score": 0.519
     },
     {
-     "name": "BIOE 4300: Medical Device Design and Ent",
+     "name": "EMEA 5093: Frg, Fdg Lg Strtp Comp",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.519
+     "score": 0.492
     }
    ],
    "typeHit": true,
@@ -10557,22 +10557,22 @@
      "score": 0.548
     },
     {
-     "name": "Fellowships",
-     "category": "Funding & Prizes",
-     "website": "http://www.cuanschutz.edu/innovations/student/fellowships",
-     "score": 0.535
-    },
-    {
      "name": "Center for Translational Research",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/funding-week",
-     "score": 0.532
+     "score": 0.522
     },
     {
      "name": "Sarah Hughes",
      "category": "Entrepreneurship Hub",
      "website": "https://colorado.edu/venturepartners/about/people/sarah-hughes",
      "score": 0.499
+    },
+    {
+     "name": "Fellowships and Student Research Grants",
+     "category": "Funding & Prizes",
+     "website": "https://colorado.edu/ocg/fellowships",
+     "score": 0.49
     }
    ],
    "typeHit": true,
@@ -10651,13 +10651,7 @@
      "name": "Boulder Venture Club",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
-     "score": 0.596
-    },
-    {
-     "name": "Boulder Startup Week 2026",
-     "category": "Events & Workshops",
-     "website": "https://boulderstartupweek.com/",
-     "score": 0.592
+     "score": 0.621
     },
     {
      "name": "Join a Venture or Find Partners",
@@ -10672,15 +10666,21 @@
      "score": 0.576
     },
     {
-     "name": "CESR Fellows",
-     "category": "Community & Networking",
-     "website": "https://www.colorado.edu/business/CESR",
-     "score": 0.573
+     "name": "MUSC 5988: The Entrepreneurial Artist",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.568
+    },
+    {
+     "name": "Venture Partners at CU Boulder - University of Colorado Boulder",
+     "category": "Events & Workshops",
+     "website": "https://calendar.colorado.edu/group/venture_partners",
+     "score": 0.568
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.596,
+   "topScore": 0.621,
    "weak": false
   },
   {
@@ -11005,12 +11005,6 @@
    },
    "top5": [
     {
-     "name": "Quantum Certificate",
-     "category": "Entrepreneurial Training",
-     "website": "https://clas.ucdenver.edu/certificate-quantum-information-technologyy",
-     "score": 0.625
-    },
-    {
      "name": "Startup Colorado Partners with Colorado Office of Just Transition to Support Coal Transition Workers Through Entrepreneurship - Startup Colo",
      "category": "Entrepreneurship Hub",
      "website": "https://startupcolorado.org/stories/startup-colorado-partners-with-colorado-ojt",
@@ -11033,11 +11027,17 @@
      "category": "Mentorship & Advising",
      "website": "https://colorado.edu/venturepartners/about/people/joshua-bennett",
      "score": 0.499
+    },
+    {
+     "name": "Industry Engagement",
+     "category": "Entrepreneurial Training",
+     "website": "https://colorado.edu/initiative/cubit/industry-partners",
+     "score": 0.498
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.625,
+   "topScore": 0.523,
    "weak": false
   },
   {
@@ -11074,16 +11074,16 @@
      "score": 0.348
     },
     {
-     "name": "Quantum Certificate",
-     "category": "Entrepreneurial Training",
-     "website": "https://clas.ucdenver.edu/certificate-quantum-information-technologyy",
-     "score": 0.343
-    },
-    {
      "name": "NSF Q-AMASE-i (Enabling Quantum Leap: Convergent Accelerated Discovery Foundries for Quantum Materials Science, Engineering and Information)",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/researchinnovation/nsf-q-amase-i-enabling-quantum-leap-convergent-accelerated-discovery-foundries-quantum-materials",
      "score": 0.329
+    },
+    {
+     "name": "2023-24 Awardees",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/initiative/cubit/industry-partners/oedit-translational-quantum-research-seed-grants/2023-24-awardees",
+     "score": 0.322
     }
    ],
    "typeHit": true,
@@ -11117,7 +11117,7 @@
      "name": "Venture Partner Grants",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
-     "score": 0.508
+     "score": 0.501
     },
     {
      "name": "About Us",
@@ -11166,28 +11166,28 @@
      "score": 0.618
     },
     {
-     "name": "Get Seed Funding",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/innovate/getseedfunding",
-     "score": 0.586
-    },
-    {
      "name": "OEDIT Translational Quantum Research Seed Grants",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/initiative/cubit/oedit-translational-quantum-research-seed-grants",
      "score": 0.585
     },
     {
-     "name": "Buff Venture Fund",
+     "name": "Get Seed Funding",
      "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/venturepartners/what-we-do/funding/buff-venture-fund",
-     "score": 0.585
+     "website": "https://www.colorado.edu/innovate/getseedfunding",
+     "score": 0.58
     },
     {
      "name": "2023-24 Awardees",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/initiative/cubit/industry-partners/oedit-translational-quantum-research-seed-grants/2023-24-awardees",
      "score": 0.577
+    },
+    {
+     "name": "Buff Venture Fund",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/venturepartners/what-we-do/funding/buff-venture-fund",
+     "score": 0.573
     }
    ],
    "typeHit": true,
@@ -11222,12 +11222,6 @@
      "score": 0.415
     },
     {
-     "name": "Quantum Certificate",
-     "category": "Entrepreneurial Training",
-     "website": "https://clas.ucdenver.edu/certificate-quantum-information-technologyy",
-     "score": 0.41
-    },
-    {
      "name": "DOE Accelerated Research in Quantum Computing",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/researchinnovation/doe-accelerated-research-quantum-computing",
@@ -11238,6 +11232,12 @@
      "category": "Mentorship & Advising",
      "website": "https://colorado.edu/venturepartners/about/people/joshua-bennett",
      "score": 0.398
+    },
+    {
+     "name": "2023-24 Awardees",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/initiative/cubit/industry-partners/oedit-translational-quantum-research-seed-grants/2023-24-awardees",
+     "score": 0.39
     }
    ],
    "typeHit": false,
@@ -11311,39 +11311,39 @@
    },
    "top5": [
     {
-     "name": "Entrepreneurship Certificate (Graduate)",
-     "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/entrepreneurship-certificate/",
-     "score": 0.443
-    },
-    {
-     "name": "ENTP 6024: The Startup Launch",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.434
-    },
-    {
-     "name": "Startup Summer",
-     "category": "Accelerator",
-     "website": "https://www.colorado.edu/innovate/programs-resources/startup-summer",
-     "score": 0.432
-    },
-    {
-     "name": "EMEA 5092: Creating a Startup Business",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.43
-    },
-    {
      "name": "Meet your Future Employer at Startups2Students!",
      "category": "Events & Workshops",
      "website": "https://www.colorado.edu/innovate/meet-your-future-employer-startups2students",
      "score": 0.43
+    },
+    {
+     "name": "Navigating Business Transition and Growth Through Employee Ownership - Startup Colorado",
+     "category": "Events & Workshops",
+     "website": "https://startupcolorado.org/event/passing-the-torch-navigating-business-transition-and-growth-through-employee-ownership",
+     "score": 0.424
+    },
+    {
+     "name": "How to Launch Your Business - Startup Colorado",
+     "category": "Events & Workshops",
+     "website": "https://startupcolorado.org/event/how-to-launch-your-business",
+     "score": 0.419
+    },
+    {
+     "name": "Capital Bootcamp: What Lenders Look at and How to Prepare - Startup Colorado",
+     "category": "Funding & Prizes",
+     "website": "https://startupcolorado.org/event/capital-bootcamp-a-step-by-step-technical-guide-to-prepare-for-state-lending-opportunities",
+     "score": 0.418
+    },
+    {
+     "name": "RMMFI Business Idea Lab - Startup Colorado",
+     "category": "Events & Workshops",
+     "website": "https://startupcolorado.org/event/rmmfi-business-idea-lab",
+     "score": 0.417
     }
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.443,
+   "topScore": 0.43,
    "weak": true
   },
   {
@@ -11364,36 +11364,36 @@
      "name": "New Venture Launch Class",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/business/deming/student-opportunities/new-venture-launch",
-     "score": 0.678
+     "score": 0.677
     },
     {
      "name": "MBAX 6180: New Venture Launch",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.616
-    },
-    {
-     "name": "MBAX 6170: New Venture Creation",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.602
+     "score": 0.606
     },
     {
      "name": "MBAX 6171: New Venture Creation",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.594
+     "score": 0.601
     },
     {
      "name": "New Venture Launch",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/innovate/programs-resources/new-venture-launch-class",
      "score": 0.591
+    },
+    {
+     "name": "MBAX 6100: Entrepreneurship",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.57
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.678,
+   "topScore": 0.677,
    "weak": false
   },
   {
@@ -11417,28 +11417,28 @@
      "score": 0.656
     },
     {
-     "name": "SPARK Awards",
-     "category": "Funding & Prizes",
-     "website": "https://www.cuanschutz.edu/innovations/spark/about-spark/spark-award",
-     "score": 0.592
+     "name": "Leeds Peer2Peer Mentoring Program",
+     "category": "Accelerator",
+     "website": "https://leedsmentoring.colorado.edu/p/p2p/pages/734",
+     "score": 0.436
     },
     {
-     "name": "What We Fund",
-     "category": "Funding & Prizes",
-     "website": "https://www.cuanschutz.edu/innovations/spark/about-spark/what-we-fund",
-     "score": 0.571
+     "name": "Young Alumni Mentors Program",
+     "category": "Accelerator",
+     "website": "https://colorado.edu/business/current-students/career/mentoring/young-alumni-mentors-program",
+     "score": 0.426
     },
     {
-     "name": "Our Funding Sources",
-     "category": "Funding & Prizes",
-     "website": "https://www.cuanschutz.edu/innovations/spark/about-spark/funding-sources",
-     "score": 0.533
+     "name": "Leeds Mentoring Programs",
+     "category": "Accelerator",
+     "website": "https://colorado.edu/business/current-students/career/mentoring",
+     "score": 0.424
     },
     {
-     "name": "Calendar",
-     "category": "Events & Workshops",
-     "website": "https://www.cuanschutz.edu/innovations/spark/events/calendar",
-     "score": 0.519
+     "name": "Join the Professional Mentorship Program",
+     "category": "Accelerator",
+     "website": "https://colorado.edu/business/current-students/career/mentoring/professional",
+     "score": 0.412
     }
    ],
    "typeHit": true,
@@ -11466,37 +11466,37 @@
      "name": "MBAX 6140: Social Entrepreneurship",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.513
+     "score": 0.506
     },
     {
-     "name": "MBAE 6581: Aligning People w Strategy I",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.51
+     "name": "Entrepreneurs Unplugged: Bryn Rees, Venture Partners at CU Boulder",
+     "category": "Events & Workshops",
+     "website": "https://siliconflatirons.org/events/entrepreneurs-unplugged-bryn-rees_2024-03-19",
+     "score": 0.503
     },
     {
-     "name": "MBAE 6582: Aligning People w Strategy II",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.509
-    },
-    {
-     "name": "MBAX 6110: Entrepeneurial Finance",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.508
+     "name": "Meet Sara Jennings of Orion Labs - Founder Coopetition Winner - Startup Colorado",
+     "category": "Funding & Prizes",
+     "website": "https://startupcolorado.org/stories/meet-sara-jennings-of-orion-labs-founder-coopetition-winner",
+     "score": 0.5
     },
     {
      "name": "MBAX 6961: Ind Study Entrepreneur",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.507
+     "score": 0.498
+    },
+    {
+     "name": "MBAE 6581: Aligning People w Strategy I",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.497
     }
    ],
-   "typeHit": false,
+   "typeHit": true,
    "orgHit": false,
-   "topScore": 0.513,
-   "weak": true
+   "topScore": 0.506,
+   "weak": false
   },
   {
    "persona": "g05",
@@ -11567,7 +11567,7 @@
      "name": "Entrepreneurial Studies Certificate",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/innovate/programs-resources/entrepreneurial-studies-certificate",
-     "score": 0.76
+     "score": 0.769
     },
     {
      "name": "Certificate in Entrepreneurial Studies",
@@ -11582,21 +11582,21 @@
      "score": 0.735
     },
     {
-     "name": "Entrepreneurship Certificate (Undergraduate)",
+     "name": "MBAX 6281: E-Valuation and Investment 2",
      "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/undergraduate/schools-colleges-departments/business-school/business-administration/entrepreneurship-certificate/",
-     "score": 0.659
+     "website": "",
+     "score": 0.536
     },
     {
-     "name": "Entrepreneurship Certificate (Graduate)",
+     "name": "CSCI 5350: Entrepreneurial Projects II",
      "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/entrepreneurship-certificate/",
-     "score": 0.652
+     "website": "",
+     "score": 0.534
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.76,
+   "topScore": 0.769,
    "weak": false
   },
   {
@@ -11635,7 +11635,7 @@
      "name": "Silicon Flatirons",
      "category": "Entrepreneurial Training",
      "website": "https://siliconflatirons.org/",
-     "score": 0.577
+     "score": 0.582
     },
     {
      "name": "History of the Annual Flagship Conference",
@@ -11723,6 +11723,12 @@
      "score": 0.405
     },
     {
+     "name": "Venture Partners",
+     "category": "Entrepreneurial Training",
+     "website": "https://www.colorado.edu/researchinnovation/venture-partners",
+     "score": 0.404
+    },
+    {
      "name": "Founder Coopetition Launches to Support Rural Entrepreneurs - Startup Colorado",
      "category": "Funding & Prizes",
      "website": "https://startupcolorado.org/stories/founder-coopetition-launches-to-support-rural-entrepreneurs",
@@ -11738,12 +11744,6 @@
      "name": "Meet the February Founder Coopetition Cohort - Startup Colorado",
      "category": "Community & Networking",
      "website": "https://startupcolorado.org/stories/february-founder-coopetition-cohort",
-     "score": 0.382
-    },
-    {
-     "name": "Boundary Jumping: Understanding the Value of Modest Anarchy in Entrepreneurial Networks",
-     "category": "Community & Networking",
-     "website": "https://siliconflatirons.org/publications/boundary-jumping-understanding-the-value-of-modest-anarchy-in-entrepreneurial-networks-2",
      "score": 0.382
     }
    ],
@@ -11771,7 +11771,7 @@
      "name": "Boulder Climate Ventures",
      "category": "Accelerator",
      "website": "https://colorado.edu/innovate/boulder-climate-ventures",
-     "score": 0.701
+     "score": 0.715
     },
     {
      "name": "Boulder Climate Ventures Connects Leeds MBA Students to Climate Tech Innovation",
@@ -11800,7 +11800,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.701,
+   "topScore": 0.715,
    "weak": false
   },
   {
@@ -12122,22 +12122,10 @@
    },
    "top5": [
     {
-     "name": "Anschutz Acceleration Initiative",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.cuanschutz.edu/chancellor/anschutz-acceleration-initiative",
-     "score": 0.672
-    },
-    {
      "name": "Tuesday Talks - University of Colorado Boulder",
      "category": "Funding & Prizes",
      "website": "https://calendar.colorado.edu/event/tuesday_talks_5733",
      "score": 0.578
-    },
-    {
-     "name": "Announcing Anschutz Acceleration Initiative Awardees - 1/8/24",
-     "category": "Funding & Prizes",
-     "website": "https://www.cuanschutz.edu/chancellor/messages/communiques/announcing-anschutz-acceleration-initiative-awardees",
-     "score": 0.568
     },
     {
      "name": "Research &amp; Innovation Office - University of Colorado Boulder",
@@ -12150,12 +12138,24 @@
      "category": "Funding & Prizes",
      "website": "https://calendar.colorado.edu/administrative_and_research_center",
      "score": 0.561
+    },
+    {
+     "name": "Embark",
+     "category": "Mentorship & Advising",
+     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
+     "score": 0.554
+    },
+    {
+     "name": "The ATLAS Institute",
+     "category": "Space & Resources",
+     "website": "https://www.colorado.edu/atlas/",
+     "score": 0.541
     }
    ],
-   "typeHit": true,
-   "orgHit": true,
-   "topScore": 0.672,
-   "weak": false
+   "typeHit": false,
+   "orgHit": false,
+   "topScore": 0.578,
+   "weak": true
   },
   {
    "persona": "g07",
@@ -12172,40 +12172,40 @@
    },
    "top5": [
     {
-     "name": "Faculty Consulting",
-     "category": "Mentorship & Advising",
-     "website": "http://www.cuanschutz.edu/innovations/campus-innovator/faculty-consulting",
-     "score": 0.703
+     "name": "Research &amp; Innovation Office - University of Colorado Boulder",
+     "category": "Events & Workshops",
+     "website": "https://calendar.colorado.edu/group/rio",
+     "score": 0.486
     },
     {
-     "name": "Company",
-     "category": "Mentorship & Advising",
-     "website": "http://www.cuanschutz.edu/innovations/innovations/industry-partner/company",
-     "score": 0.554
-    },
-    {
-     "name": "Fellowships",
+     "name": "Research &amp; Innovation Office of Contracts and Grants - University of Colorado Boulder",
      "category": "Funding & Prizes",
-     "website": "http://www.cuanschutz.edu/innovations/student/fellowships",
-     "score": 0.537
+     "website": "https://calendar.colorado.edu/group/office_of_contracts_and_grants",
+     "score": 0.485
     },
     {
-     "name": "Entrepreneur or Investor",
-     "category": "Mentorship & Advising",
-     "website": "http://www.cuanschutz.edu/innovations/industry-partner/entrepreneur-investor",
-     "score": 0.496
+     "name": "Venture Partners at CU Boulder - University of Colorado Boulder",
+     "category": "Events & Workshops",
+     "website": "https://calendar.colorado.edu/group/venture_partners",
+     "score": 0.473
     },
     {
-     "name": "Funding Resources",
+     "name": "Frequently Asked Questions (FAQ)",
+     "category": "Entrepreneurship Hub",
+     "website": "https://www.colorado.edu/center/teaching-learning/programs-services/innovation-incubator/innovation-incubator-call-participate/frequently-asked",
+     "score": 0.472
+    },
+    {
+     "name": "Consultations and Presentations",
      "category": "Funding & Prizes",
-     "website": "http://www.cuanschutz.edu/innovations/campus-innovator/funding",
-     "score": 0.496
+     "website": "https://colorado.edu/oce/funding-and-resources/tools/consultations-and-presentations",
+     "score": 0.467
     }
    ],
-   "typeHit": true,
-   "orgHit": true,
-   "topScore": 0.703,
-   "weak": false
+   "typeHit": false,
+   "orgHit": false,
+   "topScore": 0.486,
+   "weak": true
   },
   {
    "persona": "g07",
@@ -12230,28 +12230,28 @@
      "score": 0.402
     },
     {
-     "name": "Contractor License Verification",
-     "category": "Mentorship & Advising",
-     "website": "https://www.cuanschutz.edu/offices/facilities-management/construction-projects/contractors-and-consultants/contractor-license-verification",
-     "score": 0.4
-    },
-    {
-     "name": "Startups2Students (S2S)",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.colorado.edu/innovate/startups2students-s2s",
-     "score": 0.395
-    },
-    {
      "name": "Research &amp; Innovation Office - University of Colorado Boulder",
      "category": "Events & Workshops",
      "website": "https://calendar.colorado.edu/group/rio",
      "score": 0.394
     },
     {
-     "name": "Faculty Resources",
-     "category": "Other",
-     "website": "http://www.cuanschutz.edu/innovations/campus-innovator/faculty-or-researcher",
-     "score": 0.391
+     "name": "Startups2Students (S2S)",
+     "category": "Entrepreneurship Hub",
+     "website": "https://www.colorado.edu/innovate/startups2students-s2s",
+     "score": 0.388
+    },
+    {
+     "name": "Startup Socials &mdash; Colorado Startups",
+     "category": "Community & Networking",
+     "website": "https://coloradostartups.org/startup-happy-hour",
+     "score": 0.379
+    },
+    {
+     "name": "Lynn Pae",
+     "category": "Mentorship & Advising",
+     "website": "https://colorado.edu/venturepartners/about/people/lynn-pae",
+     "score": 0.376
     }
    ],
    "typeHit": true,
@@ -12276,18 +12276,6 @@
    },
    "top5": [
     {
-     "name": "CU Healthcare Innovation Fund",
-     "category": "Funding & Prizes",
-     "website": "http://www.cuanschutz.edu/innovations/campus-innovator/funding/cu-healthcare-innovation-fund",
-     "score": 0.492
-    },
-    {
-     "name": "Our Funding Sources",
-     "category": "Funding & Prizes",
-     "website": "https://www.cuanschutz.edu/innovations/spark/about-spark/funding-sources",
-     "score": 0.475
-    },
-    {
      "name": "Colorado State Grants and Tax Incentives Explained - Startup Colorado",
      "category": "Funding & Prizes",
      "website": "https://startupcolorado.org/colorado-state-grants-and-tax-incentives-explained",
@@ -12304,11 +12292,23 @@
      "category": "Funding & Prizes",
      "website": "https://calendar.colorado.edu/event/workshop-series-securing-external-funding-for-public-and-community-engaged-scholarship",
      "score": 0.463
+    },
+    {
+     "name": "Breast Cancer Alliance Research Grants",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/researchinnovation/breast-cancer-alliance-research-grants",
+     "score": 0.457
+    },
+    {
+     "name": "Exploring Funding Pathways with Real Stories from Entrepreneurs - Startup Colorado",
+     "category": "Funding & Prizes",
+     "website": "https://startupcolorado.org/stories/exploring-funding-pathways",
+     "score": 0.452
     }
    ],
    "typeHit": true,
-   "orgHit": true,
-   "topScore": 0.492,
+   "orgHit": false,
+   "topScore": 0.473,
    "weak": false
   },
   {
@@ -12339,12 +12339,6 @@
      "score": 0.328
     },
     {
-     "name": "JTCM 6600: Communication and Innovation",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.322
-    },
-    {
      "name": "The BMO Fellowship",
      "category": "Funding & Prizes",
      "website": "https://watson.is/bmo-fellowship",
@@ -12355,6 +12349,12 @@
      "category": "Funding & Prizes",
      "website": "https://calendar.colorado.edu/event/new-venture-challenge-entity-formation-workshop-1176?amp%3Butm_medium=widget&amp%3Butm_source=University+of+Colorado+Boulder",
      "score": 0.305
+    },
+    {
+     "name": "Technical Guide: Hiring - Startup Colorado",
+     "category": "Entrepreneurship Hub",
+     "website": "https://startupcolorado.org/resource-center/workforce-development-resource-hub/technical-guide-for-hiring",
+     "score": 0.304
     }
    ],
    "typeHit": false,
@@ -12399,13 +12399,13 @@
      "name": "EPOD 3105: Humn Centrd Dsgn Entrshp Strat",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.46
+     "score": 0.463
     },
     {
      "name": "Startups2Students (S2S)",
      "category": "Entrepreneurship Hub",
      "website": "https://www.colorado.edu/innovate/startups2students-s2s",
-     "score": 0.456
+     "score": 0.449
     }
    ],
    "typeHit": true,
@@ -12442,22 +12442,22 @@
      "score": 0.63
     },
     {
-     "name": "Entrepreneurship Certificate (Graduate)",
-     "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/entrepreneurship-certificate/",
-     "score": 0.609
+     "name": "The BMO Fellowship",
+     "category": "Funding & Prizes",
+     "website": "https://watson.is/bmo-fellowship",
+     "score": 0.586
     },
     {
-     "name": "PUAD 5180: Social Entrepreneurship",
+     "name": "CSCI 5350: Entrepreneurial Projects II",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.605
+     "score": 0.57
     },
     {
-     "name": "Entrepreneurship Certificate (Undergraduate)",
+     "name": "MBAE 6100: Entrepreneurship",
      "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/undergraduate/schools-colleges-departments/business-school/business-administration/entrepreneurship-certificate/",
-     "score": 0.599
+     "website": "",
+     "score": 0.567
     }
    ],
    "typeHit": true,
@@ -12584,21 +12584,9 @@
    },
    "top5": [
     {
-     "name": "Venture Partner Grants",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
-     "score": 0.549
-    },
-    {
      "name": "America’s Seed Fund – NSF SBIR/STTR",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/americas-seed-fund-sbirsttr-grants",
-     "score": 0.542
-    },
-    {
-     "name": "Get Seed Funding",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/innovate/getseedfunding",
      "score": 0.542
     },
     {
@@ -12612,11 +12600,23 @@
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/researchinnovation/halliburton-foundation-grants",
      "score": 0.538
+    },
+    {
+     "name": "Venture Partner Grants",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
+     "score": 0.532
+    },
+    {
+     "name": "Get Seed Funding",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/innovate/getseedfunding",
+     "score": 0.526
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.549,
+   "topScore": 0.542,
    "weak": false
   },
   {
@@ -12893,7 +12893,7 @@
      "name": "LaunchPad Mentor Network",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/innovate/support/mentorship",
-     "score": 0.546
+     "score": 0.552
     },
     {
      "name": "On-Campus Resources",
@@ -12905,24 +12905,24 @@
      "name": "Startups2Students (S2S)",
      "category": "Entrepreneurship Hub",
      "website": "https://www.colorado.edu/innovate/startups2students-s2s",
-     "score": 0.506
+     "score": 0.51
     },
     {
-     "name": "APRD 5006: Design for Startups",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.506
+     "name": "Startups2Students - University of Colorado Boulder",
+     "category": "Events & Workshops",
+     "website": "https://calendar.colorado.edu/event/startups2students-jan29?amp%3Butm_medium=widget&amp%3Butm_source=University+of+Colorado+Boulder",
+     "score": 0.481
     },
     {
      "name": "EMEA 5091: Getting Started with Startups",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.498
+     "score": 0.48
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.546,
+   "topScore": 0.552,
    "weak": false
   },
   {
@@ -12941,12 +12941,6 @@
    },
    "top5": [
     {
-     "name": "Collaborative Workspaces",
-     "category": "Space & Resources",
-     "website": "https://news.ucdenver.edu/cu-denver-community-collaborative-research-center-empowers-communities/",
-     "score": 0.597
-    },
-    {
      "name": "Idea Forge",
      "category": "Space & Resources",
      "website": "https://www.colorado.edu/ideaforge/",
@@ -12956,7 +12950,7 @@
      "name": "Creative Labs Center",
      "category": "Space & Resources",
      "website": "https://www.colorado.edu/envd/facilities-labs/creative-labs-center",
-     "score": 0.535
+     "score": 0.52
     },
     {
      "name": "On-Campus Resources",
@@ -12965,15 +12959,21 @@
      "score": 0.506
     },
     {
-     "name": "Inworks Innovation Initiative",
+     "name": "Off-Campus Resources",
+     "category": "Entrepreneurship Hub",
+     "website": "https://www.colorado.edu/innovate/off-campus-resources",
+     "score": 0.464
+    },
+    {
+     "name": "Research & Innovation Office",
      "category": "Space & Resources",
-     "website": "https://engineering.ucdenver.edu/inworks/home--anschutz-medical-campus",
-     "score": 0.481
+     "website": "https://www.colorado.edu/researchinnovation/node/8528/funding/rio-funding-limited-submission-opportunities",
+     "score": 0.455
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.597,
+   "topScore": 0.543,
    "weak": false
   },
   {
@@ -12991,6 +12991,12 @@
    },
    "top5": [
     {
+     "name": "Hack CU",
+     "category": "Events & Workshops",
+     "website": "https://www.hackcu.org/",
+     "score": 0.463
+    },
+    {
      "name": "Inclusive by Design - Startup Colorado",
      "category": "Events & Workshops",
      "website": "https://startupcolorado.org/event/inclusive-by-design",
@@ -13003,28 +13009,22 @@
      "score": 0.444
     },
     {
-     "name": "Hack CU",
-     "category": "Events & Workshops",
-     "website": "https://www.hackcu.org/",
-     "score": 0.438
-    },
-    {
-     "name": "Innovation Workshop Series",
-     "category": "Events & Workshops",
-     "website": "https://www.colorado.edu/business/deming/entrepreneurship-events",
-     "score": 0.427
-    },
-    {
      "name": "New Venture Challenge Events\n  \n  on August 11 - September 10, 2026 - University of Colorado Boulder",
      "category": "Funding & Prizes",
      "website": "https://calendar.colorado.edu/group/nvc/calendar",
      "score": 0.423
+    },
+    {
+     "name": "Research &amp; Innovation Office - University of Colorado Boulder",
+     "category": "Events & Workshops",
+     "website": "https://calendar.colorado.edu/group/rio",
+     "score": 0.41
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.446,
-   "weak": true
+   "topScore": 0.463,
+   "weak": false
   },
   {
    "persona": "g09",
@@ -13045,7 +13045,7 @@
      "name": "The ATLAS Institute",
      "category": "Space & Resources",
      "website": "https://www.colorado.edu/atlas/",
-     "score": 0.657
+     "score": 0.66
     },
     {
      "name": "ATLAS Institute",
@@ -13063,18 +13063,18 @@
      "name": "MBAE 6806: Global Business Experience",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.517
+     "score": 0.524
     },
     {
      "name": "MBAE 6480: M&A and Corporate Development",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.513
+     "score": 0.515
     }
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.657,
+   "topScore": 0.66,
    "weak": true
   },
   {
@@ -13094,39 +13094,39 @@
    },
    "top5": [
     {
-     "name": "IWKS 2100: Human Centered Design",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.544
-    },
-    {
-     "name": "IWKS 3180: Choose Your Own Adventure",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.535
-    },
-    {
      "name": "Startups2Students - University of Colorado Boulder",
      "category": "Events & Workshops",
      "website": "https://calendar.colorado.edu/event/startups2students-jan29?amp%3Butm_medium=widget&amp%3Butm_source=University+of+Colorado+Boulder",
      "score": 0.532
     },
     {
-     "name": "MECH 1200: Fund ENGR Design Innovation",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.531
+     "name": "Meet Sara Jennings of Orion Labs - Founder Coopetition Winner - Startup Colorado",
+     "category": "Funding & Prizes",
+     "website": "https://startupcolorado.org/stories/meet-sara-jennings-of-orion-labs-founder-coopetition-winner",
+     "score": 0.507
     },
     {
-     "name": "ELEC 1201: Fund ENGR Design Innovation",
+     "name": "APRD 5002: Experience Design Foundations",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.525
+     "score": 0.505
+    },
+    {
+     "name": "APRD 5004: Interaction Design",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.505
+    },
+    {
+     "name": "High School New Venture Challenge Final—powered by FirstBank - University of Colorado Boulder",
+     "category": "Funding & Prizes",
+     "website": "https://calendar.colorado.edu/event/high-school-new-venture-challengepowered-by-firstbankcompetition-final",
+     "score": 0.5
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.544,
+   "topScore": 0.532,
    "weak": false
   },
   {
@@ -13198,7 +13198,7 @@
      "name": "Entrepreneurial Law Clinic",
      "category": "Mentorship & Advising",
      "website": "https://www.colorado.edu/law/academics/clinics/entrepreneurial-law-clinic",
-     "score": 0.759
+     "score": 0.742
     },
     {
      "name": "Entrepreneurial Solutions",
@@ -13210,7 +13210,7 @@
      "name": "LAWS 7619: Entrepreneurial Law Clin",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.589
+     "score": 0.592
     },
     {
      "name": "Startup Colorado Partners with Colorado Office of Just Transition to Support Coal Transition Workers Through Entrepreneurship - Startup Colo",
@@ -13227,7 +13227,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.759,
+   "topScore": 0.742,
    "weak": false
   },
   {
@@ -13251,16 +13251,16 @@
      "score": 0.702
     },
     {
+     "name": "Silicon Flatirons",
+     "category": "Entrepreneurial Training",
+     "website": "https://siliconflatirons.org/",
+     "score": 0.574
+    },
+    {
      "name": "Competitions",
      "category": "Funding & Prizes",
      "website": "https://siliconflatirons.org/student-opportunities/competitions",
      "score": 0.574
-    },
-    {
-     "name": "Silicon Flatirons",
-     "category": "Entrepreneurial Training",
-     "website": "https://siliconflatirons.org/",
-     "score": 0.564
     },
     {
      "name": "2025 Startup Summer Pitch Night",
@@ -13296,16 +13296,16 @@
    },
    "top5": [
     {
+     "name": "Venture Partners",
+     "category": "Entrepreneurial Training",
+     "website": "https://www.colorado.edu/researchinnovation/venture-partners",
+     "score": 0.62
+    },
+    {
      "name": "Licensing for University Innovators",
      "category": "Mentorship & Advising",
      "website": "https://colorado.edu/venturepartners/university-innovators/licensing-university-innovators",
      "score": 0.587
-    },
-    {
-     "name": "Venture Partners",
-     "category": "Entrepreneurial Training",
-     "website": "https://www.colorado.edu/researchinnovation/venture-partners",
-     "score": 0.586
     },
     {
      "name": "Licensing for Industry",
@@ -13328,7 +13328,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.587,
+   "topScore": 0.62,
    "weak": false
   },
   {
@@ -13351,7 +13351,7 @@
      "name": "Entrepreneurial Law Clinic",
      "category": "Mentorship & Advising",
      "website": "https://www.colorado.edu/law/academics/clinics/entrepreneurial-law-clinic",
-     "score": 0.506
+     "score": 0.498
     },
     {
      "name": "Join a Venture or Find Partners",
@@ -13366,21 +13366,21 @@
      "score": 0.394
     },
     {
-     "name": "BLAW 2010: Bus/Intellectual Property Law",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.393
-    },
-    {
      "name": "Meet Our Current 2023-26 Teams",
      "category": "Entrepreneurship Hub",
      "website": "https://www.colorado.edu/center/teaching-learning/programs-services/faculty-learning-collaboration-hub/innovation-incubator/meet-our-current-2023-26",
      "score": 0.379
+    },
+    {
+     "name": "NIH Collaborative Program Grant for Multidisciplinary Teams (RM1) (Clinical Trial Not Allowed)",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/researchinnovation/nih-collaborative-program-grant-multidisciplinary-teams-rm1",
+     "score": 0.371
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.506,
+   "topScore": 0.498,
    "weak": false
   },
   {
@@ -13397,6 +13397,12 @@
     "note": "Should surface the 2026 Flagship Conference registration/admission info."
    },
    "top5": [
+    {
+     "name": "Silicon Flatirons",
+     "category": "Entrepreneurial Training",
+     "website": "https://siliconflatirons.org/",
+     "score": 0.662
+    },
     {
      "name": "Transcript 2023-02-05 Flagship Conference",
      "category": "Events & Workshops",
@@ -13416,12 +13422,6 @@
      "score": 0.647
     },
     {
-     "name": "Silicon Flatirons",
-     "category": "Entrepreneurial Training",
-     "website": "https://siliconflatirons.org/",
-     "score": 0.646
-    },
-    {
      "name": "History of the Annual Flagship Conference",
      "category": "Events & Workshops",
      "website": "https://siliconflatirons.org/initiatives/technology-policy/silicon-flatirons-annual-flagship-conference",
@@ -13430,7 +13430,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.659,
+   "topScore": 0.662,
    "weak": false
   },
   {
@@ -13449,27 +13449,9 @@
    },
    "top5": [
     {
-     "name": "APRD 5006: Design for Startups",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.506
-    },
-    {
-     "name": "EMEA 5092: Creating a Startup Business",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.503
-    },
-    {
      "name": "Startup Colorado Announces First Founder CO-OPetition Cohort - Startup Colorado",
      "category": "Funding & Prizes",
      "website": "https://startupcolorado.org/stories/startup-colorado-announces-first-founder-co-opetition-cohort",
-     "score": 0.498
-    },
-    {
-     "name": "EMEA 5091: Getting Started with Startups",
-     "category": "Entrepreneurial Training",
-     "website": "",
      "score": 0.498
     },
     {
@@ -13477,11 +13459,29 @@
      "category": "Community & Networking",
      "website": "https://startupcolorado.org/stories/meet-the-founders-october-coopetition-cohort",
      "score": 0.497
+    },
+    {
+     "name": "Founder Coopetition - Startup Colorado",
+     "category": "Accelerator",
+     "website": "https://startupcolorado.org/Founder-Coopetition",
+     "score": 0.496
+    },
+    {
+     "name": "Startup Information",
+     "category": "Funding & Prizes",
+     "website": "http://colorado.edu/dcvf/startup-information",
+     "score": 0.496
+    },
+    {
+     "name": "APRD 5006: Design for Startups",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.495
     }
    ],
    "typeHit": false,
-   "orgHit": false,
-   "topScore": 0.506,
+   "orgHit": true,
+   "topScore": 0.498,
    "weak": true
   },
   {
@@ -13506,16 +13506,16 @@
      "score": 0.71
     },
     {
+     "name": "Silicon Flatirons",
+     "category": "Entrepreneurial Training",
+     "website": "https://siliconflatirons.org/",
+     "score": 0.662
+    },
+    {
      "name": "History of the Annual Flagship Conference",
      "category": "Events & Workshops",
      "website": "https://siliconflatirons.org/initiatives/technology-policy/silicon-flatirons-annual-flagship-conference",
      "score": 0.651
-    },
-    {
-     "name": "Silicon Flatirons",
-     "category": "Entrepreneurial Training",
-     "website": "https://siliconflatirons.org/",
-     "score": 0.648
     },
     {
      "name": "The End of Scarcity, Open Architecture, and the Future of Broadband Competition Policy",
@@ -13609,12 +13609,6 @@
      "score": 0.558
     },
     {
-     "name": "Startup Summer",
-     "category": "Accelerator",
-     "website": "https://www.colorado.edu/innovate/programs-resources/startup-summer",
-     "score": 0.545
-    },
-    {
      "name": "How do you secure financing for a small business? - Startup Colorado",
      "category": "Funding & Prizes",
      "website": "https://startupcolorado.org/financing-a-small-business",
@@ -13625,6 +13619,12 @@
      "category": "Funding & Prizes",
      "website": "https://startupcolorado.org/stories/exploring-funding-pathways",
      "score": 0.535
+    },
+    {
+     "name": "Startup Summer",
+     "category": "Accelerator",
+     "website": "https://www.colorado.edu/innovate/programs-resources/startup-summer",
+     "score": 0.532
     },
     {
      "name": "Past Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 3 &#8211; Startup Colorado",
@@ -13655,16 +13655,16 @@
    },
    "top5": [
     {
-     "name": "Boulder Venture Club",
-     "category": "Community & Networking",
-     "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
-     "score": 0.468
-    },
-    {
      "name": "Meet Our Current 2023-26 Teams",
      "category": "Entrepreneurship Hub",
      "website": "https://www.colorado.edu/center/teaching-learning/programs-services/faculty-learning-collaboration-hub/innovation-incubator/meet-our-current-2023-26",
      "score": 0.464
+    },
+    {
+     "name": "Boulder Venture Club",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
+     "score": 0.46
     },
     {
      "name": "Past Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 3 &#8211; Startup Colorado",
@@ -13679,15 +13679,15 @@
      "score": 0.442
     },
     {
-     "name": "Young Americans Center Virtual Town Hall: Financial Literacy and Entrepreneurship Programming - Startup Colorado",
+     "name": "Hack CU",
      "category": "Events & Workshops",
-     "website": "https://startupcolorado.org/event/young-americans-center-virtual-town-hall-financial-literacy-and-entrepreneurship-programming",
+     "website": "https://www.hackcu.org/",
      "score": 0.437
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.468,
+   "topScore": 0.464,
    "weak": false
   },
   {
@@ -13767,7 +13767,7 @@
      "name": "Startup Summer",
      "category": "Accelerator",
      "website": "https://www.colorado.edu/innovate/programs-resources/startup-summer",
-     "score": 0.488
+     "score": 0.477
     },
     {
      "name": "Pitch your idea to Get Seed Funding",
@@ -13825,7 +13825,7 @@
      "name": "Lab Venture Challenge",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
-     "score": 0.44
+     "score": 0.442
     },
     {
      "name": "Six teams kick off Catalyze CU startup accelerator",
@@ -13874,22 +13874,22 @@
      "score": 0.567
     },
     {
-     "name": "ECE 4211: Rapid Prototyping with FPGAs",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.499
+     "name": "Idea Forge",
+     "category": "Space & Resources",
+     "website": "https://www.colorado.edu/ideaforge/",
+     "score": 0.484
     },
     {
-     "name": "MECH 1200: Fund ENGR Design Innovation",
+     "name": "APRD 5018: Innovative Tech for Design",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.497
+     "score": 0.479
     },
     {
-     "name": "IWKS 2300: Fund Computational Innovation",
+     "name": "APRD 5006: Design for Startups",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.497
+     "score": 0.45
     }
    ],
    "typeHit": true,
@@ -14033,7 +14033,7 @@
      "name": "Lab Venture Challenge",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
-     "score": 0.44
+     "score": 0.442
     },
     {
      "name": "Six teams kick off Catalyze CU startup accelerator",
@@ -14079,7 +14079,7 @@
      "name": "Embark",
      "category": "Mentorship & Advising",
      "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
-     "score": 0.534
+     "score": 0.523
     },
     {
      "name": "Graduate School Student Travel Grant",
@@ -14088,10 +14088,10 @@
      "score": 0.521
     },
     {
-     "name": "Community Impact Grants",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/oce/paces/funding",
-     "score": 0.52
+     "name": "APRD 5006: Design for Startups",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.518
     },
     {
      "name": "Grants Selection Committee",
@@ -14225,36 +14225,36 @@
      "name": "Startup Summer",
      "category": "Accelerator",
      "website": "https://www.colorado.edu/innovate/programs-resources/startup-summer",
-     "score": 0.486
-    },
-    {
-     "name": "International Entrepreneurship Certificate (Graduate)",
-     "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/international-entrepreneurship-certificate/",
-     "score": 0.466
+     "score": 0.471
     },
     {
      "name": "INBU 3500: Global Intensive:International",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.446
+     "score": 0.451
     },
     {
      "name": "EMEA 5091: Getting Started with Startups",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.446
+     "score": 0.44
     },
     {
-     "name": "EMEA 5092: Creating a Startup Business",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.429
+     "name": "Startups &amp; Sandwiches: The Human Edge - University of Colorado Boulder",
+     "category": "Funding & Prizes",
+     "website": "https://calendar.colorado.edu/event/startups-sandwiches-the-human-edge?amp%3Butm_medium=widget&amp%3Butm_source=University+of+Colorado+Boulder",
+     "score": 0.426
+    },
+    {
+     "name": "New Venture Challenge",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/nvc/",
+     "score": 0.424
     }
    ],
    "typeHit": false,
    "orgHit": true,
-   "topScore": 0.486,
+   "topScore": 0.471,
    "weak": true
   },
   {
@@ -14276,7 +14276,7 @@
      "name": "Ascent Deep Tech Accelerator",
      "category": "Accelerator",
      "website": "https://www.colorado.edu/innovate/ascent-deep-tech-accelerator",
-     "score": 0.69
+     "score": 0.674
     },
     {
      "name": "Promo Kit—Ascent Deep Tech Accelerator 2024 Application",
@@ -14305,7 +14305,7 @@
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.69,
+   "topScore": 0.674,
    "weak": false
   },
   {
@@ -14323,12 +14323,6 @@
     "note": "Should describe the CUbit Quantum Initiative's Colorado Quantum Incubator, noting it's adjacent to but distinct from solar/energy hardware."
    },
    "top5": [
-    {
-     "name": "Quantum Certificate",
-     "category": "Entrepreneurial Training",
-     "website": "https://clas.ucdenver.edu/certificate-quantum-information-technologyy",
-     "score": 0.475
-    },
     {
      "name": "Meet the Founders: September COOPETITION COHORT - Startup Colorado",
      "category": "Community & Networking",
@@ -14352,11 +14346,17 @@
      "category": "Events & Workshops",
      "website": "https://startupcolorado.org/event/belonging-colorado-prospect-info-session",
      "score": 0.452
+    },
+    {
+     "name": "Founder Coopetition - Startup Colorado",
+     "category": "Accelerator",
+     "website": "https://startupcolorado.org/Founder-Coopetition",
+     "score": 0.448
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.475,
+   "topScore": 0.461,
    "weak": false
   },
   {
@@ -14385,7 +14385,7 @@
      "name": "Startups & Sandwiches",
      "category": "Events & Workshops",
      "website": "https://www.colorado.edu/business/deming/entrepreneurship-events",
-     "score": 0.447
+     "score": 0.45
     },
     {
      "name": "Lab-Embedded Entrepreneurship Program (OTC)",
@@ -14431,7 +14431,7 @@
      "name": "Entrepreneurial Studies Certificate",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/innovate/programs-resources/entrepreneurial-studies-certificate",
-     "score": 0.647
+     "score": 0.658
     },
     {
      "name": "Certificate in Entrepreneurial Studies",
@@ -14440,10 +14440,10 @@
      "score": 0.646
     },
     {
-     "name": "Entrepreneurship Certificate (Undergraduate)",
+     "name": "New Venture Launch Class",
      "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/undergraduate/schools-colleges-departments/business-school/business-administration/entrepreneurship-certificate/",
-     "score": 0.64
+     "website": "https://www.colorado.edu/business/deming/student-opportunities/new-venture-launch",
+     "score": 0.627
     },
     {
      "name": "Certificate Frequently Asked Questions",
@@ -14452,15 +14452,15 @@
      "score": 0.626
     },
     {
-     "name": "New Venture Launch Class",
-     "category": "Entrepreneurial Training",
-     "website": "https://www.colorado.edu/business/deming/student-opportunities/new-venture-launch",
-     "score": 0.623
+     "name": "Entrepreneurial Training",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/venturepartners/innovators/commercialization-academy",
+     "score": 0.579
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.647,
+   "topScore": 0.658,
    "weak": false
   },
   {
@@ -14500,7 +14500,7 @@
      "name": "Venture Partner Grants",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
-     "score": 0.449
+     "score": 0.453
     },
     {
      "name": "Breast Cancer Alliance Research Grants",
@@ -14555,10 +14555,10 @@
      "score": 0.408
     },
     {
-     "name": "Entrepreneurial Mentor Interest Form",
-     "category": "Mentorship & Advising",
-     "website": "https://www.colorado.edu/venturepartners/content/entrepreneurial-mentor-interest-form",
-     "score": 0.398
+     "name": "LaunchPad Mentor Network",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/innovate/support/mentorship",
+     "score": 0.403
     }
    ],
    "typeHit": true,
@@ -14898,16 +14898,16 @@
      "score": 0.66
     },
     {
+     "name": "Community Impact Grants",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/oce/paces/funding",
+     "score": 0.645
+    },
+    {
      "name": "Public and Community-Engaged Scholarship Grants: Tier 1",
      "category": "Funding & Prizes",
      "website": "https://colorado.edu/oce/funding-and-resources/engaged-scholarship-grants/tier-1",
      "score": 0.633
-    },
-    {
-     "name": "Community Impact Grants",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/oce/paces/funding",
-     "score": 0.631
     },
     {
      "name": "Public and Community-Engaged Scholarship Grants: Tier 4",
@@ -14964,7 +14964,7 @@
      "name": "SSIR 1010: Innovating Sustainability",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.495
+     "score": 0.493
     }
    ],
    "typeHit": true,
@@ -14989,39 +14989,39 @@
    },
    "top5": [
     {
-     "name": "CS 9400: Undergrad Ind Stdy in CS Entp",
+     "name": "CSCI 4348: Entrepreneurial Projects",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.458
+     "score": 0.427
     },
     {
-     "name": "CSCI 1200: Fund ENGR Design Innovation",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.436
+     "name": "CESR Fellows",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/business/CESR",
+     "score": 0.427
     },
     {
      "name": "CSCI 4358: Entrepreneurial Projects II",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.434
+     "score": 0.427
     },
     {
      "name": "CSCI 5340: Entrepreneurial Projects",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.432
+     "score": 0.427
     },
     {
-     "name": "CSCI 4348: Entrepreneurial Projects",
+     "name": "BCOR 2304: Strategic and Entrepr Thinking",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.431
+     "score": 0.402
     }
    ],
-   "typeHit": false,
-   "orgHit": false,
-   "topScore": 0.458,
+   "typeHit": true,
+   "orgHit": true,
+   "topScore": 0.427,
    "weak": true
   },
   {
@@ -15194,40 +15194,40 @@
    },
    "top5": [
     {
-     "name": "Entrepreneurship Club",
-     "category": "Community & Networking",
-     "website": "https://business.uccs.edu/resources/clubs-and-organizations",
-     "score": 0.569
-    },
-    {
-     "name": "Entrepreneurship Curriculum",
-     "category": "Entrepreneurial Training",
-     "website": "https://business.uccs.edu/entrepreneurship-emphasis",
-     "score": 0.566
-    },
-    {
      "name": "BUSO 2200: Sports Entrepreneurship",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.545
+     "score": 0.546
     },
     {
-     "name": "Center for Entrepreneurship",
-     "category": "Entrepreneurial Training",
-     "website": "https://business.uccs.edu/resources/entrepreneurship",
-     "score": 0.533
-    },
-    {
-     "name": "Entrepreneurship Minor",
-     "category": "Entrepreneurial Training",
-     "website": "https://business.uccs.edu/academics/programs/entrepreneurship-minor-business-students",
+     "name": "Entrepreneurship Academic Interest Group",
+     "category": "Accelerator",
+     "website": "https://www.colorado.edu/emp/undergraduate-programs/entrepreneurship-academic-interest-group",
      "score": 0.521
+    },
+    {
+     "name": "2026 High School New Venture Challenge—powered by FirstBank - University of Colorado Boulder",
+     "category": "Funding & Prizes",
+     "website": "https://calendar.colorado.edu/event/2026-high-school-new-venture-challengepowered-by-firstbank",
+     "score": 0.509
+    },
+    {
+     "name": "Entrepreneurship Events",
+     "category": "Events & Workshops",
+     "website": "https://www.colorado.edu/innovate/programs-resources/startups-sandwiches",
+     "score": 0.509
+    },
+    {
+     "name": "Entrepreneurial Training",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/venturepartners/innovators/commercialization-academy",
+     "score": 0.506
     }
    ],
-   "typeHit": false,
-   "orgHit": false,
-   "topScore": 0.569,
-   "weak": true
+   "typeHit": true,
+   "orgHit": true,
+   "topScore": 0.546,
+   "weak": false
   },
   {
    "persona": "u05",
@@ -15251,12 +15251,6 @@
      "score": 0.364
     },
     {
-     "name": "FINE 4000: The Business of Art",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.364
-    },
-    {
      "name": "Business Valuation Basics for Owners or Buyers - Startup Colorado",
      "category": "Events & Workshops",
      "website": "https://startupcolorado.org/event/business-valuation-basics-for-owners-or-buyers",
@@ -15269,10 +15263,16 @@
      "score": 0.326
     },
     {
-     "name": "International Entrepreneurship Certificate (Graduate)",
-     "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/international-entrepreneurship-certificate/",
-     "score": 0.323
+     "name": "Ready to Reach Further: A Brand-First Plan for Expanding Your Creative Business - Startup Colorado",
+     "category": "Events & Workshops",
+     "website": "https://startupcolorado.org/event/ready-to-reach-further-a-brand-first-plan-for-expanding-your-creative-business",
+     "score": 0.318
+    },
+    {
+     "name": "Rural Creative Collective - Startup Colorado",
+     "category": "Events & Workshops",
+     "website": "https://startupcolorado.org/rural-creative-collective",
+     "score": 0.311
     }
    ],
    "typeHit": false,
@@ -15317,7 +15317,7 @@
      "name": "Creative Futures Fellowship",
      "category": "Funding & Prizes",
      "website": "https://colorado.edu/venturepartners/opportunities-and-events/creative-futures-fellowship",
-     "score": 0.579
+     "score": 0.575
     },
     {
      "name": "NEA Grants for Arts Projects – Media Arts",
@@ -15398,12 +15398,6 @@
    },
    "top5": [
     {
-     "name": "ENTP 3260: Sales for Entrepreneurs",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.403
-    },
-    {
      "name": "Business Valuation Basics for Owners or Buyers - Startup Colorado",
      "category": "Events & Workshops",
      "website": "https://startupcolorado.org/event/business-valuation-basics-for-owners-or-buyers",
@@ -15413,24 +15407,30 @@
      "name": "BUSM 3011: Product Development II",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.372
+     "score": 0.373
     },
     {
      "name": "MBAX 6281: E-Valuation and Investment 2",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.372
+     "score": 0.368
     },
     {
-     "name": "FNCE 3850: Blockchain/Crypto Investing",
+     "name": "MBAX 6280: Ent.Valuation and Investment 1",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.372
+     "score": 0.358
+    },
+    {
+     "name": "MBAE 6091: Strategic Marketing I",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.35
     }
    ],
    "typeHit": true,
    "orgHit": false,
-   "topScore": 0.403,
+   "topScore": 0.388,
    "weak": true
   },
   {
@@ -15513,28 +15513,28 @@
      "score": 0.455
     },
     {
-     "name": "Quantum Certificate",
-     "category": "Entrepreneurial Training",
-     "website": "https://clas.ucdenver.edu/certificate-quantum-information-technologyy",
+     "name": "Boulder Startup Week 2026",
+     "category": "Events & Workshops",
+     "website": "https://boulderstartupweek.com/",
      "score": 0.442
-    },
-    {
-     "name": "Boulder Climate Ventures",
-     "category": "Accelerator",
-     "website": "https://colorado.edu/innovate/boulder-climate-ventures",
-     "score": 0.434
     },
     {
      "name": "DOE Accelerated Research in Quantum Computing",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/researchinnovation/doe-accelerated-research-quantum-computing",
      "score": 0.43
+    },
+    {
+     "name": "Anniversary Open House at the Mountain Research Station - University of Colorado Boulder",
+     "category": "Funding & Prizes",
+     "website": "https://calendar.colorado.edu/event/mountain-research-station-instaar-open-house",
+     "score": 0.422
     }
    ],
-   "typeHit": true,
+   "typeHit": false,
    "orgHit": true,
    "topScore": 0.47,
-   "weak": false
+   "weak": true
   },
   {
    "persona": "u06",
@@ -15558,12 +15558,6 @@
      "score": 0.523
     },
     {
-     "name": "Quantum Certificate",
-     "category": "Entrepreneurial Training",
-     "website": "https://clas.ucdenver.edu/certificate-quantum-information-technologyy",
-     "score": 0.504
-    },
-    {
      "name": "2023-24 Awardees",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/initiative/cubit/industry-partners/oedit-translational-quantum-research-seed-grants/2023-24-awardees",
@@ -15580,6 +15574,12 @@
      "category": "Entrepreneurial Training",
      "website": "https://calendar.colorado.edu/event/copy-of-program-admissions-qa-master-of-science-in-organizational-leadership-5504",
      "score": 0.448
+    },
+    {
+     "name": "Joshua Bennett",
+     "category": "Mentorship & Advising",
+     "website": "https://colorado.edu/venturepartners/about/people/joshua-bennett",
+     "score": 0.428
     }
    ],
    "typeHit": false,
@@ -15659,12 +15659,6 @@
      "score": 0.529
     },
     {
-     "name": "Quantum Certificate",
-     "category": "Entrepreneurial Training",
-     "website": "https://clas.ucdenver.edu/certificate-quantum-information-technologyy",
-     "score": 0.501
-    },
-    {
      "name": "Industry Engagement",
      "category": "Entrepreneurial Training",
      "website": "https://colorado.edu/initiative/cubit/industry-partners",
@@ -15681,6 +15675,12 @@
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/initiative/cubit/industry-partners/oedit-translational-quantum-research-seed-grants/2023-24-awardees",
      "score": 0.428
+    },
+    {
+     "name": "Joshua Bennett",
+     "category": "Mentorship & Advising",
+     "website": "https://colorado.edu/venturepartners/about/people/joshua-bennett",
+     "score": 0.419
     }
    ],
    "typeHit": false,
@@ -15958,18 +15958,6 @@
    },
    "top5": [
     {
-     "name": "CU Healthcare Innovation Fund",
-     "category": "Funding & Prizes",
-     "website": "http://www.cuanschutz.edu/innovations/campus-innovator/funding/cu-healthcare-innovation-fund",
-     "score": 0.553
-    },
-    {
-     "name": "Update on Anschutz Acceleration Initiative",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.cuanschutz.edu/chancellor/messages/communiques/update-on-anschutz-acceleration-initiative",
-     "score": 0.534
-    },
-    {
      "name": "Innovation Workshop Series: Finance with Mike Szymanski - University of Colorado Boulder",
      "category": "Funding & Prizes",
      "website": "https://calendar.colorado.edu/event/innovation-workshop-series-finance-with-mike-szymanski",
@@ -15986,11 +15974,23 @@
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/venturepartners/americas-seed-fund-sbirsttr-grants",
      "score": 0.487
+    },
+    {
+     "name": "Apply for Funding",
+     "category": "Funding & Prizes",
+     "website": "http://colorado.edu/research/abnexus/apply-funding",
+     "score": 0.48
+    },
+    {
+     "name": "2021 AB Nexus Grant Awards",
+     "category": "Funding & Prizes",
+     "website": "http://colorado.edu/research/abnexus/grant-awardees/2021-ab-nexus-grant-awards",
+     "score": 0.473
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.553,
+   "topScore": 0.5,
    "weak": false
   },
   {
@@ -16111,40 +16111,40 @@
    },
    "top5": [
     {
-     "name": "Anschutz Acceleration Initiative",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.cuanschutz.edu/chancellor/anschutz-acceleration-initiative",
-     "score": 0.648
-    },
-    {
-     "name": "Announcing Anschutz Acceleration Initiative Awardees - 1/8/24",
-     "category": "Funding & Prizes",
-     "website": "https://www.cuanschutz.edu/chancellor/messages/communiques/announcing-anschutz-acceleration-initiative-awardees",
-     "score": 0.577
-    },
-    {
-     "name": "Update on Anschutz Acceleration Initiative",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.cuanschutz.edu/chancellor/messages/communiques/update-on-anschutz-acceleration-initiative",
-     "score": 0.493
-    },
-    {
      "name": "ESCEND™",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/engineering/entrepreneurship",
      "score": 0.491
     },
     {
-     "name": "Announcing the Anschutz Acceleration Initiative",
-     "category": "Entrepreneurship Hub",
-     "website": "https://www.cuanschutz.edu/chancellor/messages/communiques/announcing-the-anschutz-acceleration-initiative",
-     "score": 0.491
+     "name": "The ATLAS Institute",
+     "category": "Space & Resources",
+     "website": "https://www.colorado.edu/atlas/",
+     "score": 0.472
+    },
+    {
+     "name": "Experiential Learning Design Accelerator Program",
+     "category": "Entrepreneurial Training",
+     "website": "https://colorado.edu/oce/paces/initiatives-and-programs/experiential-learning-design-accelerator-program",
+     "score": 0.44
+    },
+    {
+     "name": "Graduate Student Accelerator",
+     "category": "Accelerator",
+     "website": "",
+     "score": 0.432
+    },
+    {
+     "name": "Embark",
+     "category": "Mentorship & Advising",
+     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
+     "score": 0.43
     }
    ],
-   "typeHit": true,
-   "orgHit": true,
-   "topScore": 0.648,
-   "weak": false
+   "typeHit": false,
+   "orgHit": false,
+   "topScore": 0.491,
+   "weak": true
   },
   {
    "persona": "u07",
@@ -16315,13 +16315,19 @@
      "name": "Destination Startup",
      "category": "Events & Workshops",
      "website": "https://www.colorado.edu/venturepartners/events-and-opportunities/destination-startup",
-     "score": 0.68
+     "score": 0.693
     },
     {
      "name": "Destination Startup Opportunities for Support",
      "category": "Events & Workshops",
      "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/destination-startup/destination-startup-opportunities-support",
      "score": 0.668
+    },
+    {
+     "name": "Venture Partners",
+     "category": "Entrepreneurial Training",
+     "website": "https://www.colorado.edu/researchinnovation/venture-partners",
+     "score": 0.663
     },
     {
      "name": "Amy Dodenhoff",
@@ -16334,17 +16340,11 @@
      "category": "Funding & Prizes",
      "website": "https://colorado.edu/venturepartners/make-gift-and-translate-discovery-impact",
      "score": 0.632
-    },
-    {
-     "name": "About Us",
-     "category": "Entrepreneurial Training",
-     "website": "https://colorado.edu/venturepartners/about",
-     "score": 0.623
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.68,
+   "topScore": 0.693,
    "weak": false
   },
   {
@@ -16363,22 +16363,16 @@
    },
    "top5": [
     {
-     "name": "Get Seed Funding",
-     "category": "Funding & Prizes",
-     "website": "https://www.colorado.edu/innovate/getseedfunding",
-     "score": 0.751
-    },
-    {
      "name": "Get Seed Funding Provides Financial Backing to Help Jumpstart Student Innovations",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/innovate/get-seed-funding-provides-financial-backing-help-jumpstart-student-innovations",
      "score": 0.747
     },
     {
-     "name": "Embark",
-     "category": "Mentorship & Advising",
-     "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
-     "score": 0.716
+     "name": "Get Seed Funding",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/innovate/getseedfunding",
+     "score": 0.714
     },
     {
      "name": "Pitch your idea to Get Seed Funding",
@@ -16391,11 +16385,17 @@
      "category": "Funding & Prizes",
      "website": "http://colorado.edu/dcvf/startup-information",
      "score": 0.684
+    },
+    {
+     "name": "Awards & Grants",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/graduateschool/funding/awards-grants",
+     "score": 0.677
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.751,
+   "topScore": 0.747,
    "weak": false
   },
   {
@@ -16420,12 +16420,6 @@
      "score": 0.662
     },
     {
-     "name": "Ascent Deep Tech Accelerator",
-     "category": "Accelerator",
-     "website": "https://www.colorado.edu/innovate/ascent-deep-tech-accelerator",
-     "score": 0.568
-    },
-    {
      "name": "Catalyze CU",
      "category": "Accelerator",
      "website": "",
@@ -16436,6 +16430,12 @@
      "category": "Events & Workshops",
      "website": "https://innosphereventures.org/impact",
      "score": 0.557
+    },
+    {
+     "name": "Ascent Deep Tech Accelerator",
+     "category": "Accelerator",
+     "website": "https://www.colorado.edu/innovate/ascent-deep-tech-accelerator",
+     "score": 0.552
     },
     {
      "name": "Become a Catalyze CU Partner",
@@ -16471,12 +16471,6 @@
      "score": 0.318
     },
     {
-     "name": "Entrepreneurship Major, BS in Business Administration",
-     "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/undergraduate/schools-colleges-departments/business-school/business-administration/entrepreneurship-bs/",
-     "score": 0.307
-    },
-    {
      "name": "Careers at Watson Institute: Discover Your Future",
      "category": "Entrepreneurship Hub",
      "website": "https://watson.is/careers",
@@ -16489,10 +16483,16 @@
      "score": 0.276
     },
     {
-     "name": "Entrepreneurship Certificate (Graduate)",
+     "name": "2025 Career Accelerator: Unlock Your Potential and Career",
+     "category": "Funding & Prizes",
+     "website": "https://watson.is/career-accelerator",
+     "score": 0.245
+    },
+    {
+     "name": "MBAX 6280: Ent.Valuation and Investment 1",
      "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/entrepreneurship-certificate/",
-     "score": 0.269
+     "website": "",
+     "score": 0.241
     }
    ],
    "typeHit": false,
@@ -16675,7 +16675,7 @@
      "name": "Business Minor",
      "category": "Entrepreneurial Training",
      "website": "https://www.colorado.edu/business/academic-programs/minor-business",
-     "score": 0.584
+     "score": 0.572
     },
     {
      "name": "Join the Professional Mentorship Program",
@@ -16684,27 +16684,27 @@
      "score": 0.55
     },
     {
-     "name": "Business Clubs",
-     "category": "Community & Networking",
-     "website": "https://business.ucdenver.edu/student-life/student-clubs",
-     "score": 0.533
+     "name": "Leeds Mentoring Programs",
+     "category": "Accelerator",
+     "website": "https://colorado.edu/business/current-students/career/mentoring",
+     "score": 0.491
     },
     {
-     "name": "Entrepreneurship Minor",
+     "name": "BCOR 2304: Strategic and Entrepr Thinking",
      "category": "Entrepreneurial Training",
-     "website": "https://business.uccs.edu/academics/programs/entrepreneurship-minor-business-students",
-     "score": 0.526
+     "website": "",
+     "score": 0.46
     },
     {
-     "name": "Entrepreneurship Minor",
+     "name": "Certificate Frequently Asked Questions",
      "category": "Entrepreneurial Training",
-     "website": "https://business.ucdenver.edu/minors/entrepreneurship",
-     "score": 0.524
+     "website": "https://colorado.edu/business/deming/undergraduates/certificate-entrepreneurial-studies/certificate-frequently-asked-questions",
+     "score": 0.46
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.584,
+   "topScore": 0.572,
    "weak": false
   },
   {
@@ -16749,10 +16749,10 @@
      "score": 0.583
     },
     {
-     "name": "About Us",
+     "name": "Venture Partners",
      "category": "Entrepreneurial Training",
-     "website": "https://colorado.edu/venturepartners/about",
-     "score": 0.576
+     "website": "https://www.colorado.edu/researchinnovation/venture-partners",
+     "score": 0.579
     }
    ],
    "typeHit": true,
@@ -16782,28 +16782,28 @@
      "score": 0.403
     },
     {
-     "name": "Entrepreneurship Specialization, MBA",
-     "category": "Entrepreneurial Training",
-     "website": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/business-administration/business-administration-mba/#degreerequirementstext",
-     "score": 0.386
+     "name": "From Trash to Treasure - How to Start an Upcycling Business - Startup Colorado",
+     "category": "Events & Workshops",
+     "website": "https://startupcolorado.org/event/from-trash-to-treasure-how-to-start-an-upcycling-business",
+     "score": 0.357
     },
     {
-     "name": "ENTP 6822: Legl-Ethicl Issues Entreprnshp",
+     "name": "MGMT 4160: Managing Growth: Entrep High",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.383
+     "score": 0.354
     },
     {
-     "name": "Entrepreneurship Minor",
-     "category": "Entrepreneurial Training",
-     "website": "https://business.ucdenver.edu/minors/entrepreneurship",
-     "score": 0.373
-    },
-    {
-     "name": "ENTP 6822: Legl-Ethicl Issues Entreprnsh",
+     "name": "MGMT 4160: Managing Growth:Entrep High",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.37
+     "score": 0.354
+    },
+    {
+     "name": "Announcing the Founders in the Spring Food &amp; Ag Idea Factory - Startup Colorado",
+     "category": "Community & Networking",
+     "website": "https://startupcolorado.org/stories/spring-food-ag-idea-factory",
+     "score": 0.346
     }
    ],
    "typeHit": false,
@@ -16839,22 +16839,22 @@
      "score": 0.629
     },
     {
-     "name": "Entrepreneurship Club",
-     "category": "Community & Networking",
-     "website": "https://business.uccs.edu/resources/clubs-and-organizations",
-     "score": 0.62
-    },
-    {
-     "name": "Entrepreneurship Minor",
-     "category": "Entrepreneurial Training",
-     "website": "https://business.uccs.edu/academics/programs/entrepreneurship-minor-business-students",
-     "score": 0.609
-    },
-    {
      "name": "Institutional Entrepreneurs Unplugged",
      "category": "Events & Workshops",
      "website": "https://siliconflatirons.org/events/entrepreneurs-unplugged-2026-05-06",
      "score": 0.607
+    },
+    {
+     "name": "Innovation & Entrepreneurship (I&E) Jamboree",
+     "category": "Entrepreneurship Hub",
+     "website": "http://www.colorado.edu/innovate/campuskickoff",
+     "score": 0.593
+    },
+    {
+     "name": "New Venture Challenge",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/nvc/",
+     "score": 0.587
     }
    ],
    "typeHit": true,
@@ -16902,10 +16902,10 @@
      "score": 0.648
     },
     {
-     "name": "Healthcare Innovation &amp; Entrepreneurship (HIE) Initiative",
-     "category": "Entrepreneurship Hub",
-     "website": "http://www.cuanschutz.edu/innovations/HIE",
-     "score": 0.624
+     "name": "Catalyst Competition",
+     "category": "Funding & Prizes",
+     "website": "https://www.colorado.edu/innovate/catalyst-competition",
+     "score": 0.618
     }
    ],
    "typeHit": false,
@@ -16936,6 +16936,12 @@
      "score": 0.429
     },
     {
+     "name": "LaunchPad Mentor Network",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/innovate/support/mentorship",
+     "score": 0.412
+    },
+    {
      "name": "Innovation Workshop Series: Prototyping - University of Colorado Boulder",
      "category": "Events & Workshops",
      "website": "https://calendar.colorado.edu/event/innovation-workshop-series-prototyping-7874?amp%3Butm_medium=widget&amp%3Butm_source=University+of+Colorado+Boulder",
@@ -16951,12 +16957,6 @@
      "name": "Licensing for University Innovators",
      "category": "Mentorship & Advising",
      "website": "https://colorado.edu/venturepartners/university-innovators/licensing-university-innovators",
-     "score": 0.396
-    },
-    {
-     "name": "Emily Vogt",
-     "category": "Events & Workshops",
-     "website": "https://colorado.edu/venturepartners/about/people/emily-vogt",
      "score": 0.396
     }
    ],
@@ -17049,16 +17049,16 @@
      "score": 0.416
     },
     {
-     "name": "BUSM 3011: Product Development II",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.407
-    },
-    {
      "name": "Business Valuation Basics for Owners or Buyers - Startup Colorado",
      "category": "Events & Workshops",
      "website": "https://startupcolorado.org/event/business-valuation-basics-for-owners-or-buyers",
      "score": 0.405
+    },
+    {
+     "name": "BUSM 3011: Product Development II",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.391
     }
    ],
    "typeHit": false,
@@ -17147,22 +17147,22 @@
      "score": 0.651
     },
     {
-     "name": "APRD 5012: Entrepreneurial Design",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.611
-    },
-    {
      "name": "MUSC 5988: The Entrepreneurial Artist",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.598
+     "score": 0.612
     },
     {
-     "name": "EMEA 5222: Prod. Des. for the Circ. Econ.",
+     "name": "APRD 5012: Entrepreneurial Design",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.587
+     "score": 0.608
+    },
+    {
+     "name": "APRD 5008: Entrepreneurism by Design",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.593
     }
    ],
    "typeHit": false,
@@ -17245,7 +17245,7 @@
      "name": "Embark",
      "category": "Mentorship & Advising",
      "website": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
-     "score": 0.38
+     "score": 0.374
     },
     {
      "name": "Graduate Student Emergency Aid Fund",
@@ -17260,10 +17260,10 @@
      "score": 0.353
     },
     {
-     "name": "THE CLIMB",
+     "name": "Graduate Student Funding Opportunities - Institute of Behavioral Science",
      "category": "Funding & Prizes",
-     "website": "https://jakejabscenter.org/the-climb/",
-     "score": 0.349
+     "website": "https://ibs.colorado.edu/interdisciplinary-training/funding-opportunities",
+     "score": 0.335
     }
    ],
    "typeHit": true,
@@ -17291,36 +17291,36 @@
      "name": "CESR Fellows",
      "category": "Community & Networking",
      "website": "https://www.colorado.edu/business/CESR",
-     "score": 0.553
+     "score": 0.554
     },
     {
-     "name": "APRD 5006: Design for Startups",
-     "category": "Entrepreneurial Training",
-     "website": "",
-     "score": 0.544
+     "name": "Boulder Venture Club",
+     "category": "Community & Networking",
+     "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
+     "score": 0.548
     },
     {
-     "name": "CMCI 3202: Entrepreneurial Media",
+     "name": "MBAE 6091: Strategic Marketing I",
      "category": "Entrepreneurial Training",
      "website": "",
-     "score": 0.542
+     "score": 0.545
+    },
+    {
+     "name": "APRD 5002: Experience Design Foundations",
+     "category": "Entrepreneurial Training",
+     "website": "",
+     "score": 0.543
     },
     {
      "name": "Collegiate Great Brands Competition - Terry College of Business - UGA",
      "category": "Funding & Prizes",
      "website": "https://www.colorado.edu/innovate/programs-resources/collegiate-great-brands-competition",
      "score": 0.538
-    },
-    {
-     "name": "Boulder Venture Club",
-     "category": "Community & Networking",
-     "website": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
-     "score": 0.535
     }
    ],
    "typeHit": true,
    "orgHit": true,
-   "topScore": 0.553,
+   "topScore": 0.554,
    "weak": false
   },
   {
