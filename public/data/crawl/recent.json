@@ -1,542 +1,542 @@
 [
  {
-  "id": "colorado-edu-business-deming-news-2023-10-05-fromrammsteintolingdiscoevanbaltman",
-  "title": "From Rammstein to LingDisco: Evan Baltman's Journey to Language Fluency and Entrepreneurship | Leeds School of Business",
-  "type": "reference",
-  "org": "colorado.edu/business",
-  "depth": 2,
-  "specificity": 5,
-  "at": "2026-08-11T16:54:22.014Z"
- },
- {
-  "id": "colorado-edu-nvc-2024-06-24-external-news-entrepreneur-whistleblower",
-  "title": "This entrepreneur is a whistleblower | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:21.916Z"
- },
- {
-  "id": "colorado-edu-nvc-2024-05-09-external-news-student-startup-better-bites-healthy-b",
-  "title": "Student startup Better Bites is a healthy blend of taste and wellness | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:21.841Z"
- },
- {
-  "id": "colorado-edu-nvc-2024-02-28-external-news-pollution-production-student-startup-t",
-  "title": "Pollution to production: student startup transforms CO2 into aerospace hardware | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:21.728Z"
- },
- {
-  "id": "colorado-edu-nvc-2023-12-14-external-news-programs-cu-boulder-cu-denver-light-pa",
-  "title": "Programs at CU Boulder, CU Denver light pathways to innovation for high school students | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:21.723Z"
- },
- {
-  "id": "colorado-edu-nvc-2023-11-06-external-news-turning-science-startups",
-  "title": "Turning science into startups | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:21.401Z"
- },
- {
-  "id": "colorado-edu-nvc-2023-10-16-external-news-cu-boulder-seeks-be-leader-innovation-",
-  "title": "CU Boulder seeks to be a leader in innovation nationwide | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:21.357Z"
- },
- {
-  "id": "colorado-edu-nvc-2023-03-14-internal-news-nvc-prize-nights-spotlight-and-fund-fe",
-  "title": "NVC prize nights spotlight—and fund—female founders and climate solutions | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:21.206Z"
- },
- {
-  "id": "colorado-edu-nvc-2023-10-05-external-news-rammstein-lingdisco-evan-baltmans-jour",
-  "title": "From Rammstein to LingDisco: Evan Baltman's journey to language fluency and entrepreneurship | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:21.202Z"
- },
- {
-  "id": "colorado-edu-nvc-2023-07-27-external-news-new-venture-challenge-favorite-noso-no",
-  "title": "New Venture Challenge favorite NoSo November holding youth 5K mental health fundraiser | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:21.200Z"
- },
- {
-  "id": "colorado-edu-nvc-2022-09-23-venturewell-seeking-students-big-ideas-e-team-progra",
-  "title": "VentureWell is seeking students with big ideas for the E-Team Program | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:20.901Z"
- },
- {
-  "id": "colorado-edu-nvc-2022-03-09-student-teams-present-innovative-solutions-fight-cli",
-  "title": "Student teams present innovative solutions to fight climate change at NVC Climate Prize Night | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:20.851Z"
- },
- {
-  "id": "colorado-edu-nvc-2021-11-15-cu-boulder-named-2021-innovation-award-winner-aplu",
-  "title": "CU Boulder named 2021 Innovation Award winner by APLU | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:20.739Z"
- },
- {
-  "id": "colorado-edu-nvc-2019-03-22-tissueform-developers-next-generation-dermal-fillers",
-  "title": "TissueForm, developers of next generation dermal fillers, fills last spot of New Venture Challenge 11 Championships with R&D Track Finals wi",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:20.686Z"
- },
- {
-  "id": "colorado-edu-nvc-2021-04-16-vaccines-plants-new-venture-challenge-finalists-focu",
-  "title": "From vaccines to plants: New Venture Challenge finalists focus on saving lives | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:20.679Z"
- },
- {
-  "id": "colorado-edu-nvc-2019-03-28-mallinda-raises-2m-strategic-investment-sabic-ventur",
-  "title": "Mallinda raises $2M strategic investment from SABIC Ventures | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:20.350Z"
- },
- {
-  "id": "colorado-edu-nvc-2019-05-17-new-venture-challenge-alum-pana-raises-10-million-sc",
-  "title": "New Venture Challenge alum Pana raises $10 million to scale for corporate travel market | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:20.293Z"
- },
- {
-  "id": "colorado-edu-nvc-2020-04-10-covid-19-test-ptsd-treatment-take-top-honors-new-ven",
-  "title": "COVID-19 test, PTSD treatment take top honors at New Venture Challenge | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:20.150Z"
- },
- {
-  "id": "colorado-edu-nvc-2019-11-19-david-lopez-pivoting-failed-venture",
-  "title": "David Lopez: Pivoting from a Failed Venture | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:20.148Z"
- },
- {
-  "id": "colorado-edu-nvc-2019-09-23-thrifted-cu-startup-style",
-  "title": "Thrift/ed: A CU startup with style | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:20.147Z"
- },
- {
-  "id": "colorado-edu-nvc-2020-07-16-founder-new-personal-stylist-app-describes-his-journ",
-  "title": "Founder of a New Personal Stylist App Describes His Journey Through Fashion and Entrepreneurship | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:19.845Z"
- },
- {
-  "id": "colorado-edu-nvc-2021-01-25-student-startup-spotlight-kailey-shara-atlas-institu",
-  "title": "Student Startup Spotlight: Kailey Shara, ATLAS Institute PhD & CEO of Chembotix | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:19.786Z"
- },
- {
-  "id": "colorado-edu-nvc-2019-03-21-fashion-focused-tech-startup-bright-wearables-seeks-",
-  "title": "Fashion-focused tech startup Bright Wearables seeks to eliminate business cards with first place win at New Venture Challenge 11 Creative In",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:19.659Z"
- },
- {
-  "id": "colorado-edu-nvc-2021-03-22-wp-equestrian-new-spin-authentic-and-inclusive-leade",
-  "title": "W.P. Equestrian: A New Spin on Authentic and Inclusive Leadership Development | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:19.653Z"
- },
- {
-  "id": "colorado-edu-nvc-2021-03-22-kailey-shara-atlas-phd-student-takes-home-top-awards",
-  "title": "Kailey Shara, ATLAS PhD student, takes home top awards from both NVC 14 and New Venture Launch class, winning $11,000 | New Venture Challeng",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:19.639Z"
- },
- {
-  "id": "colorado-edu-nvc-2019-03-20-kartwheel-aims-transport-injured-students-across-cam",
-  "title": "KartWheel aims to transport injured students across campus, grabs first place in new Venture Challenge 11 General Track Finals | New Venture",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:19.367Z"
- },
- {
-  "id": "colorado-edu-nvc-2019-03-20-software-company-nimbly-alleviates-staffing-problem-",
-  "title": "Software company Nimb.ly alleviates staffing problem for caterers, wins first place in New Venture Challenge 11 IT Track Finals competition ",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:19.226Z"
- },
- {
-  "id": "colorado-edu-nvc-2019-02-21-fletcher-richmans-entrepreneurial-journey-cu-boulder",
-  "title": "Fletcher Richman's entrepreneurial journey from CU Boulder to Techstars | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:19.124Z"
- },
- {
-  "id": "colorado-edu-nvc-2017-09-22-new-venture-challenge-kicks-its-10th-year",
-  "title": "New Venture Challenge Kicks Off Its 10th Year | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:19.108Z"
- },
- {
-  "id": "colorado-edu-nvc-2019-02-19-stateless-cu-boulder-spinoff-and-nvc-alum-secures-11",
-  "title": "Stateless, CU Boulder spinoff and NVC alum, secures $11.33M in Series A funding to reinvent data center connectivity | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 5,
-  "at": "2026-08-11T16:54:19.105Z"
- },
- {
-  "id": "colorado-edu-today-2018-04-06-musical-rings-win-75k-startup-contest-robotic-musc",
-  "title": "Musical rings win $75K in startup contest; robotic muscles grab $25K | CU Boulder Today",
-  "type": "competition",
-  "org": "colorado.edu/today",
-  "depth": 2,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:18.898Z"
- },
- {
-  "id": "colorado-edu-nvc-2018-06-22-leading-toy-maker-sphero-acquires-cu-boulder-bred-st",
-  "title": "Leading toy maker Sphero acquires CU Boulder-bred startup Specdrums | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:18.676Z"
- },
- {
-  "id": "colorado-edu-nvc-2018-07-19-university-colorado-boulder-new-venture-challenge-fi",
-  "title": "University of Colorado Boulder New Venture Challenge finalist acquired by POLITICO venture | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:54:18.670Z"
- },
- {
-  "id": "colorado-edu-nvc-2016-12-07-huffpost-qualities-make-amazing-entrepreneur",
-  "title": "HuffPost: The Qualities that Make an Amazing Entrepreneur | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:18.634Z"
- },
- {
-  "id": "colorado-edu-nvc-2016-09-12-cu-boulder-new-venture-challenge-kicks-sept-21",
-  "title": "CU Boulder New Venture Challenge kicks off Sept. 21 | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:18.627Z"
- },
- {
-  "id": "colorado-edu-nvc-newsletter-nvc-newsletter-nvc-special-competitions",
-  "title": "NVC Newsletter - NVC Special Competitions | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 7,
-  "at": "2026-08-11T16:54:18.583Z"
- },
- {
-  "id": "colorado-edu-nvc-2016-10-12-mallinda-awarded-750k-grant-reusable-carbon-fiber-co",
-  "title": "Mallinda awarded $750K grant for reusable carbon-fiber composite | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 5,
-  "at": "2026-08-11T16:54:18.354Z"
- },
- {
-  "id": "colorado-edu-nvc-high-school-new-venture-challenge-finals",
-  "title": "High School New Venture Challenge Finals | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:18.150Z"
- },
- {
-  "id": "colorado-edu-nvc-2026-new-venture-challenge-finals-event-program",
-  "title": "2026 New Venture Challenge Finals Event Program | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 5,
-  "at": "2026-08-11T16:54:18.148Z"
- },
- {
-  "id": "calendar-colorado-edu-event-high-school-new-venture-challengepowered-by-firstban",
-  "title": "High School New Venture Challenge Final—powered by FirstBank - University of Colorado Boulder",
-  "type": "competition",
-  "org": "colorado.edu/event",
-  "depth": 2,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:17.867Z"
- },
- {
-  "id": "colorado-edu-nvc-promo-kit-2026-new-venture-challenge",
-  "title": "Promo Kit — 2026 New Venture Challenge | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 10,
-  "at": "2026-08-11T16:54:17.838Z"
- },
- {
-  "id": "calendar-colorado-edu-event-new-venture-challenge-deep-tech-competition-finals",
-  "title": "New Venture Challenge Deep Tech Competition Finals - University of Colorado Boulder",
-  "type": "competition",
-  "org": "colorado.edu/event",
-  "depth": 2,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:17.531Z"
- },
- {
-  "id": "colorado-edu-nvc-2025-nvc-competition-promo-kits",
-  "title": "2025 NVC Competition Promo Kits | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:17.528Z"
- },
- {
-  "id": "colorado-edu-nvc-promo-kit-2025-high-school-new-venture-challenge-powered-firstb",
-  "title": "Promo Kit: 2025 High School New Venture Challenge—powered by FirstBank | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:17.326Z"
- },
- {
-  "id": "colorado-edu-nvc-important-2025-competition-dates-and-deadlines",
-  "title": "Important 2025 Competition Dates and Deadlines | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:17.117Z"
- },
- {
-  "id": "calendar-colorado-edu-event-deadline-new-venture-challenge-deep-tech-competition",
-  "title": "DEADLINE: New Venture Challenge Deep Tech Competition Registration - University of Colorado Boulder",
-  "type": "competition",
-  "org": "colorado.edu/event",
-  "depth": 2,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:17.013Z"
- },
- {
-  "id": "colorado-edu-nvc-promo-kit-social-impact-new-venture-challenge",
-  "title": "Promo Kit–Social Impact New Venture Challenge | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 10,
-  "at": "2026-08-11T16:54:17.008Z"
- },
- {
-  "id": "colorado-edu-nvc-promo-kit-nvc-deep-tech-competition-finals",
-  "title": "Promo Kit—NVC Deep Tech Competition Finals | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:16.839Z"
- },
- {
-  "id": "colorado-edu-nvc-promo-kit-2025-new-venture-challenge",
-  "title": "Promo Kit — 2025 New Venture Challenge | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 10,
-  "at": "2026-08-11T16:54:16.635Z"
- },
- {
-  "id": "colorado-edu-nvc-promo-kit-nvc-general-competition-registration",
-  "title": "Promo Kit—NVC General Competition Registration | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 10,
-  "at": "2026-08-11T16:54:16.477Z"
- },
- {
-  "id": "colorado-edu-nvc-compete-deep-tech-competition",
-  "title": "Deep Tech Competition | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 10,
-  "at": "2026-08-11T16:54:16.338Z"
- },
- {
-  "id": "colorado-edu-nvc-promo-kits-nvc-deep-tech-competition-registration",
-  "title": "Promo Kit—NVC Deep Tech Competition Registration | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 10,
-  "at": "2026-08-11T16:54:16.334Z"
- },
- {
-  "id": "colorado-edu-innovate-2023-07-27-external-news-new-venture-challenge-favorite-no",
-  "title": "New Venture Challenge favorite NoSo November holding youth 5K mental health fundraiser | Innovation & Entrepreneurship Initiative",
-  "type": "competition",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:54:16.126Z"
- },
- {
-  "id": "colorado-edu-nvc-compete-general-competition",
-  "title": "The New Venture Challenge | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:16.024Z"
- },
- {
-  "id": "colorado-edu-nvc-promo-kit-new-venture-challenge-information-session",
-  "title": "Promo Kit—New Venture Challenge Information Session | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:16.013Z"
- },
- {
-  "id": "colorado-edu-nvc-events-opportunities-new-venture-challenge-final-showcase",
-  "title": "New Venture Challenge Finals | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:15.820Z"
- },
- {
-  "id": "colorado-edu-asmagazine-2023-03-06-innovation-incubator-helping-transform-teachi",
-  "title": "Innovation Incubator helping transform teaching, learning | Colorado Arts and Sciences Magazine",
-  "type": "program",
-  "org": "colorado.edu/asmagazine",
-  "depth": 2,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:15.740Z"
- },
- {
-  "id": "colorado-edu-nvc-join-venture-or-find-partners",
-  "title": "Join a Venture or Find Partners | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:15.703Z"
- },
- {
-  "id": "colorado-edu-venturepartners-2023-04-20-internal-news-cu-boulder-spinout-solid-p",
-  "title": "CU Boulder spinout Solid Power is building a better battery for consumers and the climate | Venture Partners at CU Boulder",
+  "id": "colorado-edu-venturepartners-2024-10-28-external-news-spinout-longpath-technolog",
+  "title": "CU Boulder spinout LongPath Technologies to expand methane detection with $162M DOE loan | Venture Partners at CU Boulder",
   "type": "reference",
   "org": "colorado.edu/venturepartners",
-  "depth": 2,
+  "depth": 5,
   "specificity": 8,
-  "at": "2026-08-11T16:54:15.664Z"
+  "at": "2026-08-11T16:55:01.577Z"
  },
  {
-  "id": "colorado-edu-innovate-2023-06-08-external-news-mlb-legend-derek-jeter-invests-cu",
-  "title": "MLB Legend Derek Jeter invests in CU Boulder spinout Meati Foods | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
+  "id": "colorado-edu-venturepartners-2019-01-24-cu-boulder-brings-together-top-spinoffs-",
+  "title": "CU Boulder brings together top spinoffs from Colorado research institutions for Destination Startup | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 5,
+  "specificity": 5,
+  "at": "2026-08-11T16:55:01.571Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2024-05-09-external-news-think-bioscience-cu-boulde",
+  "title": "Think Bioscience, a CU Boulder spinout, raises $26M to find ‘pockets’ for drug therapies | Venture Partners at CU Boulder",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 5,
+  "specificity": 8,
+  "at": "2026-08-11T16:55:01.209Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-10-14-external-news-vitrivax-awarded-99m-grant",
+  "title": "VitriVax awarded $9.9M grant to enable scaling up of clinical manufacturing | Venture Partners at CU Boulder",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 5,
+  "specificity": 8,
+  "at": "2026-08-11T16:55:01.110Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-startup-portfolio-point-designs-llc",
+  "title": "Point Designs LLC | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 4,
+  "specificity": 8,
+  "at": "2026-08-11T16:55:01.047Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-startup-portfolio-think-bioscience-inc",
+  "title": "Think Bioscience Inc. | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 4,
+  "specificity": 8,
+  "at": "2026-08-11T16:55:00.747Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-startup-portfolio-polaris-electro-optics-inc",
+  "title": "Polaris Electro-Optics Inc. | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 4,
+  "specificity": 8,
+  "at": "2026-08-11T16:55:00.697Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-startup-portfolio-longpath-technologies-inc",
+  "title": "LongPath Technologies Inc. | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 4,
+  "specificity": 8,
+  "at": "2026-08-11T16:55:00.646Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-startup-portfolio-vitrivax-inc",
+  "title": "VitriVax Inc. | Venture Partners at CU Boulder",
+  "type": "event",
+  "org": "colorado.edu/venturepartners",
+  "depth": 4,
+  "specificity": 8,
+  "at": "2026-08-11T16:55:00.630Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-11-25-internal-news-behind-our-innovation-engi",
+  "title": "Behind our innovation engine is a team worth celebrating | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 4,
+  "specificity": 6,
+  "at": "2026-08-11T16:55:00.370Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-emily-vogt",
+  "title": "Emily Vogt | Venture Partners at CU Boulder",
+  "type": "event",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:55:00.273Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-reports-current-annual-report",
+  "title": "Venture Partners Annual Report | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:55:00.232Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-contact-us",
+  "title": "Contact Us | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:55:00.162Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-frequently-asked-questions",
+  "title": "Frequently Asked Questions | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 4,
+  "at": "2026-08-11T16:54:59.999Z"
+ },
+ {
+  "id": "siliconflatirons-org-events-startup-variety-show-2025-02-20",
+  "title": "Startup Variety Show | Silicon Flatirons",
+  "type": "event",
+  "org": "siliconflatirons.org",
+  "depth": 3,
+  "specificity": 5,
+  "at": "2026-08-11T16:54:59.994Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-newsroom",
+  "title": "Newsroom | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:54:59.904Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-subscribe",
+  "title": "Subscribe to The Insider Newsletters | Venture Partners at CU Boulder",
+  "type": "community",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:54:59.888Z"
+ },
+ {
+  "id": "siliconflatirons-org-announcements-silicon-flatirons-opens-call-for-proposals-fo",
+  "title": "Silicon Flatirons Opens Call for Proposals for Entrepreneurial Policy Academy | Silicon Flatirons",
+  "type": "reference",
+  "org": "siliconflatirons.org",
+  "depth": 3,
+  "specificity": 9,
+  "at": "2026-08-11T16:54:59.809Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-newsroom-cu-startups-news",
+  "title": "CU Startups News | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 4,
+  "specificity": 5,
+  "at": "2026-08-11T16:54:59.584Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-opportunities-and-events",
+  "title": "Opportunities and Events | Venture Partners at CU Boulder",
+  "type": "event",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:54:59.514Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
+  "title": "Make a Gift and Translate Discovery into Impact | Venture Partners at CU Boulder",
+  "type": "competition",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 8,
+  "at": "2026-08-11T16:54:59.078Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-investors-and-industry",
+  "title": "Investment and Industry Opportunities | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:54:58.952Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-technology-portfolio",
+  "title": "Technology Portfolio | Venture Partners at CU Boulder",
+  "type": "service",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:54:58.946Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-opportunities-and-events-creative-futures-fellowshi",
+  "title": "Creative Futures Fellowship | Venture Partners at CU Boulder",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 8,
+  "at": "2026-08-11T16:54:58.608Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-get-started",
+  "title": "Get Started | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:54:58.534Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-about",
+  "title": "About Us | Venture Partners at CU Boulder",
+  "type": "course",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 8,
+  "at": "2026-08-11T16:54:58.516Z"
+ },
+ {
+  "id": "siliconflatirons-org-events-startup-variety-show-2023-07-20",
+  "title": "Startup Variety Show | Silicon Flatirons",
+  "type": "event",
+  "org": "siliconflatirons.org",
+  "depth": 3,
+  "specificity": 5,
+  "at": "2026-08-11T16:54:57.179Z"
+ },
+ {
+  "id": "calendar-colorado-edu-calendar-event-types-5b-5d-113916",
+  "title": "Research & Innovation Events  on August 11 - September 9, 2026 - University of Colorado Boulder",
+  "type": "event",
+  "org": "colorado.edu/calendar",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:54:56.126Z"
+ },
+ {
+  "id": "colorado-edu-nvc-contact-us",
+  "title": "Contact Us | New Venture Challenge",
+  "type": "competition",
+  "org": "colorado.edu/nvc",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:54:55.918Z"
+ },
+ {
+  "id": "colorado-edu-nvc-events",
+  "title": "Events and Opportunities | New Venture Challenge",
+  "type": "competition",
+  "org": "colorado.edu/nvc",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:54:55.824Z"
+ },
+ {
+  "id": "colorado-edu-nvc-news",
+  "title": "News | New Venture Challenge",
+  "type": "competition",
+  "org": "colorado.edu/nvc",
+  "depth": 3,
   "specificity": 3,
-  "at": "2026-08-11T16:54:15.542Z"
+  "at": "2026-08-11T16:54:55.653Z"
+ },
+ {
+  "id": "colorado-edu-nvc-get-involved",
+  "title": "Support | New Venture Challenge",
+  "type": "competition",
+  "org": "colorado.edu/nvc",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:54:55.558Z"
+ },
+ {
+  "id": "colorado-edu-nvc-compete",
+  "title": "Compete | New Venture Challenge",
+  "type": "competition",
+  "org": "colorado.edu/nvc",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:54:55.489Z"
+ },
+ {
+  "id": "colorado-edu-nvc-about",
+  "title": "About the New Venture Challenge (NVC) | New Venture Challenge",
+  "type": "competition",
+  "org": "colorado.edu/nvc",
+  "depth": 3,
+  "specificity": 4,
+  "at": "2026-08-11T16:54:55.387Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-01-11-external-news-local-tech-startup-aims-po",
+  "title": "Local tech startup ExoPower aims to power commercial robots | Venture Partners at CU Boulder",
+  "type": "center",
+  "org": "colorado.edu/venturepartners",
+  "depth": 6,
+  "specificity": 6,
+  "at": "2026-08-11T16:54:55.175Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2023-11-13-internal-news-state-and-university-partn",
+  "title": "State and university partner to award over $1.5 million in funding to University of Colorado innovations | Venture Partners at CU Boulder",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 6,
+  "specificity": 8,
+  "at": "2026-08-11T16:54:54.898Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
+  "title": "Kioga Inc. | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 6,
+  "specificity": 6,
+  "at": "2026-08-11T16:54:54.760Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
+  "title": "Modendo Inc. | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 6,
+  "specificity": 8,
+  "at": "2026-08-11T16:54:54.357Z"
+ },
+ {
+  "id": "colorado-edu-catalyzecu-new-1-credit-courses-spring-2026",
+  "title": "NEW 1 Credit Courses FOR SPRING 2026 | Catalyze CU",
+  "type": "course",
+  "org": "colorado.edu/catalyzecu",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T16:54:54.309Z"
+ },
+ {
+  "id": "colorado-edu-catalyzecu-employment",
+  "title": "Employment | Catalyze CU",
+  "type": "program",
+  "org": "colorado.edu/catalyzecu",
+  "depth": 2,
+  "specificity": 8,
+  "at": "2026-08-11T16:54:54.296Z"
+ },
+ {
+  "id": "colorado-edu-catalyzecu-contact-us",
+  "title": "Contact Us | Catalyze CU",
+  "type": "reference",
+  "org": "colorado.edu/catalyzecu",
+  "depth": 2,
+  "specificity": 3,
+  "at": "2026-08-11T16:54:53.977Z"
+ },
+ {
+  "id": "colorado-edu-catalyzecu-support",
+  "title": "Become a Catalyze CU Partner | Catalyze CU",
+  "type": "program",
+  "org": "colorado.edu/catalyzecu",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T16:54:53.925Z"
+ },
+ {
+  "id": "colorado-edu-catalyzecu-news",
+  "title": "Catalyze CU Startups in the News | Catalyze CU",
+  "type": "reference",
+  "org": "colorado.edu/catalyzecu",
+  "depth": 2,
+  "specificity": 3,
+  "at": "2026-08-11T16:54:53.849Z"
+ },
+ {
+  "id": "colorado-edu-catalyzecu-about",
+  "title": "About | Catalyze CU",
+  "type": "program",
+  "org": "colorado.edu/catalyzecu",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T16:54:53.845Z"
+ },
+ {
+  "id": "colorado-edu-catalyzecu-summers-cohort",
+  "title": "This Summer's Cohort | Catalyze CU",
+  "type": "community",
+  "org": "colorado.edu/catalyzecu",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T16:54:53.821Z"
+ },
+ {
+  "id": "colorado-edu-ideaforge-faculty-support",
+  "title": "Faculty Support | Idea Forge",
+  "type": "course",
+  "org": "colorado.edu/ideaforge",
+  "depth": 2,
+  "specificity": 2,
+  "at": "2026-08-11T16:54:53.601Z"
+ },
+ {
+  "id": "colorado-edu-ideaforge-workshops",
+  "title": "Workshops | Idea Forge",
+  "type": "event",
+  "org": "colorado.edu/ideaforge",
+  "depth": 2,
+  "specificity": 0,
+  "at": "2026-08-11T16:54:53.432Z"
+ },
+ {
+  "id": "colorado-edu-ideaforge-about-tours",
+  "title": "Tours | Idea Forge",
+  "type": "course",
+  "org": "colorado.edu/ideaforge",
+  "depth": 2,
+  "specificity": 2,
+  "at": "2026-08-11T16:54:53.408Z"
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-idea-forge-commons",
+  "title": "Idea Forge Commons | Idea Forge",
+  "type": "event",
+  "org": "colorado.edu/ideaforge",
+  "depth": 3,
+  "specificity": 2,
+  "at": "2026-08-11T16:54:53.039Z"
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-makerspace",
+  "title": "Makerspace Woodshop | Idea Forge",
+  "type": "space",
+  "org": "colorado.edu/ideaforge",
+  "depth": 3,
+  "specificity": 1,
+  "at": "2026-08-11T16:54:53.004Z"
+ },
+ {
+  "id": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
+  "title": "July 21, 2026 | Research & Innovation Office",
+  "type": "reference",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 2,
+  "specificity": 5,
+  "at": "2026-08-11T16:54:52.297Z"
+ },
+ {
+  "id": "colorado-edu-ideaforge-news",
+  "title": "In the News | Idea Forge",
+  "type": "reference",
+  "org": "colorado.edu/ideaforge",
+  "depth": 2,
+  "specificity": 3,
+  "at": "2026-08-11T16:54:52.250Z"
+ },
+ {
+  "id": "colorado-edu-ideaforge-workshops-videos",
+  "title": "Workshops & Videos | Idea Forge",
+  "type": "event",
+  "org": "colorado.edu/ideaforge",
+  "depth": 2,
+  "specificity": 0,
+  "at": "2026-08-11T16:54:52.231Z"
+ },
+ {
+  "id": "colorado-edu-ideaforge-fabrication",
+  "title": "Fabrication | Idea Forge",
+  "type": "reference",
+  "org": "colorado.edu/ideaforge",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T16:54:52.214Z"
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities",
+  "title": "Facilities | Idea Forge",
+  "type": "space",
+  "org": "colorado.edu/ideaforge",
+  "depth": 2,
+  "specificity": 3,
+  "at": "2026-08-11T16:54:52.206Z"
+ },
+ {
+  "id": "colorado-edu-ideaforge-about",
+  "title": "About | Idea Forge",
+  "type": "space",
+  "org": "colorado.edu/ideaforge",
+  "depth": 2,
+  "specificity": 2,
+  "at": "2026-08-11T16:54:51.855Z"
+ },
+ {
+  "id": "lawinnovation-colorado-edu-public-facultypublications-year-2014",
+  "title": "Colorado Law | Selected Faculty Publications for 2014",
+  "type": "reference",
+  "org": "colorado.edu/Public",
+  "depth": 2,
+  "specificity": 3,
+  "at": "2026-08-11T16:54:47.943Z"
+ },
+ {
+  "id": "lawinnovation-colorado-edu-public-facultypublications-year-2018",
+  "title": "Colorado Law | Selected Faculty Publications for 2018",
+  "type": "reference",
+  "org": "colorado.edu/Public",
+  "depth": 2,
+  "specificity": 3,
+  "at": "2026-08-11T16:54:46.566Z"
+ },
+ {
+  "id": "lawinnovation-colorado-edu-public-facultypublications-year-2020",
+  "title": "Colorado Law | Selected Faculty Publications for 2020",
+  "type": "reference",
+  "org": "colorado.edu/Public",
+  "depth": 2,
+  "specificity": 3,
+  "at": "2026-08-11T16:54:46.366Z"
+ },
+ {
+  "id": "lawinnovation-colorado-edu-public-facultypublications-year-2021",
+  "title": "Colorado Law | Selected Faculty Publications for 2021",
+  "type": "reference",
+  "org": "colorado.edu/Public",
+  "depth": 2,
+  "specificity": 3,
+  "at": "2026-08-11T16:54:46.117Z"
  }
 ]

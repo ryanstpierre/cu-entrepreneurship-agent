@@ -642,6 +642,12 @@
   "depth": 1
  },
  {
+  "url": "https://www.colorado.edu/innovate/2024/10/21/flipping-couches-building-sellbuddy-startup-turning-furniture-fortune",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 2
+ },
+ {
   "url": "https://www.colorado.edu/business/deming/news-stories/demystifying-entrepreneurship-rural-colorado-workshop-series-news",
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
@@ -1168,6 +1174,42 @@
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
   "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/nvc/2024/08/01/external-news/marc-herzberger-leading-innovation-and-transformation-hype",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/nvc/2024/09/03/six-cu-boulder-startups-selected-present-rocky-mountain-life-science-investor-conference",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/nvc/2024/08/13/external-news/dedicated-funding-opportunities-woman-owned-businesses",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "http://colorado.edu/innovate/events-opportunities/all-upcoming-innovation-and-entrepreneurship-events",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 3
+ },
+ {
+  "url": "http://colorado.edu/ideaforge/facilities/idea-forge-commons",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 3
+ },
+ {
+  "url": "https://colorado.edu/innovate/events-opportunities/all-upcoming-innovation-and-entrepreneurship-events",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 4
  },
  {
   "url": "https://www.colorado.edu/innovate/media/2175",

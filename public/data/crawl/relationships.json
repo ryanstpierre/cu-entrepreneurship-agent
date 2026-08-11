@@ -3,7 +3,7 @@
   "from": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
   "to": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
   "kind": "links_to",
-  "weight": 5
+  "weight": 8
  },
  {
   "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
@@ -48,8 +48,26 @@
   "weight": 4
  },
  {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-graduate-students-high-growth-venture-fellowship-hi",
+  "kind": "links_to",
+  "weight": 4
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-student-opportunities-high-growth-venture-fellowshi",
+  "kind": "links_to",
+  "weight": 4
+ },
+ {
   "from": "colorado-edu-innovate",
   "to": "colorado-edu-venturepartners-cu-boulder-innovation-entrepreneurship-initiative",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-get-seed-funding",
+  "to": "colorado-edu-innovate-getseedfunding",
   "kind": "mentions",
   "weight": 3
  },
@@ -174,6 +192,24 @@
   "weight": 3
  },
  {
+  "from": "colorado-edu-business-deming-graduate-students-hgv-2022-cohort",
+  "to": "colorado-edu-business-deming-graduate-students-high-growth-venture-fellowship-hi",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-high-growth-venture-fellowship-hi",
+  "to": "colorado-edu-business-deming-student-opportunities-high-growth-venture-fellowshi",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-innovate-news",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
   "from": "colorado-edu-venturepartners-form-subscribe-for-updates-program-ascent-20deep-20",
   "to": "colorado-edu-venturepartners-form-subscribe-for-updates-program-embark-20deep-20",
   "kind": "mentions",
@@ -183,6 +219,12 @@
   "from": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
   "to": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
   "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "to": "colorado-edu-venturepartners-embark",
+  "kind": "mentions",
   "weight": 2
  },
  {
@@ -285,6 +327,30 @@
   "from": "colorado-edu-venturepartners-opportunities-and-events-mentorship-and-advising",
   "to": "colorado-edu-venturepartners-university-innovators-licensing-university-innovato",
   "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-ascent-deep-tec",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "colorado-edu-innovate-ascent-deep-tech-accelerator",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "colorado-edu-venturepartners-ascent",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-03-19-internal-news-pitch-competition-celebrat",
+  "to": "colorado-edu-venturepartners-2024-04-03-internal-news-pitch-competition-celebrat",
+  "kind": "mentions",
   "weight": 2
  },
  {
@@ -456,14 +522,74 @@
   "weight": 2
  },
  {
-  "from": "colorado-edu-business-deming-graduate-students-hgv",
-  "to": "colorado-edu-business-deming-graduate-students-high-growth-venture-fellowship-hi",
+  "from": "colorado-edu-business-deming-entrepreneurship-events",
+  "to": "colorado-edu-innovate-programs-resources-startups-sandwiches",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-entrepreneurship-events",
+  "to": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-entrepreneurship-events",
+  "to": "colorado-edu-business-deming-entrepreneurship-events-conferences",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
+  "to": "colorado-edu-business-deming-undergraduates-certificate-entrepreneurial-studies",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
+  "to": "colorado-edu-business-deming-undergraduates-certificate-entrepreneurial-studies-",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
+  "to": "colorado-edu-business-deming-student-opportunities-new-venture-launch",
   "kind": "links_to",
   "weight": 2
  },
  {
   "from": "colorado-edu-business-deming-graduate-students-hgv",
-  "to": "colorado-edu-business-deming-student-opportunities-high-growth-venture-fellowshi",
+  "to": "colorado-edu-innovate-programs-resources-high-growth-venture-fellowship",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-graduate-students-hgv-2019-cohort",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-graduate-students-hgv-2020-cohort",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-graduate-students-hgv-2021-cohort",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-graduate-students-hgv-2022-cohort",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-graduate-students-hgv-high-growth-venture-fellows-2",
   "kind": "links_to",
   "weight": 2
  },
@@ -471,6 +597,66 @@
   "from": "colorado-edu-innovate-2022-04-25-translate-research-new-startup-company-center-t",
   "to": "colorado-edu-researchinnovation-research-development-funding-center-translationa",
   "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-student-opportunities-new-venture-launch",
+  "to": "colorado-edu-innovate-programs-resources-new-venture-launch-class",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv-2019-cohort",
+  "to": "colorado-edu-business-deming-graduate-students-hgv-2020-cohort",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-innovate-getting-started",
+  "to": "colorado-edu-innovate-get-involved",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources",
+  "to": "colorado-edu-innovate-entrepreneurial-programs-student-programs",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources",
+  "to": "colorado-edu-innovate-boulder-climate-ventures",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-innovate-events",
+  "to": "colorado-edu-innovate-programs-resources-denver-startup-week",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-innovate-events",
+  "to": "colorado-edu-innovate-programs-resources-get-seed-funding",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-innovate-events",
+  "to": "colorado-edu-innovate-programs-resources-startups2students-s2s",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-innovate-events",
+  "to": "colorado-edu-innovate-events-opportunities-all-upcoming-innovation-and-entrepren",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-startups2students-s2s",
+  "to": "colorado-edu-innovate-startups2students-s2s",
+  "kind": "mentions",
   "weight": 2
  },
  {
@@ -542,12 +728,6 @@
  {
   "from": "colorado-edu-researchinnovation-venturewell-course-program-grants",
   "to": "colorado-edu-researchinnovation-venturewell-faculty-grants",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
-  "to": "colorado-edu-venturepartners-embark",
   "kind": "mentions",
   "weight": 1
  },
@@ -644,12 +824,6 @@
  {
   "from": "colorado-edu-researchinnovation-find-funding-external-funding",
   "to": "colorado-edu-researchinnovation-find-funding-funding",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-innovate-programs-resources-get-seed-funding",
-  "to": "colorado-edu-innovate-getseedfunding",
   "kind": "mentions",
   "weight": 1
  },
@@ -984,24 +1158,6 @@
   "weight": 1
  },
  {
-  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
-  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-ascent-deep-tec",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
-  "to": "colorado-edu-innovate-ascent-deep-tech-accelerator",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
-  "to": "colorado-edu-venturepartners-ascent",
-  "kind": "mentions",
-  "weight": 1
- },
- {
   "from": "colorado-edu-venturepartners-2020-08-19-venture-partners-flagship-research-marke",
   "to": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
   "kind": "links_to",
@@ -1154,12 +1310,6 @@
  {
   "from": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-i-corpstm-hub-w",
   "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-i-corps-hub-wes",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-2024-03-19-internal-news-pitch-competition-celebrat",
-  "to": "colorado-edu-venturepartners-2024-04-03-internal-news-pitch-competition-celebrat",
   "kind": "mentions",
   "weight": 1
  },
@@ -1650,80 +1800,8 @@
   "weight": 1
  },
  {
-  "from": "colorado-edu-business-deming-entrepreneurship-events",
-  "to": "colorado-edu-innovate-programs-resources-startups-sandwiches",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming-entrepreneurship-events",
-  "to": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming-entrepreneurship-events",
-  "to": "colorado-edu-business-deming-entrepreneurship-events-conferences",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
-  "to": "colorado-edu-business-deming-undergraduates-certificate-entrepreneurial-studies",
-  "kind": "mentions",
-  "weight": 1
- },
- {
   "from": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
   "to": "colorado-edu-business-deming-graduate-students-hgv",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
-  "to": "colorado-edu-business-deming-undergraduates-certificate-entrepreneurial-studies-",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
-  "to": "colorado-edu-business-deming-student-opportunities-new-venture-launch",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming-graduate-students-hgv",
-  "to": "colorado-edu-innovate-programs-resources-high-growth-venture-fellowship",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming-graduate-students-hgv",
-  "to": "colorado-edu-business-deming-graduate-students-hgv-2019-cohort",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming-graduate-students-hgv",
-  "to": "colorado-edu-business-deming-graduate-students-hgv-2020-cohort",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming-graduate-students-hgv",
-  "to": "colorado-edu-business-deming-graduate-students-hgv-2021-cohort",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming-graduate-students-hgv",
-  "to": "colorado-edu-business-deming-graduate-students-hgv-2022-cohort",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming-graduate-students-hgv",
-  "to": "colorado-edu-business-deming-graduate-students-hgv-high-growth-venture-fellows-2",
   "kind": "links_to",
   "weight": 1
  },
@@ -1802,6 +1880,714 @@
  {
   "from": "colorado-edu-nvc-2019-03-22-tissueform-developers-next-generation-dermal-fillers",
   "to": "colorado-edu-innovate-2019-03-22-tissueform-developers-next-generation-dermal-fi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-2025-02-05-last-call-registration-closes-feb-8-new-venture-chal",
+  "to": "colorado-edu-nvc-compete-general-competition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-2025-02-11-why-startups-can-be-best-places-work",
+  "to": "colorado-edu-innovate-2025-11-03-why-startups-can-be-best-places-work",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-2026-02-24-important-competition-dates-and-deadlines",
+  "to": "colorado-edu-nvc-2025-02-20-important-competition-dates-and-deadlines",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-catalyzecu",
+  "to": "colorado-edu-innovate-programs-resources-catalyze-cu",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-catalyzecu",
+  "to": "colorado-edu-catalyzecu-alumni-startups",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
+  "to": "colorado-edu-venturepartners-2023-05-26-internal-news-second-year-deep-tech-acce",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
+  "to": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-03-10-internal-news-alum-sristy-agrawal-leads-",
+  "to": "colorado-edu-venturepartners-2024-03-19-internal-news-pitch-competition-celebrat",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-03-18-internal-news-cu-boulder-hosts-showcases",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-undergraduates-certificate-entrepreneurial-studies-",
+  "to": "colorado-edu-business-deming-student-opportunities-new-venture-launch",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv-2019-cohort",
+  "to": "colorado-edu-business-deming-graduate-students-hgv-2021-cohort",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-bulletin",
+  "to": "colorado-edu-researchinnovation",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-about",
+  "to": "colorado-edu-catalyzecu",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-support",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners",
+  "to": "colorado-edu-innovate-venturepartners",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners",
+  "to": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-forge-nano-inc",
+  "to": "colorado-edu-venturepartners-2026-04-28-internal-news-forge-nano-list-16-billion",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "colorado-edu-venturepartners-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-innovation-workshop-series-marketing-with-eric-bruno",
+  "to": "calendar-colorado-edu-event-innovation-workshop-series-marketing-with-eric-bruno",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-innovation-workshop-series-finance-with-mike-szymans",
+  "to": "calendar-colorado-edu-event-innovation-workshop-series-finance-with-mike-szymans",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-design-thinking-for-sustainable-innovation-workshop-",
+  "to": "calendar-colorado-edu-event-design-thinking-for-sustainable-innovation-workshop-",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-new-venture-challenge-entity-formation-workshop-1176",
+  "to": "calendar-colorado-edu-event-new-venture-challenge-entity-formation-workshop-1176",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-student-opportunities-startup-summer",
+  "to": "siliconflatirons-org-initiatives-entrepreneurship-initiative-startup-summer",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-student-opportunities-startup-summer",
+  "to": "colorado-edu-innovate-programs-resources-startup-summer",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-02-20-amp-3butm-medium-ema",
+  "to": "colorado-edu-innovate-programs-resources-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-10-21",
+  "to": "colorado-edu-innovate-programs-resources-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-10-21",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20-amp-3butm-medium-ema",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc",
+  "to": "colorado-edu-innovate-new-venture-challenge-nvc-0",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-women-finals",
+  "to": "colorado-edu-nvc-events-opportunities-new-venture-challenge-women-founders-compe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-women-finals",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-space-tech-variety-show-amp-3butm-medium-email",
+  "to": "colorado-edu-innovate-programs-resources-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-space-tech-variety-show-amp-3butm-medium-email",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20-amp-3butm-medium-ema",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-space-tech-variety-show-amp-3butm-medium-email",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-10-21",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-space-tech-variety-show",
+  "to": "colorado-edu-innovate-programs-resources-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-space-tech-variety-show",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20-amp-3butm-medium-ema",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-space-tech-variety-show",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-10-21",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-space-tech-variety-show",
+  "to": "siliconflatirons-org-events-space-tech-variety-show-amp-3butm-medium-email",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-deep-tech-finals",
+  "to": "colorado-edu-nvc-events-opportunities-new-venture-challenge-deep-tech-competitio",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-deep-tech-finals",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show",
+  "to": "colorado-edu-innovate-programs-resources-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20-amp-3butm-medium-ema",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-10-21",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-04-08",
+  "to": "colorado-edu-innovate-programs-resources-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-04-08",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20-amp-3butm-medium-ema",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-04-08",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-10-21",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-04-08",
+  "to": "siliconflatirons-org-events-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
+  "to": "colorado-edu-ocg",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
+  "to": "colorado-edu-venturepartners-2026-07-28-external-news-modendo-awarded-3m-sbir-ph",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-07-28-external-news-modendo-awarded-3m-sbir-ph",
+  "to": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-07-28-external-news-modendo-awarded-3m-sbir-ph",
+  "to": "colorado-edu-venturepartners-university-innovators",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
+  "to": "colorado-edu-venturepartners-2026-07-08-bizwest-unveils-inaugural-startups-watch",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
+  "to": "colorado-edu-venturepartners-2026-04-24-external-news-innovative-ideas-and-found",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
+  "to": "colorado-edu-venturepartners-2025-05-15-internal-news-cu-boulder-startups-select",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-about",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-compete",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-get-involved",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-news",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-events",
+  "to": "colorado-edu-nvc-schedule",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-events",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-contact-us",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-getting-started",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-boulder-climate-ventures",
+  "to": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-boulder-climate-ventures",
+  "to": "colorado-edu-business-deming",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-boulder-climate-ventures",
+  "to": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-boulder-climate-ventures",
+  "to": "colorado-edu-business-deming-entrepreneurship-events",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-boulder-climate-ventures",
+  "to": "colorado-edu-business-deming-graduate-students-hgv",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
+  "to": "colorado-edu-business-deming-graduate-students-hgv",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2023-07-20",
+  "to": "colorado-edu-innovate-programs-resources-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2023-07-20",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20-amp-3butm-medium-ema",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2023-07-20",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-10-21",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2023-07-20",
+  "to": "siliconflatirons-org-events-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2023-07-20",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-04-08",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-news",
+  "to": "colorado-edu-innovate-events",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-startups2students-s2s",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-get-started",
+  "to": "colorado-edu-venturepartners-startup-portfolio",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-creative-futures-fellowshi",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-investors-and-industry",
+  "to": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
+  "to": "colorado-edu-venturepartners-2025-03-10-internal-news-alum-sristy-agrawal-leads-",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events",
+  "to": "colorado-edu-innovate-programs-resources-denver-startup-week",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events",
+  "to": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "to": "colorado-edu-innovate-programs-resources-embark-deep-tech-startup-creator",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-embark-deep-tech-startup-c",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-newsroom",
+  "to": "colorado-edu-venturepartners-news",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-02-20",
+  "to": "colorado-edu-innovate-programs-resources-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-02-20",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20-amp-3butm-medium-ema",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-02-20",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-10-21",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-02-20",
+  "to": "siliconflatirons-org-events-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-02-20",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-04-08",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-02-20",
+  "to": "siliconflatirons-org-events-startup-variety-show-2023-07-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-startup-portfolio",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-opportunities-and-events",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-get-started-path-commercialization",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-about",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about-reports-current-annual-report",
+  "to": "colorado-edu-venturepartners-startup-portfolio",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about-reports-current-annual-report",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about-reports-current-annual-report",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-vitrivax-inc",
+  "to": "colorado-edu-venturepartners-2023-12-06-external-news-vitrivax-cu-boulder-spinou",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-10-14-external-news-vitrivax-awarded-99m-grant",
+  "to": "colorado-edu-venturepartners-startup-portfolio-vitrivax-inc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2019-01-24-cu-boulder-brings-together-top-spinoffs-",
+  "to": "colorado-edu-venturepartners-events-and-opportunities-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2019-01-24-cu-boulder-brings-together-top-spinoffs-",
+  "to": "colorado-edu-techtransfer-business-community-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2019-01-24-cu-boulder-brings-together-top-spinoffs-",
+  "to": "colorado-edu-venturepartners-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2019-01-24-cu-boulder-brings-together-top-spinoffs-",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2019-01-24-cu-boulder-brings-together-top-spinoffs-",
+  "to": "colorado-edu-innovate-programs-resources-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2019-01-24-cu-boulder-brings-together-top-spinoffs-",
+  "to": "colorado-edu-venturepartners-business-partners-destination-startup",
   "kind": "mentions",
   "weight": 1
  }
