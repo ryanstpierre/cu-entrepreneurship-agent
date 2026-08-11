@@ -13,6 +13,16 @@ export const SEEDS = [
   'https://www.colorado.edu/center/ctr/',
   'https://www.colorado.edu/engineering/entrepreneurship',
   'https://siliconflatirons.org/',
+  // Round 2 — promoted from discovery-queue (open-ended widening)
+  'https://startupcolorado.org/',
+  'https://startupcolorado.org/funding-opportunities',
+  'https://oedit.colorado.gov/business-funding-incentives',
+  'https://www.cuanschutz.edu/cu-innovations',
+  'https://boulderstartupweek.com/',
+  'https://watson.is/',
+  'https://innosphereventures.org/',
+  'https://coloradostartups.org/',
+  'https://nvc.startuptree.co/',
 ]
 
 // Primary scope: any colorado.edu host. External hosts must be explicitly
@@ -20,6 +30,20 @@ export const SEEDS = [
 export const ALLOW_EXTERNAL = [
   'siliconflatirons.org',
   'www.siliconflatirons.org',
+  // Round 2 promotions (ranked by citation count from round 1)
+  'startupcolorado.org',
+  'www.startupcolorado.org',
+  'oedit.colorado.gov',
+  'www.cuanschutz.edu',
+  'boulderstartupweek.com',
+  'www.boulderstartupweek.com',
+  'watson.is',
+  'www.watson.is',
+  'innosphereventures.org',
+  'www.innosphereventures.org',
+  'coloradostartups.org',
+  'www.coloradostartups.org',
+  'nvc.startuptree.co',
 ]
 
 // URL relevance keywords — drive frontier priority and resource detection.
@@ -40,6 +64,11 @@ export const URL_BLOCKLIST = [
   '.mp4', '.mp3', '.zip', '.pptx', '.docx', '.xlsx', '/feed', '/rss',
   'twitter.com', 'facebook.com', 'instagram.com', 'linkedin.com', 'youtube.com',
   '/events/20', 'page=', '/print/', '/node/', '/taxonomy/',
+  // discovery-queue noise (redirectors, calendars, doc shares, ticketing)
+  'safelinks.protection.outlook.com', 'urldefense.com', 'sharepoint.com',
+  'eventbrite.com', 'calendar.google.com', 'docs.google.com', 'x.com/intent',
+  'meetup.com', 'luma.com', 'giving.cu.edu', 'events.blackthorn.io',
+  'joinhandshake.com', 'addtocalendar', 'outlook.office.com',
 ]
 
 export const LIMITS = {

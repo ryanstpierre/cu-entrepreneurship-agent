@@ -255,13 +255,14 @@ async function crawl() {
   const state = loadState()
   mkdirSync(OUT_DIR, { recursive: true })
 
-  if (state.batches === 0) {
-    for (const s of SEEDS) {
-      const n = normalize(s)
-      if (n) state.frontier.push({ url: n, depth: 0, parent: null, via: 'seed', priority: 100 })
+  // enqueue any seeds not yet visited (lets new promotions join mid-run)
+  for (const s of SEEDS) {
+    const n = normalize(s)
+    if (n && !state.visited[n] && !state.frontier.some(f => f.url === n)) {
+      state.frontier.push({ url: n, depth: 0, parent: null, via: 'seed', priority: 100 })
     }
-    await ingestSitemaps(state)
   }
+  await ingestSitemaps(state)
 
   let fetched = 0
   const inFlight = new Set()
