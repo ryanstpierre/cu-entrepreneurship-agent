@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-08-11T16:50:36.050Z",
+ "updatedAt": "2026-08-11T16:52:28.592Z",
  "startedAt": "2026-08-11T16:50:27.591Z",
- "batches": 1,
- "pagesFetched": 40,
- "resourcesCatalogued": 34,
- "relationshipEdges": 11,
- "frontierSize": 2108,
- "analysisQueueSize": 1,
- "externalDomainsFound": 31,
+ "batches": 2,
+ "pagesFetched": 298,
+ "resourcesCatalogued": 227,
+ "relationshipEdges": 53,
+ "frontierSize": 2434,
+ "analysisQueueSize": 40,
+ "externalDomainsFound": 126,
  "errors": 0,
  "maxDepthReached": 3,
  "depthHistogram": {
@@ -17,54 +17,77 @@
    "pending": 0
   },
   "1": {
-   "fetched": 15,
-   "discovered": 1673,
-   "pending": 1658
+   "fetched": 134,
+   "discovered": 1672,
+   "pending": 1538
   },
   "2": {
-   "fetched": 11,
-   "discovered": 151,
-   "pending": 140
+   "fetched": 124,
+   "discovered": 603,
+   "pending": 479
   },
   "3": {
-   "fetched": 2,
-   "discovered": 312,
-   "pending": 310
+   "fetched": 28,
+   "discovered": 436,
+   "pending": 408
+  },
+  "4": {
+   "fetched": 0,
+   "discovered": 9,
+   "pending": 9
   }
  },
  "saturation": {
   "0": 1,
-  "1": 0.009,
-  "2": 0.073,
-  "3": 0.006
+  "1": 0.08,
+  "2": 0.206,
+  "3": 0.064,
+  "4": 0
  },
  "perOrgDepth": {
   "colorado.edu/venturepartners": 3,
-  "colorado.edu/researchinnovation": 2,
-  "colorado.edu/innovate": 2,
+  "colorado.edu/researchinnovation": 3,
+  "colorado.edu/innovate": 3,
+  "colorado.edu/nvc": 2,
+  "colorado.edu/service": 2,
   "colorado.edu/techtransfer": 3,
-  "colorado.edu/nvc": 1,
+  "colorado.edu/engineering": 2,
+  "colorado.edu/event": 2,
+  "colorado.edu/mechanical": 2,
   "colorado.edu/business": 2,
+  "colorado.edu/today": 2,
   "colorado.edu/law": 0,
-  "colorado.edu/engineering": 0
+  "siliconflatirons.org": 1,
+  "colorado.edu/emp": 2,
+  "colorado.edu/music": 2
  },
  "byType": {
-  "funding": 6,
-  "reference": 5,
-  "competition": 14,
-  "center": 3,
-  "event": 4,
-  "service": 1,
-  "program": 1
+  "event": 16,
+  "funding": 58,
+  "program": 13,
+  "competition": 66,
+  "reference": 16,
+  "community": 14,
+  "service": 2,
+  "center": 34,
+  "course": 7,
+  "space": 1
  },
  "byOrg": {
-  "colorado.edu/venturepartners": 13,
-  "colorado.edu/researchinnovation": 6,
-  "colorado.edu/innovate": 5,
+  "colorado.edu/venturepartners": 58,
+  "colorado.edu/researchinnovation": 24,
+  "colorado.edu/innovate": 83,
+  "colorado.edu/nvc": 20,
+  "colorado.edu/service": 1,
   "colorado.edu/techtransfer": 1,
-  "colorado.edu/nvc": 2,
-  "colorado.edu/business": 5,
+  "colorado.edu/engineering": 4,
+  "colorado.edu/event": 5,
+  "colorado.edu/mechanical": 2,
+  "colorado.edu/business": 20,
+  "colorado.edu/today": 2,
   "colorado.edu/law": 1,
-  "colorado.edu/engineering": 1
+  "siliconflatirons.org": 1,
+  "colorado.edu/emp": 4,
+  "colorado.edu/music": 1
  }
 }

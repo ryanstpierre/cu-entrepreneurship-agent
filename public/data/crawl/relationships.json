@@ -1,5 +1,29 @@
 [
  {
+  "from": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
+  "to": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-form-subscribe-for-updates-program-ascent-20deep-20",
+  "to": "colorado-edu-venturepartners-form-subscribe-for-updates-program-embark-20deep-20",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-innovate",
+  "to": "colorado-edu-venturepartners-cu-boulder-innovation-entrepreneurship-initiative",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-innovate-newsletter-newsletter-innovation-entrepreneurship-newslett",
+  "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
   "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
   "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
   "kind": "links_to",
@@ -63,6 +87,234 @@
   "from": "colorado-edu-researchinnovation-funding-opportunities-limited-campus-competition",
   "to": "colorado-edu-innovate-funding-opportunities-limited-campus-competitions-anticipa",
   "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-pitch-your-idea-get-seed-funding",
+  "to": "colorado-edu-innovate-getseedfunding",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-venturewell-course-program-grants",
+  "to": "colorado-edu-researchinnovation-venturewell-faculty-grants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
+  "to": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "to": "colorado-edu-venturepartners-embark",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2019-12-12-six-cu-boulder-startups-clean-advanced-i",
+  "to": "colorado-edu-venturepartners",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-cu-boulder-innovation-entrepreneurship-initiative",
+  "to": "colorado-edu-innovate",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-what-we-do-mentorship-advising",
+  "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-01-09-internal-news-cu-boulder-shines-record-b",
+  "to": "colorado-edu-venturepartners-2025-09-15-internal-news-cu-boulder-ranked-1-launch",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-form-subscribe-for-updates-program-destination-20st",
+  "to": "colorado-edu-venturepartners-form-subscribe-for-updates-program-embark-20deep-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-form-subscribe-for-updates-program-destination-20st",
+  "to": "colorado-edu-venturepartners-form-subscribe-for-updates-program-ascent-20deep-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-funding-week",
+  "to": "colorado-edu-researchinnovation",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-initiatives-entrepreneurship-initiative",
+  "to": "colorado-edu-law-academics-clinics-entrepreneurial-law-clinic",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-initiatives-entrepreneurship-initiative",
+  "to": "colorado-edu-nvc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-research-to-mar",
+  "to": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-find-funding-limited-submission-funding-opportun",
+  "to": "colorado-edu-researchinnovation-fundingawards-limited-campus-competitions",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training",
+  "to": "colorado-edu-venturepartners-innovators-commercialization-academy",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-research-development-funding-center-translationa",
+  "to": "colorado-edu-venturepartners-funding-week",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-i-corps-hub-wes",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-i-corpstm-hub-w",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-student-opportunities-high-growth-venture-fellowshi",
+  "to": "colorado-edu-business-deming-student-opportunities-high-growth-venture-fellowshi",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-find-funding-external-funding",
+  "to": "colorado-edu-researchinnovation-find-funding-funding",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-get-seed-funding",
+  "to": "colorado-edu-innovate-getseedfunding",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-deming-center-entrepreneurship",
+  "to": "colorado-edu-business-deming",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
+  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
+  "to": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-new-venture-challenge-nvc-0",
+  "to": "colorado-edu-nvc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-embark-deep-tech-startup-creator",
+  "to": "colorado-edu-venturepartners-embark",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-embark-deep-tech-startup-creator",
+  "to": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-ascent-deep-tech-accelerator",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-ascent-deep-tec",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-emp-undergraduate-programs-engineering-entrepreneurship-minor",
+  "to": "colorado-edu-innovate-programs-resources-engineering-entrepreneurship-minor",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-music-entrepreneurship-certificate",
+  "to": "colorado-edu-innovate",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-research-innovation-seed-grants",
+  "to": "colorado-edu-innovate-fundingawards-innovative-seed-grant-program",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-fundingawards-innovative-seed-grant-program",
+  "to": "colorado-edu-innovate-fundingawards-innovative-seed-grant-program",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-fundingawards-innovative-seed-grant-program",
+  "to": "colorado-edu-innovate-programs-resources-research-innovation-seed-grants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-starting-blocks",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-deadline-new-venture-challenge-competition-registrat",
+  "to": "calendar-colorado-edu-event-deadline-new-venture-challenge-competition-registrat",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-deadline-social-impact-new-venture-challenge-competi",
+  "to": "calendar-colorado-edu-event-deadline-social-impact-new-venture-challenge-competi",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-women-in-entrepreneurship-thought-leadership-symposi",
+  "to": "calendar-colorado-edu-event-women-in-entrepreneurship-thought-leadership-symposi",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-newsletter-newsletter-innovation-entrepreneurship-newslett",
+  "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "kind": "links_to",
   "weight": 1
  }
 ]
