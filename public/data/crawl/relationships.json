@@ -1542,6 +1542,30 @@
   "weight": 2
  },
  {
+  "from": "colorado-edu-research-abnexus-apply-funding",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-research-abnexus-apply-funding",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-research-abnexus-grant-awardees-2021-ab-nexus-grant-awards",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-research-abnexus-grant-awardees-2021-ab-nexus-grant-awards",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
   "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
   "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
   "kind": "mentions",
@@ -1605,6 +1629,12 @@
   "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
   "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
   "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-research-abnexus-ab-nexus-grant-awardees",
+  "to": "colorado-edu-research-abnexus-ab-nexus-grant-awardees-2025-ab-nexus-grant-awards",
+  "kind": "links_to",
   "weight": 2
  },
  {
@@ -20718,18 +20748,6 @@
   "weight": 1
  },
  {
-  "from": "colorado-edu-research-abnexus-apply-funding",
-  "to": "cuanschutz-edu-cu-innovations",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-research-abnexus-apply-funding",
-  "to": "cuanschutz-edu-innovations",
-  "kind": "mentions",
-  "weight": 1
- },
- {
   "from": "colorado-edu-researchinnovation-piacademy",
   "to": "colorado-edu-researchinnovation-find-funding-faculty-development-workshops-princ",
   "kind": "mentions",
@@ -20745,18 +20763,6 @@
   "from": "colorado-edu-researchinnovation-piacademy",
   "to": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
   "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-research-abnexus-grant-awardees-2021-ab-nexus-grant-awards",
-  "to": "cuanschutz-edu-cu-innovations",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-research-abnexus-grant-awardees-2021-ab-nexus-grant-awards",
-  "to": "cuanschutz-edu-innovations",
-  "kind": "mentions",
   "weight": 1
  },
  {
@@ -26703,6 +26709,204 @@
   "from": "scholar-law-colorado-edu-faculty-articles-1692",
   "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-innovation-hub",
   "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-copy-of-virtual-information-session-teacher-leadersh",
+  "to": "calendar-colorado-edu-event-copy-of-virtual-information-session-teacher-leadersh",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor",
+  "to": "cuanschutz-edu-chancellor",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-offices-facilities-management-construction-projects-contractors-a",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-ford-philanthropy-fellowship",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-ford-philanthropy-fellowship",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-ford-philanthropy-fellowship",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-ford-philanthropy-fellowship",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-ford-philanthropy-fellowship",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-ford-philanthropy-fellowship",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-ford-philanthropy-fellowship",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-ford-philanthropy-fellowship",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-administrative-and-research-center",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-crucial-influence-leadership-skills-for-behavior-cha",
+  "to": "calendar-colorado-edu-event-crucial-influence-leadership-skills-for-behavior-cha",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-starting-blocks",
+  "to": "calendar-colorado-edu-event-starting-blocks-amp-3butm-medium-widget-amp-3butm-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-starting-blocks",
+  "to": "colorado-edu-venturepartners",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-group-office-of-contracts-and-grants",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-initiative-cubit-industry-partners",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-initiative-cubit-industry-partners",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "ibs-colorado-edu-interdisciplinary-training-funding-opportunities",
+  "to": "hazards-colorado-edu-awards-paper-competition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "ibs-colorado-edu-interdisciplinary-training-funding-and-awards",
+  "to": "hazards-colorado-edu-awards-paper-competition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "ibs-colorado-edu-research",
+  "to": "hazards-colorado-edu-awards-paper-competition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "ibs-colorado-edu-colleen-scanlan-lyons-discusses-digital-innovation-for-amazon-c",
+  "to": "hazards-colorado-edu-awards-paper-competition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "ibs-colorado-edu-about-grant-support-services",
+  "to": "hazards-colorado-edu-awards-paper-competition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-abnexus-apply-funding",
+  "to": "colorado-edu-research-abnexus-ab-nexus-grant-awardees",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-abnexus-ab-nexus-grant-awardees",
+  "to": "colorado-edu-research-abnexus-grant-awardees-2024-ab-nexus-grant-awards",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-abnexus-ab-nexus-grant-awardees",
+  "to": "colorado-edu-research-abnexus-grant-awardees-2023-ab-nexus-grant-awards",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-abnexus-ab-nexus-grant-awardees",
+  "to": "colorado-edu-research-abnexus-grant-awardees-2022-awardees",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-abnexus-ab-nexus-grant-awardees",
+  "to": "colorado-edu-research-abnexus-grant-awardees-2021-ab-nexus-grant-awards",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-abnexus-ab-nexus-grant-awardees",
+  "to": "colorado-edu-research-abnexus-grant-awardees-2020-ab-nexus-grant-awards",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-abnexus-grant-awardees-2022-awardees",
+  "to": "colorado-edu-research-abnexus-grant-awardees-2021-ab-nexus-grant-awards",
+  "kind": "links_to",
   "weight": 1
  }
 ]

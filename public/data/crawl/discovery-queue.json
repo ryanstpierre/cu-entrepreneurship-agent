@@ -165,6 +165,15 @@
   ]
  },
  {
+  "host": "www.cu.edu",
+  "count": 53,
+  "examples": [
+   "https://www.cu.edu/impact-cu",
+   "https://www.cu.edu/oaa/grants/diversity-inclusive-excellence-grant",
+   "https://www.cu.edu/ab-nexus"
+  ]
+ },
+ {
   "host": "www.terry.uga.edu",
   "count": 53,
   "examples": [
@@ -180,15 +189,6 @@
    "https://www.nsf.gov/news/special_reports/i-corps",
    "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2014648",
    "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice"
-  ]
- },
- {
-  "host": "www.cu.edu",
-  "count": 52,
-  "examples": [
-   "https://www.cu.edu/impact-cu",
-   "https://www.cu.edu/oaa/grants/diversity-inclusive-excellence-grant",
-   "https://www.cu.edu/ab-nexus"
   ]
  },
  {
@@ -265,10 +265,11 @@
  },
  {
   "host": "creativecommons.org",
-  "count": 39,
+  "count": 40,
   "examples": [
    "https://creativecommons.org/licenses/by-sa/4.0",
-   "http://creativecommons.org/licenses/by-sa/4.0"
+   "http://creativecommons.org/licenses/by-sa/4.0",
+   "http://creativecommons.org/licenses/by/3.0"
   ]
  },
  {

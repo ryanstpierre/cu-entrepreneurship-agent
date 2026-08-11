@@ -1,5 +1,203 @@
 [
  {
+  "id": "ibs-colorado-edu-about-grant-support-services",
+  "title": "Grant Support Services - Institute of Behavioral Science",
+  "type": "funding",
+  "org": "colorado.edu/about",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:19:53.796Z"
+ },
+ {
+  "id": "ibs-colorado-edu-colleen-scanlan-lyons-discusses-digital-innovation-for-amazon-c",
+  "title": "Colleen Scanlan Lyons discusses digital innovation for Amazon conservation at World Bank webinar - Institute of Behavioral Science",
+  "type": "center",
+  "org": "colorado.edu/colleen-scanlan-lyons-discusses-digital-innovation-for-amazon-conservation-at-world-bank-webinar",
+  "depth": 3,
+  "specificity": 4,
+  "at": "2026-08-11T17:19:53.471Z"
+ },
+ {
+  "id": "colorado-edu-academics-programs-majors",
+  "title": "Majors",
+  "type": "course",
+  "org": "colorado.edu/academics",
+  "depth": 2,
+  "specificity": 2,
+  "at": "2026-08-11T17:19:53.456Z"
+ },
+ {
+  "id": "colorado-edu-academics",
+  "title": "Academic Programs &amp; Resources",
+  "type": "funding",
+  "org": "colorado.edu/academics",
+  "depth": 2,
+  "specificity": 2,
+  "at": "2026-08-11T17:19:53.278Z"
+ },
+ {
+  "id": "ibs-colorado-edu-research",
+  "title": "Research - Institute of Behavioral Science",
+  "type": "funding",
+  "org": "colorado.edu/research",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:19:50.962Z"
+ },
+ {
+  "id": "ibs-colorado-edu-interdisciplinary-training-funding-and-awards",
+  "title": "Funded Graduate Research and Training - Institute of Behavioral Science",
+  "type": "funding",
+  "org": "colorado.edu/interdisciplinary-training",
+  "depth": 3,
+  "specificity": 8,
+  "at": "2026-08-11T17:19:50.643Z"
+ },
+ {
+  "id": "ibs-colorado-edu-interdisciplinary-training-funding-opportunities",
+  "title": "Graduate Student Funding Opportunities - Institute of Behavioral Science",
+  "type": "funding",
+  "org": "colorado.edu/interdisciplinary-training",
+  "depth": 3,
+  "specificity": 8,
+  "at": "2026-08-11T17:19:50.615Z"
+ },
+ {
+  "id": "colorado-edu-initiative-cubit-industry-partners",
+  "title": "Industry Engagement | CUbit Quantum Initiative",
+  "type": "course",
+  "org": "colorado.edu/initiative",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T17:19:46.922Z"
+ },
+ {
+  "id": "colorado-edu-research-abnexus-contact-us-0",
+  "title": "Contact Us | AB Nexus",
+  "type": "funding",
+  "org": "colorado.edu/research",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T17:19:45.447Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-opening-reception-and-tree-walk-campus-life-exhibiti",
+  "title": "Campus Life: 150 Years of Human and More-Than-Human Relationships at CU Boulder Exhibition - University of Colorado Boulder",
+  "type": "competition",
+  "org": "colorado.edu/event",
+  "depth": 2,
+  "specificity": 8,
+  "at": "2026-08-11T17:19:42.734Z"
+ },
+ {
+  "id": "calendar-colorado-edu-group-office-of-contracts-and-grants",
+  "title": "Research &amp; Innovation Office of Contracts and Grants - University of Colorado Boulder",
+  "type": "funding",
+  "org": "colorado.edu/group",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:19:42.113Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-tuesday-talks-5733",
+  "title": "Tuesday Talks - University of Colorado Boulder",
+  "type": "funding",
+  "org": "colorado.edu/event",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:19:41.707Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-starting-blocks",
+  "title": "Starting Blocks Customer Discovery Workshop - University of Colorado Boulder",
+  "type": "funding",
+  "org": "colorado.edu/event",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:19:37.324Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-crucial-influence-leadership-skills-for-behavior-cha",
+  "title": "Crucial Influence: Leadership Skills for Behavior Change - University of Colorado Boulder",
+  "type": "competition",
+  "org": "colorado.edu/event",
+  "depth": 3,
+  "specificity": 8,
+  "at": "2026-08-11T17:19:35.922Z"
+ },
+ {
+  "id": "calendar-colorado-edu-administrative-and-research-center",
+  "title": "Administrative and Research Center - University of Colorado Boulder",
+  "type": "funding",
+  "org": "colorado.edu/administrative_and_research_center",
+  "depth": 2,
+  "specificity": 8,
+  "at": "2026-08-11T17:19:35.158Z"
+ },
+ {
+  "id": "calendar-colorado-edu-jennagrant-563",
+  "title": "Jenna Grant - University of Colorado Boulder",
+  "type": "funding",
+  "org": "colorado.edu/jennagrant_563",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:19:33.309Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-on-campus-student-job-fair-fall26",
+  "title": "On-Campus Student Job &amp; Professional Experience Fair - University of Colorado Boulder",
+  "type": "course",
+  "org": "colorado.edu/event",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:19:32.759Z"
+ },
+ {
+  "id": "watson-is-ford-philanthropy-fellowship",
+  "title": "The Ford Philanthropy Fellowship",
+  "type": "funding",
+  "org": "watson.is",
+  "depth": 2,
+  "specificity": 8,
+  "at": "2026-08-11T17:19:31.721Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-mountain-research-station-instaar-open-house",
+  "title": "Anniversary Open House at the Mountain Research Station - University of Colorado Boulder",
+  "type": "funding",
+  "org": "colorado.edu/event",
+  "depth": 2,
+  "specificity": 8,
+  "at": "2026-08-11T17:19:31.431Z"
+ },
+ {
+  "id": "cuanschutz-edu-offices-facilities-management-construction-projects-contractors-a",
+  "title": "Contractor License Verification",
+  "type": "service",
+  "org": "cuanschutz.edu",
+  "depth": 3,
+  "specificity": 5,
+  "at": "2026-08-11T17:19:29.109Z"
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-chancellor",
+  "title": "Office of the Chancellor | University of Colorado Anschutz",
+  "type": "community",
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:19:28.576Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-copy-of-virtual-information-session-teacher-leadersh",
+  "title": "Virtual Information Session: Teacher Leadership  - University of Colorado Boulder",
+  "type": "course",
+  "org": "colorado.edu/event",
+  "depth": 3,
+  "specificity": 8,
+  "at": "2026-08-11T17:19:24.907Z"
+ },
+ {
   "id": "scholar-law-colorado-edu-faculty-articles-1692",
   "title": "\"Regional Venture Deals\" by Paige L. Wilson",
   "type": "funding",
@@ -340,203 +538,5 @@
   "depth": 3,
   "specificity": 6,
   "at": "2026-08-11T17:18:44.663Z"
- },
- {
-  "id": "calendar-colorado-edu-event-hackcu-11",
-  "title": "HackCU 11 - University of Colorado Boulder",
-  "type": "competition",
-  "org": "colorado.edu/event",
-  "depth": 2,
-  "specificity": 6,
-  "at": "2026-08-11T17:18:44.000Z"
- },
- {
-  "id": "campusgroups-colorado-edu-ecenter-rsvp-boot-id-381098",
-  "title": "Design Thinking for Sustainable Innovation Workshop  - Environmental Center",
-  "type": "competition",
-  "org": "colorado.edu/ecenter",
-  "depth": 2,
-  "specificity": 6,
-  "at": "2026-08-11T17:18:43.203Z"
- },
- {
-  "id": "calendar-colorado-edu-grantvertin-230-calendar",
-  "title": "Grant Vertin's Plans\n  \n  on August 1 - 31, 2026 - University of Colorado Boulder",
-  "type": "funding",
-  "org": "colorado.edu/grantvertin_230",
-  "depth": 4,
-  "specificity": 6,
-  "at": "2026-08-11T17:18:42.755Z"
- },
- {
-  "id": "calendar-colorado-edu-event-professional-sales-mentor-program-annual-meetup-444",
-  "title": "Professional Sales Mentor Program - Annual Meetup - University of Colorado Boulder",
-  "type": "course",
-  "org": "colorado.edu/event",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T17:18:42.546Z"
- },
- {
-  "id": "calendar-colorado-edu-grantvertin-230",
-  "title": "Grant Vertin - University of Colorado Boulder",
-  "type": "funding",
-  "org": "colorado.edu/grantvertin_230",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T17:18:42.225Z"
- },
- {
-  "id": "calendar-colorado-edu-koelbel-building-leeds-school-of-business",
-  "title": "Koelbel Building: Leeds School of Business - University of Colorado Boulder",
-  "type": "event",
-  "org": "colorado.edu/koelbel_building_leeds_school_of_business",
-  "depth": 2,
-  "specificity": 8,
-  "at": "2026-08-11T17:18:41.927Z"
- },
- {
-  "id": "calendar-colorado-edu-event-shes-independent-presents-fireside-chat-with-seth-le",
-  "title": "She's Independent presents: Fireside Chat with Seth Levine - University of Colorado Boulder",
-  "type": "event",
-  "org": "colorado.edu/event",
-  "depth": 2,
-  "specificity": 8,
-  "at": "2026-08-11T17:18:41.712Z"
- },
- {
-  "id": "calendar-colorado-edu-event-starting-blocks-amp-3butm-medium-widget-amp-3butm-so",
-  "title": "Starting Blocks Customer Discovery Workshop - University of Colorado Boulder",
-  "type": "funding",
-  "org": "colorado.edu/event",
-  "depth": 2,
-  "specificity": 6,
-  "at": "2026-08-11T17:18:41.442Z"
- },
- {
-  "id": "startupcolorado-org-page-entrepreneur-resources",
-  "title": "Home - Startup Colorado",
-  "type": "community",
-  "org": "startupcolorado.org",
-  "depth": 7,
-  "specificity": 4,
-  "at": "2026-08-11T17:18:40.475Z"
- },
- {
-  "id": "startupcolorado-org-page-entrepreneur-network",
-  "title": "Home - Startup Colorado",
-  "type": "community",
-  "org": "startupcolorado.org",
-  "depth": 7,
-  "specificity": 4,
-  "at": "2026-08-11T17:18:40.427Z"
- },
- {
-  "id": "startupcolorado-org-stories-founder-coopetition-launches-to-support-rural-entrep",
-  "title": "Founder Coopetition Launches to Support Rural Entrepreneurs - Startup Colorado",
-  "type": "funding",
-  "org": "startupcolorado.org",
-  "depth": 6,
-  "specificity": 8,
-  "at": "2026-08-11T17:18:39.026Z"
- },
- {
-  "id": "earthlab-colorado-edu-engage-workshops-hackathons",
-  "title": "Workshops &amp; Hackathons | Earthlab",
-  "type": "event",
-  "org": "colorado.edu/engage",
-  "depth": 3,
-  "specificity": 3,
-  "at": "2026-08-11T17:18:37.604Z"
- },
- {
-  "id": "online-colorado-edu-teacher-leadership-certificates-people",
-  "title": "People | Teacher Leadership Certificates | CU Boulder Online",
-  "type": "course",
-  "org": "colorado.edu/teacher-leadership-certificates",
-  "depth": 5,
-  "specificity": 6,
-  "at": "2026-08-11T17:18:36.769Z"
- },
- {
-  "id": "online-colorado-edu-teacher-leadership-certificates-careers",
-  "title": "Careers | Teacher Leadership Certificates | CU Boulder Online",
-  "type": "course",
-  "org": "colorado.edu/teacher-leadership-certificates",
-  "depth": 5,
-  "specificity": 6,
-  "at": "2026-08-11T17:18:36.690Z"
- },
- {
-  "id": "online-colorado-edu-teacher-leadership-certificates-dates-and-deadlines",
-  "title": "Dates | Teacher Leadership Certificates | CU Boulder Online",
-  "type": "course",
-  "org": "colorado.edu/teacher-leadership-certificates",
-  "depth": 5,
-  "specificity": 8,
-  "at": "2026-08-11T17:18:36.541Z"
- },
- {
-  "id": "online-colorado-edu-teacher-leadership-certificates-academics",
-  "title": "Academics | Teacher Leadership Certificates | CU Boulder Online",
-  "type": "course",
-  "org": "colorado.edu/teacher-leadership-certificates",
-  "depth": 5,
-  "specificity": 8,
-  "at": "2026-08-11T17:18:36.471Z"
- },
- {
-  "id": "online-colorado-edu-teacher-leadership-certificates-cost",
-  "title": "Cost | Teacher Leadership Certificates | CU Boulder Online",
-  "type": "course",
-  "org": "colorado.edu/teacher-leadership-certificates",
-  "depth": 5,
-  "specificity": 10,
-  "at": "2026-08-11T17:18:36.443Z"
- },
- {
-  "id": "startupcolorado-org-storytelling-tips-for-your-startup-pitch-with-diane-bailey",
-  "title": "Storytelling Tips for Your Startup Pitch with Diane Bailey - Startup Colorado",
-  "type": "competition",
-  "org": "startupcolorado.org",
-  "depth": 7,
-  "specificity": 2,
-  "at": "2026-08-11T17:18:36.395Z"
- },
- {
-  "id": "online-colorado-edu-teacher-leadership-certificates-admissions",
-  "title": "Admissions | Teacher Leadership Certificates | CU Boulder Online",
-  "type": "course",
-  "org": "colorado.edu/teacher-leadership-certificates",
-  "depth": 5,
-  "specificity": 8,
-  "at": "2026-08-11T17:18:36.224Z"
- },
- {
-  "id": "online-colorado-edu-teacher-leadership-certificates-teachers-leading-change",
-  "title": "Teachers Leading Change Certificate | CU Boulder Online",
-  "type": "course",
-  "org": "colorado.edu/teacher-leadership-certificates",
-  "depth": 5,
-  "specificity": 6,
-  "at": "2026-08-11T17:18:36.152Z"
- },
- {
-  "id": "online-colorado-edu-teacher-leadership-certificates-designing-for-learning",
-  "title": "Designing for Learning: Inquiry-Based Pedagogy for K-12 Educators Certificate | CU Boulder Online",
-  "type": "course",
-  "org": "colorado.edu/teacher-leadership-certificates",
-  "depth": 5,
-  "specificity": 6,
-  "at": "2026-08-11T17:18:36.136Z"
- },
- {
-  "id": "online-colorado-edu-teacher-leadership-certificates-inclusive-special-education",
-  "title": "Inclusive and Special Education Certificate | CU Boulder Online",
-  "type": "course",
-  "org": "colorado.edu/teacher-leadership-certificates",
-  "depth": 5,
-  "specificity": 8,
-  "at": "2026-08-11T17:18:35.945Z"
  }
 ]

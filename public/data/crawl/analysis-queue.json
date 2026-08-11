@@ -1642,5 +1642,53 @@
   "reason": "pdf-needs-extraction",
   "relevance": 0,
   "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider109/default-document-library/unrelated-business-income-tax-(ubit).pdf?sfvrsn=c8ba0b4_1",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider109/default-document-library/consulting-incentive-reserve-fom_final.pdf?sfvrsn=d221acb4_1",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider109/default-document-library/policy-on-management-of-non-responsive-counterparties-to-consulting-agreements.pdf?sfvrsn=e823acb4_1",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider148/ogc_documents/contracting-at-the-university.pdf?sfvrsn=7374a4ba_0",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider109/pipeline/pipeline-booklet_small_molecule-_0316_2026.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider109/pipeline/pipeline-booklet_therapeutic-delivery-formulation-tech_0514_2025.pdf?sfvrsn=23cc31b4_2",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider109/pipeline/pipeline-booklet_cell-gene-therapy-_gates_0316_2026.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider109/pipeline/pipeline-booklet_biologic-_0316_2026.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
  }
 ]

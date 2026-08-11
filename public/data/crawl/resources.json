@@ -905,7 +905,7 @@
  },
  {
   "id": "colorado-edu-research-abnexus-apply-funding",
-  "url": "https://colorado.edu/research/abnexus/apply-funding",
+  "url": "http://colorado.edu/research/abnexus/apply-funding",
   "title": "Apply for Funding | AB Nexus",
   "org": "colorado.edu/research",
   "type": "funding",
@@ -938,10 +938,10 @@
    "due: June 19 Virtual Pitches: Week of June 22 Budgetary Guidance Unallowable Costs"
   ],
   "specificity": 10,
-  "depth": 2,
+  "depth": 3,
   "discoveredVia": "link",
-  "parent": "https://colorado.edu/research/abnexus",
-  "fetchedAt": "2026-08-11T17:12:52.614Z",
+  "parent": "http://colorado.edu/research/abnexus",
+  "fetchedAt": "2026-08-11T17:19:56.012Z",
   "needsAnalysis": false
  },
  {
@@ -17323,6 +17323,335 @@
   "needsAnalysis": false
  },
  {
+  "id": "calendar-colorado-edu-event-copy-of-virtual-information-session-teacher-leadersh",
+  "url": "https://calendar.colorado.edu/event/copy-of-virtual-information-session-teacher-leadership-35",
+  "title": "Virtual Information Session: Teacher Leadership  - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "course",
+  "description": "Please join the Teacher Leadership Program at CU Boulder for a virtual information session on our master and certificate pathways. Learn more about the courses, program format, faculty and applicability of the program to your teaching site. We will offer a Q&amp;A session at the end.\n\nFor questions or accommodations for this event, please email tl-admissions@colorado.edu., powered by Localist Event Calendar Software",
+  "audience": [
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 8,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/calendar?event_types%5B%5D=32980066893717",
+  "fetchedAt": "2026-08-11T17:19:24.907Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-mountain-research-station-instaar-open-house",
+  "url": "https://calendar.colorado.edu/event/mountain-research-station-instaar-open-house",
+  "title": "Anniversary Open House at the Mountain Research Station - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "funding",
+  "description": "Celebrate the Mountain Research Station’s 106th anniversary and INSTAAR&#39;s 75th at our scenic field science outpost in the Indian Peaks.\n\n \n\n\n\n \n\nCalling all science lovers! The Open House at the Mountain Research Station is your chance to visit Colorado&#39;s premier alpine field science facility, run by INSTAAR. The day will feature guided field trips, hands-on activities, dinner, and a keynote from eminent ecologist Katharine Suding. You can come for one session only or stay for the whole day. Tickets are limited, so be sure to reserve tickets for each session you’d like to join.\n\n \n\n2026 is the 150th anniversary of CU Boulder, the 75th anniversary of the Institute of Arctic and Alpine Research (INSTAAR), and the 106th anniversary of the Mountain Research Station (MRS). Come celebrate with us!\n\n \n\nThis event is supported by INSTAAR and was partially funded through a grant from the 150th Initiative Fund. If you are able, please consider making a donation to help offset the remaining event costs and support INSTAAR and the Mountain Research Station. You can also donate to the Niwot Ridge Long Term Ecological Research Program via the NWT-LTER giving page.\n\n \n\n----------------------------------------\nMany activities to choose from\n\nSpace is limited for all activities except the Field Science Fair and self-guided interpretive trails (both 2-6 pm), so be sure to reserve tickets for each session you’d like to join. \n\n \n\nReserve your tickets with Eventbrite &gt;\n\n \n\n07:45 AM - 01:00 PM\nHike to Niwot Ridge\nDr. Nancy Emery, Dr. Scott Taylor\nThe Niwot Ridge Long-Term Ecological Research site is the home to one of the world&#39;s premier alpine research programs, with a legacy that spans decades of continuous scientific inquiry. This strenuous hike will begin with a 30-minute drive up a rugged mountain road, followed by a 1.5-mile hike gaining 1,000 feet over steep, rocky terrain. Program scientists will guide attendees through the ridge&#39;s core research area, offering an inside look at the instruments and experiments behind key long term inquiries in the alpine.\n\n \n\n02:00 PM - 06:00 PM\nField Science Fair\nReservations not needed, just walk on in\nJoin researchers in the Kiowa Classroom and Lab for an interactive, come and go, showcase of field science at the MRS. Researchers will share field equipment, samples, specimens, and more, covering a diverse set of topics including insects, biogeochemistry, plant evolution, alpine lake ecology, bird biology, and mammalogy.\n\n \n\n02:00 PM - 06:00 PM\nSelf-guided interpretive trails\nReservations not needed, just start walking\nExplore our three self-guided interpretive trails on your own. The trails are short, roughly 1/4 to 1/3 mile long and have interpretive signs in key areas along the trail. Key rules: foot traffic only, stay on trail, no dogs, and no bicycles. \n\nTrail 1: Como Creek / Riparian Zone. Learn about forest diversity, hydrology and aquatic ecology, our geomorphic setting, and our high-mountain watershed.\n\nTrail 2: Subalpine Forest. Learn about our dynamic forests, biological interactions, and mammals— including how to identify their tracks and scat.\n\nTrail 3: Research at the MRS. Learn about environmental monitoring, long-term data sets collected on Niwot Ridge, and the history of monitoring on Niwot Ridge.\n\n \n\n02:00 PM - 04:00 PM\nHike to C1\nDr. Sara Hart, Dr. Keith Musselman, Jen Morse\nCatch a glimpse into long term monitoring at the MRS. C1 is a subalpine climate station established along a monitoring transect in 1951. This is a moderately strenuous hike (3 miles round trip) that starts and ends at the Marr Lab (9500 feet), highlighted by a mid-hike tour of C1 (10,000 feet), a SNOTEL site, and the Eco Tram project. Along the way, you&#39;ll stop and discuss the long-term forest plots that have been monitored since the 1980&#39;s.\n\n \n\n02:00 PM - 03:30 PM\nMRS campus tour 1\nLucas Florsheim, Nathaniel Neal\nLearn about the history of the MRS on a tour of the facilities, housing, Como Creek, and Elk Meadows. This easy to moderate hike will stay within the CU-Boulder owned Columbine Spring Reserve. The final ascent to Elk Meadows involves a narrow and steep rocky trail.\n\n \n\n03:00 PM - 04:30 PM\nMRS campus tour 2\nDr. Scott Taylor\nLearn about the history of the MRS on a tour of the facilities, housing, Como Creek, and Elk Meadows. This easy to moderate hike will stay within the CU-Boulder owned Columbine Spring Reserve. The final ascent to Elk Meadows involves a narrow and steep rocky trail.\n\n \n\n04:00 PM - 05:30 PM\nMRS campus tour 3\nLucas Florsheim, Nathaniel Neal\nLearn about the history of the MRS on a tour of the facilities, housing, Como Creek, and Elk Meadows. This easy to moderate hike will stay within the CU-Boulder owned Columbine Spring Reserve. The final ascent to Elk Meadows involves a narrow and steep rocky trail.\n\n \n\n06:00 PM - 07:00 PM\nDinner\nEnjoy a catered dinner at the MRS dining hall. Chat with other science lovers and INSTAAR faculty over hearty local fare from Kathmandu Restaurant.\n\n \n\n07:00 PM - 08:00 PM\nKeynote with Dr. Katharine Suding\nDr. Katharine Suding\nEnjoy a keynote seminar from ecologist Katharine Suding in the historic Megaron building. Katharine Suding is a plant community ecologist, the former principal investigator of the Niwot Ridge LTER, and the recipient of the Franklin Institute Bower award in science.\n\n \n\nReserve your tickets with Eventbrite &gt;\n\n \n\n----------------------------------------\nMap of the station campus\n\n\n\n \n\n----------------------------------------\nPark nearby and use the free shuttle \n\nOpen House parking is extremely limited at the station.  Set your mapping app to park at the South Sourdough Trailhead instead (115 Colorado Road 116).\n\n \n\nFrom the trailhead, hop on the free shuttle 0.7 mile to the station.  Thanks!\n\n \n\n \n\n----------------------------------------\nFrequently asked questions\n\n \n\nIs this event accessible?\nThere will be a free shuttle between all event locations throughout the day, so no walking is required for non-hiking events. Please reach out to station manager Michael Haffey (mhaffey@colorado.edu) for accommodations or station director Scott Taylor (scott.a.taylor@colorado.edu) with questions.\n\n \n\nHow do I get to the MRS?\nOur main parking area for this event is the South Sourdough Trailhead (115 Colorado Road 116), just down the road from the Mountain Research Station. There you can pick up a free shuttle to the event. The trailhead is a 40-minute drive from Boulder. Please drive slow and watch out for wildlife on the final stretch of dirt road!\n\n \n\nWhat should I bring to the MRS open house?\nNo matter which activity you sign up for, be sure to bring water, extra clothing, a rain coat and sun protection. If you sign up for one of our hikes, you will get an email with further guidance.\n\n \n\nCan I bring my dog to the MRS?\nNo. We love our dogs too, but please leave your dogs at home for all MRS open house events unless they are designated service animals.\n\n \n\n----------------------------------------\nPlease consider donating\n\nWe are able to make this a FREE event thanks to partial funding from the CU Boulder 150th Initiative Fund. But if you are able, we would greatly appreciate a donation to help offset our remaining event costs, feed the grad student volunteers assisting the event, and generally support our research, education, and outreach.  Your options:\n\nINSTAAR givingMountain Research Station givingNiwot Ridge Long Term Ecological Research Program giving \n\nLearn about INSTAAR&#39;s 75th anniversary, its events, and how you can contribute &gt;\n\n \n\n\n\nDrone view of the Mountain Research Station campus looking west to the Indian Peaks (Credit: Gabe Allen), powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [
+   "mhaffey@colorado.edu",
+   "scott.a.taylor@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:31.431Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-ford-philanthropy-fellowship",
+  "url": "https://watson.is/ford-philanthropy-fellowship",
+  "title": "The Ford Philanthropy Fellowship",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "Empowering local entrepreneurs and leaders to build stronger, more resilient communities across Ford’s priority markets globally.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "edtech",
+   "energy",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$18.6 million",
+   "$1,100,000,",
+   "$200,000",
+   "$190 million"
+  ],
+  "deadlines": [
+   "deadline of July 26 , 2026 ; apply as early as possible for early consideration"
+  ],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/ford-philanthropy-fellowship-application",
+  "fetchedAt": "2026-08-11T17:19:31.721Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-administrative-and-research-center",
+  "url": "https://calendar.colorado.edu/administrative_and_research_center",
+  "title": "Administrative and Research Center - University of Colorado Boulder",
+  "org": "colorado.edu/administrative_and_research_center",
+  "type": "funding",
+  "description": "The Administrative and Research Center is home to many essential campus functions including Human Resources, Research Computing, Office of Contract and Grants, and Strategic Relations. The building is walking distance to shopping and restaurants, a Boulder Creek walking/biking path with access to the Scott Carpenter park, and on-site permit parking lots with access to both Buff Bus and Stampede bus routes to Main Campus., powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$0",
+   "$45",
+   "$180",
+   "$272",
+   "$318"
+  ],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:35.158Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-crucial-influence-leadership-skills-for-behavior-cha",
+  "url": "https://calendar.colorado.edu/event/crucial-influence-leadership-skills-for-behavior-change",
+  "title": "Crucial Influence: Leadership Skills for Behavior Change - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "competition",
+  "description": "Course Description\n\nWhen facing persistent, resistant challenges, leaders often surrender to poor results or invest in change efforts that waste time and resources. And yet it’s possible to influence behavior with surprisingly predictable success. For the past thirty years, we’ve studied leaders with a proven ability to influence rapid, profound and sustainable change. And here’s what we know: human behavior is grounded in six sources of influence. Effective leaders know how to leverage and apply these sources of influence to solve everyday leadership challenges.\n\nCrucial Influence® teaches leadership skills that are essential to leaders at every level. Drawing on five decades of social science research and work with successful leaders around the world, the Crucial Influence Model reveals why people do what they do and how all leaders—from aspiring leaders to top executives—can influence others for lasting results.\n\nCrucial Influence incorporates group discussion, video case studies, personal reflection, and engaging exercises into an active learning experience that enables learners to develop an influence plan to solve their challenges.\n \n\nLearning Outcomes\n\nIdentify the influence challenges you face as a leader that are keeping you from results.Clarify the vital behaviors that directly drive results.Examine the Six Sources of Influence - personal, social, and structural factors - to discover the causes of any behavior.Diagnose why the current behavior exists to prescribe the most effective and comprehensive solution.Learn how to engage multiple sources of influence to overwhelm persistent and resistent behaviors.Help others want to do vital behaviors by connecting to values.Invest in deliberative practice to significantly enhance personal ability.Harness the power of social influence.Identify and engage opinion leaders.Make incentives and consequences work for you by supporting, not undermining, desired behaviors.Change the environment to make bad behaviors harder and good behaviors easier.Practice using all the skills of Crucial Influence on a real-life case.Make plans to execute on your own Influence Challenge plan.\n Who should attend\nCrucial Influence is appropriate for leaders at every level of the organization.\n\nCost\n$215, powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$318",
+   "$215"
+  ],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 8,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/administrative_and_research_center",
+  "fetchedAt": "2026-08-11T17:19:35.922Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-opening-reception-and-tree-walk-campus-life-exhibiti",
+  "url": "https://calendar.colorado.edu/event/opening-reception-and-tree-walk-campus-life-exhibition",
+  "title": "Campus Life: 150 Years of Human and More-Than-Human Relationships at CU Boulder Exhibition - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "competition",
+  "description": "Campus Life explores the shared history of humans and more-than-human inhabitants over the 150 years of CU Boulder, documenting their evolving relationship. The works exhibited illustrate how different forms of life coexist on campus through a diverse collection of visual media including historical maps, photographs, original watercolors and modern cartography that tracks current and past human-wildlife interactions. \n\n \n\nAs part of the exhibition, the curators are collecting oral stories from peoples&#39; experiences with the more-than-human on and around campus. Contribute your personal experience to the project.\n\n \n\nVisitors are also invited to enter the Campus Life Trivia Contest while exploring the exhibit to be eligible for a prize drawing. Follow the gingko leaves and respond to the questions to win a photo or a $50 dollar Amazon gift card.\n\n \n\nCampus Life is a collaboration with NEST Studio for the Arts, the Museum of Natural History and Facilities Management.\n\n \n\nThe exhibition is on view until December 2026. Please check the Univeristy Libraries hours page for any exceptions.\n\n \n\nThis project was partially funded through a grant from the 150th Initiative Fund., powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$50"
+  ],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:42.734Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "ibs-colorado-edu-interdisciplinary-training-funding-opportunities",
+  "url": "https://ibs.colorado.edu/interdisciplinary-training/funding-opportunities",
+  "title": "Graduate Student Funding Opportunities - Institute of Behavioral Science",
+  "org": "colorado.edu/interdisciplinary-training",
+  "type": "funding",
+  "description": "The Institute of Behavioral Science provides graduate students with various funding opportunities to further their own research and collaborate with IBS researchers on projects. This usually takes the form of small research grants awarded over the fall and spring semesters, and summer research assistantship grants.",
+  "audience": [
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "ibs-contact@colorado.edu"
+  ],
+  "funding": [
+   "$2,000",
+   "$1500"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://behavioralscience.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:50.615Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "ibs-colorado-edu-interdisciplinary-training-funding-and-awards",
+  "url": "https://ibs.colorado.edu/interdisciplinary-training/funding-and-awards",
+  "title": "Funded Graduate Research and Training - Institute of Behavioral Science",
+  "org": "colorado.edu/interdisciplinary-training",
+  "type": "funding",
+  "description": "This is the list of awards that our students received. Their hard work is showcased through their receptions of grants and fellowships.",
+  "audience": [
+   "grad students",
+   "faculty",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "health",
+   "food",
+   "energy",
+   "arts",
+   "space"
+  ],
+  "contacts": [
+   "ibs-contact@colorado.edu"
+  ],
+  "funding": [
+   "$13,000",
+   "$1,000",
+   "$24,000",
+   "$13,165"
+  ],
+  "deadlines": [
+   "due to political reasons I cannot leave the US and do a full-fledged field work, so"
+  ],
+  "specificity": 8,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://behavioralscience.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:50.643Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-innovate",
   "url": "http://www.colorado.edu/innovate",
   "title": "Home | Innovation & Entrepreneurship Initiative",
@@ -19079,7 +19408,7 @@
  },
  {
   "id": "colorado-edu-research-abnexus-grant-awardees-2024-ab-nexus-grant-awards",
-  "url": "https://colorado.edu/research/abnexus/grant-awardees/2024-ab-nexus-grant-awards",
+  "url": "http://colorado.edu/research/abnexus/grant-awardees/2024-ab-nexus-grant-awards",
   "title": "2024 AB Nexus Grant Awards | AB Nexus",
   "org": "colorado.edu/research",
   "type": "funding",
@@ -19108,10 +19437,10 @@
    "due to the ever-present motions of the fetus"
   ],
   "specificity": 7,
-  "depth": 3,
+  "depth": 4,
   "discoveredVia": "link",
-  "parent": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
-  "fetchedAt": "2026-08-11T17:12:52.974Z",
+  "parent": "http://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "fetchedAt": "2026-08-11T17:19:56.226Z",
   "needsAnalysis": false
  },
  {
@@ -30476,7 +30805,7 @@
  },
  {
   "id": "colorado-edu-research-abnexus-ab-nexus-grant-awardees",
-  "url": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "url": "http://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
   "title": "AB Nexus Grant Awardees | AB Nexus",
   "org": "colorado.edu/research",
   "type": "competition",
@@ -30500,10 +30829,10 @@
   ],
   "deadlines": [],
   "specificity": 6,
-  "depth": 2,
+  "depth": 3,
   "discoveredVia": "link",
-  "parent": "https://colorado.edu/research/abnexus",
-  "fetchedAt": "2026-08-11T17:12:52.814Z",
+  "parent": "http://colorado.edu/research/abnexus",
+  "fetchedAt": "2026-08-11T17:19:56.040Z",
   "needsAnalysis": false
  },
  {
@@ -30543,7 +30872,7 @@
  },
  {
   "id": "colorado-edu-research-abnexus-grant-awardees-2023-ab-nexus-grant-awards",
-  "url": "https://colorado.edu/research/abnexus/grant-awardees/2023-ab-nexus-grant-awards",
+  "url": "http://colorado.edu/research/abnexus/grant-awardees/2023-ab-nexus-grant-awards",
   "title": "2023 AB Nexus Grant Awards | AB Nexus",
   "org": "colorado.edu/research",
   "type": "funding",
@@ -30569,15 +30898,15 @@
   ],
   "deadlines": [],
   "specificity": 6,
-  "depth": 3,
+  "depth": 4,
   "discoveredVia": "link",
-  "parent": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
-  "fetchedAt": "2026-08-11T17:12:53.245Z",
+  "parent": "http://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "fetchedAt": "2026-08-11T17:19:56.267Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-research-abnexus-grant-awardees-2022-awardees",
-  "url": "https://colorado.edu/research/abnexus/grant-awardees/2022-awardees",
+  "url": "http://colorado.edu/research/abnexus/grant-awardees/2022-awardees",
   "title": "2022 Awardees | AB Nexus",
   "org": "colorado.edu/research",
   "type": "funding",
@@ -30603,15 +30932,15 @@
   ],
   "deadlines": [],
   "specificity": 6,
-  "depth": 3,
+  "depth": 4,
   "discoveredVia": "link",
-  "parent": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
-  "fetchedAt": "2026-08-11T17:12:53.251Z",
+  "parent": "http://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "fetchedAt": "2026-08-11T17:19:56.429Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-research-abnexus-grant-awardees-2021-ab-nexus-grant-awards",
-  "url": "https://colorado.edu/research/abnexus/grant-awardees/2021-ab-nexus-grant-awards",
+  "url": "http://colorado.edu/research/abnexus/grant-awardees/2021-ab-nexus-grant-awards",
   "title": "2021 AB Nexus Grant Awards | AB Nexus",
   "org": "colorado.edu/research",
   "type": "funding",
@@ -30634,15 +30963,15 @@
   ],
   "deadlines": [],
   "specificity": 6,
-  "depth": 3,
+  "depth": 4,
   "discoveredVia": "link",
-  "parent": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
-  "fetchedAt": "2026-08-11T17:12:53.263Z",
+  "parent": "http://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "fetchedAt": "2026-08-11T17:19:56.437Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-research-abnexus-grant-awardees-2020-ab-nexus-grant-awards",
-  "url": "https://colorado.edu/research/abnexus/grant-awardees/2020-ab-nexus-grant-awards",
+  "url": "http://colorado.edu/research/abnexus/grant-awardees/2020-ab-nexus-grant-awards",
   "title": "2020 AB Nexus Grant Awards | AB Nexus",
   "org": "colorado.edu/research",
   "type": "funding",
@@ -30668,10 +30997,10 @@
   ],
   "deadlines": [],
   "specificity": 6,
-  "depth": 3,
+  "depth": 4,
   "discoveredVia": "link",
-  "parent": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
-  "fetchedAt": "2026-08-11T17:12:53.339Z",
+  "parent": "http://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "fetchedAt": "2026-08-11T17:19:56.559Z",
   "needsAnalysis": false
  },
  {
@@ -33278,6 +33607,288 @@
   "discoveredVia": "link",
   "parent": "https://oit.colorado.edu/services/network-internet-services/ip-address-hostname-management",
   "fetchedAt": "2026-08-11T17:18:59.790Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-chancellor",
+  "url": "https://www.cuanschutz.edu/about/leadership/chancellor",
+  "title": "Office of the Chancellor | University of Colorado Anschutz",
+  "org": "cuanschutz.edu",
+  "type": "community",
+  "description": "Guided by innovation and excellence, CU Anschutz’s Chancellor and other senior leadership advance health education, research, patient care, and community.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "chancellor@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/HIE",
+  "fetchedAt": "2026-08-11T17:19:28.576Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-on-campus-student-job-fair-fall26",
+  "url": "https://calendar.colorado.edu/event/on-campus-student-job-fair-fall26",
+  "title": "On-Campus Student Job &amp; Professional Experience Fair - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "course",
+  "description": "Are you interested in working on campus? Gain valuable work and career experience through on campus jobs that can grow your skills and may even be within your field of study! Departments from across campus will be there to showcase their job and professional experience opportunities – including mentorship, internships, research, volunteering, skill certificates, entrepreneurship and more. Hourly and work-study positions are available. This event is open to all current undergraduate and graduate students., powered by Localist Event Calendar Software",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:32.759Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-jennagrant-563",
+  "url": "https://calendar.colorado.edu/jennagrant_563",
+  "title": "Jenna Grant - University of Colorado Boulder",
+  "org": "colorado.edu/jennagrant_563",
+  "type": "funding",
+  "description": "University of Colorado Boulder events updated every day. Powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/student_recreation_center_637",
+  "fetchedAt": "2026-08-11T17:19:33.309Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-starting-blocks",
+  "url": "https://calendar.colorado.edu/event/starting_blocks",
+  "title": "Starting Blocks Customer Discovery Workshop - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "funding",
+  "description": "Do you have an innovation that could make a difference? \n\nWhether a researcher, entrepreneur, inventor or problem solver, the Starting Blocks Customer Discovery Workshop at Venture Partners at CU Boulder can help you transform your concept into a successful venture. Offered as part of the National Science Foundation (NSF) I-Corps™ Hub: West Region, this workshop is for anyone from a research or community institution motivated to bring their ideas to life, secure funding and create lasting impact. Over three weeks, gain a deeper understanding of the commercialization process, test your ideas with real potential customers and accelerate your journey toward bringing your idea to market. Visit the Starting Blocks Website\n \n\nWorkshop Details\n\n👥 This opportunity is available to innovators from any research or teaching institution.\n\n🗓️ Workshop Dates: Nov. 5-19\n\n🖥️ Virtual Opportunity\n\n⏰ Application Deadline: Thursday, Oct. 29—Apply Now\n \n\nAbout Venture Partners at CU Boulder\n\nSet in the heart of our university’s bold, innovative community of scholars and learners, Venture Partners at CU Boulder brings the university&#39;s world-class researchers together with the business, startup and entrepreneurial communities to translate groundbreaking solutions into economic and social impact. Visit the Venture Partners Website, powered by Localist Event Calendar Software",
+  "audience": [
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadline: Thursday, Oct",
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:37.324Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-tuesday-talks-5733",
+  "url": "https://calendar.colorado.edu/event/tuesday_talks_5733",
+  "title": "Tuesday Talks - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "funding",
+  "description": "Join us for a discussion with leadership from the Campus Controller&#39;s Office and Office of Contracts and Grants on research administration topics at Tuesday Talks., powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:41.707Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-group-office-of-contracts-and-grants",
+  "url": "https://calendar.colorado.edu/group/office_of_contracts_and_grants",
+  "title": "Research &amp; Innovation Office of Contracts and Grants - University of Colorado Boulder",
+  "org": "colorado.edu/group",
+  "type": "funding",
+  "description": "University of Colorado Boulder events updated every day. Powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/event/tuesday_talks_5733",
+  "fetchedAt": "2026-08-11T17:19:42.113Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "ibs-colorado-edu-research",
+  "url": "https://ibs.colorado.edu/research",
+  "title": "Research - Institute of Behavioral Science",
+  "org": "colorado.edu/research",
+  "type": "funding",
+  "description": "Grants are awarded to programs through external funders and community partners. We have total grant rewards listed for programs.",
+  "audience": [
+   "grad students",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "ibs-contact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://behavioralscience.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:50.962Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "ibs-colorado-edu-about-grant-support-services",
+  "url": "https://ibs.colorado.edu/about/grant-support-services",
+  "title": "Grant Support Services - Institute of Behavioral Science",
+  "org": "colorado.edu/about",
+  "type": "funding",
+  "description": "Researchers of qualifying backgrounds can get help with grants from IBS. If you need help with grant proposals, contact us.",
+  "audience": [
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "ibs-contact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://behavioralscience.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:53.796Z",
   "needsAnalysis": false
  },
  {
@@ -40755,7 +41366,7 @@
  },
  {
   "id": "colorado-edu-research-abnexus-ab-nexus-grant-awardees-2025-ab-nexus-grant-awards",
-  "url": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees/2025-ab-nexus-grant-awards",
+  "url": "http://colorado.edu/research/abnexus/ab-nexus-grant-awardees/2025-ab-nexus-grant-awards",
   "title": "2025 AB Nexus Grant Awards | AB Nexus",
   "org": "colorado.edu/research",
   "type": "funding",
@@ -40781,10 +41392,10 @@
   ],
   "deadlines": [],
   "specificity": 5,
-  "depth": 3,
+  "depth": 4,
   "discoveredVia": "link",
-  "parent": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
-  "fetchedAt": "2026-08-11T17:12:52.958Z",
+  "parent": "http://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "fetchedAt": "2026-08-11T17:19:56.236Z",
   "needsAnalysis": false
  },
  {
@@ -42111,6 +42722,46 @@
   "discoveredVia": "link",
   "parent": "https://hazards.colorado.edu/awards/paper-competition",
   "fetchedAt": "2026-08-11T17:19:03.184Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-offices-facilities-management-construction-projects-contractors-a",
+  "url": "https://www.cuanschutz.edu/offices/facilities-management/construction-projects/contractors-and-consultants/contractor-license-verification",
+  "title": "Contractor License Verification",
+  "org": "cuanschutz.edu",
+  "type": "service",
+  "description": "Contractor License Verification Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Sup",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "health",
+   "energy",
+   "space"
+  ],
+  "contacts": [
+   "antonio.miller@cuanschutz.edu",
+   "mark.beall@cuanschutz.edu",
+   "frank.gibney@cuanschutz.edu",
+   "iain.baker@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/visitor-parking",
+  "fetchedAt": "2026-08-11T17:19:29.109Z",
   "needsAnalysis": false
  },
  {
@@ -55803,6 +56454,97 @@
   "discoveredVia": "link",
   "parent": "https://oit.colorado.edu/tutorial/static-ip-configuration-macintosh",
   "fetchedAt": "2026-08-11T17:19:00.402Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-research-abnexus-contact-us-0",
+  "url": "https://colorado.edu/research/abnexus/contact-us-0",
+  "title": "Contact Us | AB Nexus",
+  "org": "colorado.edu/research",
+  "type": "funding",
+  "description": "For general information about AB Nexus, please email abnexus_seedgrants@colorado.edu.",
+  "audience": [
+   "researchers"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "abnexus_seedgrants@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/research/abnexus",
+  "fetchedAt": "2026-08-11T17:19:45.447Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-initiative-cubit-industry-partners",
+  "url": "https://colorado.edu/initiative/cubit/industry-partners",
+  "title": "Industry Engagement | CUbit Quantum Initiative",
+  "org": "colorado.edu/initiative",
+  "type": "course",
+  "description": "The CUbit Quantum Initiative partners with industry to catalyze advancement of quantum information technologies and strengthen the regional and national quantum ecosystem. Industry partners and CUbit researchers build upon world-class research and education to develop the next generation of quantum solutions. Our combined effort strengthens the global quantum ecosystem and builds a premier quantum resource in one of the nation&rsquo;s most fertile quantum communities.",
+  "audience": [
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "quantum",
+   "energy"
+  ],
+  "contacts": [
+   "cubit@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/initiative/cubit",
+  "fetchedAt": "2026-08-11T17:19:46.922Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "ibs-colorado-edu-colleen-scanlan-lyons-discusses-digital-innovation-for-amazon-c",
+  "url": "https://ibs.colorado.edu/colleen-scanlan-lyons-discusses-digital-innovation-for-amazon-conservation-at-world-bank-webinar",
+  "title": "Colleen Scanlan Lyons discusses digital innovation for Amazon conservation at World Bank webinar - Institute of Behavioral Science",
+  "org": "colorado.edu/colleen-scanlan-lyons-discusses-digital-innovation-for-amazon-conservation-at-world-bank-webinar",
+  "type": "center",
+  "description": "IBS Fellow, Associate Research Professor, and Director of the Center for the Governance of Natural Resources, Colleen Scanlan Lyons, recently presented at a World Bank webinar on July 22. As a director of the Governors&#8217; Climate and Forests (GCF) Task Force, Colleen represented the GCF when discussing the World Bank&#8217;s newly released report, Advancing Amazon ... Read more",
+  "audience": [
+   "grad students",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "health"
+  ],
+  "contacts": [
+   "ibs-contact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://behavioralscience.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:53.471Z",
   "needsAnalysis": false
  },
  {
@@ -71655,6 +72397,79 @@
   "parent": "http://lawweb.colorado.edu/profiles/profile-min.jsp?id=1187",
   "fetchedAt": "2026-08-11T17:19:06.438Z",
   "needsAnalysis": true
+ },
+ {
+  "id": "colorado-edu-academics",
+  "url": "http://colorado.edu/academics",
+  "title": "Academic Programs &amp; Resources",
+  "org": "colorado.edu/academics",
+  "type": "funding",
+  "description": "While interacting with our faculty—which includes five Nobel laureates, nine MacArthur &quot;genius grant&quot; fellows, two U.S. Professors of the Year, five National Medal of Science winners, and more than 30 Grammy awards and nominations—you&#039;ll develop a broad understanding of the world, strong leadership skills and an enhanced ability to think critically.",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "aerospace",
+   "quantum",
+   "health",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/research/research-centers",
+  "fetchedAt": "2026-08-11T17:19:53.278Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-academics-programs-majors",
+  "url": "http://colorado.edu/academics/programs/majors",
+  "title": "Majors",
+  "org": "colorado.edu/academics",
+  "type": "course",
+  "description": "Our innovative undergraduate degree programs prepare you for a complex global society. Customize your education by combining majors, minors and certificates.",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "quantum",
+   "health",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/research/research-centers",
+  "fetchedAt": "2026-08-11T17:19:53.456Z",
+  "needsAnalysis": false
  },
  {
   "id": "colorado-edu-emp-2023-10-17-global-semester-escend-engineering-managemententrepr",
