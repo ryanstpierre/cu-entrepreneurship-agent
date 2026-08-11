@@ -1,7 +1,7 @@
 [
  {
   "host": "community.startupcolorado.org",
-  "count": 2902,
+  "count": 3138,
   "examples": [
    "https://community.startupcolorado.org/events/110697?amp%3Bmc_eid=efea1eee39",
    "https://community.startupcolorado.org/events/109764?amp%3Bmc_eid=efea1eee39",
@@ -10,7 +10,7 @@
  },
  {
   "host": "ruralstartup.substack.com",
-  "count": 2213,
+  "count": 2395,
   "examples": [
    "https://ruralstartup.substack.com/",
    "https://ruralstartup.substack.com/p/signup",
@@ -19,7 +19,7 @@
  },
  {
   "host": "airtable.com",
-  "count": 1440,
+  "count": 1558,
   "examples": [
    "https://airtable.com/appecgjAEPF6G0oQe/pagl8MxeYG1r7sRv1/form?amp%3Bmc_eid=efea1eee39",
    "https://airtable.com/appuqMEafOOQMf01L/pagUqCwwINXgZ1A5K/form?amp%3Butm_medium=Email&amp%3Butm_source=News",
@@ -28,7 +28,7 @@
  },
  {
   "host": "ruralstartupdays.com",
-  "count": 1440,
+  "count": 1558,
   "examples": [
    "https://ruralstartupdays.com/",
    "http://ruralstartupdays.com/",
@@ -37,7 +37,7 @@
  },
  {
   "host": "www.westslopestartupweek.com",
-  "count": 1434,
+  "count": 1553,
   "examples": [
    "http://www.westslopestartupweek.com/"
   ]
@@ -53,7 +53,7 @@
  },
  {
   "host": "vimeo.com",
-  "count": 198,
+  "count": 233,
   "examples": [
    "https://vimeo.com/cuinnovations",
    "https://vimeo.com/cuinnovations/hie-impact",
@@ -61,31 +61,31 @@
   ]
  },
  {
-  "host": "www.childrenscolorado.org",
-  "count": 161,
-  "examples": [
-   "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation",
-   "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation/faculty-and-staff-form"
-  ]
- },
- {
   "host": "fitzsimonsinnovation.com",
-  "count": 161,
+  "count": 196,
   "examples": [
    "https://fitzsimonsinnovation.com/",
    "http://fitzsimonsinnovation.com/"
   ]
  },
  {
+  "host": "www.childrenscolorado.org",
+  "count": 195,
+  "examples": [
+   "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation",
+   "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation/faculty-and-staff-form"
+  ]
+ },
+ {
   "host": "www.uchealth.org",
-  "count": 161,
+  "count": 195,
   "examples": [
    "https://www.uchealth.org/innovation"
   ]
  },
  {
   "host": "www.google.com",
-  "count": 148,
+  "count": 171,
   "examples": [
    "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjVvpzG5MLxAhXKm2oFHTpaANgQFnoECAIQAw&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
    "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjU_o2c8NbxAhUCXc0KHTJpDLkQFjAAegQIBRAD&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
@@ -112,7 +112,7 @@
  },
  {
   "host": "news.cuanschutz.edu",
-  "count": 110,
+  "count": 112,
   "examples": [
    "https://news.cuanschutz.edu/cu-innovations/the-future-of-healthcare-happens-at-the-intersection-cu-anschutz-innovations-forum-2026",
    "https://news.cuanschutz.edu/cu-innovations/hie-impact-at-cu-anschutz-launching-the-healthcare-innovation-entrepreneurship-hie-initiative",
@@ -165,12 +165,30 @@
   ]
  },
  {
+  "host": "soundcloud.com",
+  "count": 84,
+  "examples": [
+   "https://soundcloud.com/creative-distillation/93-tiki-time-russell-theode-lei-low-houston-tx?amp%3Butm_medium=text&amp%3Butm_campaign=social_sharing",
+   "https://soundcloud.com/creative-distillation/90-nels-wroe-founder-dry-land-distillers?amp%3Butm_medium=text&amp%3Butm_campaign=social_sharing",
+   "https://soundcloud.com/creative-distillation/87-ted-waldron-lsu-on-the-complex-dynamics-of-capital-and-power-in-entrepreneurinvestor-relationships?amp%3Butm_medium=text&amp%3Butm_campaign=social_sharing"
+  ]
+ },
+ {
   "host": "nam10.safelinks.protection.outlook.com",
   "count": 80,
   "examples": [
    "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fnotice-files%2FNOT-OD-25-068.html__%3B!!NCZxaNi9jForCP_SxBKJCA!XglWsxfK7uXncP1xA-MQo3IH3EgxP6hDbrc7Hda8uX2dUzGW-njcABt3qcaNKPpWyTLvZWCBLO0vmKhY2Q%24&amp;data=05%7C02%7Cnicole.jenkins%40colorado.edu%7C98fdb57dfb924f5451b508dd4b6e658d%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638749659698121313%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=mvVBtFs4Diw7bULO9%2F7EziN0WDX%2FWa2H%2Fj92beA3%2B%2Fg%3D&amp;reserved=0",
    "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsubstack.com%2Fredirect%2Fbbca312a-68e0-408c-98d4-77c1b4d38772%3Fj%3DeyJ1IjoiNGN0NzdzIn0.sM7BM-ZenzfOlY9pzwG6aTXcRLCCjP6Ei7UacZBMHmE&amp;data=05%7C02%7Cinnovate%40colorado.edu%7C0a3ea4129ec64c3c8be708dd453e5612%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638742856236884079%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=1CQ3f1ZDfFbhGQJl%2FvxdwzxZipghA8aoo4G8bPfT2OY%3D&amp;reserved=0",
    "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsubstack.com%2Fredirect%2F001442f7-931f-462f-918e-fff8a917bb8e%3Fj%3DeyJ1IjoiNGN0NzdzIn0.sM7BM-ZenzfOlY9pzwG6aTXcRLCCjP6Ei7UacZBMHmE&amp;data=05%7C02%7Cinnovate%40colorado.edu%7C0a3ea4129ec64c3c8be708dd453e5612%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638742856236919703%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=QWU579FlmBJf8MB4i8DAWpSlne5ylSwVt8PNCdHKwAU%3D&amp;reserved=0"
+  ]
+ },
+ {
+  "host": "www.cu.edu",
+  "count": 75,
+  "examples": [
+   "https://www.cu.edu/impact-cu",
+   "https://www.cu.edu/oaa/grants/diversity-inclusive-excellence-grant",
+   "https://www.cu.edu/ab-nexus"
   ]
  },
  {
@@ -183,12 +201,12 @@
   ]
  },
  {
-  "host": "www.cu.edu",
-  "count": 54,
+  "host": "westslopestartupweek.com",
+  "count": 57,
   "examples": [
-   "https://www.cu.edu/impact-cu",
-   "https://www.cu.edu/oaa/grants/diversity-inclusive-excellence-grant",
-   "https://www.cu.edu/ab-nexus"
+   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39",
+   "https://westslopestartupweek.com/",
+   "http://westslopestartupweek.com/"
   ]
  },
  {
@@ -237,15 +255,6 @@
   ]
  },
  {
-  "host": "westslopestartupweek.com",
-  "count": 43,
-  "examples": [
-   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39",
-   "https://westslopestartupweek.com/",
-   "http://westslopestartupweek.com/"
-  ]
- },
- {
   "host": "www.sbir.gov",
   "count": 42,
   "examples": [
@@ -261,15 +270,6 @@
    "https://www.meetup.com/denver-entrepreneurship-through-acquisition-eta-meetup",
    "https://www.meetup.com/startup-longmont/events/306144877/?eventOrigin=group_upcoming_events",
    "https://www.meetup.com/startup-longmont"
-  ]
- },
- {
-  "host": "soundcloud.com",
-  "count": 42,
-  "examples": [
-   "https://soundcloud.com/creative-distillation/93-tiki-time-russell-theode-lei-low-houston-tx?amp%3Butm_medium=text&amp%3Butm_campaign=social_sharing",
-   "https://soundcloud.com/creative-distillation/90-nels-wroe-founder-dry-land-distillers?amp%3Butm_medium=text&amp%3Butm_campaign=social_sharing",
-   "https://soundcloud.com/creative-distillation/87-ted-waldron-lsu-on-the-complex-dynamics-of-capital-and-power-in-entrepreneurinvestor-relationships?amp%3Butm_medium=text&amp%3Butm_campaign=social_sharing"
   ]
  },
  {
@@ -300,6 +300,15 @@
   ]
  },
  {
+  "host": "www.ucdenver.edu",
+  "count": 33,
+  "examples": [
+   "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx",
+   "https://www.ucdenver.edu/anschutz/about/cuinnovations/investigators/protecting-your-innovation/Pages/Submit-an-Innovation.aspx",
+   "https://www.ucdenver.edu/sites/spark/spark-award/funding-sources"
+  ]
+ },
+ {
   "host": "innospherefund.com",
   "count": 30,
   "examples": [
@@ -323,12 +332,12 @@
   ]
  },
  {
-  "host": "www.ucdenver.edu",
-  "count": 27,
+  "host": "www.rockiesventureclub.org",
+  "count": 28,
   "examples": [
-   "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx",
-   "https://www.ucdenver.edu/anschutz/about/cuinnovations/investigators/protecting-your-innovation/Pages/Submit-an-Innovation.aspx",
-   "https://www.ucdenver.edu/sites/spark/spark-award/funding-sources"
+   "https://www.rockiesventureclub.org/signature-series?amp%3Butm_medium=email",
+   "https://www.rockiesventureclub.org/",
+   "https://www.rockiesventureclub.org/hyper-accelerator"
   ]
  },
  {
@@ -338,15 +347,6 @@
    "https://coloradostartups.org/ski-days?amp%3Butm_medium=email",
    "https://coloradostartups.org/startup-happy-hour?amp%3Butm_medium=email",
    "https://coloradostartups.org/"
-  ]
- },
- {
-  "host": "www.rockiesventureclub.org",
-  "count": 27,
-  "examples": [
-   "https://www.rockiesventureclub.org/signature-series?amp%3Butm_medium=email",
-   "https://www.rockiesventureclub.org/",
-   "https://www.rockiesventureclub.org/hyper-accelerator"
   ]
  },
  {
@@ -474,6 +474,13 @@
   ]
  },
  {
+  "host": "www.greatercolorado.vc",
+  "count": 14,
+  "examples": [
+   "https://www.greatercolorado.vc/"
+  ]
+ },
+ {
   "host": "papers.ssrn.com",
   "count": 14,
   "examples": [
@@ -498,13 +505,6 @@
    "https://lp.constantcontactpages.com/ev/reg/xuqpgtk/lp/2e2ded75-b326-487d-90b3-62b2c61d63e0?source_id=ab5795ff-07b4-46d7-a494-e527c53b4e10&amp;source_type=em&amp;c=igePDX_B45pHJ1-BMX3EEyWFlH_GD6DZrbibNdCpCIfHyKMlhRGp3g==",
    "https://lp.constantcontactpages.com/ev/reg/y9xchu4/lp/3b2bcccc-1e10-44d2-a3da-5214b3d21c2d?source_id=e12c39f0-8c6a-43bb-bbd0-32504fabc102&amp;source_type=em&amp;c=NADgEbaWUaQ5MxubVLY0Www0gScPMNBeIySN48cmIMOWrll1T34eHg==",
    "https://lp.constantcontactpages.com/ev/reg/8mqqp6r/lp/c5eed7bf-d9c9-4bbb-8b80-649178df6881?source_id=b5897bb9-a67e-40dd-a954-5ac2c7de601c&amp;source_type=em&amp;c=_6UPEz7lhe57dJSDOLnNJsTjONNDDhkHxnMwcgtZSrh_iSYD8fn2Ow=="
-  ]
- },
- {
-  "host": "www.greatercolorado.vc",
-  "count": 13,
-  "examples": [
-   "https://www.greatercolorado.vc/"
   ]
  },
  {
@@ -647,6 +647,13 @@
   ]
  },
  {
+  "host": "www.cubuffs.com",
+  "count": 10,
+  "examples": [
+   "http://www.cubuffs.com/ViewArticle.dbml?ATCLID=24467"
+  ]
+ },
+ {
   "host": "www.addtoany.com",
   "count": 10,
   "examples": [
@@ -780,6 +787,13 @@
   ]
  },
  {
+  "host": "play.google.com",
+  "count": 8,
+  "examples": [
+   "https://play.google.com/store/apps/details?id=com.chronus.mentorp&amp;referrer=utm_source%3Dleedsmentoring.colorado.edu%26utm_medium%3Doverview_page"
+  ]
+ },
+ {
   "host": "business.uccs.edu",
   "count": 7,
   "examples": [
@@ -831,22 +845,6 @@
   "examples": [
    "https://www.nrel.gov/west-gate/apply",
    "https://www.nrel.gov/west-gate"
-  ]
- },
- {
-  "host": "www.cvent.com",
-  "count": 6,
-  "examples": [
-   "http://www.cvent.com/events/subscribe-research-innovation-office-bulletin/event-summary-aa9cce87dd1047f595b4f4beb92a766f.aspx",
-   "https://www.cvent.com/events/lab-venture-challenge-2019/registration-f81ea9f7b2b04a2d966100ba4cb2ee5e.aspx?fqp=true",
-   "https://www.cvent.com/events/subscribe-research-innovation-office-bulletin/registration-aa9cce87dd1047f595b4f4beb92a766f.aspx"
-  ]
- },
- {
-  "host": "www.regis.edu",
-  "count": 6,
-  "examples": [
-   "https://www.regis.edu/academics/colleges-and-schools/anderson/innovation-center"
   ]
  }
 ]

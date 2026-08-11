@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-08-11T17:23:41.456Z",
+ "updatedAt": "2026-08-11T17:25:23.872Z",
  "startedAt": "2026-08-11T16:50:27.591Z",
- "batches": 18,
- "pagesFetched": 4512,
- "resourcesCatalogued": 2335,
- "relationshipEdges": 5171,
- "frontierSize": 237,
- "analysisQueueSize": 296,
- "externalDomainsFound": 508,
+ "batches": 19,
+ "pagesFetched": 4767,
+ "resourcesCatalogued": 2398,
+ "relationshipEdges": 5759,
+ "frontierSize": 0,
+ "analysisQueueSize": 318,
+ "externalDomainsFound": 512,
  "errors": 64,
  "maxDepthReached": 8,
  "depthHistogram": {
@@ -42,24 +42,19 @@
    "pending": 0
   },
   "6": {
-   "fetched": 225,
-   "discovered": 252,
-   "pending": 27
+   "fetched": 246,
+   "discovered": 246,
+   "pending": 0
   },
   "7": {
-   "fetched": 69,
-   "discovered": 239,
-   "pending": 170
+   "fetched": 200,
+   "discovered": 200,
+   "pending": 0
   },
   "8": {
-   "fetched": 25,
-   "discovered": 61,
-   "pending": 36
-  },
-  "9": {
-   "fetched": 0,
-   "discovered": 4,
-   "pending": 4
+   "fetched": 128,
+   "discovered": 128,
+   "pending": 0
   }
  },
  "saturation": {
@@ -69,10 +64,9 @@
   "3": 1,
   "4": 1,
   "5": 1,
-  "6": 0.893,
-  "7": 0.289,
-  "8": 0.41,
-  "9": 0
+  "6": 1,
+  "7": 1,
+  "8": 1
  },
  "perOrgDepth": {
   "colorado.edu/venturepartners": 8,
@@ -86,12 +80,12 @@
   "colorado.edu/graduateschool": 4,
   "colorado.edu/initiative": 4,
   "colorado.edu/oce": 6,
-  "startupcolorado.org": 7,
+  "startupcolorado.org": 8,
   "colorado.edu/organizational-leadership-ms": 4,
   "cuanschutz.edu": 8,
   "colorado.edu/register": 5,
   "colorado.edu/teacher-leadership-ma": 5,
-  "colorado.edu/teacher-leadership-certificates": 5,
+  "colorado.edu/teacher-leadership-certificates": 6,
   "colorado.edu/blog": 3,
   "colorado.edu/catalyzecu": 2,
   "siliconflatirons.org": 5,
@@ -101,7 +95,7 @@
   "colorado.edu/business": 8,
   "colorado.edu/law": 2,
   "colorado.edu/coloradan": 3,
-  "colorado.edu/outreach": 3,
+  "colorado.edu/outreach": 7,
   "coloradostartups.org": 1,
   "colorado.edu/ocg": 6,
   "watson.is": 6,
@@ -112,6 +106,7 @@
   "colorado.edu/interdisciplinary-training": 3,
   "innosphereventures.org": 3,
   "colorado.edu/awards": 4,
+  "colorado.edu/p": 8,
   "colorado.edu/atlas": 2,
   "colorado.edu/center/music-entrepreneurship": 2,
   "colorado.edu/group": 5,
@@ -144,23 +139,22 @@
   "colorado.edu/faculty-articles": 3,
   "colorado.edu/academics": 2,
   "boulderstartupweek.com": 0,
-  "itll.colorado.edu": 1,
-  "colorado.edu/p": 6
+  "itll.colorado.edu": 1
  },
  "byType": {
-  "program": 67,
-  "funding": 492,
-  "event": 313,
-  "competition": 428,
-  "community": 150,
-  "reference": 507,
+  "program": 85,
+  "funding": 495,
+  "event": 338,
+  "competition": 430,
+  "community": 151,
+  "reference": 518,
   "center": 250,
-  "course": 71,
-  "service": 44,
+  "course": 72,
+  "service": 46,
   "space": 13
  },
  "byOrg": {
-  "colorado.edu/venturepartners": 309,
+  "colorado.edu/venturepartners": 311,
   "colorado.edu/researchinnovation": 111,
   "colorado.edu/innovate": 444,
   "colorado.edu/nvc": 140,
@@ -171,12 +165,12 @@
   "colorado.edu/graduateschool": 13,
   "colorado.edu/initiative": 9,
   "colorado.edu/oce": 21,
-  "startupcolorado.org": 503,
+  "startupcolorado.org": 543,
   "colorado.edu/organizational-leadership-ms": 7,
   "cuanschutz.edu": 261,
   "colorado.edu/register": 2,
   "colorado.edu/teacher-leadership-ma": 7,
-  "colorado.edu/teacher-leadership-certificates": 14,
+  "colorado.edu/teacher-leadership-certificates": 15,
   "colorado.edu/blog": 1,
   "colorado.edu/catalyzecu": 10,
   "siliconflatirons.org": 58,
@@ -186,7 +180,7 @@
   "colorado.edu/business": 83,
   "colorado.edu/law": 2,
   "colorado.edu/coloradan": 1,
-  "colorado.edu/outreach": 2,
+  "colorado.edu/outreach": 3,
   "coloradostartups.org": 25,
   "colorado.edu/ocg": 3,
   "watson.is": 55,
@@ -197,6 +191,7 @@
   "colorado.edu/interdisciplinary-training": 2,
   "innosphereventures.org": 27,
   "colorado.edu/awards": 2,
+  "colorado.edu/p": 20,
   "colorado.edu/atlas": 2,
   "colorado.edu/center/music-entrepreneurship": 1,
   "colorado.edu/group": 6,
@@ -229,7 +224,6 @@
   "colorado.edu/faculty-articles": 2,
   "colorado.edu/academics": 2,
   "boulderstartupweek.com": 1,
-  "itll.colorado.edu": 1,
-  "colorado.edu/p": 1
+  "itll.colorado.edu": 1
  }
 }

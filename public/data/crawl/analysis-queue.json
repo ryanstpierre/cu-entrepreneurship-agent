@@ -708,6 +708,12 @@
   "depth": 3
  },
  {
+  "url": "https://startupcolorado.org/stories/2024-impact-report",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 6
+ },
+ {
   "url": "https://www.colorado.edu/business/deming/news-stories/demystifying-entrepreneurship-rural-colorado-workshop-series-news",
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
@@ -1660,6 +1666,132 @@
   "reason": "pdf-needs-extraction",
   "relevance": 1,
   "depth": 6
+ },
+ {
+  "url": "https://startupcolorado.org/wp-content/uploads/2025/01/Startup-Colorado-2024-Annual-Report-1.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 7
+ },
+ {
+  "url": "https://startupcolorado.org/wp-content/uploads/2024/03/SUCO-2023-Annual-Report-2.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 7
+ },
+ {
+  "url": "http://www.cuanschutz.edu/docs/librariesprovider109/default-document-library/commercialization_onesheet_1-2.pdf?sfvrsn=fdfaa1bb_4",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "http://www.cuanschutz.edu/docs/librariesprovider109/default-document-library/commercialization-onesheet-2-1.pdf?sfvrsn=1125acbb_4",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/3578",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/131",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/132",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/117",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/35",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/1",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/3",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/4",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/5",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/6",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/7",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/8",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/10",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/9",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/13",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/11",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
+ },
+ {
+  "url": "https://colorado.edu/venturepartners/media/12",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 8
  },
  {
   "url": "https://lawweb.colorado.edu/profiles/pubpdfs/bernthal/WhoNeedsContracts.pdf",
