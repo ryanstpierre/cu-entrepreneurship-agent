@@ -5226,6 +5226,46 @@
   "needsAnalysis": false
  },
  {
+  "id": "nepc-colorado-edu-blog-will-federal",
+  "url": "http://nepc.colorado.edu/blog/will-federal",
+  "title": "Janresseger: Will Federal Education Funding Flow More Smoothly in FY 2026? | National Education Policy Center",
+  "org": "colorado.edu/blog",
+  "type": "funding",
+  "description": "If you have been tracking what is happening to federal funding for the nation’s public schools, you won’t be surprised to learn that Education Week‘s Mark Lieberman continues his role as the best reporter on this subject. Here are two updates from last week. How will federal funding flow this year once most of the Department of Education’s programs have been sent to other federal departments through interagency agreements?",
+  "audience": [
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts"
+  ],
+  "contacts": [
+   "nepc@colorado.edu"
+  ],
+  "funding": [
+   "$1",
+   "$60 million",
+   "$140 million",
+   "$438 million",
+   "$56 million",
+   "$463 million"
+  ],
+  "deadlines": [
+   "deadline"
+  ],
+  "specificity": 10,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://nepc.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:20:09.562Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-venturepartners",
   "url": "https://colorado.edu/venturepartners",
   "title": "Home | Venture Partners at CU Boulder",
@@ -17652,6 +17692,50 @@
   "needsAnalysis": false
  },
  {
+  "id": "cuanschutz-edu-chancellor-leadership-vc-innovation-biotechnology",
+  "url": "https://www.cuanschutz.edu/chancellor/leadership/vc-innovation-biotechnology",
+  "title": "Vice Chancellor for Innovation and Biotechnology",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Read the biography for Kimberly Muller, Vice Chancellor for Innovation and Biotechnology and Executive Director of CU Innovations at CU Anschutz.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "health",
+   "energy"
+  ],
+  "contacts": [
+   "colleen.goodwin@cuanschutz.edu",
+   "chancellor@cuanschutz.edu"
+  ],
+  "funding": [
+   "$10 million",
+   "$50 million",
+   "$75 million",
+   "$100 million",
+   "$5"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/leadership",
+  "fetchedAt": "2026-08-11T17:22:08.395Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-innovate",
   "url": "http://www.colorado.edu/innovate",
   "title": "Home | Innovation & Entrepreneurship Initiative",
@@ -19651,6 +19735,44 @@
   "discoveredVia": "link",
   "parent": "https://hazards.colorado.edu/",
   "fetchedAt": "2026-08-11T17:19:02.049Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-chancellor-communiques-update-on-anschutz-accele",
+  "url": "https://www.cuanschutz.edu/about/leadership/chancellor/communiques/update-on-anschutz-acceleration-initiative",
+  "title": "Update on Anschutz Acceleration Initiative",
+  "org": "cuanschutz.edu",
+  "type": "center",
+  "description": "Update on Anschutz Acceleration Initiative Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Re",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$50 million",
+   "$5 million",
+   "$15 million"
+  ],
+  "deadlines": [
+   "due October 18"
+  ],
+  "specificity": 7,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:09.607Z",
   "needsAnalysis": false
  },
  {
@@ -33892,6 +34014,148 @@
   "needsAnalysis": false
  },
  {
+  "id": "cuanschutz-edu-about",
+  "url": "https://www.cuanschutz.edu/about",
+  "title": "About Us | University of Colorado Anschutz",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Discover the rich legacy and innovative spirit of CU Anschutz. Learn about our mission, history, and commitment to advancing health sciences.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$910 million",
+   "$757 million",
+   "$153 million",
+   "$13.5"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/homepage",
+  "fetchedAt": "2026-08-11T17:22:05.656Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership",
+  "url": "https://www.cuanschutz.edu/about/leadership",
+  "title": "Office of the Chancellor | University of Colorado Anschutz",
+  "org": "cuanschutz.edu",
+  "type": "community",
+  "description": "Guided by innovation and excellence, CU Anschutz’s Chancellor and other senior leadership advance health education, research, patient care, and community.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "chancellor@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/homepage",
+  "fetchedAt": "2026-08-11T17:22:06.044Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-old",
+  "url": "https://www.cuanschutz.edu/about/leadership-old",
+  "title": "Office of the Chancellor | University of Colorado Anschutz",
+  "org": "cuanschutz.edu",
+  "type": "community",
+  "description": "Guided by innovation and excellence, CU Anschutz’s Chancellor and other senior leadership advance health education, research, patient care, and community.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "chancellor@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/about",
+  "fetchedAt": "2026-08-11T17:22:07.022Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-chancellor-about",
+  "url": "https://www.cuanschutz.edu/chancellor/about",
+  "title": "About",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Don Elliman, Chancellor of CU Anschutz since 2012, brings decades of leadership in publishing, sports, government, and health innovation to advance academic and medical excellence.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "chancellor@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor",
+  "fetchedAt": "2026-08-11T17:22:08.172Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-innovate-on-campus-resources",
   "url": "https://www.colorado.edu/innovate/on-campus-resources",
   "title": "On-Campus Resources | Innovation & Entrepreneurship Initiative",
@@ -42762,6 +43026,255 @@
   "discoveredVia": "link",
   "parent": "https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/visitor-parking",
   "fetchedAt": "2026-08-11T17:19:29.109Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-today-business-entrepreneurship",
+  "url": "http://colorado.edu/today/business-entrepreneurship",
+  "title": "Business & Entrepreneurship | CU Boulder Today",
+  "org": "colorado.edu/today",
+  "type": "reference",
+  "description": "Business & Entrepreneurship | CU Boulder Today | University of Colorado Boulder Skip to main content CU Boulder Today Home News Headlines Campus Community Events & Exhibits Translate English Spanish Chinese French German Korean Lao Nepali Japanese Tibetan Search Enter the terms you wish to search fo",
+  "audience": [
+   "grad students",
+   "faculty",
+   "staff",
+   "community",
+   "students"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "climate",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Athletics Career Development Getting Involved Mind & Body Safety Events & Exhi"
+  ],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/today/syndicate?category=16%2014%206%2018",
+  "fetchedAt": "2026-08-11T17:20:00.035Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-redirecting-cu-innovations",
+  "url": "https://www.cuanschutz.edu/redirecting/cu-innovations",
+  "title": "Innovations",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Innovations Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alumni Reso",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$423.1M",
+   "$3.73",
+   "$496M"
+  ],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/research",
+  "fetchedAt": "2026-08-11T17:22:04.724Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-chancellor-messages-at-the-forefront-innovations-in-ophthalmology",
+  "url": "https://www.cuanschutz.edu/chancellor/messages/at-the-forefront/innovations-in-ophthalmology",
+  "title": "Innovations in Ophthalmology | CU Anschutz Medical Campus",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Innovations in Ophthalmology | CU Anschutz Medical Campus Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Fac",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$16 million"
+  ],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:08.813Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-leadership-tra",
+  "url": "https://www.cuanschutz.edu/about/leadership/chancellor/communiques/announcing-leadership-transition-at-colorado-school-of-public-health",
+  "title": "Announcing Leadership Transition at Colorado School of Public Health - 6/8/22",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Announcing Leadership Transition at Colorado School of Public Health - 6/8/22 Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Dire",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$31 million"
+  ],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:10.078Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-chancellor-at-the-forefront-innovations-in-ophth",
+  "url": "https://www.cuanschutz.edu/about/leadership/chancellor/at-the-forefront/innovations-in-ophthalmology",
+  "title": "Innovations in Ophthalmology | CU Anschutz Medical Campus",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Innovations in Ophthalmology | CU Anschutz Medical Campus Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Fac",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$16 million"
+  ],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:09.140Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-anschutz-accel",
+  "url": "https://www.cuanschutz.edu/about/leadership/chancellor/communiques/announcing-anschutz-acceleration-initiative-awardees",
+  "title": "Announcing Anschutz Acceleration Initiative Awardees - 1/8/24",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "Announcing Anschutz Acceleration Initiative Awardees - 1/8/24 Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$50 million"
+  ],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:09.420Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-the-anschutz-a",
+  "url": "https://www.cuanschutz.edu/about/leadership/chancellor/communiques/announcing-the-anschutz-acceleration-initiative",
+  "title": "Announcing the Anschutz Acceleration Initiative",
+  "org": "cuanschutz.edu",
+  "type": "center",
+  "description": "Announcing the Anschutz Acceleration Initiative Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Sta",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$50 million",
+   "$5 million",
+   "$15 million"
+  ],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:09.719Z",
   "needsAnalysis": false
  },
  {
@@ -56548,6 +57061,237 @@
   "needsAnalysis": false
  },
  {
+  "id": "cires-colorado-edu-research-earth-science-and-observation-center",
+  "url": "https://cires.colorado.edu/research/earth-science-and-observation-center",
+  "title": "Earth Science and Observation Center (ESOC) | CIRES",
+  "org": "colorado.edu/research",
+  "type": "center",
+  "description": "Advancing scientific and societal understanding of the Earth System based on innovative remote sensing research",
+  "audience": [
+   "grad students",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "energy",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/research/research-centers",
+  "fetchedAt": "2026-08-11T17:20:06.136Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "ctlj-colorado-edu-p-1291",
+  "url": "https://ctlj.colorado.edu/?p=1291",
+  "title": "Apple’s Legal Battles: Navigating Patent Infringement in the Tech Industry &#8211; Colorado Technology Law Journal",
+  "org": "ctlj.colorado.edu",
+  "type": "reference",
+  "description": "Apple’s Legal Battles: Navigating Patent Infringement in the Tech Industry &#8211; Colorado Technology Law Journal Skip to content Colorado Technology Law Journal Home About Us Board &#038; Members Blog Print Contact Subscribe Submissions Prospective Members Colorado Technology Law Journal Home Abou",
+  "audience": [],
+  "stage": [
+   "explore",
+   "validate",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "edtech",
+   "health",
+   "medtech"
+  ],
+  "contacts": [],
+  "funding": [
+   "$502.8 million",
+   "$250",
+   "$503 million"
+  ],
+  "deadlines": [
+   "Due to this prior art, PTAB declared the challenged claims of both the VirnetX pate",
+   "due to infringement of AliveCor's patents beginning in December 2023"
+  ],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://ctlj.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:20:51.808Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "ctlj-colorado-edu-p-750",
+  "url": "https://ctlj.colorado.edu/?p=750",
+  "title": "Broadband: The Lifeline of Innovation &#8211; Colorado Technology Law Journal",
+  "org": "ctlj.colorado.edu",
+  "type": "reference",
+  "description": "Broadband: The Lifeline of Innovation &#8211; Colorado Technology Law Journal Skip to content Colorado Technology Law Journal Home About Us Board &#038; Members Blog Print Contact Subscribe Submissions Prospective Members Colorado Technology Law Journal Home About Us Board &#038; Members Blog Print ",
+  "audience": [],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$9.25",
+   "$10.00",
+   "$25",
+   "$75"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://ctlj.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:20:54.279Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-research",
+  "url": "https://www.cuanschutz.edu/research",
+  "title": "Research Innovations &amp; Clinical Medical Trials | CU Anschutz",
+  "org": "cuanschutz.edu",
+  "type": "center",
+  "description": "Explore groundbreaking research initiatives and learn how our innovative discoveries are advancing healthcare and shaping future treatments.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/homepage",
+  "fetchedAt": "2026-08-11T17:22:04.613Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-visit-cu-anschutz",
+  "url": "https://www.cuanschutz.edu/about/visit-cu-anschutz",
+  "title": "Visit CU Anschutz",
+  "org": "cuanschutz.edu",
+  "type": "service",
+  "description": "Explore our state-of-the-art facilities and learn about the dynamic environment supporting education, research, and healthcare innovation.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/homepage",
+  "fetchedAt": "2026-08-11T17:22:06.153Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront",
+  "url": "https://www.cuanschutz.edu/about/leadership-old/chancellor/at-the-forefront",
+  "title": "At the Forefront | University of Colorado Anschutz",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Read the Chancellor&#39;s monthly newsletter, At the Forefront.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages/at-the-forefront/innovations-in-ophthalmology",
+  "fetchedAt": "2026-08-11T17:22:10.089Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-cu-anschutz-office",
+  "url": "https://www.cuanschutz.edu/chancellor/messages/communiques/announcing-the-cu-anschutz-office-of-clinical-trials-5-19-26",
+  "title": "Announcing the CU Anschutz Office of Clinical Trials - 5-19-26",
+  "org": "cuanschutz.edu",
+  "type": "course",
+  "description": "Today, CU Anschutz is launching a new clinical trials office to strengthen and accelerate our ability to bring cutting-edge treatments to patients, expand faculty investigator opportunities, and position the campus as a world-class destination for clinical trials.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor",
+  "fetchedAt": "2026-08-11T17:22:10.364Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-business-deming",
   "url": "https://colorado.edu/business/deming",
   "title": "Deming Center for Entrepreneurship | Leeds School of Business",
@@ -67726,6 +68470,202 @@
   "needsAnalysis": false
  },
  {
+  "id": "cuanschutz-edu-chancellor-messages-communiques-announcing-cu-anschutz-police-lea",
+  "url": "https://www.cuanschutz.edu/chancellor/messages/communiques/announcing-cu-anschutz-police-leadership-transition",
+  "title": "Announcing CU Anschutz Police Leadership Transition - 9-29-25",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Announcing CU Anschutz Police Leadership Transition - 9-29-25 Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:09.006Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-vice-chancello",
+  "url": "https://www.cuanschutz.edu/about/leadership/chancellor/communiques/announcing-vice-chancellor-for-innovation-and-biotechnology",
+  "title": "Announcing Vice Chancellor for Innovation and Biotechnology - 1/2/25",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Announcing Vice Chancellor for Innovation and Biotechnology - 1/2/25 Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Lea",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "bioscience",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:09.129Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-chancellor-communiques-cu-anschutz-employees-gra",
+  "url": "https://www.cuanschutz.edu/about/leadership/chancellor/communiques/cu-anschutz-employees-granted-july-5----6-6-24",
+  "title": "CU Anschutz Employees Granted July 5&#160; - 6-6-24",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "CU Anschutz Employees Granted July 5&#160; - 6-6-24 Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty &",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:09.334Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-chancellor-communiques-inspiring-response-to-ans",
+  "url": "https://www.cuanschutz.edu/about/leadership/chancellor/communiques/inspiring-response-to-anschutz-acceleration-initiative",
+  "title": "Inspiring Response to Anschutz Acceleration Initiative",
+  "org": "cuanschutz.edu",
+  "type": "center",
+  "description": "Inspiring Response to Anschutz Acceleration Initiative Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Facult",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:09.565Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-information-te",
+  "url": "https://www.cuanschutz.edu/about/leadership/chancellor/communiques/announcing-information-technology-leadership-appointments",
+  "title": "Announcing Information Technology Leadership Appointments - 5/6/21",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Announcing Information Technology Leadership Appointments - 5/6/21 Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leade",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:10.058Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-chancellor-communiques-new-psychiatry-innovation",
+  "url": "https://www.cuanschutz.edu/about/leadership/chancellor/communiques/new-psychiatry-innovations-office-and-national-mental-health-innovation-center-transition",
+  "title": "New Psychiatry Innovations Office and National Mental Health Innovation Center Transition - 10/31/22",
+  "org": "cuanschutz.edu",
+  "type": "center",
+  "description": "New Psychiatry Innovations Office and National Mental Health Innovation Center Transition - 10/31/22 Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:10.070Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-researchinnovation-research-development-funding-social-sciences-fun",
   "url": "https://www.colorado.edu/researchinnovation/research-development/funding/social-sciences-funding-resources",
   "title": "Social Sciences Opportunities & Resources | Research & Innovation Office",
@@ -72469,6 +73409,90 @@
   "discoveredVia": "link",
   "parent": "http://colorado.edu/research/research-centers",
   "fetchedAt": "2026-08-11T17:19:53.456Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-research-focus",
+  "url": "http://colorado.edu/research/focus",
+  "title": "Research Focus Areas",
+  "org": "colorado.edu/research",
+  "type": "reference",
+  "description": "Discover how research at CU Boulder is changing the world. Our faculty and students are pioneering innovations in aerospace, biosciences, energy, Earth and environmental sciences, fundamental sciences and other major areas.",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "bioscience",
+   "aerospace",
+   "climate",
+   "quantum",
+   "health",
+   "energy",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/research/research-centers",
+  "fetchedAt": "2026-08-11T17:20:12.232Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-old-chancellor-communiques-protecting-yourself-a",
+  "url": "https://www.cuanschutz.edu/about/leadership-old/chancellor/communiques/protecting-yourself-against-measles",
+  "title": "Error 404",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Check the current status of outages Support by Phone 303-724-4357 (4-HELP from a campus phone) Monday–Thursday: 7:30 a.m.",
+  "audience": [],
+  "stage": [],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/campus-health-resources",
+  "fetchedAt": "2026-08-11T17:22:07.285Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront-doug",
+  "url": "https://www.cuanschutz.edu/about/leadership-old/chancellor/at-the-forefront/doug",
+  "title": "Error 404",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Check the current status of outages Support by Phone 303-724-4357 (4-HELP from a campus phone) Monday–Thursday: 7:30 a.m.",
+  "audience": [],
+  "stage": [],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages",
+  "fetchedAt": "2026-08-11T17:22:08.702Z",
   "needsAnalysis": false
  },
  {

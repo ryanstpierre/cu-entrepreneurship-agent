@@ -1614,6 +1614,18 @@
   "depth": 3
  },
  {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2021/06/IP-Roundtable-Outcomes-Report_FINAL.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider14/default-document-library/licensed-vendor-list-2024.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
   "url": "https://lawweb.colorado.edu/profiles/pubpdfs/bernthal/WhoNeedsContracts.pdf",
   "reason": "pdf-needs-extraction",
   "relevance": 0,
@@ -1687,6 +1699,30 @@
  },
  {
   "url": "https://www.cuanschutz.edu/docs/librariesprovider109/pipeline/pipeline-booklet_biologic-_0316_2026.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2026/01/Outcomes-Report_Challenges-in-Sustaining-Space-as-a-Resource_2026-01-27.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2024/11/2024-11-08_Feminist-Cyberlaw-Symposium_Transcript.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2024/11/Outcomes-Report_2024-06-28_Roundtable_Space-Sustainability.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider15/default-document-library/2026-facts-brochure_web.pdf?sfvrsn=bdce7fb9_12",
   "reason": "pdf-needs-extraction",
   "relevance": 0,
   "depth": 2

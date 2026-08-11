@@ -1638,6 +1638,42 @@
   "weight": 2
  },
  {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-leadership-tra",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-the-anschutz-a",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-the-anschutz-a",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-the-anschutz-a",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-the-anschutz-a",
+  "to": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-anschutz-accelerat",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-the-anschutz-a",
+  "to": "cuanschutz-edu-redirecting-cu-innovations",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
   "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
   "to": "colorado-edu-nvc",
   "kind": "links_to",
@@ -26907,6 +26943,594 @@
   "from": "colorado-edu-research-abnexus-grant-awardees-2022-awardees",
   "to": "colorado-edu-research-abnexus-grant-awardees-2021-ab-nexus-grant-awards",
   "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-focus",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-focus",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "ctlj-colorado-edu-p-1291",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "ctlj-colorado-edu-p-1291",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-research",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-research",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-research",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-redirecting-cu-innovations",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-redirecting-cu-innovations",
+  "to": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-redirecting-cu-innovations",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-redirecting-cu-innovations",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-redirecting-cu-innovations",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-redirecting-cu-innovations",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-redirecting-cu-innovations",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-redirecting-cu-innovations",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-redirecting-cu-innovations",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-redirecting-cu-innovations",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-redirecting-cu-innovations",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-innovation-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-redirecting-cu-innovations",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership",
+  "to": "cuanschutz-edu-chancellor",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership",
+  "to": "cuanschutz-edu-about-leadership-chancellor",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership",
+  "to": "cuanschutz-edu-redirecting-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-visit-cu-anschutz",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old",
+  "to": "cuanschutz-edu-chancellor",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old",
+  "to": "cuanschutz-edu-about-leadership-chancellor",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old",
+  "to": "cuanschutz-edu-redirecting-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old",
+  "to": "cuanschutz-edu-about-leadership",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-communiques-protecting-yourself-a",
+  "to": "cuanschutz-edu-cu-innovations-campus-innovator-funding-startup-toolbox",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-communiques-protecting-yourself-a",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site-innovator-resources-prior-innovat",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-communiques-protecting-yourself-a",
+  "to": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-0e37bbe7-3028-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-communiques-protecting-yourself-a",
+  "to": "cuanschutz-edu-docs-librariesprovider109-default-document-library-good-ip-hygien",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-communiques-protecting-yourself-a",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-communiques-protecting-yourself-a",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site-contact-us-prior-team-prior-molk-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-communiques-protecting-yourself-a",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site-contact-us-prior-team-prior-mulle",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-communiques-protecting-yourself-a",
+  "to": "cuanschutz-edu-about-leadership-old-chancellor-anschutz-acceleration-initiative",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-leadership-vc-innovation-biotechnology",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-leadership-vc-innovation-biotechnology",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-leadership-vc-innovation-biotechnology",
+  "to": "cuanschutz-edu-innovations-about-us-team-profile-goodwin-colleen-exts7dhs2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-leadership-vc-innovation-biotechnology",
+  "to": "cuanschutz-edu-redirecting-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront-doug",
+  "to": "cuanschutz-edu-cu-innovations-campus-innovator-funding-startup-toolbox",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront-doug",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site-innovator-resources-prior-innovat",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront-doug",
+  "to": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-0e37bbe7-3028-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront-doug",
+  "to": "cuanschutz-edu-docs-librariesprovider109-default-document-library-good-ip-hygien",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront-doug",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront-doug",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site-contact-us-prior-team-prior-molk-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront-doug",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site-contact-us-prior-team-prior-mulle",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront-doug",
+  "to": "cuanschutz-edu-about-leadership-old-chancellor-anschutz-acceleration-initiative",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront-doug",
+  "to": "cuanschutz-edu-about-leadership-old-chancellor-communiques-protecting-yourself-a",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-at-the-forefront-innovations-in-ophthalmology",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-at-the-forefront-innovations-in-ophthalmology",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-at-the-forefront-innovations-in-ophthalmology",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-at-the-forefront-innovations-in-ophthalmology",
+  "to": "cuanschutz-edu-redirecting-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-cu-anschutz-police-lea",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-vice-chancello",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-vice-chancello",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-vice-chancello",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-vice-chancello",
+  "to": "cuanschutz-edu-redirecting-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-vice-chancello",
+  "to": "cuanschutz-edu-chancellor-leadership-vc-innovation-biotechnology",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-at-the-forefront-innovations-in-ophth",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-at-the-forefront-innovations-in-ophth",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-at-the-forefront-innovations-in-ophth",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-at-the-forefront-innovations-in-ophth",
+  "to": "cuanschutz-edu-redirecting-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-at-the-forefront-innovations-in-ophth",
+  "to": "cuanschutz-edu-chancellor-messages-at-the-forefront-innovations-in-ophthalmology",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-cu-anschutz-employees-gra",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-anschutz-accel",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-anschutz-accel",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-anschutz-accel",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-anschutz-accel",
+  "to": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-anschutz-accelerat",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-anschutz-accel",
+  "to": "cuanschutz-edu-chancellor-messages-communiques-announcing-anschutz-acceleration-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-anschutz-accel",
+  "to": "cuanschutz-edu-redirecting-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-inspiring-response-to-ans",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-inspiring-response-to-ans",
+  "to": "cuanschutz-edu-chancellor-messages-communiques-inspiring-response-to-anschutz-ac",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-update-on-anschutz-accele",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-update-on-anschutz-accele",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-update-on-anschutz-accele",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-update-on-anschutz-accele",
+  "to": "cuanschutz-edu-chancellor-messages-communiques-update-on-anschutz-acceleration-i",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-update-on-anschutz-accele",
+  "to": "cuanschutz-edu-redirecting-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-announcing-information-te",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-new-psychiatry-innovation",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-new-psychiatry-innovation",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-new-psychiatry-innovation",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-chancellor-communiques-new-psychiatry-innovation",
+  "to": "cuanschutz-edu-redirecting-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront",
+  "to": "cuanschutz-edu-redirecting-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-cu-anschutz-office",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-cu-anschutz-office",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-cu-anschutz-office",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-cu-anschutz-office",
+  "to": "cuanschutz-edu-redirecting-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-cu-anschutz-office",
+  "to": "cuanschutz-edu-chancellor-leadership-vc-innovation-biotechnology",
+  "kind": "mentions",
   "weight": 1
  }
 ]

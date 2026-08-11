@@ -1,14 +1,14 @@
 {
- "updatedAt": "2026-08-11T17:19:56.841Z",
+ "updatedAt": "2026-08-11T17:22:11.277Z",
  "startedAt": "2026-08-11T16:50:27.591Z",
- "batches": 16,
- "pagesFetched": 3989,
- "resourcesCatalogued": 2242,
- "relationshipEdges": 4485,
- "frontierSize": 664,
- "analysisQueueSize": 282,
- "externalDomainsFound": 444,
- "errors": 54,
+ "batches": 17,
+ "pagesFetched": 4239,
+ "resourcesCatalogued": 2272,
+ "relationshipEdges": 4589,
+ "frontierSize": 384,
+ "analysisQueueSize": 288,
+ "externalDomainsFound": 454,
+ "errors": 64,
  "maxDepthReached": 8,
  "depthHistogram": {
   "0": {
@@ -22,24 +22,24 @@
    "pending": 0
   },
   "2": {
-   "fetched": 1087,
-   "discovered": 1442,
-   "pending": 355
+   "fetched": 1302,
+   "discovered": 1378,
+   "pending": 76
   },
   "3": {
-   "fetched": 769,
-   "discovered": 769,
-   "pending": 0
+   "fetched": 803,
+   "discovered": 804,
+   "pending": 1
   },
   "4": {
-   "fetched": 600,
+   "fetched": 601,
    "discovered": 601,
-   "pending": 1
+   "pending": 0
   },
   "5": {
    "fetched": 471,
-   "discovered": 472,
-   "pending": 1
+   "discovered": 471,
+   "pending": 0
   },
   "6": {
    "fetched": 79,
@@ -65,10 +65,10 @@
  "saturation": {
   "0": 1,
   "1": 1,
-  "2": 0.754,
-  "3": 1,
-  "4": 0.998,
-  "5": 0.998,
+  "2": 0.945,
+  "3": 0.999,
+  "4": 1,
+  "5": 1,
   "6": 0.224,
   "7": 0.606,
   "8": 0.588,
@@ -92,6 +92,7 @@
   "colorado.edu/register": 5,
   "colorado.edu/teacher-leadership-ma": 5,
   "colorado.edu/teacher-leadership-certificates": 5,
+  "colorado.edu/blog": 3,
   "colorado.edu/catalyzecu": 2,
   "siliconflatirons.org": 5,
   "colorado.edu/engineering": 2,
@@ -134,6 +135,7 @@
   "colorado.edu/cmci": 2,
   "colorado.edu/saml": 5,
   "colorado.edu/colleen-scanlan-lyons-discusses-digital-innovation-for-amazon-conservation-at-world-bank-webinar": 3,
+  "ctlj.colorado.edu": 3,
   "colorado.edu/news-events": 2,
   "lawinnovation.colorado.edu": 2,
   "colorado.edu/Public": 2,
@@ -146,14 +148,14 @@
  },
  "byType": {
   "program": 63,
-  "funding": 458,
+  "funding": 461,
   "event": 300,
   "competition": 426,
-  "community": 146,
-  "reference": 482,
-  "center": 241,
-  "course": 70,
-  "service": 43,
+  "community": 148,
+  "reference": 499,
+  "center": 247,
+  "course": 71,
+  "service": 44,
   "space": 13
  },
  "byOrg": {
@@ -162,18 +164,19 @@
   "colorado.edu/innovate": 443,
   "colorado.edu/nvc": 140,
   "colorado.edu/service": 2,
-  "colorado.edu/research": 11,
+  "colorado.edu/research": 13,
   "colorado.edu/techtransfer": 6,
-  "colorado.edu/today": 17,
+  "colorado.edu/today": 18,
   "colorado.edu/graduateschool": 13,
   "colorado.edu/initiative": 9,
   "colorado.edu/oce": 19,
   "startupcolorado.org": 482,
   "colorado.edu/organizational-leadership-ms": 7,
-  "cuanschutz.edu": 231,
+  "cuanschutz.edu": 255,
   "colorado.edu/register": 2,
   "colorado.edu/teacher-leadership-ma": 7,
   "colorado.edu/teacher-leadership-certificates": 14,
+  "colorado.edu/blog": 1,
   "colorado.edu/catalyzecu": 10,
   "siliconflatirons.org": 58,
   "colorado.edu/engineering": 9,
@@ -216,6 +219,7 @@
   "colorado.edu/cmci": 1,
   "colorado.edu/saml": 13,
   "colorado.edu/colleen-scanlan-lyons-discusses-digital-innovation-for-amazon-conservation-at-world-bank-webinar": 1,
+  "ctlj.colorado.edu": 2,
   "colorado.edu/news-events": 1,
   "lawinnovation.colorado.edu": 1,
   "colorado.edu/Public": 4,

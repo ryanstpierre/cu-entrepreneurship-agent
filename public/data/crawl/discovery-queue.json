@@ -53,7 +53,7 @@
  },
  {
   "host": "vimeo.com",
-  "count": 187,
+  "count": 188,
   "examples": [
    "https://vimeo.com/cuinnovations",
    "https://vimeo.com/cuinnovations/hie-impact",
@@ -62,7 +62,7 @@
  },
  {
   "host": "fitzsimonsinnovation.com",
-  "count": 150,
+  "count": 151,
   "examples": [
    "https://fitzsimonsinnovation.com/",
    "http://fitzsimonsinnovation.com/"
@@ -70,7 +70,7 @@
  },
  {
   "host": "www.childrenscolorado.org",
-  "count": 148,
+  "count": 149,
   "examples": [
    "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation",
    "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation/faculty-and-staff-form"
@@ -78,7 +78,7 @@
  },
  {
   "host": "www.uchealth.org",
-  "count": 148,
+  "count": 149,
   "examples": [
    "https://www.uchealth.org/innovation"
   ]
@@ -111,12 +111,30 @@
   ]
  },
  {
+  "host": "news.cuanschutz.edu",
+  "count": 107,
+  "examples": [
+   "https://news.cuanschutz.edu/cu-innovations/the-future-of-healthcare-happens-at-the-intersection-cu-anschutz-innovations-forum-2026",
+   "https://news.cuanschutz.edu/cu-innovations/hie-impact-at-cu-anschutz-launching-the-healthcare-innovation-entrepreneurship-hie-initiative",
+   "https://news.cuanschutz.edu/cu-innovations/fuel-your-innovation-with-csu-translational-medicine-institute"
+  ]
+ },
+ {
   "host": "oedit.colorado.gov",
   "count": 105,
   "examples": [
    "https://oedit.colorado.gov/advanced-industries-early-stage-capital-retention-grant",
    "https://oedit.colorado.gov/advanced-industries-accelerator-programs",
    "https://oedit.colorado.gov/press-release/86-million-advanced-industries-awards-accelerate-36-colorado-start-ups"
+  ]
+ },
+ {
+  "host": "creativecommons.org",
+  "count": 101,
+  "examples": [
+   "https://creativecommons.org/licenses/by-sa/4.0",
+   "http://creativecommons.org/licenses/by-sa/4.0",
+   "http://creativecommons.org/licenses/by/3.0"
   ]
  },
  {
@@ -166,7 +184,7 @@
  },
  {
   "host": "www.cu.edu",
-  "count": 53,
+  "count": 54,
   "examples": [
    "https://www.cu.edu/impact-cu",
    "https://www.cu.edu/oaa/grants/diversity-inclusive-excellence-grant",
@@ -264,15 +282,6 @@
   ]
  },
  {
-  "host": "creativecommons.org",
-  "count": 40,
-  "examples": [
-   "https://creativecommons.org/licenses/by-sa/4.0",
-   "http://creativecommons.org/licenses/by-sa/4.0",
-   "http://creativecommons.org/licenses/by/3.0"
-  ]
- },
- {
   "host": "watson.is",
   "count": 38,
   "examples": [
@@ -342,7 +351,7 @@
  },
  {
   "host": "www.ucdenver.edu",
-  "count": 24,
+  "count": 25,
   "examples": [
    "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx",
    "https://www.ucdenver.edu/anschutz/about/cuinnovations/investigators/protecting-your-innovation/Pages/Submit-an-Innovation.aspx",
@@ -629,6 +638,15 @@
   ]
  },
  {
+  "host": "www.addtoany.com",
+  "count": 10,
+  "examples": [
+   "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fctlj.colorado.edu%2F%3Fp%3D1291&amp;linkname=Apple%E2%80%99s%20Legal%20Battles%3A%20Navigating%20Patent%20Infringement%20in%20the%20Tech%20Industry",
+   "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fctlj.colorado.edu%2F%3Fp%3D1291&amp;linkname=Apple%E2%80%99s%20Legal%20Battles%3A%20Navigating%20Patent%20Infringement%20in%20the%20Tech%20Industry",
+   "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fctlj.colorado.edu%2F%3Fp%3D1291&amp;linkname=Apple%E2%80%99s%20Legal%20Battles%3A%20Navigating%20Patent%20Infringement%20in%20the%20Tech%20Industry"
+  ]
+ },
+ {
   "host": "biz.colostate.edu",
   "count": 9,
   "examples": [
@@ -827,22 +845,6 @@
   "examples": [
    "https://cu.tfaforms.net/101",
    "https://cu.tfaforms.net/forms/view/27"
-  ]
- },
- {
-  "host": "startupprize.com",
-  "count": 6,
-  "examples": [
-   "https://startupprize.com/health"
-  ]
- },
- {
-  "host": "www.russellsage.org",
-  "count": 5,
-  "examples": [
-   "http://www.russellsage.org/research/funding/behavioral-economics",
-   "https://www.russellsage.org/research/funding/future-work",
-   "https://www.russellsage.org/funding/immigration-and-immigrant-integration"
   ]
  }
 ]
