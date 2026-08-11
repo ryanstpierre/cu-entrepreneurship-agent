@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CU Ecosystem — Personas & RAG Eval</title>
+<style>
+  :root { --bg:#0e1116; --card:#161b22; --line:#2b3240; --tx:#e6edf3; --dim:#8b949e; --gold:#CFB87C; --ok:#3fb950; --bad:#f85149; }
+  @media (prefers-color-scheme: light) {
+    :root { --bg:#f6f8fa; --card:#fff; --line:#d8dee4; --tx:#1f2328; --dim:#59636e; }
+  }
+  * { box-sizing:border-box; margin:0 }
+  body { background:var(--bg); color:var(--tx); font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; padding:16px }
+  .wrap { max-width:1100px; margin:0 auto }
+  h1 { font-size:1.3rem } h1 b { color:var(--gold) }
+  .sub { color:var(--dim); font-size:.85rem; margin-bottom:16px }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:10px; margin-bottom:16px }
+  .stat { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px }
+  .stat .n { font-size:1.5rem; font-weight:700; color:var(--gold) }
+  .stat .l { font-size:.72rem; color:var(--dim); text-transform:uppercase; letter-spacing:.05em }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px; margin-bottom:14px; overflow-x:auto }
+  h2 { font-size:.95rem; margin-bottom:10px; color:var(--gold) }
+  .pill { display:inline-block; padding:1px 7px; border-radius:99px; font-size:.7rem; border:1px solid var(--line); color:var(--dim); margin:1px 2px 1px 0 }
+  .pill.ok { border-color:var(--ok); color:var(--ok) } .pill.bad { border-color:var(--bad); color:var(--bad) }
+  details { border-bottom:1px solid var(--line); padding:8px 0 }
+  summary { cursor:pointer; font-size:.88rem } summary b { color:var(--gold) }
+  .meta { color:var(--dim); font-size:.78rem; margin:4px 0 }
+  .q { margin:6px 0 6px 12px; font-size:.82rem; border-left:2px solid var(--line); padding-left:10px }
+  .q .top { color:var(--dim); font-size:.74rem }
+  table { border-collapse:collapse; width:100%; font-size:.82rem }
+  th,td { text-align:left; padding:5px 8px; border-bottom:1px solid var(--line); vertical-align:top }
+  th { color:var(--dim); font-weight:600; font-size:.7rem; text-transform:uppercase }
+  a { color:#79b8ff; text-decoration:none }
+  select { background:var(--bg); color:var(--tx); border:1px solid var(--line); border-radius:6px; padding:4px 8px; font-size:.82rem; margin-bottom:10px }
+  #err { color:var(--bad); display:none; margin-bottom:12px }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>👥 Personas & <b>RAG Evaluation</b></h1>
+  <div class="sub"><a href="/crawl">← crawl dashboard</a> · 44 grounded personas · queries run through the live retrieval stack · <span id="upd"></span></div>
+  <div id="err">Eval data not deployed yet — run eval-rag.mjs and redeploy.</div>
+
+  <div class="grid" id="stats"></div>
+
+  <div class="card">
+    <h2>Journey Sequencing (extracted pathway edges)</h2>
+    <table><thead><tr><th>Earlier</th><th>→</th><th>Later</th><th>Kind</th><th>Evidence</th></tr></thead><tbody id="seq"></tbody></table>
+  </div>
+
+  <div class="card">
+    <h2>Weak Queries — where retrieval underperforms</h2>
+    <table><thead><tr><th>Persona</th><th>Query</th><th>Top hit</th><th>Score</th><th>Expected</th></tr></thead><tbody id="weak"></tbody></table>
+  </div>
+
+  <div class="card">
+    <h2>Personas <span id="pcount" style="color:var(--dim);font-weight:400"></span></h2>
+    <select id="frole"><option value="">all roles</option></select>
+    <div id="personas"></div>
+  </div>
+</div>
+<script>
+const $ = id => document.getElementById(id)
+const esc = s => (s||'').toString().replace(/[<>&]/g, c => ({'<':'&lt;','>':'&gt;','&':'&amp;'}[c]))
+let DATA = null, SEQ = []
+
+async function j(p){ const r = await fetch('/data/crawl/'+p+'?t='+Date.now()); if(!r.ok) throw 0; return r.json() }
+
+function renderPersonas() {
+  const role = $('frole').value
+  const ps = DATA.personas.filter(p => !role || p.role === role)
+  $('pcount').textContent = `(${ps.length})`
+  $('personas').innerHTML = ps.map(p => {
+    const rs = DATA.results.filter(r => r.persona === p.id)
+    const hits = rs.filter(r => r.typeHit).length
+    return `<details><summary><b>${esc(p.name)}</b> — ${esc(p.role)} <span class="pill">${esc(p.stage)}</span>
+      <span class="pill ${hits/Math.max(1,rs.length) >= .7 ? 'ok':'bad'}">${hits}/${rs.length} queries hit</span></summary>
+      <div class="meta">${esc(p.affiliation)} · sectors: ${(p.sectors||[]).map(esc).join(', ')}</div>
+      <div class="meta"><b>Background:</b> ${esc(p.background)}</div>
+      <div class="meta"><b>Journey:</b> ${esc(p.journey_so_far)}</div>
+      <div class="meta"><b>Goals:</b> ${esc(p.goals)} <b>Constraints:</b> ${esc(p.constraints)}</div>
+      <div class="meta"><b>Peers:</b> ${(p.peers||[]).map(esc).join(' · ') || '—'}</div>
+      ${rs.map(r => `<div class="q">“${esc(r.query)}”
+        ${r.typeHit===true?'<span class="pill ok">type✓</span>':r.typeHit===false?'<span class="pill bad">type✗</span>':''}
+        ${r.orgHit===true?'<span class="pill ok">org✓</span>':r.orgHit===false?'<span class="pill bad">org✗</span>':''}
+        <div class="top">top: ${r.top5.slice(0,3).map(t=>esc(t.name)+' ('+t.score+')').join(' · ')}</div>
+      </div>`).join('')}
+    </details>`
+  }).join('')
+}
+
+async function load() {
+  try {
+    DATA = await j('persona-eval.json')
+    const s = DATA.summary
+    $('upd').textContent = 'evaluated ' + new Date(s.generatedAt).toLocaleString()
+    $('stats').innerHTML = [
+      [s.personas,'personas'],[s.queries,'queries'],
+      [(100*s.typeHitRate).toFixed(0)+'%','type hit@5'],[(100*s.orgHitRate).toFixed(0)+'%','org hit@5'],
+      [s.weakQueries,'weak queries'],
+      ...Object.entries(s.byRole).map(([r,b])=>[(100*b.rate).toFixed(0)+'%',r+' hit'])
+    ].map(([n,l])=>`<div class="stat"><div class="n">${n}</div><div class="l">${l}</div></div>`).join('')
+    const roles=[...new Set(DATA.personas.map(p=>p.role))]
+    $('frole').innerHTML = '<option value="">all roles</option>'+roles.map(r=>`<option>${esc(r)}</option>`).join('')
+    $('weak').innerHTML = DATA.results.filter(r=>r.weak).slice(0,40).map(r=>
+      `<tr><td>${esc(r.persona)}</td><td>${esc(r.query)}</td><td>${esc(r.top5[0]?.name||'—')}</td>
+       <td>${r.topScore}</td><td>${(r.expect.types||[]).map(esc).join(', ')}<br><span class="meta">${esc(r.expect.note)}</span></td></tr>`).join('')
+    renderPersonas()
+  } catch { $('err').style.display='block' }
+  try {
+    SEQ = await j('sequence-edges.json')
+    $('seq').innerHTML = SEQ.slice(0,60).map(e=>
+      `<tr><td>${esc(e.fromName||e.from)}</td><td>→</td><td>${esc(e.toName||e.to)}</td>
+       <td><span class="pill">${esc(e.kind)}</span> ${e.confidence==='high'?'<span class="pill ok">high</span>':''}</td>
+       <td style="font-size:.75rem;color:var(--dim)">${esc((e.evidence||'').slice(0,140))}</td></tr>`).join('')
+  } catch { $('seq').innerHTML = '<tr><td colspan="5" class="meta">sequence edges not deployed yet</td></tr>' }
+}
+$('frole').onchange = renderPersonas
+load()
+</script>
+</body>
+</html>

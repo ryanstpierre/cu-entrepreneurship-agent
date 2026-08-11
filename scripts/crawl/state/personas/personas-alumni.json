@@ -1,0 +1,342 @@
+[
+  {
+    "id": "a01",
+    "name": "Priya Nandakumar",
+    "pronouns": "she/her",
+    "role": "founder",
+    "affiliation": "BS Computer Science '25 (CU Boulder); co-founder, health-tech startup that placed in NVC",
+    "background": "Priya competed in the New Venture Challenge her senior year with two classmates, building a patient-scheduling tool for rural clinics. The team placed as a finalist and kept building after graduation instead of taking corporate offers. She's now six months post-grad, technically an alum, and trying to figure out which CU resources are still open to her team now that they're off-campus and fundraising.",
+    "journey_so_far": "Went through Catalyze CU's summer accelerator track before finals, then advanced to the New Venture Challenge finals; is now trying to access Venture Partners' mentorship and advising as an alum team rather than a current-student team.",
+    "goals": "Confirm which CU Boulder programs (Catalyze CU, Venture Partners mentorship, Silicon Flatirons events) remain accessible post-graduation, and find alumni-specific pre-seed or bridge funding before their friends-and-family round runs out.",
+    "constraints": "Alumni eligibility for student-labeled programs is often unclear or undocumented on program pages; team is distributed (one co-founder moved to Denver) so in-person Boulder requirements are a friction point.",
+    "stage": "build",
+    "sectors": ["healthtech", "software"],
+    "peers": ["a08: former NVC-adjacent lab overlap on healthtech licensing", "a02: alum mentor she wants advice from"],
+    "queries": [
+      {
+        "q": "Can I still use Venture Partners mentorship now that I've graduated?",
+        "expect": {"types": ["service", "program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should surface Venture Partners' Mentorship and Advising service and state whether alumni/off-campus founders are eligible, not just current students."}
+      },
+      {
+        "q": "Is there alumni pre-seed funding at CU Boulder for a team that already went through NVC?",
+        "expect": {"types": ["funding", "competition"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/nvc"], "note": "Should mention CU Boulder pre-seed funding for alum startups (e.g. the alum GPS startup award) as a real precedent, and clarify NVC alumni aren't automatically re-eligible for the same competition."}
+      },
+      {
+        "q": "What happens to my NVC team's access to CU resources after we graduate?",
+        "expect": {"types": ["program", "service"], "orgs": ["colorado.edu/nvc", "colorado.edu/innovate"], "note": "Should flag that most NVC/Catalyze CU program pages are ambiguous about post-graduation eligibility and suggest contacting the Innovation & Entrepreneurship Initiative directly."}
+      },
+      {
+        "q": "Does Catalyze CU let recent alumni apply, or only current students?",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/innovate", "colorado.edu/catalyzecu"], "note": "Catalyze CU's own audience list includes alumni, so a good answer should surface that explicitly rather than assuming students-only."}
+      },
+      {
+        "q": "Are there Boulder investor events where an NVC alum team could pitch again?",
+        "expect": {"types": ["event", "competition"], "orgs": ["colorado.edu/nvc", "startupcolorado.org"], "note": "Should surface relevant pitch/demo events distinct from NVC itself (which they already completed) rather than re-suggesting the same competition."}
+      },
+      {
+        "q": "Who at CU Boulder can advise a startup that's now off-campus and raising a seed round?",
+        "expect": {"types": ["service", "program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should point to a named advising service/contact, not a generic 'explore programs' page."}
+      },
+      {
+        "q": "Can my old NVC mentor keep advising us informally after we've left school?",
+        "expect": {"types": ["service", "community"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/nvc"], "note": "Should acknowledge this is typically informal/relationship-based and point to formal alumni mentor-matching if one exists, being honest if it doesn't."}
+      }
+    ]
+  },
+  {
+    "id": "a02",
+    "name": "Daniel Okafor",
+    "pronouns": "he/him",
+    "role": "mentor",
+    "affiliation": "MBA '16, Leeds School of Business; now VP of Product at a Denver fintech company",
+    "background": "Daniel built a modest e-commerce side business as a Leeds student a decade ago, sold it, and moved into corporate product leadership. He's financially comfortable and has been thinking about giving back to the entrepreneurship community that helped him early on. He has no interest in founding again but wants a structured, low-time-commitment way to mentor current students and recent grads.",
+    "journey_so_far": "Occasionally donates to Leeds but has never formally engaged with Venture Partners or NVC as a mentor; recently saw a CU Boulder Today piece on a startup pitch event and started wondering how to plug back in.",
+    "goals": "Find a concrete, time-bounded way to mentor CU founders (judging, office hours, or peer mentoring) and understand whether it requires a formal application or ongoing commitment.",
+    "constraints": "Limited bandwidth — wants something that fits a few hours a month; lives in Denver, not Boulder, so prefers virtual or occasional in-person options.",
+    "stage": "explore",
+    "sectors": ["fintech", "general"],
+    "peers": ["a01: alum founder he might mentor", "a04: fellow alum interested in similar give-back mentoring"],
+    "queries": [
+      {
+        "q": "How do I sign up to mentor New Venture Challenge teams as an alum?",
+        "expect": {"types": ["service", "competition"], "orgs": ["colorado.edu/nvc", "colorado.edu/venturepartners"], "note": "Should identify a concrete mentor/judge sign-up path for NVC, not just describe the competition itself."}
+      },
+      {
+        "q": "Is there a formal alumni mentor network at CU Boulder for startups, like Leeds Peer2Peer but for founders?",
+        "expect": {"types": ["community", "service"], "orgs": ["colorado.edu/p", "colorado.edu/venturepartners"], "note": "Should surface Leeds Peer2Peer Mentoring as the closest real analog and note it's student-mentor focused, distinguishing it from Venture Partners' advising for founders."}
+      },
+      {
+        "q": "Can I volunteer as a judge for the New Venture Challenge finals?",
+        "expect": {"types": ["competition", "event"], "orgs": ["colorado.edu/nvc"], "note": "Should reference the NVC finals event and any judge/volunteer application process if documented."}
+      },
+      {
+        "q": "What entrepreneurship events at CU happen in Denver or virtually, not just on the Boulder campus?",
+        "expect": {"types": ["event"], "orgs": ["colorado.edu/nvc", "startupcolorado.org"], "note": "Should be honest about geographic concentration in Boulder and surface any Denver-accessible or virtual options rather than overstating availability."}
+      },
+      {
+        "q": "Does Venture Partners take volunteer advisors who aren't full-time entrepreneurs?",
+        "expect": {"types": ["service"], "orgs": ["colorado.edu/venturepartners"], "note": "Should describe the Mentorship and Advising service's structure and whether advisors are practitioners vs. full-time staff."}
+      },
+      {
+        "q": "Is there a low-commitment way to give back to CU entrepreneurship without founding another company?",
+        "expect": {"types": ["service", "community", "event"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/nvc"], "note": "Should synthesize multiple lightweight options (judging, mentoring, event volunteering) rather than pushing him toward a heavy program."}
+      }
+    ]
+  },
+  {
+    "id": "a03",
+    "name": "Marcus Reyes",
+    "pronouns": "he/him",
+    "role": "founder",
+    "affiliation": "MS Electrical Engineering '19, CU Boulder; laid off from a Boulder-area hardware startup in early 2026",
+    "background": "Marcus spent six years as a senior hardware engineer, most recently at a sensor-tech company that did a round of layoffs. Rather than job-search immediately, he's using severance runway to explore founding something of his own around low-power sensing, a space he knows deeply from his thesis work. He's never gone through a formal accelerator or pitch competition before.",
+    "journey_so_far": "Has informally talked to a couple of former colleagues about ideas but hasn't engaged with any CU program since grad school; is starting from scratch on the 'how does this ecosystem work' question.",
+    "goals": "Understand what a laid-off alum with deep technical skills but no startup experience should do first — customer discovery, an accelerator, or funding — and find programs that don't require current student status.",
+    "constraints": "Runway is finite (severance plus savings, roughly 9 months); needs equity-free or non-dilutive funding options given uncertain income.",
+    "stage": "explore",
+    "sectors": ["hardware", "sensing"],
+    "peers": ["a06: fellow climate/hardware-adjacent founder scouting Boulder", "a08: postdoc licensing tech, similar technical-founder profile"],
+    "queries": [
+      {
+        "q": "I just got laid off and want to start a hardware company — where do I start as a CU alum?",
+        "expect": {"types": ["program", "service"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/innovate"], "note": "Should surface an entry point like R2M Customer Discovery or Venture Partners advising and clarify alum eligibility rather than assuming he's a current student."}
+      },
+      {
+        "q": "Is Catalyze CU open to alumni or just current students and faculty?",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/innovate", "colorado.edu/catalyzecu"], "note": "Should correctly state Catalyze CU's audience explicitly includes alumni."}
+      },
+      {
+        "q": "What equity-free funding exists for a first-time founder coming out of layoffs?",
+        "expect": {"types": ["funding", "program"], "orgs": ["colorado.edu/innovate", "colorado.edu/venturepartners"], "note": "Should surface Catalyze CU's equity-free funding (up to $25,000) and any other non-dilutive options, being clear about amounts and eligibility."}
+      },
+      {
+        "q": "What's the Research-to-Market program and can a non-CU-employed alum join?",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should describe R2M's four-week Lean LaunchPad structure and flag audience is listed as community/researchers, then note uncertainty about alum-specific eligibility."}
+      },
+      {
+        "q": "Are there hardware- or sensor-focused incubators near Boulder?",
+        "expect": {"types": ["center", "program"], "orgs": ["innosphereventures.org", "colorado.edu/researchinnovation"], "note": "Should surface Innosphere Ventures or similar hardware-relevant centers, not just software accelerators."}
+      },
+      {
+        "q": "How do I validate a hardware idea before committing full-time — is there a customer discovery program?",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should point to R2M Customer Discovery specifically as a validate-stage fit."}
+      },
+      {
+        "q": "Do I need to be affiliated with CU research to use Venture Partners, or can any alum with an idea apply?",
+        "expect": {"types": ["service", "program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should distinguish Venture Partners' tech-commercialization mandate (CU-originated IP) from general founder advising, and be honest if his idea doesn't stem from CU research."}
+      }
+    ]
+  },
+  {
+    "id": "a04",
+    "name": "Ella Whitmore",
+    "pronouns": "she/her",
+    "role": "founder",
+    "affiliation": "MBA '14, Leeds School of Business; independent search-fund entrepreneur pursuing entrepreneurship through acquisition",
+    "background": "Ella spent a decade in operations roles at mid-size manufacturing companies after her MBA and is now raising a self-funded search fund to acquire and run a small business, following the ETA model. She's connected to a couple of other Leeds MBA alumni pursuing similar paths and wants to plug into CU's ETA-specific programming rather than generic startup resources, which don't fit her acquisition-not-founding path.",
+    "journey_so_far": "Attended a regional ETA meetup informally last year and heard about the Rocky Mountain Entrepreneurship Through Acquisition Conference hosted at Leeds; hasn't yet engaged with CU deal-sourcing or search-fund investor networks directly.",
+    "goals": "Get details on the Rocky Mountain ETA Conference (dates, who attends, whether alumni can register), and find CU-connected search-fund investor or deal-sourcing networks distinct from equity-startup-focused programs.",
+    "constraints": "ETA content is a small slice of the dataset relative to startup-founding content, so she needs the system to not default to NVC/accelerator answers when she's asking about acquisition entrepreneurship.",
+    "stage": "validate",
+    "sectors": ["ETA", "search fund", "manufacturing"],
+    "peers": ["a02: fellow Leeds MBA alum, different track (mentoring vs. ETA)"],
+    "queries": [
+      {
+        "q": "When is the Rocky Mountain Entrepreneurship Through Acquisition Conference and can alumni attend?",
+        "expect": {"types": ["event"], "orgs": ["colorado.edu/business"], "note": "Should surface the 2026 Rocky Mountain ETA Conference at Leeds School of Business specifically, with date/registration details if available."}
+      },
+      {
+        "q": "Does CU Boulder have any programming specifically for entrepreneurship through acquisition, not just startup founding?",
+        "expect": {"types": ["event", "course"], "orgs": ["colorado.edu/business"], "note": "Should distinguish ETA-specific resources from the much larger volume of startup-founding programs and not conflate the two."}
+      },
+      {
+        "q": "Are there search fund investor networks connected to CU Boulder alumni?",
+        "expect": {"types": ["community", "reference"], "orgs": ["colorado.edu/business"], "note": "Good answer acknowledges this is a thin area in the dataset rather than fabricating a network; may point to the ETA conference as the closest touchpoint."}
+      },
+      {
+        "q": "Is the New Venture Challenge relevant to someone doing a search fund acquisition instead of founding a startup?",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc"], "note": "Should correctly clarify NVC is a founding/new-venture pitch competition, not applicable to acquisition entrepreneurship, rather than force-fitting it."}
+      },
+      {
+        "q": "What Leeds courses or events cover deal sourcing and business acquisition?",
+        "expect": {"types": ["course", "event"], "orgs": ["colorado.edu/business"], "note": "Should surface Leeds-affiliated ETA content specifically, e.g. the ETA conference, and flag if dedicated coursework isn't clearly represented."}
+      },
+      {
+        "q": "Can I network with other CU alumni doing search funds through an official channel?",
+        "expect": {"types": ["community", "event"], "orgs": ["colorado.edu/business"], "note": "Should point to the ETA conference as a networking venue and be honest about the absence of a standing alumni ETA community if none is found."}
+      }
+    ]
+  },
+  {
+    "id": "a05",
+    "name": "Amara Solis",
+    "pronouns": "she/her",
+    "role": "founder",
+    "affiliation": "BS Environmental Engineering '20, CU Boulder; founder of a compostable packaging startup, based in Denver",
+    "background": "Amara started her company two years after graduating, bootstrapping with consulting income before going full-time. She's now raising her first institutional round and specifically wants to plug into women-founder-focused programming, having heard about the New Venture Challenge Women Founders Competition from a former classmate. She identifies women's founder networks as both funding sources and peer community.",
+    "journey_so_far": "Has not yet competed in any CU competition; discovered the NVC Women Founders Competition Finals event and Startup Colorado's woman-owned business funding listings while researching, and is trying to figure out which apply to alumni versus current students.",
+    "goals": "Determine eligibility for the NVC Women Founders Competition as an alum, and find other woman-founder-specific funding and community programs in the Colorado ecosystem beyond CU itself.",
+    "constraints": "Based in Denver rather than Boulder; alumni eligibility for NVC's women-founders track is unclear from program pages, and she doesn't want to spend time on an application she can't qualify for.",
+    "stage": "launch",
+    "sectors": ["cleantech", "consumer packaged goods", "sustainability"],
+    "peers": ["a06: fellow woman-led climate-adjacent founder, useful ecosystem overlap", "a07: connects informally at Boulder creative-economy/founder events"],
+    "queries": [
+      {
+        "q": "Can alumni compete in the New Venture Challenge Women Founders Competition, or is it students-only?",
+        "expect": {"types": ["competition", "event"], "orgs": ["colorado.edu/nvc", "colorado.edu/event"], "note": "Should surface both the Women Founders Competition and its Finals event, and directly address alumni eligibility rather than ignoring the question."}
+      },
+      {
+        "q": "What funding is available specifically for woman-owned businesses in Colorado?",
+        "expect": {"types": ["funding"], "orgs": ["startupcolorado.org"], "note": "Should surface Startup Colorado's 'Dedicated Funding Opportunities for Woman-Owned Businesses' resource by name."}
+      },
+      {
+        "q": "Is there a rural or statewide women entrepreneurs community I could join even though I'm in Denver?",
+        "expect": {"types": ["community"], "orgs": ["startupcolorado.org"], "note": "Should mention the Rural Women in Entrepreneurship (RWE) Retreat and note its rural focus versus her Denver location honestly."}
+      },
+      {
+        "q": "How does the Women Founders Competition relate to the regular New Venture Challenge — same application, different track?",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc"], "note": "Should clarify structural relationship between NVC and its Women Founders track using the actual competition/event resources."}
+      },
+      {
+        "q": "Are there women-founder investor pitch events I could attend as an alum in the Colorado startup ecosystem?",
+        "expect": {"types": ["event", "competition"], "orgs": ["colorado.edu/nvc", "startupcolorado.org"], "note": "Should differentiate CU-run events from broader Colorado ecosystem events and give her realistic entry points as a non-student."}
+      },
+      {
+        "q": "Does Venture Partners have any women-founder-specific mentorship track?",
+        "expect": {"types": ["service"], "orgs": ["colorado.edu/venturepartners"], "note": "Should check Mentorship and Advising for any women-specific programming and be honest if none is distinctly labeled."}
+      },
+      {
+        "q": "What's the timeline for the NVC Women Founders Competition Finals this year?",
+        "expect": {"types": ["event"], "orgs": ["colorado.edu/event", "colorado.edu/nvc"], "note": "Should surface the specific Finals calendar event with date if present in the data."}
+      }
+    ]
+  },
+  {
+    "id": "a06",
+    "name": "Tomas Berglund",
+    "pronouns": "he/him",
+    "role": "founder",
+    "affiliation": "PhD Atmospheric Science '17 (not CU Boulder — Stockholm); climate-tech founder relocating to Boulder from the Bay Area",
+    "background": "Tomas has spent eight years building climate modeling software, most recently at a Bay Area climate startup that stalled after a funding shortfall. He's relocating to Boulder specifically because of its reputation as a climate-tech hub and wants to scout the ecosystem — accelerators, funding, and community — before deciding whether to found again there or join an existing team.",
+    "journey_so_far": "Read about CU Boulder's new climate initiative turning student innovations into startups and the Climate Innovation Collaboratory with Deloitte; has no formal CU affiliation and is evaluating Boulder as an outsider.",
+    "goals": "Map the Boulder/CU climate-tech ecosystem end-to-end — university initiatives, accelerators, and funding — and understand which resources are open to non-alumni, non-CU founders just moving to town.",
+    "constraints": "Has zero CU affiliation, so many programs (Venture Partners tech licensing, student competitions) are likely closed to him; needs to distinguish CU-exclusive resources from broader Colorado/Startup Colorado ecosystem ones he can actually access.",
+    "stage": "explore",
+    "sectors": ["climate tech", "sustainability"],
+    "peers": ["a05: overlapping climate/sustainability founder network", "a03: fellow technical founder new to the startup-support ecosystem"],
+    "queries": [
+      {
+        "q": "What is the Climate Innovation Collaboratory and can outside founders get involved?",
+        "expect": {"types": ["reference", "center"], "orgs": ["colorado.edu/today"], "note": "Should surface the CU Boulder/Deloitte Climate Innovation Collaboratory article and note whether it's aimed at students/researchers vs. open to outside founders."}
+      },
+      {
+        "q": "I just moved to Boulder as a climate-tech founder with no CU affiliation — what parts of the ecosystem can I actually access?",
+        "expect": {"types": ["community", "program", "funding"], "orgs": ["startupcolorado.org", "innosphereventures.org"], "note": "Should correctly steer him toward non-CU-exclusive resources (Startup Colorado, Innosphere) rather than CU-only student programs."}
+      },
+      {
+        "q": "What's this new climate initiative turning student innovations into startups?",
+        "expect": {"types": ["community", "program"], "orgs": ["colorado.edu/today"], "note": "Should surface the specific 'new climate initiative to turn student innovations into startup success' item and clarify it targets CU students, not outside founders."}
+      },
+      {
+        "q": "Are there climate-tech accelerators or incubators in the Boulder/Denver area outside of CU?",
+        "expect": {"types": ["program", "center"], "orgs": ["innosphereventures.org", "startupcolorado.org"], "note": "Should surface Innosphere Ventures or comparable regional programs rather than only CU-affiliated ones."}
+      },
+      {
+        "q": "Can I license CU Boulder climate research even though I never attended CU?",
+        "expect": {"types": ["service", "program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should describe Venture Partners' role in CU tech commercialization/licensing and clarify that licensing CU IP doesn't require alumni status, though founding a spinout team might have different rules."}
+      },
+      {
+        "q": "Where do Boulder climate founders meet up or network regularly?",
+        "expect": {"types": ["community", "event"], "orgs": ["startupcolorado.org", "colorado.edu/event"], "note": "Should surface relevant community/event resources, being clear about which are CU-internal versus open to the public."}
+      },
+      {
+        "q": "Is there state or regional funding for climate startups relocating to Colorado?",
+        "expect": {"types": ["funding"], "orgs": ["startupcolorado.org"], "note": "Should surface Startup Colorado funding resources relevant to climate/cleantech if present, without overstating CU-specific climate funds as available to non-affiliated founders."}
+      }
+    ]
+  },
+  {
+    "id": "a07",
+    "name": "Nadia Farouk",
+    "pronouns": "she/her",
+    "role": "alum",
+    "affiliation": "BFA Studio Art '18, CU Boulder; working artist and creative-economy entrepreneur based in Longmont",
+    "background": "Nadia has built a modest income from studio art sales, commissions, and teaching workshops, and is now trying to formalize her practice into a sustainable small creative business — thinking through pricing, a storefront, and possibly a residency. She doesn't identify as a 'startup founder' and initially assumed CU's entrepreneurship resources weren't relevant to her, until a friend mentioned Startup Colorado's Artist in Residence program.",
+    "journey_so_far": "Has not engaged with any CU or Startup Colorado programs yet; is at the very beginning of researching whether creative-economy-specific resources exist versus generic startup accelerators that don't fit her practice.",
+    "goals": "Find creative-economy-specific programs (residencies, small-business support for artists) rather than generic tech-startup accelerators, and understand whether CU alumni status helps her access any of them.",
+    "constraints": "Rural/small-town-oriented programs (like the Artist in Residence) may not fit her Longmont/Front-Range location; most of the dataset skews toward tech and research commercialization, so relevant creative-economy hits are sparse.",
+    "stage": "explore",
+    "sectors": ["creative economy", "arts"],
+    "peers": ["a05: crosses paths at Boulder-area founder community events"],
+    "queries": [
+      {
+        "q": "Is Startup Colorado's Artist in Residence program open to CU alumni?",
+        "expect": {"types": ["program"], "orgs": ["startupcolorado.org"], "note": "Should surface the Artist in Residence program description (rural creative residency, stipend, mentorship) and note its audience is community-wide, not alumni-restricted."}
+      },
+      {
+        "q": "Are there entrepreneurship resources at CU Boulder for artists specifically, not tech startups?",
+        "expect": {"types": ["program"], "orgs": ["startupcolorado.org", "colorado.edu/innovate"], "note": "Should honestly acknowledge the dataset skews heavily toward tech/research and surface the Artist in Residence program as the clearest fit rather than force-fitting a tech accelerator."}
+      },
+      {
+        "q": "What's the stipend and commitment for the Artist in Residence program?",
+        "expect": {"types": ["program"], "orgs": ["startupcolorado.org"], "note": "Should surface the specific funding figure ($1,500) and describe the rural creative residency structure."}
+      },
+      {
+        "q": "Does the Artist in Residence program require living in a rural area, or could someone in Longmont apply?",
+        "expect": {"types": ["program"], "orgs": ["startupcolorado.org"], "note": "Should flag the rural framing of the program honestly and let her judge fit rather than glossing over the geographic constraint."}
+      },
+      {
+        "q": "Can Catalyze CU's equity-free funding apply to a creative small business, or is it only for tech startups?",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/innovate"], "note": "Should describe Catalyze CU's actual scope (12-week summer accelerator, equity-free funding) and be honest about whether creative/lifestyle businesses fit its typical profile."}
+      },
+      {
+        "q": "Are there small-business workshops or courses at CU for people who aren't tech founders?",
+        "expect": {"types": ["course", "program"], "orgs": ["colorado.edu/innovate", "colorado.edu/business"], "note": "Should surface general small-business-relevant courses like New Venture Launch if genuinely applicable, without overselling tech-oriented courses as artist-friendly."}
+      }
+    ]
+  },
+  {
+    "id": "a08",
+    "name": "Wei Chen",
+    "pronouns": "he/him",
+    "role": "founder",
+    "affiliation": "PhD Chemical & Biological Engineering, CU Boulder postdoc '21-'24; now Head of R&D at a Boulder-based materials startup licensing CU tech",
+    "background": "Wei did his postdoc in a CU lab developing a novel battery-electrolyte material, and after his postdoc ended he joined a small startup that licensed the underlying IP from CU through Venture Partners. He's not the founder or an alum in the traditional undergrad sense, but he's now on the outside of the university trying to navigate an active licensing relationship and figure out what other CU resources his now-independent company can still tap.",
+    "journey_so_far": "Went through the CU tech-transfer/licensing process with Venture Partners while still a postdoc; the company has since spun fully independent, and he's now trying to determine what post-spinout support (mentorship, additional licensing, funding intros) is still available.",
+    "goals": "Understand ongoing licensing terms and options for additional CU IP now that the company is independent, and find whether spinout companies retain access to Venture Partners mentorship, R2M-style programs, or funding intros after the formal spinout is complete.",
+    "constraints": "Complex IP/equity terms from the original licensing deal constrain what he can say publicly or pursue elsewhere; unclear whether 'former postdoc' status counts as alumni for program eligibility purposes.",
+    "stage": "build",
+    "sectors": ["materials science", "battery tech", "deep tech"],
+    "peers": ["a03: fellow deep-tech/hardware technical founder", "a01: shares interest in what post-graduation/post-spinout CU access looks like"],
+    "queries": [
+      {
+        "q": "What resources does CU offer to startups that have already licensed university IP and spun out?",
+        "expect": {"types": ["service", "program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should surface Venture Partners' portfolio/startup support (e.g. its Mentorship and Advising service and startup portfolio listings) as relevant to already-spun-out companies."}
+      },
+      {
+        "q": "Is a former postdoc considered a CU alum for entrepreneurship program eligibility?",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/innovate"], "note": "Should honestly flag that most program audience tags list distinct categories (postdocs, alumni) and that eligibility for postdocs specifically should be confirmed rather than assumed."}
+      },
+      {
+        "q": "Who do I contact at Venture Partners about licensing additional CU battery IP for an already-spun-out company?",
+        "expect": {"types": ["service", "reference"], "orgs": ["colorado.edu/venturepartners"], "note": "Should point to a named Venture Partners contact/service, ideally referencing tech commercialization/licensing staff rather than a generic program page."}
+      },
+      {
+        "q": "Does Venture Partners track outcomes of its licensed startups, like a portfolio page?",
+        "expect": {"types": ["space", "reference"], "orgs": ["colorado.edu/venturepartners"], "note": "Should surface Venture Partners' startup portfolio listings (e.g. company profile pages like ExoPower Inc.) as evidence of how spinouts are tracked."}
+      },
+      {
+        "q": "Can our spun-out company still get customer discovery support like R2M even though we're no longer CU-affiliated?",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should describe R2M's Lean LaunchPad structure and address whether spun-out, formerly-CU-affiliated companies remain eligible."}
+      },
+      {
+        "q": "Are there CU Boulder funding programs specifically for spinout companies based on licensed research?",
+        "expect": {"types": ["funding", "program"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/researchinnovation"], "note": "Should surface research-commercialization funding pathways (e.g. R2M's funding figures, Research & Innovation Office grants) relevant to licensed-IP spinouts."}
+      },
+      {
+        "q": "What's the difference between Venture Partners and the Research & Innovation Office for a licensing question like mine?",
+        "expect": {"types": ["service", "center"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/researchinnovation"], "note": "Should clearly distinguish the two offices' roles (commercialization/licensing vs. broader research support) rather than conflating them."}
+      }
+    ]
+  }
+]

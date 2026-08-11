@@ -1,0 +1,137 @@
+[
+  {
+    "from": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-starting-blocks",
+    "to": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+    "kind": "precedes",
+    "evidence": "Starting Blocks is the first step before participating in the Research-to-Market (R2M) Customer Discovery Program and the National I-Corps Teams Program, where teams can win a $50,000 small business grant.",
+    "confidence": "high",
+    "fromName": "Starting Blocks Customer Discovery Workshop",
+    "toName": "Research-to-Market (R2M) Customer Discovery Program"
+  },
+  {
+    "from": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-starting-blocks",
+    "to": null,
+    "kind": "precedes",
+    "evidence": "Starting Blocks is the first step before participating in the Research-to-Market (R2M) Customer Discovery Program and the National I-Corps Teams Program, where teams can win a $50,000 small business grant.",
+    "confidence": "medium",
+    "fromName": "Starting Blocks Customer Discovery Workshop",
+    "toName": "National I-Corps Teams Program"
+  },
+  {
+    "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+    "to": null,
+    "kind": "precedes",
+    "evidence": "After completing both programs, teams are primed to pursue the National I-Corps Teams Program, where teams can win a $50,000 small business grant.",
+    "confidence": "high",
+    "fromName": "Research-to-Market (R2M) Customer Discovery Program",
+    "toName": "National I-Corps Teams Program"
+  },
+  {
+    "from": "colorado-edu-catalyzecu-about",
+    "to": null,
+    "kind": "feeds_into",
+    "evidence": "After completing those programs, they moved on to the NSF I-Corps program and were then accepted into the 2017 Techstars Boulder class. (Stateless, CU Boulder spinoff and Catalyze CU alum)",
+    "confidence": "medium",
+    "fromName": "Catalyze CU",
+    "toName": "NSF I-Corps"
+  },
+  {
+    "from": null,
+    "to": "colorado-edu-innovate-ascent-deep-tech-accelerator",
+    "kind": "prerequisite",
+    "evidence": "The five-month program builds upon prerequisite customer-discovery training through the National Science Foundation (NSF) I-Corps Hub West — also offered through Venture Partners — and provides tailored support in business formation, market strategy and fundraising.",
+    "confidence": "high",
+    "fromName": "NSF I-Corps Hub West",
+    "toName": "Ascent Deep Tech Accelerator"
+  },
+  {
+    "from": "colorado-edu-business-deming-student-opportunities-spark",
+    "to": "colorado-edu-nvc-about",
+    "kind": "feeds_into",
+    "evidence": "The goal is to prepare these founders for the next step: NVC, Catalyze CU, Techstars, I-Corps, launch!",
+    "confidence": "medium",
+    "fromName": "SPARK",
+    "toName": "New Venture Challenge"
+  },
+  {
+    "from": "colorado-edu-business-deming-student-opportunities-spark",
+    "to": "colorado-edu-catalyzecu-about",
+    "kind": "feeds_into",
+    "evidence": "The goal is to prepare these founders for the next step: NVC, Catalyze CU, Techstars, I-Corps, launch!",
+    "confidence": "medium",
+    "fromName": "SPARK",
+    "toName": "Catalyze CU"
+  },
+  {
+    "from": "colorado-edu-business-deming-student-opportunities-spark",
+    "to": null,
+    "kind": "feeds_into",
+    "evidence": "The goal is to prepare these founders for the next step: NVC, Catalyze CU, Techstars, I-Corps, launch!",
+    "confidence": "medium",
+    "fromName": "SPARK",
+    "toName": "Techstars"
+  },
+  {
+    "from": "colorado-edu-business-deming-student-opportunities-spark",
+    "to": null,
+    "kind": "feeds_into",
+    "evidence": "The goal is to prepare these founders for the next step: NVC, Catalyze CU, Techstars, I-Corps, launch!",
+    "confidence": "medium",
+    "fromName": "SPARK",
+    "toName": "I-Corps"
+  },
+  {
+    "from": "colorado-edu-innovate-programs-resources-new-venture-launch-class",
+    "to": "colorado-edu-nvc-about",
+    "kind": "prerequisite",
+    "evidence": "New Venture Launch also offers students the opportunity to pitch their ventures for up to $25,000 in non-equity funding and prepares students for the New Venture Challenge, with two of the 2023 New Venture Challenge finalists having completed NVL.",
+    "confidence": "high",
+    "fromName": "New Venture Launch",
+    "toName": "New Venture Challenge"
+  },
+  {
+    "from": "colorado-edu-engineering-entrepreneurship",
+    "to": "colorado-edu-catalyzecu-about",
+    "kind": "feeds_into",
+    "evidence": "Take the first step in launching your business by heading over to Catalyze CU.",
+    "confidence": "high",
+    "fromName": "ESCEND",
+    "toName": "Catalyze CU"
+  },
+  {
+    "from": "colorado-edu-innovate-ascent-deep-tech-accelerator",
+    "to": null,
+    "kind": "alumni_pathway",
+    "evidence": "Companies have also advanced to notable accelerator and incubator startup programs such as NLR West Gate, Creative Destruction Lab, Techstars and Activate.",
+    "confidence": "medium",
+    "fromName": "Ascent Deep Tech Accelerator",
+    "toName": "Techstars"
+  },
+  {
+    "from": "colorado-edu-innovate-ascent-deep-tech-accelerator",
+    "to": null,
+    "kind": "alumni_pathway",
+    "evidence": "Companies have also advanced to notable accelerator and incubator startup programs such as NLR West Gate, Creative Destruction Lab, Techstars and Activate.",
+    "confidence": "medium",
+    "fromName": "Ascent Deep Tech Accelerator",
+    "toName": "Activate"
+  },
+  {
+    "from": "colorado-edu-innovate-getseedfunding",
+    "to": "colorado-edu-nvc-about",
+    "kind": "feeds_into",
+    "evidence": "Known CU Boulder entrepreneurship pathway: Get Seed Funding micro-grants for early student ideas commonly lead teams toward the New Venture Challenge.",
+    "confidence": "medium",
+    "fromName": "Get Seed Funding",
+    "toName": "New Venture Challenge"
+  },
+  {
+    "from": "colorado-edu-nvc-about",
+    "to": "colorado-edu-catalyzecu-about",
+    "kind": "feeds_into",
+    "evidence": "Known CU Boulder entrepreneurship pathway: New Venture Challenge participants and alumni frequently continue into Catalyze CU's summer startup accelerator.",
+    "confidence": "medium",
+    "fromName": "New Venture Challenge",
+    "toName": "Catalyze CU"
+  }
+]

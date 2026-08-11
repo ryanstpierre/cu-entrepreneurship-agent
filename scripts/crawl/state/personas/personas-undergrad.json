@@ -1,0 +1,458 @@
+[
+  {
+    "id": "u01",
+    "name": "Marisol Reyes",
+    "pronouns": "she/her",
+    "role": "undergraduate",
+    "affiliation": "College of Engineering & Applied Science, Computer Science, sophomore",
+    "background": "Marisol is a first-generation college student from Pueblo, Colorado, on a mix of Pell Grant and CU scholarship funding. She's a solid Python/JS coder from self-taught high school projects and a CS1/CS2 sequence, but has zero exposure to business terms like 'cap table' or 'MVP'. She works 12 hours/week at the campus IT help desk to cover expenses and doesn't have family who've run a business before.",
+    "journey_so_far": "She went to one Idea Forge open house out of curiosity and built a small class scheduling app for a hackathon last semester, but has never talked to anyone about turning it into anything. She recently saw a flyer for Catalyze CU and doesn't know if she qualifies since she's not a 'real founder' yet.",
+    "goals": "Figure out if her scheduling app idea is worth pursuing, understand what 'customer discovery' even means, and find a low-commitment way to test the entrepreneurship waters without falling behind in coursework.",
+    "constraints": "Very limited free time (12 hrs/week job + full course load) and no spare cash for travel or fees; needs everything free or work-study-compatible.",
+    "stage": "explore",
+    "sectors": ["software", "edtech"],
+    "peers": ["u08: study group and hackathon partner from CS 2270", "u09: met at a first-year dorm hackathon, texts about ideas"],
+    "queries": [
+      {
+        "q": "how do i start a startup as a freshman with no money",
+        "expect": {"types": ["program", "reference", "community"], "orgs": ["colorado.edu/innovate", "colorado.edu/catalyzecu"], "note": "Should point to free, beginner-friendly entry points (Catalyze CU, Innovation & Entrepreneurship Initiative resources) not paid accelerators, and reassure that no prior experience is required."}
+      },
+      {
+        "q": "is there a free program for students who just have an idea and no team yet",
+        "expect": {"types": ["program", "community"], "orgs": ["colorado.edu/catalyzecu", "colorado.edu/innovate"], "note": "Should surface Catalyze CU or similar idea-stage cohort programs and clarify no team/cost requirement."}
+      },
+      {
+        "q": "what does customer discovery mean",
+        "expect": {"types": ["reference", "program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should explain the concept plainly and tie it to the R2M Customer Discovery Program as a concrete example."}
+      },
+      {
+        "q": "can work study students get paid to work on a startup idea",
+        "expect": {"types": ["program", "reference"], "orgs": ["colorado.edu/catalyzecu", "colorado.edu/venturepartners"], "note": "Should be honest if no direct work-study startup role exists in the corpus rather than inventing one, and suggest closest paid opportunities like Catalyze CU employment."}
+      },
+      {
+        "q": "is there money for a solar hardware prototype",
+        "expect": {"types": ["funding", "program"], "orgs": ["colorado.edu/researchinnovation", "colorado.edu/innovate"], "note": "Should surface seed grant programs (e.g. Research & Innovation Seed Grant) even though this isn't her project — testing broad funding query handling."}
+      },
+      {
+        "q": "where can i learn to build a physical prototype on campus for free",
+        "expect": {"types": ["space", "service"], "orgs": ["colorado.edu/ideaforge", "itll.colorado.edu"], "note": "Should surface Idea Forge Rapid Prototyping Lab and/or ITLL as free maker spaces."}
+      },
+      {
+        "q": "deadline for nvc",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc", "colorado.edu/innovate"], "note": "Should give the New Venture Challenge registration deadline info and note SINVC track, flagging that dates are year-specific."}
+      },
+      {
+        "q": "do i need a business major to enter a pitch competition",
+        "expect": {"types": ["competition", "reference"], "orgs": ["colorado.edu/nvc", "colorado.edu/business"], "note": "Should clarify NVC and similar competitions are open to all majors, not just Leeds students."}
+      }
+    ]
+  },
+  {
+    "id": "u02",
+    "name": "Chidi Okafor",
+    "pronouns": "he/him",
+    "role": "undergraduate",
+    "affiliation": "College of Engineering & Applied Science, Mechanical Engineering, senior",
+    "background": "Chidi is an international student from Lagos, Nigeria on an F-1 visa, funded by a combination of family support and a partial merit scholarship. He's spent two years in the ITLL (Integrated Teaching and Learning Laboratory) building senior design projects and is skilled in CAD, 3D printing, and basic circuit design. He's deeply motivated to build something that could work in both the US and Nigerian solar markets.",
+    "journey_so_far": "His senior capstone team is prototyping a low-cost solar micro-inverter, and he attended a Venture Partners info session on the Research-to-Market program after a professor suggested it. He's been quietly researching OPT (Optional Practical Training) rules to see if he could stay in the US to work on the startup after graduation.",
+    "goals": "Get his solar hardware prototype validated with real potential customers, find non-dilutive funding to cover prototyping costs, and understand what visa-compatible paths exist for staying involved with a US-based startup post-graduation.",
+    "constraints": "F-1 visa status limits off-campus paid work without CPT/OPT authorization, and international students are often ineligible for certain federal or state-restricted grants; needs to verify eligibility before applying to anything.",
+    "stage": "build",
+    "sectors": ["cleantech", "hardware", "energy"],
+    "peers": ["u03: business co-founder handling the go-to-market side", "u06: fellow ME/physics friend who helped debug the inverter circuit"],
+    "queries": [
+      {
+        "q": "is there money for a solar hardware prototype",
+        "expect": {"types": ["funding", "program"], "orgs": ["colorado.edu/researchinnovation", "colorado.edu/innovate", "colorado.edu/initiative"], "note": "Should surface seed grants like the Research & Innovation Seed Grant Program and note eligibility caveats for hardware/cleantech projects."}
+      },
+      {
+        "q": "can international students on f1 visa apply for startup grants at cu boulder",
+        "expect": {"types": ["reference", "funding"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/researchinnovation"], "note": "Should not fabricate visa eligibility rules; should flag that this needs verification with international student services and cite which programs are open to all students vs. restricted."}
+      },
+      {
+        "q": "r2m customer discovery program requirements",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should return the actual R2M program details: 4-week Lean LaunchPad program, ~$50,000 associated funding context, and how to apply."}
+      },
+      {
+        "q": "where can i 3d print and test circuit prototypes on campus",
+        "expect": {"types": ["space"], "orgs": ["colorado.edu/ideaforge", "itll.colorado.edu"], "note": "Should return Idea Forge Rapid Prototyping Lab and ITLL as physical build spaces."}
+      },
+      {
+        "q": "opt and startups for international students",
+        "expect": {"types": ["reference", "service"], "orgs": ["colorado.edu/law"], "note": "Should acknowledge this is a legal/immigration question outside the corpus's core scope, avoid giving definitive visa advice, and point toward Entrepreneurial Law Clinic or ISSS as the right resource to confirm details."}
+      },
+      {
+        "q": "is there a deep tech accelerator for hardware startups spinning out of cu research",
+        "expect": {"types": ["program", "community"], "orgs": ["colorado.edu/venturepartners"], "note": "Should surface Embark (deep tech startup creator cohort program) mentioned in Venture Partners news."}
+      },
+      {
+        "q": "colorado quantum incubator eligibility",
+        "expect": {"types": ["center", "funding"], "orgs": ["colorado.edu/initiative"], "note": "Should describe the CUbit Quantum Initiative's Colorado Quantum Incubator, noting it's adjacent to but distinct from solar/energy hardware."}
+      },
+      {
+        "q": "battery and energy storage startups that came out of cu boulder research",
+        "expect": {"types": ["reference", "center"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/techtransfer"], "note": "Should reference Mana Battery Inc. and ExoPower Inc. as examples of CU spinouts in the energy space, useful inspiration for Chidi."}
+      }
+    ]
+  },
+  {
+    "id": "u03",
+    "name": "Hannah Wexler",
+    "pronouns": "she/her",
+    "role": "undergraduate",
+    "affiliation": "Leeds School of Business, junior, Entrepreneurial Studies Certificate track",
+    "background": "Hannah is pursuing a general business degree with a focus on operations and finance, and is enrolled in the Entrepreneurial Studies Certificate program through the Deming Center. She's organized, comfortable building financial models and pitch decks, but has never built or sold a physical product. She met Chidi through a cross-college mixer hosted by Venture Partners.",
+    "journey_so_far": "She joined Chidi's solar micro-inverter team as the business co-founder, taking the New Venture Launch class this semester to formalize a business model canvas and pricing strategy. She's also gone to a couple of Leeds Peer2Peer mentoring sessions for general startup advice.",
+    "goals": "Build a credible go-to-market and pricing strategy for the solar inverter before the next NVC cycle, find a mentor with hardware/energy sector experience, and figure out whether to register the venture as an LLC before or after applying for grants.",
+    "constraints": "Balancing a demanding Leeds course load and a part-time internship at a local accounting firm leaves limited hours for the venture; no engineering background so relies fully on Chidi for technical validation.",
+    "stage": "validate",
+    "sectors": ["cleantech", "hardware", "energy"],
+    "peers": ["u02: technical co-founder building the solar hardware", "u10: senior mentor she met through Leeds Peer2Peer who's a semester ahead in the same certificate"],
+    "queries": [
+      {
+        "q": "new venture launch class vs entrepreneurial studies certificate what's the difference",
+        "expect": {"types": ["course", "reference"], "orgs": ["colorado.edu/innovate", "colorado.edu/business"], "note": "Should clearly distinguish the New Venture Launch class from the broader Entrepreneurial Studies Certificate and how they relate."}
+      },
+      {
+        "q": "should we form an llc before applying for seed grants",
+        "expect": {"types": ["reference", "service"], "orgs": ["colorado.edu/law"], "note": "Should note this is a legal question best answered by the Entrepreneurial Law Clinic rather than giving definitive legal advice, while surfacing that clinic as a resource."}
+      },
+      {
+        "q": "find a mentor who knows the energy industry",
+        "expect": {"types": ["program", "service"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/p"], "note": "Should surface Venture Partners Mentorship and Advising and/or Leeds Peer2Peer Mentoring Program as mentor-matching resources."}
+      },
+      {
+        "q": "leeds peer2peer mentoring how do i sign up",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/p"], "note": "Should return the actual Leeds Peer2Peer Mentoring Program overview page details."}
+      },
+      {
+        "q": "new venture challenge categories and prize money",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc"], "note": "Should describe NVC tracks including Social Impact NVC and general track, with prize/funding context where available."}
+      },
+      {
+        "q": "is there a pitch deck template or workshop before nvc",
+        "expect": {"types": ["event", "program"], "orgs": ["colorado.edu/innovate", "colorado.edu/nvc"], "note": "Should look for pitch-prep events/workshops tied to NVC season."}
+      },
+      {
+        "q": "what happened at the last nvc finals",
+        "expect": {"types": ["reference", "event"], "orgs": ["colorado.edu/nvc"], "note": "Should reference the 2026 NVC Finals recap article as concrete social proof/context."}
+      }
+    ]
+  },
+  {
+    "id": "u04",
+    "name": "Amara Johnson",
+    "pronouns": "she/her",
+    "role": "undergraduate",
+    "affiliation": "College of Arts and Sciences, Environmental Studies, junior",
+    "background": "Amara grew up in Denver and is passionate about environmental justice, particularly around food access in underserved neighborhoods. She has organized campus sustainability events and volunteers with a Boulder County community garden nonprofit. She has no formal business training but is a strong public speaker and community organizer.",
+    "journey_so_far": "She attended the Sustainability Hackathon hosted by the Innovation & Entrepreneurship Initiative and left with a rough concept for a mobile produce-share app connecting community gardens to food-insecure households. She hasn't built anything yet or talked to a mentor about it.",
+    "goals": "Turn her hackathon concept into something real by finding a technical co-founder, understand if a social-impact venture like hers fits better as a nonprofit or a for-profit social enterprise, and find funding aimed at community/social impact projects.",
+    "constraints": "No coding skills and no budget beyond her part-time barista job; needs guidance on both venture structure (nonprofit vs. for-profit) and technical execution.",
+    "stage": "explore",
+    "sectors": ["social impact", "sustainability", "foodtech"],
+    "peers": ["u05: close friend from the same dorm floor, bounces ideas off each other", "u07: met through a mutual interest in health/food access work"],
+    "queries": [
+      {
+        "q": "should my food access idea be a nonprofit or a startup",
+        "expect": {"types": ["reference", "service"], "orgs": ["colorado.edu/oce", "colorado.edu/law"], "note": "Should not pick one for her, but explain the difference and route her to Office for Outreach and Community Engagement or the Entrepreneurial Law Clinic to talk it through."}
+      },
+      {
+        "q": "social impact new venture challenge how is it different from regular nvc",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc"], "note": "Should return the Social Impact New Venture Challenge (SINVC) page specifically, distinguishing it from the general NVC track."}
+      },
+      {
+        "q": "grants for community engagement projects",
+        "expect": {"types": ["funding"], "orgs": ["colorado.edu/oce"], "note": "Should surface Public and Community-Engaged Scholarship Grants (Tier 1/2/3) from the Office for Outreach and Community Engagement."}
+      },
+      {
+        "q": "i went to the sustainability hackathon now what",
+        "expect": {"types": ["program", "community"], "orgs": ["colorado.edu/innovate"], "note": "Should give her concrete next steps after a hackathon — e.g. Catalyze CU, NVC, or a customer discovery program — not just repeat the hackathon listing."}
+      },
+      {
+        "q": "how do i find a technical cofounder as a non-cs major",
+        "expect": {"types": ["community", "event"], "orgs": ["colorado.edu/innovate", "colorado.edu/ideaforge"], "note": "Should suggest campus communities/events where technical students congregate, e.g. Idea Forge, hackathons, or founder-matching community events."}
+      },
+      {
+        "q": "startup colorado belonging program for women and rural entrepreneurs",
+        "expect": {"types": ["program", "community"], "orgs": ["startupcolorado.org"], "note": "Should surface Belonging @ Startup Colorado accurately, including its partnership with Belonging Colorado."}
+      },
+      {
+        "q": "is there money for social entrepreneurship ideas that aren't tech",
+        "expect": {"types": ["funding", "competition"], "orgs": ["colorado.edu/nvc", "colorado.edu/oce"], "note": "Should clarify that SINVC and community engagement grants don't require a tech product."}
+      }
+    ]
+  },
+  {
+    "id": "u05",
+    "name": "Josie Lindqvist",
+    "pronouns": "she/her",
+    "role": "undergraduate",
+    "affiliation": "College of Arts and Sciences / ATLAS Institute, Art & Design (Media Arts), senior",
+    "background": "Josie is a Division I rower on the CU Boulder crew team and a design student who blends generative art with sustainable materials, having shown work in a student gallery show. Balancing 20+ hours/week of training and travel with coursework has made her extremely efficient with time but chronically short on it. She's technically comfortable with Adobe and basic Processing/p5.js code from ATLAS coursework.",
+    "journey_so_far": "She's been selling small runs of upcycled textile art pieces informally through Instagram DMs and started wondering if there's a real business here. She heard about the Artist in Residence Program through Startup Colorado from a classmate but hasn't looked into it seriously because of her training schedule.",
+    "goals": "Understand whether the Artist in Residence Program or a similar creative-entrepreneurship track could work around her athletic schedule, learn the basics of pricing and selling handmade goods legally, and find any grants specific to creative/design ventures.",
+    "constraints": "Extremely limited free time due to NCAA training and travel obligations (often gone Thu-Sun for competitions); needs programs with async or highly flexible formats.",
+    "stage": "explore",
+    "sectors": ["creative", "design", "sustainability"],
+    "peers": ["u04: close friend from the same dorm floor"],
+    "queries": [
+      {
+        "q": "artist in residence program startup colorado what does it involve",
+        "expect": {"types": ["program"], "orgs": ["startupcolorado.org"], "note": "Should accurately describe the Artist in Residence Program from Startup Colorado."}
+      },
+      {
+        "q": "can student athletes even do entrepreneurship programs with our schedule",
+        "expect": {"types": ["program", "reference"], "orgs": ["colorado.edu/innovate", "colorado.edu/catalyzecu"], "note": "Should not invent an athlete-specific program if none exists, but should highlight flexible/self-paced or online-friendly options and note this may need direct outreach to confirm scheduling flexibility."}
+      },
+      {
+        "q": "do i need an llc to sell art on instagram",
+        "expect": {"types": ["service", "reference"], "orgs": ["colorado.edu/law"], "note": "Should route to the Entrepreneurial Law Clinic rather than giving definitive legal/tax advice."}
+      },
+      {
+        "q": "grants for creative or design student projects",
+        "expect": {"types": ["funding"], "orgs": ["colorado.edu/oce", "colorado.edu/innovate"], "note": "Should honestly note if creative-specific funding is limited in the corpus, surfacing closest matches like community engagement grants."}
+      },
+      {
+        "q": "is there a version of nvc for design or art businesses not just tech",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc"], "note": "Should clarify NVC is open to any venture type including design/creative, not just tech."}
+      },
+      {
+        "q": "where can i learn pricing and selling basics without taking a whole semester class",
+        "expect": {"types": ["program", "event"], "orgs": ["colorado.edu/business", "colorado.edu/innovate"], "note": "Should look for short workshops/events rather than full-semester courses, given her time constraints."}
+      },
+      {
+        "q": "sustainable spinouts innovation article",
+        "expect": {"types": ["community", "reference"], "orgs": ["colorado.edu/coloradan"], "note": "Should surface the 'Sustainable Spinouts: Innovation in Action' Coloradan alumni piece as relevant inspiration."}
+      }
+    ]
+  },
+  {
+    "id": "u06",
+    "name": "Devin Park",
+    "pronouns": "he/him",
+    "role": "undergraduate",
+    "affiliation": "College of Arts and Sciences, Physics, sophomore",
+    "background": "Devin is a strong math/physics student drawn to quantum computing after a freshman seminar on the topic. He has some Python and Qiskit experience from self-study but no entrepreneurship background at all. He's curious but skeptical that a sophomore physics major has anything to offer a 'startup.'",
+    "journey_so_far": "He read a CU Boulder Today article about the new quantum incubator in Boulder and got excited, but hasn't taken any concrete action — he doesn't know if undergrads are even allowed to be involved with something like that.",
+    "goals": "Understand what the Colorado Quantum Incubator and CUbit Quantum Initiative actually are and whether undergrads can participate, find any research or seed-grant opportunities tied to quantum tech, and figure out a realistic first step given he's only a sophomore.",
+    "constraints": "Very early-stage skill set (no business exposure at all) and unsure if he wants to found something vs. join a lab; needs low-stakes, exploratory options.",
+    "stage": "explore",
+    "sectors": ["quantum", "deep tech"],
+    "peers": ["u09: freshman-year dorm friend, also curious about entrepreneurship", "u02: helped debug a circuit for Chidi's senior design project"],
+    "queries": [
+      {
+        "q": "new quantum incubator in boulder what is it",
+        "expect": {"types": ["program", "center"], "orgs": ["colorado.edu/today", "colorado.edu/initiative"], "note": "Should describe the quantum incubator (13,000 sq ft, funded by state tax incentive, CU Boulder/CSU/Mines partnership) accurately."}
+      },
+      {
+        "q": "can undergrads get involved with cubit quantum initiative",
+        "expect": {"types": ["center", "reference"], "orgs": ["colorado.edu/initiative"], "note": "Should not overstate undergrad eligibility if the corpus doesn't specify it; flag as something to confirm directly."}
+      },
+      {
+        "q": "oedit translational quantum research seed grants who can apply",
+        "expect": {"types": ["funding"], "orgs": ["colorado.edu/initiative"], "note": "Should return the actual OEDIT Translational Quantum Research Seed Grants page and note it's likely aimed at researchers/faculty, flagging eligibility to verify for undergrads."}
+      },
+      {
+        "q": "is quantum computing too advanced to start a company around as a student",
+        "expect": {"types": ["reference", "program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should reframe toward realistic first steps like joining a research lab or R2M-style discovery program rather than a company right away."}
+      },
+      {
+        "q": "nsf research traineeship program details",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/researchinnovation"], "note": "Should return NSF Research Traineeship (NRT) Program details, noting whether it targets grad students vs. undergrads."}
+      },
+      {
+        "q": "how do i start a startup",
+        "expect": {"types": ["program", "reference"], "orgs": ["colorado.edu/innovate", "colorado.edu/catalyzecu"], "note": "Naive broad query — should give a clear beginner on-ramp rather than dumping every resource."}
+      },
+      {
+        "q": "quantum incubator stout street capital partnership",
+        "expect": {"types": ["center"], "orgs": ["colorado.edu/initiative"], "note": "Should surface the CU Boulder Colorado Quantum Incubator and Stout Street Capital partnership article specifically."}
+      }
+    ]
+  },
+  {
+    "id": "u07",
+    "name": "Priya Nair",
+    "pronouns": "she/her",
+    "role": "undergraduate",
+    "affiliation": "College of Arts and Sciences, Integrative Physiology, junior",
+    "background": "Priya is pre-med adjacent, working in an exercise physiology research lab that studies recovery metrics in athletes, and is fluent in reading physiology research but has never coded or built a product. She's detail-oriented and comfortable with IRB-style research processes from her lab work.",
+    "journey_so_far": "Through her lab, she noticed a gap in affordable recovery-tracking wearables for club-sport athletes and sketched a rough concept, but hasn't spoken to anyone in entrepreneurship circles. She met Hannah at a Leeds Peer2Peer info table and got encouraged to look into it further.",
+    "goals": "Validate whether her wearable recovery-tracking idea has real demand before investing more time, find funding appropriate for a health-tech idea still in a research-adjacent stage, and learn if her research lab affiliation creates any IP complications.",
+    "constraints": "No technical/hardware skills of her own, so she needs to either learn some basics or find a technical partner; also worried about how university IP rules apply since the idea originated adjacent to lab research.",
+    "stage": "validate",
+    "sectors": ["health tech", "wearables"],
+    "peers": ["u04: mutual interest in health/food access work", "u10: informal mentor she met at a Leeds event"],
+    "queries": [
+      {
+        "q": "if my idea came from something i noticed in a research lab does cu own it",
+        "expect": {"types": ["reference", "service"], "orgs": ["colorado.edu/techtransfer", "colorado.edu/researchinnovation"], "note": "Should not give a definitive IP ownership answer; should point to tech transfer / research innovation office as the authority to confirm with."}
+      },
+      {
+        "q": "r2m customer discovery program requirements",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should return the R2M Customer Discovery Program (4-week Lean LaunchPad) as a strong validate-stage fit for her."}
+      },
+      {
+        "q": "funding for health tech or wearable device ideas",
+        "expect": {"types": ["funding"], "orgs": ["colorado.edu/researchinnovation", "colorado.edu/innovate"], "note": "Should surface general seed grant programs and flag whether any are health-tech specific."}
+      },
+      {
+        "q": "how do i test if there's real demand for my product idea",
+        "expect": {"types": ["program", "reference"], "orgs": ["colorado.edu/venturepartners"], "note": "Should explain customer discovery methodology and again point to R2M as a concrete program."}
+      },
+      {
+        "q": "is there a program that pairs non-technical founders with engineers",
+        "expect": {"types": ["community", "program"], "orgs": ["colorado.edu/innovate", "colorado.edu/catalyzecu"], "note": "Should surface Catalyze CU or similar cohort/team-forming programs; be honest if formal matching isn't clearly described in the corpus."}
+      },
+      {
+        "q": "anschutz acceleration initiative can boulder undergrads use it",
+        "expect": {"types": ["center"], "orgs": ["cuanschutz.edu"], "note": "Should describe the Anschutz Acceleration Initiative accurately and flag it's based at the Anschutz (health sciences) campus, noting to check Boulder undergrad eligibility."}
+      },
+      {
+        "q": "deadline for nvc",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc"], "note": "Should give NVC deadline info consistently regardless of which persona asks."}
+      }
+    ]
+  },
+  {
+    "id": "u08",
+    "name": "Marcus Bell",
+    "pronouns": "he/him",
+    "role": "undergraduate",
+    "affiliation": "College of Engineering & Applied Science, Computer Science, senior",
+    "background": "Marcus is a strong full-stack developer with two prior internships (one at a Denver fintech startup, one at a larger tech company) and has built several side projects, including a SaaS tool for splitting shared expenses that has a few hundred users. He's confident technically but has never raised money or thought seriously about company formation.",
+    "journey_so_far": "He's been running his expense-splitting SaaS as a side project for a year, applied informally to a couple of small dev gigs to fund server costs, and recently started looking at whether it's 'real enough' to enter NVC this cycle or pursue an accelerator like Techstars-adjacent programs mentioned at Silicon Flatirons events.",
+    "goals": "Decide whether to go all-in on his SaaS product after graduation, find funding or an accelerator that fits a solo technical founder with existing traction, and get connected to founders who've been through Techstars or similar for real talk before he commits.",
+    "constraints": "Graduating in one semester, so needs fast, decisive answers; also weighing a competing job offer, so time pressure is high.",
+    "stage": "launch",
+    "sectors": ["software", "fintech", "SaaS"],
+    "peers": ["u01: study group and hackathon partner from CS 2270", "u10: fellow senior, crossed paths at an NVC info session"],
+    "queries": [
+      {
+        "q": "is my saas with a few hundred users ready for nvc or too early",
+        "expect": {"types": ["competition", "reference"], "orgs": ["colorado.edu/nvc"], "note": "Should describe NVC eligibility/stage expectations rather than making the go/no-go decision for him."}
+      },
+      {
+        "q": "entrepreneurs unplugged techstars david cohen event",
+        "expect": {"types": ["event"], "orgs": ["siliconflatirons.org"], "note": "Should surface the Entrepreneurs Unplugged event featuring David Brown and David Cohen of Techstars specifically."}
+      },
+      {
+        "q": "destination startup venture partners what is it",
+        "expect": {"types": ["event"], "orgs": ["colorado.edu/venturepartners"], "note": "Should describe the Destination Startup event accurately."}
+      },
+      {
+        "q": "pre-seed funding for cu boulder alumni startups",
+        "expect": {"types": ["funding", "competition"], "orgs": ["colorado.edu/venturepartners"], "note": "Should surface the article on CU Boulder awarding pre-seed funding to an alum's GPS startup as a relevant precedent."}
+      },
+      {
+        "q": "innosphere ventures accelerator vs cu programs",
+        "expect": {"types": ["center", "program"], "orgs": ["innosphereventures.org"], "note": "Should describe Innosphere Ventures as an external Colorado accelerator distinct from CU-run programs, useful comparison for him."}
+      },
+      {
+        "q": "should i graduate and go all in or take the job offer",
+        "expect": {"types": ["reference", "service"], "orgs": ["colorado.edu/venturepartners"], "note": "Should not make this personal life decision for him, but surface mentorship/advising resources (Venture Partners Mentorship and Advising) where he could talk it through with someone."}
+      },
+      {
+        "q": "how do i find other founders who've actually raised money to talk to",
+        "expect": {"types": ["community", "event"], "orgs": ["startupcolorado.org", "siliconflatirons.org"], "note": "Should surface founder community events like Founder Coopetition cohorts or Silicon Flatirons Entrepreneurs Unplugged."}
+      },
+      {
+        "q": "colorado startups leaderboard",
+        "expect": {"types": ["center", "community"], "orgs": ["coloradostartups.org"], "note": "Should return the Colorado Startups Leaderboard page as a way to see comparable companies."}
+      }
+    ]
+  },
+  {
+    "id": "u09",
+    "name": "Tyler Brooks",
+    "pronouns": "he/him",
+    "role": "undergraduate",
+    "affiliation": "College of Engineering & Applied Science, Mechanical Engineering, first-year",
+    "background": "Tyler is a first-year student straight out of a suburban Denver high school where he ran a small lawn-care and snow-removal business. He's mechanically curious and handy but has no formal engineering or business training yet — everything he knows about running a small operation is self-taught and informal.",
+    "journey_so_far": "He hasn't done anything entrepreneurship-related on campus yet beyond attending the same dorm hackathon where he met Devin. He genuinely doesn't know what's available to first-years or whether it's 'too early' to get involved.",
+    "goals": "Get oriented on what entrepreneurship resources exist at CU Boulder at all, find something low-commitment to try in his first year, and figure out if his old lawn-care business experience is relevant to anything on campus.",
+    "constraints": "Zero prior exposure to college-level entrepreneurship programs and doesn't know the vocabulary; needs plain-language, orientation-level answers rather than jargon.",
+    "stage": "explore",
+    "sectors": ["general", "services"],
+    "peers": ["u06: dorm friend, also curious about entrepreneurship"],
+    "queries": [
+      {
+        "q": "how do i start a startup",
+        "expect": {"types": ["program", "reference"], "orgs": ["colorado.edu/innovate"], "note": "Truly naive first query — should orient him with a simple starting point, not overwhelm with every resource type."}
+      },
+      {
+        "q": "is there anything for freshmen to get involved with business stuff",
+        "expect": {"types": ["program", "community", "event"], "orgs": ["colorado.edu/innovate", "colorado.edu/catalyzecu"], "note": "Should surface beginner-accessible programs/events open to first-years specifically, not upperclassman-only tracks."}
+      },
+      {
+        "q": "what's the difference between idea forge and venture partners and catalyze cu",
+        "expect": {"types": ["reference", "program"], "orgs": ["colorado.edu/ideaforge", "colorado.edu/venturepartners", "colorado.edu/catalyzecu"], "note": "Should clearly distinguish these three orgs' distinct roles (prototyping space vs. commercialization office vs. cohort program) in plain language."}
+      },
+      {
+        "q": "i used to run a lawn care business in high school is that relevant here",
+        "expect": {"types": ["reference", "program"], "orgs": ["colorado.edu/innovate"], "note": "Should affirm the relevance of prior small-business experience and connect it to relevant programs rather than dismissing it as not 'startup enough.'"}
+      },
+      {
+        "q": "any events this month for students curious about entrepreneurship",
+        "expect": {"types": ["event"], "orgs": ["colorado.edu/event", "siliconflatirons.org"], "note": "Should surface upcoming/recurring events, noting the answer is time-sensitive and to check current calendars."}
+      },
+      {
+        "q": "what is the innovation and entrepreneurship initiative",
+        "expect": {"types": ["reference", "program"], "orgs": ["colorado.edu/innovate"], "note": "Should give a clear plain-language overview of the I&E Initiative's role on campus."}
+      },
+      {
+        "q": "do i have to have a cool tech idea to join any of these programs",
+        "expect": {"types": ["program", "reference"], "orgs": ["colorado.edu/catalyzecu", "colorado.edu/innovate"], "note": "Should reassure that many programs welcome exploratory/undecided students, not just those with a formed tech idea."}
+      }
+    ]
+  },
+  {
+    "id": "u10",
+    "name": "Grace Whitfield",
+    "pronouns": "she/her",
+    "role": "undergraduate",
+    "affiliation": "Leeds School of Business, senior, Entrepreneurial Studies Certificate",
+    "background": "Grace has completed the Entrepreneurial Studies Certificate coursework, including New Venture Launch, and has spent two summers interning at a Denver-based consumer goods startup. She's confident with pitch decks, financial modeling, and has already done informal mentoring for younger Leeds students through Peer2Peer.",
+    "journey_so_far": "She placed as a finalist in last year's New Venture Challenge Women Founders Competition with an early version of her direct-to-consumer skincare brand made with Colorado-grown botanicals, and has since been refining manufacturing and legal setup with help from the Entrepreneurial Law Clinic.",
+    "goals": "Get the venture launch-ready before graduation — nail down manufacturing partners, finalize LLC/trademark paperwork, and identify post-graduation funding or accelerator options that don't require relocating out of Colorado.",
+    "constraints": "Graduating in one semester with a hard deadline to have a real operating plan; also balancing whether to bootstrap or seek outside investment before student status (and its access to campus resources) ends.",
+    "stage": "launch",
+    "sectors": ["consumer goods", "beauty", "sustainability"],
+    "peers": ["u03: mentee she met through Leeds Peer2Peer", "u07: mentee from a Leeds event", "u08: fellow senior, crossed paths at an NVC info session"],
+    "queries": [
+      {
+        "q": "new venture challenge women founders competition results",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/event", "colorado.edu/nvc"], "note": "Should surface the NVC Women Founders Competition Finals event page as relevant prior context."}
+      },
+      {
+        "q": "trademark and llc help for a consumer product before graduating",
+        "expect": {"types": ["service"], "orgs": ["colorado.edu/law"], "note": "Should return the Entrepreneurial Law Clinic and note it as the right resource, without giving definitive legal conclusions itself."}
+      },
+      {
+        "q": "post graduation accelerators in colorado that don't require relocating",
+        "expect": {"types": ["center", "program"], "orgs": ["innosphereventures.org", "startupcolorado.org"], "note": "Should surface Colorado-based options like Innosphere Ventures and Startup Colorado programs as in-state alternatives."}
+      },
+      {
+        "q": "do i lose access to cu boulder entrepreneurship resources after i graduate",
+        "expect": {"types": ["reference", "program"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/coloradan"], "note": "Should be honest about what's known/unknown in the corpus regarding alumni access, pointing to alumni-oriented resources like the Coloradan alumni association content."}
+      },
+      {
+        "q": "funding for woman-owned consumer businesses in colorado",
+        "expect": {"types": ["funding"], "orgs": ["startupcolorado.org"], "note": "Should surface 'Dedicated Funding Opportunities for Woman-Owned Businesses' from Startup Colorado."}
+      },
+      {
+        "q": "should i bootstrap or raise money before i lose student status",
+        "expect": {"types": ["service", "reference"], "orgs": ["colorado.edu/venturepartners"], "note": "Should not make the funding-strategy decision for her, but route to mentorship/advising to talk through trade-offs."}
+      },
+      {
+        "q": "examples of cu boulder alumni who launched consumer brands",
+        "expect": {"types": ["reference", "community"], "orgs": ["colorado.edu/coloradan", "colorado.edu/venturepartners"], "note": "Should surface alumni founder stories, e.g. from the Coloradan or Venture Partners portfolio, as relevant precedent even if not an exact consumer-goods match."}
+      },
+      {
+        "q": "rocky mountain entrepreneurship through acquisition conference",
+        "expect": {"types": ["event"], "orgs": ["colorado.edu/business"], "note": "Should surface the 2026 Rocky Mountain Entrepreneurship Through Acquisition (ETA) Conference from Deming/Leeds as a relevant senior-year event."}
+      }
+    ]
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "id": "g01",
+    "name": "Priya Nathan",
+    "pronouns": "she/her",
+    "role": "grad student",
+    "affiliation": "PhD candidate, Aerospace Engineering Sciences, 4th year (Smead Aerospace)",
+    "background": "Priya works on low-cost attitude-determination sensors for small satellites, with two conference papers and a provisional patent filed through CU's tech transfer office. She has hands-on hardware fabrication skills, some Python/embedded C, and has TA'd two design courses. No formal business training.",
+    "journey_so_far": "Attended a Venture Partners info session on the Research-to-Market (R2M) Customer Discovery Program after her advisor floated the idea of spinning out the sensor tech. Also sat in on a New Venture Challenge (NVC) info session last spring but didn't apply because she felt her tech wasn't 'startup-ready' yet.",
+    "goals": "Figure out whether the sensor IP is worth commercializing versus licensing, get customer discovery interviews with small-sat companies, and decide if she should apply to R2M or wait until after her defense.",
+    "constraints": "Advisor co-owns the IP and has mixed feelings about a spinout distracting from grant deliverables; Priya is on an F-1 visa, which limits how much outside company work she can legally do while enrolled.",
+    "stage": "explore",
+    "sectors": ["aerospace", "hardware", "deep tech"],
+    "peers": ["g04: met at a CUbit quantum incubator mixer, compares notes on IP/advisor issues", "g08: labmate collaboration on sensor materials"],
+    "queries": [
+      {
+        "q": "what is the research-to-market program and do I need a business idea already to apply",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/venturepartners"], "note": "Must describe R2M as a 4-week Lean LaunchPad customer discovery program and clarify it's for validating ideas, not requiring a finished business plan."}
+      },
+      {
+        "q": "who owns the IP if I want to commercialize research I did in my advisor's lab",
+        "expect": {"types": ["reference", "service"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/techtransfer"], "note": "Should surface CU's tech transfer / Venture Partners IP disclosure process and note university ownership defaults with licensing paths for inventors."}
+      },
+      {
+        "q": "is there funding for aerospace hardware startups from CU besides SBIR",
+        "expect": {"types": ["funding", "program"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/innovate"], "note": "Should mention Embark Deep Tech Startup Creator and/or Catalyze CU equity-free funding as CU-specific options alongside external SBIR/STTR."}
+      },
+      {
+        "q": "when is the New Venture Challenge deadline this year",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc"], "note": "Should give NVC timeline/deadline info or clearly state where to check current dates if not in the corpus, not invent a date."}
+      },
+      {
+        "q": "embark deep tech startup creator - what does it actually give you",
+        "expect": {"types": ["funding", "community"], "orgs": ["colorado.edu/venturepartners"], "note": "Should describe Embark as matching entrepreneurs with CU tech, including salary support and startup training, sourced from the venturepartners news items."}
+      },
+      {
+        "q": "can grad students on a visa legally work at a startup they spin out of their thesis",
+        "expect": {"types": ["reference", "service"], "orgs": ["colorado.edu/venturepartners"], "note": "Good answer flags this is an immigration/international-office question and points toward relevant CU offices rather than giving legal advice; should not fabricate visa rules."}
+      },
+      {
+        "q": "what comes after I do R2M, is there a follow-on accelerator at CU",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/innovate", "colorado.edu/venturepartners"], "note": "Should sequence R2M -> Catalyze CU summer accelerator (and/or NVC) as logical next steps for a validated idea."}
+      },
+      {
+        "q": "small sat sensor company, who should I talk to about licensing vs starting my own thing",
+        "expect": {"types": ["service", "program"], "orgs": ["colorado.edu/venturepartners"], "note": "Should point to Venture Partners mentorship/advising service for licensing-vs-spinout guidance."}
+      }
+    ]
+  },
+  {
+    "id": "g02",
+    "name": "Marcus Alvarado",
+    "pronouns": "he/him",
+    "role": "grad student",
+    "affiliation": "PhD student, Biochemistry, 3rd year (BioFrontiers Institute)",
+    "background": "Marcus studies enzyme engineering for biodegradable plastics and has co-authored one paper on a novel enzyme variant that is faster-degrading than existing options. He has wet-lab skills but no exposure to regulatory, IP, or commercialization processes.",
+    "journey_so_far": "Heard about a Research & Innovation Office seed grant from a labmate and is curious whether his enzyme work qualifies. Has not yet talked to Venture Partners or filed an invention disclosure.",
+    "goals": "Understand whether his enzyme variant is patentable, find non-dilutive seed funding to generate more pilot data before going further, and figure out if there's a sustainability/climate-focused funding track that fits.",
+    "constraints": "Advisor is grant-funded through NIH and wary of anything that could jeopardize federal funding eligibility or create conflict-of-interest issues; Marcus has limited personal runway and can't take unpaid time to build a company.",
+    "stage": "explore",
+    "sectors": ["biotech", "sustainability", "materials"],
+    "peers": ["g07: overlapping interest in bioengineering commercialization, compares seed grant notes", "g10: asked g10 about IP disclosure basics after a Silicon Flatirons event"],
+    "queries": [
+      {
+        "q": "seed grant for early stage research before I have a company",
+        "expect": {"types": ["funding"], "orgs": ["colorado.edu/researchinnovation"], "note": "Should surface Research & Innovation Seed Grant Program and/or Brain Research Foundation-style seed grants as pre-commercialization, non-dilutive funding."}
+      },
+      {
+        "q": "how do I file an invention disclosure at CU Boulder",
+        "expect": {"types": ["service", "reference"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/techtransfer"], "note": "Should describe the invention disclosure process through Venture Partners / tech transfer, not just link generically."}
+      },
+      {
+        "q": "is there a climate or sustainability specific startup track at CU",
+        "expect": {"types": ["community", "program"], "orgs": ["colorado.edu/today"], "note": "Should reference the new climate initiative turning student innovations into startups and/or sustainability-adjacent seed grants."}
+      },
+      {
+        "q": "will applying for a CU seed grant mess with my advisor's NIH funding",
+        "expect": {"types": ["funding", "service"], "orgs": ["colorado.edu/researchinnovation"], "note": "Good answer should not give false assurance; should note this is a conflict-of-interest/compliance question worth raising with the Research & Innovation Office directly."}
+      },
+      {
+        "q": "biodegradable plastics enzyme, who funds materials science spinouts here",
+        "expect": {"types": ["funding", "program"], "orgs": ["colorado.edu/researchinnovation", "colorado.edu/venturepartners"], "note": "Should combine general CU seed grant funding with Venture Partners commercialization pathways since no plastics-specific fund exists in the corpus."}
+      },
+      {
+        "q": "what's the difference between a seed grant and R2M",
+        "expect": {"types": ["funding", "program"], "orgs": ["colorado.edu/researchinnovation", "colorado.edu/venturepartners"], "note": "Should clearly distinguish non-dilutive research funding (seed grant) from a structured customer-discovery cohort program (R2M)."}
+      },
+      {
+        "q": "sbir sttr for biotech grad students at CU",
+        "expect": {"types": ["funding"], "orgs": ["colorado.edu/researchinnovation", "colorado.edu/venturepartners"], "note": "If corpus lacks direct SBIR/STTR content, should say so honestly rather than fabricate details, while pointing to Venture Partners or Research & Innovation for guidance."}
+      },
+      {
+        "q": "national fellowships for grad students doing translational research",
+        "expect": {"types": ["funding"], "orgs": ["colorado.edu/graduateschool"], "note": "Should surface National Fellowship Opportunities from the Graduate School."}
+      }
+    ]
+  },
+  {
+    "id": "g03",
+    "name": "Devon Whitfield",
+    "pronouns": "he/him",
+    "role": "grad student",
+    "affiliation": "MS student, Computer Science, 2nd year",
+    "background": "Devon built a recommendation-systems side project during undergrad that got some GitHub traction, and is now taking ML courses while TAing. No research publications; strong software engineering skills, weak on business/finance.",
+    "journey_so_far": "Signed up for Catalyze CU's info session about the summer accelerator and browsed the coloradostartups.org ecosystem canvas to see who else is building in Boulder. Hasn't applied to anything yet.",
+    "goals": "Find a co-founder with domain expertise, decide whether to apply to Catalyze CU this summer, and learn what free-to-cheap building resources (compute, mentorship, workspace) exist for a software-only startup.",
+    "constraints": "On an OPT/F-1 track after graduation and needs to understand how founding a company interacts with work authorization; has no savings cushion, so needs equity-free funding or a paid role.",
+    "stage": "explore",
+    "sectors": ["software", "AI/ML"],
+    "peers": ["g05: met through a Leeds mentoring mixer, discussing MBA-CS co-founder pairing", "g09: potential co-founder conversation after an ATLAS hackathon"],
+    "queries": [
+      {
+        "q": "catalyze cu accelerator - how much funding and is it equity free",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/innovate", "colorado.edu/catalyzecu"], "note": "Should state Catalyze CU is a 12-week summer accelerator offering up to $25,000 equity-free funding plus mentorship."}
+      },
+      {
+        "q": "how do I find a co-founder at CU boulder",
+        "expect": {"types": ["community", "event"], "orgs": ["colorado.edu/innovate", "coloradostartups.org"], "note": "Should point to community resources like the ecosystem canvas, campus events, or Innovation & Entrepreneurship content/community channels rather than a generic non-answer."}
+      },
+      {
+        "q": "paid summer roles at catalyze cu",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/catalyzecu"], "note": "Should surface the Employment page describing Program Manager/Intern roles at $18-$25/hour."}
+      },
+      {
+        "q": "does founding a startup mess with my OPT after I graduate",
+        "expect": {"types": ["service", "reference"], "orgs": ["colorado.edu/venturepartners"], "note": "Should avoid giving definitive immigration legal advice and instead route to appropriate CU international student services / advising, flagging uncertainty."}
+      },
+      {
+        "q": "what happens after catalyze cu, is there a next step accelerator",
+        "expect": {"types": ["program", "competition"], "orgs": ["colorado.edu/nvc", "colorado.edu/venturepartners"], "note": "Should suggest New Venture Challenge or Embark/Venture Partners programs as a logical next stage after a summer accelerator."}
+      },
+      {
+        "q": "is there free compute or cloud credits for student startups",
+        "expect": {"types": ["service", "space"], "orgs": ["colorado.edu/ideaforge", "colorado.edu/innovate"], "note": "If corpus has no explicit cloud-credit program, should not invent one and should instead point to what building resources do exist (e.g., Idea Forge, Innovation & Entrepreneurship office)."}
+      },
+      {
+        "q": "leeds peer mentoring for non-business students",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/p"], "note": "Should surface Leeds Peer2Peer Mentoring Program and note eligibility (it's Leeds-focused; may clarify whether non-Leeds students can access it or should note ambiguity)."}
+      }
+    ]
+  },
+  {
+    "id": "g04",
+    "name": "Yuna Park",
+    "pronouns": "she/her",
+    "role": "grad student",
+    "affiliation": "PhD candidate, Physics (Quantum Information), 5th year (JILA)",
+    "background": "Yuna works on error correction for superconducting qubits and has two first-author papers plus a role in a DOE-funded collaboration. She has deep technical expertise but almost no exposure to startup mechanics or investors.",
+    "journey_so_far": "Attended the opening event for the new 13,000-sq-ft Boulder quantum incubator and has followed news about the Colorado Quantum Incubator and Stout Street Capital partnership. Considering whether her error-correction algorithms have standalone commercial value outside a hardware company.",
+    "goals": "Determine whether software/algorithm IP (versus hardware) is commercializable on its own, connect with the CUbit Quantum Initiative ecosystem, and explore OEDIT translational quantum research seed grants.",
+    "constraints": "Her work is tied to a multi-institution DOE grant with complex IP-sharing rules across CU, Colorado State, and Colorado School of Mines; timeline to defense is tight (aiming to graduate in 3 semesters).",
+    "stage": "validate",
+    "sectors": ["quantum", "deep tech", "hardware"],
+    "peers": ["g01: met at a CUbit quantum incubator mixer", "g08: co-attends materials-for-quantum seminars"],
+    "queries": [
+      {
+        "q": "OEDIT translational quantum research seed grants - who is eligible",
+        "expect": {"types": ["funding"], "orgs": ["colorado.edu/initiative"], "note": "Should surface the OEDIT Translational Quantum Research Seed Grants under CUbit Quantum Initiative with eligibility details."}
+      },
+      {
+        "q": "what is the colorado quantum incubator and can grad students join",
+        "expect": {"types": ["center", "program"], "orgs": ["colorado.edu/initiative", "colorado.edu/today"], "note": "Should describe the Boulder quantum incubator (13,000 sq ft, CU + CSU + Mines, state tax incentive funded) and clarify grad student access if known."}
+      },
+      {
+        "q": "can I commercialize a quantum error correction algorithm without hardware",
+        "expect": {"types": ["service", "program"], "orgs": ["colorado.edu/venturepartners"], "note": "Good answer should acknowledge this is possible (software/algorithm licensing) and route to Venture Partners for a real assessment rather than asserting certainty."}
+      },
+      {
+        "q": "multi-institution IP grant, who owns the startup if CSU and mines are also involved",
+        "expect": {"types": ["reference", "service"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/techtransfer"], "note": "Should flag this as a complex multi-institution IP question needing direct tech transfer office consultation, not a confident guess."}
+      },
+      {
+        "q": "quantum startup funding amounts at CU",
+        "expect": {"types": ["funding", "program"], "orgs": ["colorado.edu/today", "colorado.edu/initiative"], "note": "Should cite the reported $120 million / $20 million figures tied to the quantum incubator initiative for context, distinguishing ecosystem-level funding from individual startup grants."}
+      },
+      {
+        "q": "stout street capital quantum partnership what is that",
+        "expect": {"types": ["center"], "orgs": ["colorado.edu/initiative"], "note": "Should reference the CU Boulder's Colorado Quantum Incubator and Stout Street Capital item directly."}
+      },
+      {
+        "q": "is there a quantum-specific pitch competition or do I use the regular NVC",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc"], "note": "Should clarify there's no quantum-specific competition in the corpus and point to New Venture Challenge as the general path, being explicit about the gap."}
+      },
+      {
+        "q": "what happens if I graduate before the startup is ready, can I still be involved",
+        "expect": {"types": ["service", "reference"], "orgs": ["colorado.edu/venturepartners"], "note": "Should route to Venture Partners alumni/founder engagement policies rather than fabricate an answer."}
+      }
+    ]
+  },
+  {
+    "id": "g05",
+    "name": "Sofia Reyes",
+    "pronouns": "she/her",
+    "role": "grad student",
+    "affiliation": "MBA candidate, Leeds School of Business, 2nd year (Deming Center for Entrepreneurship)",
+    "background": "Sofia has 4 years of prior experience in retail operations and is pursuing an MBA with a concentration via the Entrepreneurial Studies Certificate. Strong in finance/ops, but has no technical co-founder or proprietary IP of her own.",
+    "journey_so_far": "Took the New Venture Launch class at Leeds and competed in a Silicon Flatirons Entrepreneurs Unplugged session as an audience member. Actively scouting technical teams from engineering/science departments to join as a business co-founder.",
+    "goals": "Find a technical co-founder (ideally from engineering or the sciences), get into this year's New Venture Challenge, and build a network through SPARK and Deming Center events.",
+    "constraints": "Limited personal capital to invest; needs to balance a part-time internship with team-building and coursework; wants equity clarity before committing full-time.",
+    "stage": "build",
+    "sectors": ["general/cross-sector", "operations"],
+    "peers": ["g03: met through a Leeds mentoring mixer, exploring co-founder fit", "g09: connected at an NVC info session about design + business pairing"],
+    "queries": [
+      {
+        "q": "new venture launch class - is it only for MBA students",
+        "expect": {"types": ["course"], "orgs": ["colorado.edu/innovate"], "note": "Should describe New Venture Launch as a Leeds School of Business course and clarify enrollment eligibility if stated."}
+      },
+      {
+        "q": "SPARK program at leeds what does it do",
+        "expect": {"types": ["center"], "orgs": ["colorado.edu/business"], "note": "Should surface SPARK under Leeds School of Business / Deming Center."}
+      },
+      {
+        "q": "where do I find technical grad students looking for a business co-founder",
+        "expect": {"types": ["community", "event"], "orgs": ["colorado.edu/innovate", "coloradostartups.org"], "note": "Should point to cross-campus community/networking resources (ecosystem canvas, innovation events, Five best ways for students to connect with startups) rather than a vague answer."}
+      },
+      {
+        "q": "new venture challenge team eligibility, do all members need to be CU affiliated",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc"], "note": "Should give NVC eligibility details as stated in the corpus, and flag if team composition rules aren't explicit."}
+      },
+      {
+        "q": "entrepreneurial studies certificate requirements",
+        "expect": {"types": ["course"], "orgs": ["colorado.edu/business", "colorado.edu/innovate"], "note": "Should surface the Entrepreneurial Studies Certificate FAQ/requirements page."}
+      },
+      {
+        "q": "silicon flatirons entrepreneurs unplugged, when's the next one",
+        "expect": {"types": ["event"], "orgs": ["siliconflatirons.org"], "note": "Should reference the Entrepreneurs Unplugged event series and note it should check current scheduling rather than assume a stale date is current."}
+      },
+      {
+        "q": "women founders track in new venture challenge",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc", "colorado.edu/event"], "note": "Should surface the New Venture Challenge Women Founders Competition Finals as a distinct track."}
+      },
+      {
+        "q": "how do I split equity fairly with a technical co-founder who brings the IP",
+        "expect": {"types": ["service", "reference"], "orgs": ["colorado.edu/law", "colorado.edu/venturepartners"], "note": "Should route toward the Entrepreneurial Law Clinic or Venture Partners advising for founder-agreement/IP-equity questions rather than inventing a formula."}
+      }
+    ]
+  },
+  {
+    "id": "g06",
+    "name": "Ben Ostrowski",
+    "pronouns": "he/him",
+    "role": "grad student",
+    "affiliation": "PhD student, Atmospheric and Oceanic Sciences, 3rd year (CIRES)",
+    "background": "Ben builds low-cost wildfire smoke sensor networks and has deployed pilot units with two Colorado county agencies. He has strong field-engineering and data pipeline skills, and one publication on sensor calibration drift, but no commercialization experience.",
+    "journey_so_far": "Read about the new climate initiative turning student innovations into startups and reached out to the Research & Innovation Office about seed funding categories relevant to environmental monitoring. Has not yet talked to Venture Partners.",
+    "goals": "Find funding to scale the sensor network beyond pilot counties, understand whether a public-benefit/nonprofit structure or a for-profit startup fits better, and connect with workforce development or community-engagement grant programs.",
+    "constraints": "Deployment partners are government agencies with procurement rules that complicate a fast-moving startup; advisor supportive but grant timeline doesn't leave much bandwidth for company-building activities.",
+    "stage": "validate",
+    "sectors": ["climate", "hardware", "environmental monitoring"],
+    "peers": ["g02: compares notes on sustainability-focused seed grants", "g07: discussed public-benefit vs for-profit structuring"],
+    "queries": [
+      {
+        "q": "new climate initiative for student startups, how does it work",
+        "expect": {"types": ["community", "program"], "orgs": ["colorado.edu/today"], "note": "Should surface the 'New climate initiative to turn student innovations into startups' item with concrete program details."}
+      },
+      {
+        "q": "workforce development seed grant, does environmental monitoring qualify",
+        "expect": {"types": ["funding"], "orgs": ["colorado.edu/service"], "note": "Should surface the Workforce Development Seed Grant Program and note eligibility scope honestly if unclear for environmental monitoring specifically."}
+      },
+      {
+        "q": "should a sensor network for counties be a nonprofit or a startup",
+        "expect": {"types": ["service", "reference"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/oce"], "note": "Should not make the business-structure decision for the user; should point to advising resources (Venture Partners, Office for Outreach and Community Engagement) that can help weigh nonprofit vs for-profit."}
+      },
+      {
+        "q": "community engaged scholarship grants tiers, what's the difference",
+        "expect": {"types": ["funding"], "orgs": ["colorado.edu/oce"], "note": "Should distinguish Tier 1, Tier 2, and Tier 3 Public and Community-Engaged Scholarship Grants."}
+      },
+      {
+        "q": "selling to county government as a student startup, any resources on that",
+        "expect": {"types": ["service", "reference"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/law"], "note": "If the corpus lacks government-procurement-specific guidance, should say so rather than fabricate a government sales playbook."}
+      },
+      {
+        "q": "NSF research traineeship program relevant to atmospheric science students",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/researchinnovation"], "note": "Should surface the NSF Research Traineeship (NRT) Program details including funding amounts."}
+      },
+      {
+        "q": "is there a climate-focused pitch competition separate from NVC",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc"], "note": "Should honestly note there's no dedicated climate pitch competition in the corpus (e.g., only Social Impact NVC track exists) rather than invent one."}
+      }
+    ]
+  },
+  {
+    "id": "g07",
+    "name": "Aisha Bello",
+    "pronouns": "she/her",
+    "role": "postdoc",
+    "affiliation": "Postdoctoral researcher, Bioengineering, 1st year (CU Anschutz / CU Boulder joint lab)",
+    "background": "Aisha's postdoctoral work focuses on tissue-engineered scaffolds for wound healing, building on her PhD work on hydrogel biomaterials. She has three papers, one patent application from her doctoral institution, and some experience presenting to industry partners.",
+    "journey_so_far": "Reached out to CU Innovations (Anschutz) about the Faculty Consulting service to get a read on her scaffold tech, and has been tracking the Anschutz Acceleration Initiative as a potential path. Has not yet engaged Venture Partners on the Boulder side.",
+    "goals": "Decide between an academic faculty track and pursuing a biomaterials spinout, get connected to the Anschutz Acceleration Initiative, and find funding that bridges both CU Anschutz and CU Boulder resources given her joint appointment.",
+    "constraints": "Joint appointment creates ambiguity about which campus's tech transfer office has IP jurisdiction; postdoc visa (J-1) status limits outside employment; short postdoc contract (2 years) creates urgency.",
+    "stage": "validate",
+    "sectors": ["biotech", "medtech"],
+    "peers": ["g02: compares seed grant notes on enzyme/biomaterials overlap", "g06: discussed public-benefit vs for-profit structuring"],
+    "queries": [
+      {
+        "q": "anschutz acceleration initiative, is it open to postdocs on the boulder campus",
+        "expect": {"types": ["center"], "orgs": ["cuanschutz.edu"], "note": "Should surface the Anschutz Acceleration Initiative and clarify eligibility across campuses if the corpus specifies it."}
+      },
+      {
+        "q": "CU innovations faculty consulting, can postdocs use it too",
+        "expect": {"types": ["service"], "orgs": ["cuanschutz.edu"], "note": "Should surface Faculty Consulting under CU Innovations and honestly flag if eligibility is faculty-only vs postdoc-inclusive."}
+      },
+      {
+        "q": "joint appointment between anschutz and boulder, whose tech transfer office handles my IP",
+        "expect": {"types": ["reference", "service"], "orgs": ["cuanschutz.edu", "colorado.edu/techtransfer"], "note": "Should acknowledge this is a jurisdictional question needing direct consultation with both offices rather than guessing."}
+      },
+      {
+        "q": "biomaterials wound healing startup funding options in colorado",
+        "expect": {"types": ["funding", "center"], "orgs": ["cuanschutz.edu", "innosphereventures.org"], "note": "Should combine CU Anschutz innovation funding with broader Colorado ecosystem players like Innosphere Ventures for biotech/medtech."}
+      },
+      {
+        "q": "j-1 visa postdoc starting a company, what are the constraints",
+        "expect": {"types": ["service", "reference"], "orgs": ["cuanschutz.edu"], "note": "Should not give definitive immigration legal advice; should route to international scholar/postdoc services."}
+      },
+      {
+        "q": "how does R2M or catalyze CU work for someone based at anschutz not boulder",
+        "expect": {"types": ["program"], "orgs": ["colorado.edu/venturepartners", "cuanschutz.edu"], "note": "Should clarify whether Boulder-based programs (R2M, Catalyze CU) are open to Anschutz-affiliated researchers, flagging ambiguity if unclear."}
+      },
+      {
+        "q": "postdoc specific entrepreneurship fellowships at CU",
+        "expect": {"types": ["funding", "program"], "orgs": ["colorado.edu/researchinnovation", "cuanschutz.edu"], "note": "Should search broadly for postdoc-eligible programs and be explicit if nothing postdoc-specific exists in the corpus."}
+      }
+    ]
+  },
+  {
+    "id": "g08",
+    "name": "Tom Reichert",
+    "pronouns": "he/him",
+    "role": "postdoc",
+    "affiliation": "Postdoctoral researcher, Materials Science and Engineering, 2nd year",
+    "background": "Tom's research is on solid-state battery electrolytes; his PhD work contributed to a patent now licensed by a CU spinout. He has strong materials characterization skills and some exposure to startup dynamics from watching that earlier spinout process unfold.",
+    "journey_so_far": "Followed news about Mana Battery Inc., a CU Boulder venture-partners portfolio company working on anode-free sodium batteries, and reached out informally to ask about their path from lab to startup. Attended a CUbit-adjacent materials seminar with Yuna (g04).",
+    "goals": "Understand what it actually took for a battery-materials lab result to become a funded startup (using Mana Battery as a reference case), evaluate whether his electrolyte work has similar potential, and find relevant seed funding.",
+    "constraints": "His PI holds primary IP rights and is currently negotiating a separate licensing deal, creating uncertainty about Tom's role or equity if a new spinout forms; postdoc funding is grant-tied with an 18-month runway.",
+    "stage": "explore",
+    "sectors": ["materials", "energy", "deep tech"],
+    "peers": ["g04: co-attends materials-for-quantum seminars", "g01: labmate collaboration on sensor materials"],
+    "queries": [
+      {
+        "q": "mana battery inc CU spinout, how did that company get started",
+        "expect": {"types": ["reference", "center"], "orgs": ["colorado.edu/venturepartners"], "note": "Should surface the Mana Battery Inc. portfolio profile and the Saft partnership news item as a case study."}
+      },
+      {
+        "q": "if my PI already licensed the IP separately, can I still start a related company",
+        "expect": {"types": ["reference", "service"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/techtransfer"], "note": "Should flag this as a nuanced IP-conflict question needing direct tech transfer consultation rather than a confident yes/no."}
+      },
+      {
+        "q": "battery materials seed funding at CU or in colorado",
+        "expect": {"types": ["funding"], "orgs": ["colorado.edu/researchinnovation", "innosphereventures.org"], "note": "Should combine CU seed grants with Colorado ecosystem funders like Innosphere Ventures for hard-tech/energy."}
+      },
+      {
+        "q": "embark deep tech creator, does it fit materials science spinouts or just software",
+        "expect": {"types": ["funding", "community"], "orgs": ["colorado.edu/venturepartners"], "note": "Should clarify Embark targets deep tech / breakthrough CU technologies broadly, which includes hardware/materials, not just software."}
+      },
+      {
+        "q": "what's my equity position if I'm a postdoc contributor but not the PI",
+        "expect": {"types": ["service", "reference"], "orgs": ["colorado.edu/law", "colorado.edu/venturepartners"], "note": "Should route to Entrepreneurial Law Clinic or Venture Partners advising for founder/contributor equity questions, not invent percentages."}
+      },
+      {
+        "q": "18 month runway before my grant ends, what's the fastest path to a funded spinout",
+        "expect": {"types": ["program", "funding"], "orgs": ["colorado.edu/venturepartners", "colorado.edu/innovate"], "note": "Should sequence realistic near-term options (R2M -> seed grant -> Embark/Catalyze CU) rather than promise unrealistic speed."}
+      },
+      {
+        "q": "saft partnership with mana battery, what does that mean for licensing",
+        "expect": {"types": ["center"], "orgs": ["colorado.edu/venturepartners"], "note": "Should reference the Mana Battery / Saft anode-free sodium battery partnership news item accurately."}
+      }
+    ]
+  },
+  {
+    "id": "g09",
+    "name": "Lena Okafor",
+    "pronouns": "she/her",
+    "role": "grad student",
+    "affiliation": "MS student, Technology, Media and Society (ATLAS Institute), 1st year",
+    "background": "Lena has a background in industrial design and UX research, with a portfolio of interactive installations. She's exploring wearable tech for accessibility and has prototyping skills (CAD, 3D printing, basic microcontroller work) but no engineering-depth technical co-founder skills.",
+    "journey_so_far": "Used the Idea Forge Rapid Prototyping Lab to build an early wearable prototype and attended the 'Five best ways for students to connect with startups' talk. Met Devon (g03) at an ATLAS hackathon and is exploring a possible collaboration.",
+    "goals": "Find a technical co-founder or engineering collaborator, learn what design-focused or making-space resources exist beyond Idea Forge, and figure out if accessibility tech has a specific funding or competition track at CU.",
+    "constraints": "ATLAS program is interdisciplinary and doesn't have a clear 'home' in the entrepreneurship ecosystem, so she's unsure which office to approach first; limited funding for prototyping materials.",
+    "stage": "explore",
+    "sectors": ["design", "accessibility", "hardware"],
+    "peers": ["g03: potential co-founder conversation after an ATLAS hackathon", "g05: connected at an NVC info session about design + business pairing"],
+    "queries": [
+      {
+        "q": "idea forge rapid prototyping lab, who can use it and is it free",
+        "expect": {"types": ["space"], "orgs": ["colorado.edu/ideaforge"], "note": "Should surface the Idea Forge Rapid Prototyping Lab facility page with access details."}
+      },
+      {
+        "q": "best ways for students to connect with startups on campus",
+        "expect": {"types": ["center", "community"], "orgs": ["colorado.edu/innovate"], "note": "Should surface the 'Five of the best ways for students to connect with startups' item directly."}
+      },
+      {
+        "q": "makerspaces on campus besides idea forge",
+        "expect": {"types": ["space"], "orgs": ["colorado.edu/innovate", "itll.colorado.edu"], "note": "Should surface additional maker/lab spaces such as ITLL if present, or note if Idea Forge is the primary one indexed."}
+      },
+      {
+        "q": "is there an accessibility tech competition or track at CU",
+        "expect": {"types": ["competition"], "orgs": ["colorado.edu/nvc"], "note": "Should honestly state there's no accessibility-specific track found and suggest the general or Social Impact New Venture Challenge as the closest fit."}
+      },
+      {
+        "q": "ATLAS institute doesn't feel like it fits leeds or engineering programs, where do I even start",
+        "expect": {"types": ["program", "service"], "orgs": ["colorado.edu/innovate"], "note": "Should reassure that Innovation & Entrepreneurship office resources (Catalyze CU, R2M, NVC) are open across departments, not just Leeds/engineering."}
+      },
+      {
+        "q": "design student looking for an engineering co-founder, any events for that",
+        "expect": {"types": ["event", "community"], "orgs": ["colorado.edu/innovate", "colorado.edu/event"], "note": "Should point to cross-disciplinary networking events or the ecosystem canvas as matchmaking resources."}
+      },
+      {
+        "q": "small grants for prototyping materials as a grad student",
+        "expect": {"types": ["funding"], "orgs": ["colorado.edu/innovate", "colorado.edu/researchinnovation"], "note": "Should surface any small/seed-level funding suitable for materials/prototyping costs, or clearly state if only larger seed grants exist."}
+      }
+    ]
+  },
+  {
+    "id": "g10",
+    "name": "Jordan Kessler",
+    "pronouns": "they/them",
+    "role": "grad student",
+    "affiliation": "JD candidate, Colorado Law, 3rd year, interested in startup/IP law",
+    "background": "Jordan has a pre-law background in economics and has worked as a research assistant on tech-licensing case studies. They have strong legal-research skills and some exposure to venture financing basics from a business law elective, but no scientific/technical background of their own.",
+    "journey_so_far": "Volunteers with the Entrepreneurial Law Clinic advising student founders on formation basics, and regularly attends Silicon Flatirons events including the Annual Student Writing Competition and Entrepreneurs Unplugged talks.",
+    "goals": "Build a portfolio of startup/IP law experience before graduating, understand how CU's tech transfer and Venture Partners processes interact with outside legal counsel, and potentially advise a student team through NVC as a clinic case.",
+    "constraints": "Clinic caseload is capped each semester and can't take every student founder who asks; needs to balance clinic hours with bar-exam prep in his final year.",
+    "stage": "build",
+    "sectors": ["legal services", "cross-sector"],
+    "peers": ["g02: answered g02's basic IP disclosure questions after a Silicon Flatirons event"],
+    "queries": [
+      {
+        "q": "entrepreneurial law clinic at colorado law, what do they actually help with",
+        "expect": {"types": ["service"], "orgs": ["colorado.edu/law"], "note": "Should describe the Entrepreneurial Law Clinic's scope of services for student founders."}
+      },
+      {
+        "q": "silicon flatirons student writing competition, deadline and topics",
+        "expect": {"types": ["competition"], "orgs": ["siliconflatirons.org"], "note": "Should surface the Annual Student Writing Competition details."}
+      },
+      {
+        "q": "how does the law clinic interact with venture partners on IP questions",
+        "expect": {"types": ["service"], "orgs": ["colorado.edu/law", "colorado.edu/venturepartners"], "note": "Should describe both offices' roles and, if the corpus doesn't specify a formal handoff process, say so rather than invent one."}
+      },
+      {
+        "q": "can law students officially advise NVC teams as part of a class or clinic",
+        "expect": {"types": ["service", "competition"], "orgs": ["colorado.edu/law", "colorado.edu/nvc"], "note": "Should note whether such a formal pairing exists in the corpus; if not documented, should flag the gap rather than assert a program exists."}
+      },
+      {
+        "q": "silicon flatirons flagship conference 2026 registration",
+        "expect": {"types": ["event"], "orgs": ["siliconflatirons.org"], "note": "Should surface the 2026 Flagship Conference registration/admission info."}
+      },
+      {
+        "q": "founder agreement templates or resources for student startups",
+        "expect": {"types": ["service", "reference"], "orgs": ["colorado.edu/law"], "note": "Should point to the Entrepreneurial Law Clinic as the resource, being honest if no downloadable templates are indexed."}
+      },
+      {
+        "q": "what publications does silicon flatirons put out on tech/IP policy",
+        "expect": {"types": ["service", "reference"], "orgs": ["siliconflatirons.org"], "note": "Should surface Silicon Flatirons publications such as the Cable and Satellite Compulsory Copyright Licenses piece as an example."}
+      },
+      {
+        "q": "entrepreneurs unplugged with david brown and david cohen of techstars, what did they cover",
+        "expect": {"types": ["event"], "orgs": ["siliconflatirons.org"], "note": "Should surface the specific Entrepreneurs Unplugged: David Brown and David Cohen of Techstars event."}
+      }
+    ]
+  }
+]

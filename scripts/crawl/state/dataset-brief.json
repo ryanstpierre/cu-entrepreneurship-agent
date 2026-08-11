@@ -1,0 +1,2243 @@
+{
+ "stats": {
+  "resources": 1794,
+  "byType": {
+   "program": 53,
+   "funding": 401,
+   "event": 250,
+   "competition": 303,
+   "community": 90,
+   "reference": 421,
+   "center": 180,
+   "service": 32,
+   "course": 56,
+   "space": 8
+  },
+  "topOrgs": [
+   [
+    "startupcolorado.org",
+    402
+   ],
+   [
+    "colorado.edu/innovate",
+    291
+   ],
+   [
+    "colorado.edu/venturepartners",
+    247
+   ],
+   [
+    "cuanschutz.edu",
+    220
+   ],
+   [
+    "colorado.edu/researchinnovation",
+    100
+   ],
+   [
+    "colorado.edu/nvc",
+    89
+   ],
+   [
+    "colorado.edu/business",
+    60
+   ],
+   [
+    "watson.is",
+    50
+   ],
+   [
+    "siliconflatirons.org",
+    44
+   ],
+   [
+    "colorado.edu/event",
+    41
+   ],
+   [
+    "colorado.edu/ideaforge",
+    29
+   ],
+   [
+    "coloradostartups.org",
+    20
+   ],
+   [
+    "innosphereventures.org",
+    18
+   ],
+   [
+    "colorado.edu/today",
+    17
+   ],
+   [
+    "colorado.edu/oce",
+    17
+   ],
+   [
+    "colorado.edu/graduateschool",
+    13
+   ],
+   [
+    "colorado.edu/research",
+    12
+   ],
+   [
+    "colorado.edu/services",
+    11
+   ],
+   [
+    "colorado.edu/teacher-leadership-certificates",
+    9
+   ],
+   [
+    "colorado.edu/engineering",
+    8
+   ]
+  ]
+ },
+ "taxonomy": {
+  "stages": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "audiences": [
+   "undergrads",
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "researchers"
+  ],
+  "types": [
+   "program",
+   "funding",
+   "event",
+   "competition",
+   "community",
+   "reference",
+   "center",
+   "service",
+   "course",
+   "space"
+  ]
+ },
+ "sampleResources": [
+  {
+   "id": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+   "title": "Research-to-Market (R2M) Customer Discovery Program | Venture Partners at CU Boulder",
+   "type": "program",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Research-to-Market (R2M) Customer Discovery Program is a four-week program using Lean LaunchPad methodology to help teams validate markets and customer needs for innovations. Part ",
+   "audience": [
+    "community",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "validate",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$50,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-today-2025-01-15-new-quantum-incubator-boulder-propel-innovations-r",
+   "title": "New quantum incubator in Boulder to propel innovations for real-world impact | CU Boulder Today",
+   "type": "program",
+   "org": "colorado.edu/today",
+   "summary": "A new 13,000-square-foot quantum incubator in Boulder, funded by Colorado state tax incentive and led by CU Boulder with Colorado State University and Colorado School of Mines, sup",
+   "audience": [
+    "grad students",
+    "faculty",
+    "staff",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$120 million",
+    "$20 million"
+   ]
+  },
+  {
+   "id": "colorado-edu-researchinnovation-nsf-research-traineeship-nrt-program",
+   "title": "NSF Research Traineeship (NRT) Program | Research & Innovation Office",
+   "type": "program",
+   "org": "colorado.edu/researchinnovation",
+   "summary": "NSF Research Traineeship Program supports innovative graduate training in high-priority STEM interdisciplinary research areas to develop skills and competencies for diverse career ",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "postdocs",
+    "faculty",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$3M",
+    "$2M"
+   ]
+  },
+  {
+   "id": "colorado-edu-innovate-programs-resources-catalyze-cu",
+   "title": "Home | Catalyze CU",
+   "type": "program",
+   "org": "colorado.edu/innovate",
+   "summary": "Catalyze CU is a 12-week summer startup accelerator for CU Boulder students, faculty, and staff offering up to $25,000 in equity-free funding and mentorship.",
+   "audience": [
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$25,000",
+    "$1.4 million"
+   ]
+  },
+  {
+   "id": "colorado-edu-catalyzecu-employment",
+   "title": "Employment | Catalyze CU",
+   "type": "program",
+   "org": "colorado.edu/catalyzecu",
+   "summary": "CatalyzeCU offers summer student employment in program administration, including Program Manager/Intern positions at $18-$25/hour. Roles focus on startup support, outreach, and pro",
+   "audience": [
+    "alumni",
+    "students"
+   ],
+   "stage": [],
+   "funding": [
+    "$18",
+    "$25"
+   ]
+  },
+  {
+   "id": "startupcolorado-org-suco-artist-in-residence",
+   "title": "Artist in Residence Program - Startup Colorado",
+   "type": "program",
+   "org": "startupcolorado.org",
+   "summary": "Rural creative residency program offering stipend, mentorship, and collaboration opportunities for visual artists combining artistic practice with business development within start",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$1,500"
+   ]
+  },
+  {
+   "id": "leedsmentoring-colorado-edu-p-p2p-pages-734",
+   "title": "Leeds Peer2Peer Mentoring Program  | Program Overview",
+   "type": "program",
+   "org": "colorado.edu/p",
+   "summary": "Peer mentorship program matching experienced Leeds student mentors with incoming and transitioning cohorts, offering leadership development and support for student success.",
+   "audience": [
+    "alumni",
+    "students"
+   ],
+   "stage": [
+    "explore"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-asmagazine-2023-03-06-innovation-incubator-helping-transform-teachi",
+   "title": "Innovation Incubator helping transform teaching, learning | Colorado Arts and Sciences Magazine",
+   "type": "program",
+   "org": "colorado.edu/asmagazine",
+   "summary": "Innovation Incubator breaks down academic silos by supporting cross-disciplinary collaborative teaching projects, now made permanent after successful three-year pilot in Arts & Sci",
+   "audience": [
+    "undergrads",
+    "faculty",
+    "staff",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": [
+    "$200,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-venturepartners-2024-10-11-external-news-we-went-startup-symposium-",
+   "title": "We went to a startup symposium at the University of Colorado. We saw these nine cool startups. We said “wow” a lot. | Venture Partners at CU",
+   "type": "program",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Redirects to CPR article featuring nine startups from CU Boulder innovation ecosystem presented at startup symposium.",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-catalyzecu-about",
+   "title": "About | Catalyze CU",
+   "type": "program",
+   "org": "colorado.edu/catalyzecu",
+   "summary": "Catalyze CU is a 12-week summer startup accelerator for CU teams with promising ideas, offering personalized mentorship, goal-setting, workshops, and funding.",
+   "audience": [
+    "faculty",
+    "staff",
+    "alumni",
+    "students"
+   ],
+   "stage": [
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "startupcolorado-org-belonging",
+   "title": "Belonging @ Startup Colorado - Startup Colorado",
+   "type": "program",
+   "org": "startupcolorado.org",
+   "summary": "Belonging @ Startup Colorado partners with Belonging Colorado to offer structured accelerator for social impact founders creating solutions bridging divides.",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "validate",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$35,000",
+    "$52,000"
+   ]
+  },
+  {
+   "id": "startupcolorado-org-startup-colorado-partners-with-belonging-colorado",
+   "title": "Startup Colorado Partners with Belonging Colorado to Launch Social Entrepreneurship Accelerator - Startup Colorado",
+   "type": "program",
+   "org": "startupcolorado.org",
+   "summary": "Startup Colorado and Belonging Colorado partner to launch social entrepreneurship accelerator for impact-driven founders.",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-researchinnovation-brain-research-foundation-fayfrank-seed-grants",
+   "title": "Brain Research Foundation Seed Grant | Research & Innovation Office",
+   "type": "funding",
+   "org": "colorado.edu/researchinnovation",
+   "summary": "Brain Research Foundation Seed Grants provide startup funding for new neuroscience research projects, especially for junior faculty, with intent to generate pilot data for larger N",
+   "audience": [
+    "postdocs",
+    "faculty",
+    "community",
+    "researchers"
+   ],
+   "stage": [
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$100,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-venturepartners-2025-08-11-internal-news-wanted-entrepreneurs-launc",
+   "title": "Wanted: Entrepreneurs to launch startups based on University of Colorado Boulder innovations | Venture Partners at CU Boulder",
+   "type": "funding",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Embark Deep Tech Startup Creator matches entrepreneurs with breakthrough CU Boulder technologies, providing salary support, startup training, and funding access. Applications open ",
+   "audience": [
+    "community",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$14"
+   ]
+  },
+  {
+   "id": "colorado-edu-innovate-programs-resources-research-innovation-seed-grants",
+   "title": "Research & Innovation Seed Grant Program | Research & Innovation Office",
+   "type": "funding",
+   "org": "colorado.edu/innovate",
+   "summary": "Research & Innovation Seed Grants support bold, interdisciplinary research projects with up to $60,000 over 18 months to catalyze innovation and position teams for larger external ",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "postdocs",
+    "faculty",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$60,000",
+    "$1,000,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-service-workforce-workforce-development-seed-grant-program",
+   "title": "Workforce Development Seed Grant Program | Workforce Development Hub",
+   "type": "funding",
+   "org": "colorado.edu/service",
+   "summary": "Workforce Development Seed Grants fund pilot programs testing novel skill development and learning models beyond traditional education, with up to $50K total for early-stage initia",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "postdocs",
+    "faculty",
+    "staff",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$5",
+    "$50K"
+   ]
+  },
+  {
+   "id": "colorado-edu-research-abnexus-apply-funding",
+   "title": "Apply for Funding | AB Nexus",
+   "type": "funding",
+   "org": "colorado.edu/research",
+   "summary": "AB Nexus seeks multidisciplinary research proposals addressing human health challenges through basic, translational, or clinical approaches with potential for federal funding susta",
+   "audience": [
+    "postdocs",
+    "faculty",
+    "staff",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "launch"
+   ],
+   "funding": [
+    "$75K",
+    "$150K"
+   ]
+  },
+  {
+   "id": "colorado-edu-graduateschool-funding-national-fellowship-opportunities",
+   "title": "National Fellowship Opportunities | Graduate School",
+   "type": "funding",
+   "org": "colorado.edu/graduateschool",
+   "summary": "National Fellowship Opportunities page lists major fellowships available for graduate study including dissertation fellowships from foundations supporting graduate education.",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "postdocs",
+    "faculty",
+    "staff",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore"
+   ],
+   "funding": [
+    "$25,000",
+    "$50,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-initiative-cubit-oedit-translational-quantum-research-seed-grants",
+   "title": "OEDIT Translational Quantum Research Seed Grants | CUbit Quantum Initiative",
+   "type": "funding",
+   "org": "colorado.edu/initiative",
+   "summary": "OEDIT Translational Quantum Research Seed Grants provide $50,000 over 6 months for quantum research commercialization through academia-industry partnerships or use-inspired technol",
+   "audience": [
+    "researchers"
+   ],
+   "stage": [
+    "validate",
+    "launch"
+   ],
+   "funding": [
+    "$50,000",
+    "$1.2M"
+   ]
+  },
+  {
+   "id": "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-tier-2",
+   "title": "Public and Community-Engaged Scholarship Grants: Tier 2 | Office for Outreach and Community Engagement",
+   "type": "funding",
+   "org": "colorado.edu/oce",
+   "summary": "Public and Community-Engaged Scholarship Grants Tier 2 provides up to $5,000 for faculty and students to establish public and community-engaged scholarship projects.",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "postdocs",
+    "faculty",
+    "staff",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore"
+   ],
+   "funding": [
+    "$5,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-tier-3",
+   "title": "Public and Community-Engaged Scholarship Grants: Tier 3 | Office for Outreach and Community Engagement",
+   "type": "funding",
+   "org": "colorado.edu/oce",
+   "summary": "Public and Community-Engaged Scholarship Grants Tier 3 provides up to $11,000 for individual faculty members leading community-engaged scholarship projects.",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "postdocs",
+    "faculty",
+    "staff",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "build"
+   ],
+   "funding": [
+    "$11,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-venturepartners-2024-05-16-internal-news-colorado-office-economic-d",
+   "title": "The Colorado Office of Economic Development and International Trade announces grants to CU researchers and startups | Venture Partners at CU",
+   "type": "funding",
+   "org": "colorado.edu/venturepartners",
+   "summary": "OEDIT announces Proof of Concept and Early-Stage Capital and Retention grants to 34 Colorado companies and eight researchers through the Advanced Industries Accelerator Program to ",
+   "audience": [
+    "community",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": [
+    "$8,980,117",
+    "$150,000"
+   ]
+  },
+  {
+   "id": "startupcolorado-org-dedicated-funding-opportunities-for-woman-owned-businesses",
+   "title": "Dedicated Funding Opportunities for Woman-Owned Businesses - Startup Colorado",
+   "type": "funding",
+   "org": "startupcolorado.org",
+   "summary": "Discusses the gender funding gap in venture capital and business loans, highlighting need for dedicated women-focused funding opportunities.",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$10,000",
+    "$20,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-tier-1",
+   "title": "Public and Community-Engaged Scholarship Grants: Tier 1 | Office for Outreach and Community Engagement",
+   "type": "funding",
+   "org": "colorado.edu/oce",
+   "summary": "Tier 1 grants support creation of public outreach events and partnership development through funding for materials, travel, and related expenses.",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "postdocs",
+    "faculty",
+    "staff",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "build"
+   ],
+   "funding": [
+    "$2,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-venturepartners-events-and-opportunities-destination-startup",
+   "title": "Destination Startup | Venture Partners at CU Boulder",
+   "type": "event",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Destination Startup showcases best startups from research universities and federal laboratories across the Intermountain West to active investors seeking deal flow from novel acade",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "validate",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$1.2"
+   ]
+  },
+  {
+   "id": "colorado-edu-researchinnovation-oak-ridge-association-universities-orau-events-s",
+   "title": "Oak Ridge Association of Universities (ORAU) Events Sponsorship Program | Research & Innovation Office",
+   "type": "event",
+   "org": "colorado.edu/researchinnovation",
+   "summary": "ORAU Events Sponsorship Program provides up to $4,000 to support events involving multiple ORAU member institutions, including conferences, workshops, and speaker series.",
+   "audience": [
+    "postdocs",
+    "faculty",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$4,000 m",
+    "$4,000"
+   ]
+  },
+  {
+   "id": "startupcolorado-org-stories-wssw-extends-impact-as-regional-event",
+   "title": "West Slope Startup Week Extends Impact as Regional Event - Startup Colorado",
+   "type": "event",
+   "org": "startupcolorado.org",
+   "summary": "West Slope Startup Week announced as regional event.",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$571,164",
+    "$302"
+   ]
+  },
+  {
+   "id": "siliconflatirons-org-2026-flagship-conference-registration-types-admission-items",
+   "title": "2026 Flagship Conference | Silicon Flatirons",
+   "type": "event",
+   "org": "siliconflatirons.org",
+   "summary": "Silicon Flatirons' 2026 Flagship Conference offers registration with varying admission tiers and early bird pricing available through December 12.",
+   "audience": [
+    "faculty",
+    "staff",
+    "students"
+   ],
+   "stage": [
+    "build"
+   ],
+   "funding": [
+    "$300",
+    "$400"
+   ]
+  },
+  {
+   "id": "colorado-edu-innovate-content-innovation-entrepreneurship-content-submission",
+   "title": "Innovation & Entrepreneurship Content Submission | Innovation & Entrepreneurship Initiative",
+   "type": "event",
+   "org": "colorado.edu/innovate",
+   "summary": "Content submission form for innovative and entrepreneurial news, program announcements, and events for I&E communications.",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "postdocs",
+    "faculty",
+    "staff",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore"
+   ],
+   "funding": []
+  },
+  {
+   "id": "calendar-colorado-edu-event-shes-independent-presents-fireside-chat-with-seth-le",
+   "title": "She's Independent presents: Fireside Chat with Seth Levine - University of Colorado Boulder",
+   "type": "event",
+   "org": "colorado.edu/event",
+   "summary": "Fireside chat featuring Seth Levine, partner and co-founder at Foundry venture capital firm, discussing venture capital and entrepreneurship with She's Independent and the Deming C",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "postdocs",
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "high school",
+    "students"
+   ],
+   "stage": [
+    "build"
+   ],
+   "funding": [
+    "$3.5"
+   ]
+  },
+  {
+   "id": "calendar-colorado-edu-koelbel-building-leeds-school-of-business",
+   "title": "Koelbel Building: Leeds School of Business - University of Colorado Boulder",
+   "type": "event",
+   "org": "colorado.edu/koelbel_building_leeds_school_of_business",
+   "summary": "Overview of Leeds School of Business facility located on campus, one of Colorado's top-ranked business schools offering undergraduate through doctoral programs and positioned withi",
+   "audience": [
+    "undergrads",
+    "postdocs",
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "high school",
+    "students"
+   ],
+   "stage": [
+    "build"
+   ],
+   "funding": []
+  },
+  {
+   "id": "oit-colorado-edu-services-conferencing-services-web-conferencing-zoom-help-addit",
+   "title": "Zoom - Additional Licenses | Office of Information Technology",
+   "type": "event",
+   "org": "colorado.edu/services",
+   "summary": "CU Boulder's Office of Information Technology provides information on Zoom licensing options including common-good licenses and purchased licenses for webinars, large meetings, and",
+   "audience": [
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": [
+    "$690",
+    "$3,400"
+   ]
+  },
+  {
+   "id": "colorado-edu-business-deming-entrepreneurship-events-conferences",
+   "title": "2026 Rocky Mountain Entrepreneurship Through Acquisition (ETA) Conference | Leeds School of Business",
+   "type": "event",
+   "org": "colorado.edu/business",
+   "summary": "Multi-institutional conference bringing together search fund entrepreneurs, investors, and service providers to discuss acquisition-based entrepreneurship with dual tracks for intr",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$14",
+    "$10"
+   ]
+  },
+  {
+   "id": "siliconflatirons-org-events-entrepreneurs-unplugged-sarah-shrader-owner-co-found",
+   "title": "CANCELLED! Entrepreneurs Unplugged: Sarah Shrader, Bonsai Design | Silicon Flatirons",
+   "type": "event",
+   "org": "siliconflatirons.org",
+   "summary": "Cancelled speaker event that would have featured successful entrepreneur and outdoor recreation venture founder discussing business growth and industry leadership (event postponed ",
+   "audience": [
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build"
+   ],
+   "funding": []
+  },
+  {
+   "id": "siliconflatirons-org-events-entrepreneurs-unplugged-bryn-rees-2024-03-19",
+   "title": "Entrepreneurs Unplugged: Bryn Rees, Venture Partners at CU Boulder | Silicon Flatirons",
+   "type": "event",
+   "org": "siliconflatirons.org",
+   "summary": "Speaker conversation featuring university research commercialization leader discussing strategies for translating academic breakthroughs into market-ready ventures and supporting s",
+   "audience": [
+    "faculty",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$8"
+   ]
+  },
+  {
+   "id": "siliconflatirons-org-events-entrepreneurs-unplugged-david-brown-techstars-and-da",
+   "title": "Entrepreneurs Unplugged: David Brown and David Cohen of Techstars | Silicon Flatirons",
+   "type": "event",
+   "org": "siliconflatirons.org",
+   "summary": "Speaker program featuring co-founders of major startup accelerator discussing entrepreneurial experiences, investment philosophy, and strategies for supporting emerging company eco",
+   "audience": [
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$50M",
+    "$80"
+   ]
+  },
+  {
+   "id": "colorado-edu-nvc-social-impact-new-venture-challenge",
+   "title": "Social Impact New Venture Challenge | New Venture Challenge",
+   "type": "competition",
+   "org": "colorado.edu/nvc",
+   "summary": "Social Impact New Venture Challenge offers up to $5,000 in prizes for ventures addressing social, environmental, or community issues. Winners gain automatic acceptance to SEA Chang",
+   "audience": [
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "high school",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$5,000",
+    "$500,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-innovate-2025-01-28-feb-8-deadline-nvc-and-sinvc-registration",
+   "title": "Feb. 8 is Deadline for NVC and SINVC Registration | Innovation & Entrepreneurship Initiative",
+   "type": "competition",
+   "org": "colorado.edu/innovate",
+   "summary": "The New Venture Challenge (NVC) is CU Boulder's signature entrepreneurial competition with $320,000 in prize money available across multiple categories and specialty competitions f",
+   "audience": [
+    "faculty",
+    "staff",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$320,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-venturepartners-2024-10-02-cu-researchers-compete-share-125m-grant-",
+   "title": "CU researchers to compete for share of $1.25M in grant funding to bring bio- and physical-sciences innovations to market | Venture Partners ",
+   "type": "competition",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Lab Venture Challenge Showcases pit 14 CU teams competing for $1.25M in startup grants across biosciences and physical sciences innovation categories.",
+   "audience": [
+    "grad students",
+    "faculty",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$1.25M",
+    "$1.25 million"
+   ]
+  },
+  {
+   "id": "colorado-edu-researchinnovation-nsf-general-social-survey-gss-competition",
+   "title": "NSF General Social Survey (GSS) Competition | Research & Innovation Office",
+   "type": "competition",
+   "org": "colorado.edu/researchinnovation",
+   "summary": "NSF General Social Survey Competition supports participation in GSS, a nationally representative survey tracking American attitudes, behaviors, and social trends since 1972.",
+   "audience": [
+    "postdocs",
+    "faculty",
+    "staff",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$14 million",
+    "$16 million"
+   ]
+  },
+  {
+   "id": "startupcolorado-org-stories-why-pitch-competitions-are-essential",
+   "title": "Why Rural Pitch Competitions Are Essential to Startup Ecosystem Development - Startup Colorado",
+   "type": "competition",
+   "org": "startupcolorado.org",
+   "summary": "Discusses importance of pitch competitions for startup ecosystem development, particularly benefiting rural founders.",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$5,000",
+    "$380K"
+   ]
+  },
+  {
+   "id": "colorado-edu-oce-paces-initiatives-and-programs-community-perspectives",
+   "title": "Community Perspectives Program | Office for Outreach and Community Engagement",
+   "type": "competition",
+   "org": "colorado.edu/oce",
+   "summary": "PACES Community Perspectives grants fund projects addressing locally identified needs in rural Southeast Colorado through partnerships between CU Boulder and community organization",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "postdocs",
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "build"
+   ],
+   "funding": [
+    "$2,000",
+    "$5,000"
+   ]
+  },
+  {
+   "id": "siliconflatirons-org-student-opportunities-competitions-writing-competition",
+   "title": "Annual Student Writing Competition | Silicon Flatirons",
+   "type": "competition",
+   "org": "siliconflatirons.org",
+   "summary": "Annual student writing competition for CU Boulder students on law and technology topics, with $1,000 award and publication opportunity in Colorado Technology Law Journal.",
+   "audience": [
+    "students"
+   ],
+   "stage": [
+    "build"
+   ],
+   "funding": [
+    "$1,000"
+   ]
+  },
+  {
+   "id": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
+   "title": "New Venture Challenge Women Founders Competition Finals - University of Colorado Boulder",
+   "type": "competition",
+   "org": "colorado.edu/event",
+   "summary": "Women Founders Competition Finals event where women-founded teams pitch for $10,000 in funding.",
+   "audience": [
+    "postdocs",
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "high school",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build"
+   ],
+   "funding": [
+    "$10,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-nvc-2026-07-16-applications-open-director-innovation-entrepreneursh",
+   "title": "Applications open for Director of Innovation & Entrepreneurship Initiative | New Venture Challenge",
+   "type": "competition",
+   "org": "colorado.edu/nvc",
+   "summary": "Job opening announcement for Director of Innovation & Entrepreneurship Initiative.",
+   "audience": [
+    "high school"
+   ],
+   "stage": [],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-venturepartners-2022-11-07-internal-news-cu-boulder-innovators-awar",
+   "title": "CU Boulder innovators awarded $1.25 million in commercialization funding | Venture Partners at CU Boulder",
+   "type": "competition",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Lab Venture Challenge 2022 awarded $1.25M to twelve teams across biosciences and physical sciences/engineering categories.",
+   "audience": [
+    "grad students",
+    "faculty",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "validate",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$1.25 million",
+    "$125,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-venturepartners-2025-05-06-internal-news-university-colorado-boulde",
+   "title": "CU Boulder awards pre-seed funding to alum’s promising GPS startup | Venture Partners at CU Boulder",
+   "type": "competition",
+   "org": "colorado.edu/venturepartners",
+   "summary": "CU Boulder awarded $100,000 in pre-seed funding to PrecisionTerra, a GPS technology startup, bridging the \"valley of death\" for early-stage ventures.",
+   "audience": [
+    "undergrads",
+    "faculty",
+    "staff",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "validate",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$100,000",
+    "$144,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-nvc-2026-05-04-innovative-ideas-and-founder-spirit-ride-high-2026-n",
+   "title": "Innovative ideas and founder spirit ride high at the 2026 NVC Finals | New Venture Challenge",
+   "type": "competition",
+   "org": "colorado.edu/nvc",
+   "summary": "2026 New Venture Challenge Finals featured six ventures competing for $336,000 in record-setting prizes across Deep Tech and Open categories.",
+   "audience": [
+    "community",
+    "high school",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$150,000",
+    "$336,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-researchinnovation-nsf-q-amase-i-enabling-quantum-leap-convergent-a",
+   "title": "NSF Q-AMASE-i (Enabling Quantum Leap: Convergent Accelerated Discovery Foundries for Quantum Materials Science, Engineering and Information)",
+   "type": "community",
+   "org": "colorado.edu/researchinnovation",
+   "summary": "NSF Q-AMASE-i establishes Foundries with mid-scale infrastructure for rapid quantum materials design, synthesis, characterization, and device development with industry technology t",
+   "audience": [
+    "postdocs",
+    "faculty",
+    "community",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$20,000,000",
+    "$25,000,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-innovate-sustainability-hackathon-test",
+   "title": "Sustainability Hackathon (Test) | Innovation & Entrepreneurship Initiative",
+   "type": "community",
+   "org": "colorado.edu/innovate",
+   "summary": "Sustainability Hackathon brings together CU Boulder students and staff to solve sustainability problems through collaborative ideation and rapid solution building with prize money.",
+   "audience": [
+    "faculty",
+    "staff",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build"
+   ],
+   "funding": [
+    "$100,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-venturepartners-2023-08-09-internal-news-new-deep-tech-startup-crea",
+   "title": "New deep tech startup creator Embark announces first cohort of entrepreneurs | Venture Partners at CU Boulder",
+   "type": "community",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Embark Deep Tech Startup Creator announced its first cohort of entrepreneurs matching business minds with CU Boulder breakthroughs to bring innovations to market.",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$100,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-coloradan-2025-03-10-sustainable-spinouts-innovation-action",
+   "title": "Sustainable Spinouts: Innovation in Action | Alumni Association",
+   "type": "community",
+   "org": "colorado.edu/coloradan",
+   "summary": "Prometheus Materials, a CU Boulder sustainability spinout, uses bio-cement bacteria and microbes to create environmentally-friendly building materials.",
+   "audience": [
+    "undergrads",
+    "alumni",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$8 million",
+    "$10 million"
+   ]
+  },
+  {
+   "id": "colorado-edu-today-2025-05-05-new-climate-initiative-turn-student-innovations-st",
+   "title": "New climate initiative to turn student innovations into startup success | CU Boulder Today",
+   "type": "community",
+   "org": "colorado.edu/today",
+   "summary": "Boulder Climate Ventures is a new interdisciplinary graduate program connecting students to experts for developing high-impact climate solution startups.",
+   "audience": [
+    "grad students",
+    "faculty",
+    "staff",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "validate",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$1 million"
+   ]
+  },
+  {
+   "id": "startupcolorado-org-join-the-community-rural-women-in-entrepreneurship-rwe-retre",
+   "title": "Rural Women in Entrepreneurship Retreat - Startup Colorado",
+   "type": "community",
+   "org": "startupcolorado.org",
+   "summary": "The Rural Women in Entrepreneurship (RWE) Retreat is an intimate in-person gathering for women entrepreneurs in rural Colorado to rest, reflect, and connect with a supportive commu",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$400,",
+    "$50"
+   ]
+  },
+  {
+   "id": "coloradostartups-org-ecosystem-canvas",
+   "title": "Ecosystem Canvas &mdash; Colorado Startups",
+   "type": "community",
+   "org": "coloradostartups.org",
+   "summary": "The Startup Ecosystem Canvas is an open-source, comprehensive resource guide developed by Colorado Startups and Founder Institute to help local entrepreneurs navigate the state's f",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "build"
+   ],
+   "funding": [
+    "$100M"
+   ]
+  },
+  {
+   "id": "colorado-edu-catalyzecu-summers-cohort",
+   "title": "This Summer's Cohort | Catalyze CU",
+   "type": "community",
+   "org": "colorado.edu/catalyzecu",
+   "summary": "Summer 2026 Catalyze CU cohort features student and faculty founders building ventures including DopaMind (screen time app), Whaaat!? (games/play), and Wellvine (healthcare app).",
+   "audience": [
+    "undergrads",
+    "faculty",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-venturepartners-subscribe",
+   "title": "Subscribe to The Insider Newsletters | Venture Partners at CU Boulder",
+   "type": "community",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Venture Partners offers three monthly or quarterly newsletter editions for inventors/researchers, community partners, and investors covering innovation and startup news.",
+   "audience": [
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "coloradostartups-org",
+   "title": "Colorado Startups",
+   "type": "community",
+   "org": "coloradostartups.org",
+   "summary": "Colorado Startups provides a community hub for entrepreneurs with social groups, resources, ecosystem canvas, and leaderboard of fastest-growing companies.",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "build"
+   ],
+   "funding": []
+  },
+  {
+   "id": "startupcolorado-org-stories-inaugural-belonging-cohort",
+   "title": "Announcing the Inaugural Belonging @ Startup Colorado Cohort - Startup Colorado",
+   "type": "community",
+   "org": "startupcolorado.org",
+   "summary": "Announcement of inaugural Belonging @ Startup Colorado cohort of social impact founders.",
+   "audience": [
+    "staff",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "validate",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "startupcolorado-org-stories-meet-the-founders-october-coopetition-cohort",
+   "title": "Meet the October Founder Coopetition Cohort - Startup Colorado",
+   "type": "community",
+   "org": "startupcolorado.org",
+   "summary": "Introduction to founders in October Founder Coopetition cohort from Startup Colorado.",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-venturepartners-startup-portfolio-mana-battery-inc",
+   "title": "Mana Battery Inc. | Venture Partners at CU Boulder",
+   "type": "reference",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Mana Battery Inc. is a CU Boulder spinout commercializing sodium-based battery technology that rivals lithium-ion at 35-75% lower cost, founded from Chunmei Ban's laboratory.",
+   "audience": [
+    "community",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "validate",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$275,000",
+    "$1.5 million"
+   ]
+  },
+  {
+   "id": "online-colorado-edu-organizational-leadership-ms-admissions",
+   "title": "Admissions | Organizational Leadership MS | CU Boulder Online",
+   "type": "reference",
+   "org": "colorado.edu/organizational-leadership-ms",
+   "summary": "Application requirements and deadlines for CU Boulder's online Master of Science in Organizational Leadership program.",
+   "audience": [
+    "undergrads",
+    "faculty",
+    "staff",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": [
+    "$50"
+   ]
+  },
+  {
+   "id": "siliconflatirons-org-announcements-silicon-flatirons-opens-call-for-proposals-fo",
+   "title": "Silicon Flatirons Opens Call for Proposals for Entrepreneurial Policy Academy | Silicon Flatirons",
+   "type": "reference",
+   "org": "siliconflatirons.org",
+   "summary": "Silicon Flatirons seeks proposals for 30-minute teaching modules for a Policy Academy curriculum designed to teach entrepreneurs about policy engagement.",
+   "audience": [
+    "students"
+   ],
+   "stage": [
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$500"
+   ]
+  },
+  {
+   "id": "cuanschutz-edu-innovations-about-us-team-profile-baler-gali-extp66qym",
+   "title": "gali.baler@cuanschutz.edu",
+   "type": "reference",
+   "org": "cuanschutz.edu",
+   "summary": "Gali Baler is Managing Director of Ventures & Investments at CU Anschutz Innovations, overseeing $110M in CU Healthcare Innovation Funds.",
+   "audience": [
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$110M",
+    "$200M"
+   ]
+  },
+  {
+   "id": "colorado-edu-today-2022-04-19-cu-boulder-deloitte-launch-climate-innovation-coll",
+   "title": "CU Boulder, Deloitte launch Climate Innovation Collaboratory to accelerate action on climate crisis | CU Boulder Today",
+   "type": "reference",
+   "org": "colorado.edu/today",
+   "summary": "CU Boulder and Deloitte launched the Climate Innovation Collaboratory to translate cutting-edge climate research into solutions for government and communities. Deloitte's $2 millio",
+   "audience": [
+    "grad students",
+    "faculty",
+    "staff",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$2 million"
+   ]
+  },
+  {
+   "id": "startupcolorado-org-stories-winners-of-the-february-founder-coopetition",
+   "title": "Startup Colorado Announces Founder Coopetition Winners - Startup Colorado",
+   "type": "reference",
+   "org": "startupcolorado.org",
+   "summary": "Showcase of winners from Startup Colorado's February Founder Coopetition competition for rural entrepreneurs.",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$5,000 m"
+   ]
+  },
+  {
+   "id": "watson-is-2024-flagship-fellows",
+   "title": "2024 Flagship Fellows",
+   "type": "reference",
+   "org": "watson.is",
+   "summary": "Showcase of impact-driven entrepreneurs from the 2024 cohort, highlighting ventures in technology, water infrastructure, and social enterprises led by founders with international r",
+   "audience": [
+    "alumni",
+    "community",
+    "high school",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "validate",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$2.5 million",
+    "$1.2 million"
+   ]
+  },
+  {
+   "id": "colorado-edu-business-news-2020-07-14-entrepreneurial-approaches-result-new-busi",
+   "title": "Entrepreneurial Approaches Result in New Business Ventures for Recent Graduates | Leeds School of Business",
+   "type": "reference",
+   "org": "colorado.edu/business",
+   "summary": "Article describing how CU Boulder students pivoted existing ventures during COVID-19 crisis to address community needs, gaining hands-on experience in crisis leadership and entrepr",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$25K",
+    "$6,500"
+   ]
+  },
+  {
+   "id": "colorado-edu-venturepartners-2024-05-14-internal-news-application-now-open-embar",
+   "title": "Wanted: entrepreneurs ready to launch startups based on CU Boulder innovations | Venture Partners at CU Boulder",
+   "type": "reference",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Startup creation program matching external entrepreneurs with university research breakthroughs, providing mentorship and non-dilutive funding to commercialize breakthrough technol",
+   "audience": [
+    "community",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": [
+    "$50,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-techtransfer-2018-09-12-samsung-venture-hyundai-join-bmw-investment",
+   "title": "Samsung Venture, Hyundai join BMW with investment in CU Boulder battery technology | Venture Partners at CU Boulder",
+   "type": "reference",
+   "org": "colorado.edu/techtransfer",
+   "summary": "Series A investment round bringing major automotive companies' venture arms to a solid-state battery company spun from CU Boulder research, validating technology commercialization ",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$20 million"
+   ]
+  },
+  {
+   "id": "cuanschutz-edu-innovations-about-us-team-profile-mao-rebecca-ucd6004457262",
+   "title": "rebecca.mao@cuanschutz.edu",
+   "type": "reference",
+   "org": "cuanschutz.edu",
+   "summary": "Profile of ventures professional with life sciences focus, combining venture strategy experience with prior government innovation portfolio management and private sector accelerati",
+   "audience": [
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "cuanschutz-edu-innovations-about-us-team-profile-muller-kimberly-ext7q6vw5",
+   "title": "kimberly.muller@cuanschutz.edu",
+   "type": "reference",
+   "org": "cuanschutz.edu",
+   "summary": "Executive leading CU Anschutz innovation portfolio with responsibility for venture creation, strategic partnerships, fund management, and technology licensing for medical and healt",
+   "audience": [
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$110 million",
+    "$5"
+   ]
+  },
+  {
+   "id": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
+   "title": "Measuring Sustainability for Boulder County Climate Office | Research & Innovation Office",
+   "type": "center",
+   "org": "colorado.edu/researchinnovation",
+   "summary": "Sustainability Research Initiative collaborating with Boulder County on a pilot project to develop measurement approaches for climate and sustainability projects, with up to $100K ",
+   "audience": [
+    "grad students",
+    "postdocs",
+    "faculty",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$100K",
+    "$100,000"
+   ]
+  },
+  {
+   "id": "cuanschutz-edu-chancellor-anschutz-acceleration-initiative",
+   "title": "Anschutz Acceleration Initiative | University of Colorado Anschutz",
+   "type": "center",
+   "org": "cuanschutz.edu",
+   "summary": "Unable to extract information - text content unavailable.",
+   "audience": [
+    "postdocs",
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "validate",
+    "launch"
+   ],
+   "funding": [
+    "$50 million",
+    "$5 million"
+   ]
+  },
+  {
+   "id": "colorado-edu-innovate-2026-02-03-five-best-ways-students-connect-startups",
+   "title": "Five of the best ways for students to connect with startups | Innovation & Entrepreneurship Initiative",
+   "type": "center",
+   "org": "colorado.edu/innovate",
+   "summary": "Five ways for students to connect with startups: Startups2Students events, New Venture Challenge, Boulder Venture Club, Startups & Sandwiches, and other networking opportunities.",
+   "audience": [
+    "faculty",
+    "staff",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build"
+   ],
+   "funding": [
+    "$220,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-initiative-cubit-2025-10-29-cu-boulders-colorado-quantum-incubator-",
+   "title": "CU Boulder’s Colorado Quantum Incubator and Stout Street Capital partner to accelerate quantum innovation | CUbit Quantum Initiative",
+   "type": "center",
+   "org": "colorado.edu/initiative",
+   "summary": "Colorado Quantum Incubator (COQI) partners with Stout Street Capital venture firm to invest in and incubate quantum startups through Lab Embedded Venture Capital Access Program (LE",
+   "audience": [
+    "faculty",
+    "staff",
+    "students"
+   ],
+   "stage": [
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$22 million"
+   ]
+  },
+  {
+   "id": "colorado-edu-today-2020-10-14-innovative-new-leadership-center-blends-research-p",
+   "title": "Innovative new leadership center blends research with programming | CU Boulder Today",
+   "type": "center",
+   "org": "colorado.edu/today",
+   "summary": "CU Boulder launches the Center for Leadership combining 22 leadership programs with research to advance leadership education. Directed by Stefanie Johnson from the Leeds School of ",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "faculty",
+    "staff",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$500,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-engineering-2021-02-10-cu-boulder-joins-partnership-pursue-nsf-spec",
+   "title": "CU Boulder joins partnership to pursue NSF Spectrum Innovation Initiative center | College of Engineering & Applied Science",
+   "type": "center",
+   "org": "colorado.edu/engineering",
+   "summary": "SpectrumX, an NSF planning grant pursuing a $25 million National Center for Wireless Spectrum Research, includes CU Boulder led by College of Engineering and Applied Science with p",
+   "audience": [
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": [
+    "$25 million"
+   ]
+  },
+  {
+   "id": "startupcolorado-org-stories-startup-colorado-partners-with-colorado-ojt",
+   "title": "Startup Colorado Partners with Colorado Office of Just Transition to Support Coal Transition Workers Through Entrepreneurship - Startup Colo",
+   "type": "center",
+   "org": "startupcolorado.org",
+   "summary": "Startup Colorado partners with the Colorado Office of Just Transition to support coal transition workers in rural Colorado through entrepreneurship programs and training.",
+   "audience": [
+    "alumni",
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "validate",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$11,250"
+   ]
+  },
+  {
+   "id": "colorado-edu-business-deming-student-opportunities-spark",
+   "title": "SPARK | Leeds School of Business",
+   "type": "center",
+   "org": "colorado.edu/business",
+   "summary": "Spark CU is an initiative for entrepreneurial students across CU Boulder that helps transform early-stage ideas into real ventures. Includes Spark Community for all students and Sp",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "validate",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "coloradostartups-org-leaderboard",
+   "title": "The Leaderboard &mdash; Colorado Startups",
+   "type": "center",
+   "org": "coloradostartups.org",
+   "summary": "The Leaderboard showcases the 50 fastest-growing companies in Colorado semiannually using Crunchbase CB Rank metrics. Highlights diversity in the startup community and shows need f",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$20,000,000",
+    "$100M"
+   ]
+  },
+  {
+   "id": "colorado-edu-venturepartners-2026-08-05-external-news-mana-battery-partners-saft",
+   "title": "Mana Battery partners with Saft on anode-free sodium batteries | Venture Partners at CU Boulder",
+   "type": "center",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Mana Battery, a CU Boulder spinout, partnered with Saft (TotalEnergies subsidiary) to develop anode-free sodium-ion batteries offering lower costs and enhanced sustainability compa",
+   "audience": [
+    "community",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "oit-colorado-edu-news-microsoft-licensing-automation-june-2026",
+   "title": "What to Know About OIT&#039;s New Microsoft Licensing Automation | Office of Information Technology",
+   "type": "center",
+   "org": "colorado.edu/news",
+   "summary": "Technical update describing CU Boulder's rollout of automated Microsoft licensing systems to streamline license assignment, adjustment, and removal based on user role changes and c",
+   "audience": [
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+   "title": "Microsoft License Comparison Tool | Office of Information Technology",
+   "type": "center",
+   "org": "colorado.edu/services",
+   "summary": "Interactive tool allowing users to compare Microsoft 365 service access differences across various license types (employee, student, affiliate, retiree, alumni), showing what servi",
+   "audience": [
+    "alumni",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-venturepartners-what-we-do-mentorship-advising",
+   "title": "Mentorship and Advising | Venture Partners at CU Boulder",
+   "type": "service",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Venture Partners provides mentorship and advising connecting entrepreneurs and innovators to experienced mentors from Colorado and worldwide.",
+   "audience": [
+    "faculty",
+    "alumni",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "cuanschutz-edu-innovations-campus-innovator-faculty-consulting",
+   "title": "Faculty Consulting | CU Innovations",
+   "type": "service",
+   "org": "cuanschutz.edu",
+   "summary": "CU Innovations manages faculty consulting opportunities through new contract management platform Ironclad with improved transparency and efficiency.",
+   "audience": [
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-law-academics-clinics-entrepreneurial-law-clinic",
+   "title": "Entrepreneurial Law Clinic | Colorado Law",
+   "type": "service",
+   "org": "colorado.edu/law",
+   "summary": "CU Law clinic providing law students practical transactional experience while offering pro bono legal services to underserved entrepreneurs and startups.",
+   "audience": [
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "siliconflatirons-org-publications-the-cable-and-satellite-compulsory-copyright-l",
+   "title": "The Cable and Satellite Compulsory Copyright Licenses | Silicon Flatirons",
+   "type": "service",
+   "org": "siliconflatirons.org",
+   "summary": "Roundtable discussion of cable and satellite compulsory copyright licenses and their implications for content distribution, creator compensation, and media innovation.",
+   "audience": [
+    "students"
+   ],
+   "stage": [
+    "build"
+   ],
+   "funding": []
+  },
+  {
+   "id": "startupcolorado-org-stories-rural-startup-days-launches-in-southeast-colorado",
+   "title": "Rural Startup Days Launches in Southeast Colorado to Support Local Entrepreneurs and Small Businesses - Startup Colorado",
+   "type": "service",
+   "org": "startupcolorado.org",
+   "summary": "Startup Colorado expanded programming to Southeast Colorado with Rural Startup Days event series supporting local entrepreneurs and small business owners.",
+   "audience": [
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+   "title": "Federated Identity Service",
+   "type": "service",
+   "org": "colorado.edu/services",
+   "summary": "Error page for a CU Boulder IT service (content not available).",
+   "audience": [],
+   "stage": [],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-venturepartners-about",
+   "title": "About Us | Venture Partners at CU Boulder",
+   "type": "course",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Venture Partners at CU Boulder is the university's commercialization arm helping researchers translate innovations into market-ready solutions through IP management, entrepreneuria",
+   "audience": [
+    "staff",
+    "community",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "validate",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$125,000",
+    "$100k"
+   ]
+  },
+  {
+   "id": "colorado-edu-oce-paces-initiatives-and-programs-experiential-learning-design-acc",
+   "title": "Experiential Learning Design Accelerator Program | Office for Outreach and Community Engagement",
+   "type": "course",
+   "org": "colorado.edu/oce",
+   "summary": "The Experiential Learning Design Accelerator supports CU Boulder faculty in designing undergraduate courses integrating community-engaged, experiential learning with community part",
+   "audience": [
+    "undergrads",
+    "faculty",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build"
+   ],
+   "funding": [
+    "$2,000",
+    "$1,000"
+   ]
+  },
+  {
+   "id": "calendar-colorado-edu-event-copy-of-program-admissions-qa-master-of-science-in-o",
+   "title": "Program Admissions Q&amp;A: Master of Science in Organizational Leadership - University of Colorado Boulder",
+   "type": "course",
+   "org": "colorado.edu/event",
+   "summary": "Virtual Q&A session for the Master of Science in Organizational Leadership program covering program structure, tuition, costs, and application process with fee waiver for attendees",
+   "audience": [
+    "grad students",
+    "postdocs",
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "high school",
+    "students"
+   ],
+   "stage": [
+    "explore"
+   ],
+   "funding": []
+  },
+  {
+   "id": "online-colorado-edu-teacher-leadership-ma",
+   "title": "Teacher Leadership MA | CU Boulder Online",
+   "type": "course",
+   "org": "colorado.edu/teacher-leadership-ma",
+   "summary": "CU Boulder's Master of Arts in Teacher Leadership supports teachers in becoming leaders in their districts through flexible online coursework combining asynchronous and synchronous",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "faculty",
+    "staff",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore"
+   ],
+   "funding": []
+  },
+  {
+   "id": "online-colorado-edu-teacher-leadership-certificates",
+   "title": "Teacher Leadership Certificates | CU Boulder Online | CU Boulder Online",
+   "type": "course",
+   "org": "colorado.edu/teacher-leadership-certificates",
+   "summary": "CU Boulder's Teacher Leadership Certificates offer focused 10-credit graduate certificates in specialized education leadership topics with flexible online courses and rolling admis",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "faculty",
+    "staff",
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-innovate-programs-resources-new-venture-launch-class",
+   "title": "New Venture Launch | Leeds School of Business",
+   "type": "course",
+   "org": "colorado.edu/innovate",
+   "summary": "An application-based spring 2026 course for cross-disciplinary teams and individual founders to develop ventures with access to CU technologies, mentorship, pitch coaching, and fun",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-business-deming-undergraduates-certificate-entrepreneurial-studies-",
+   "title": "Certificate Frequently Asked Questions | Leeds School of Business",
+   "type": "course",
+   "org": "colorado.edu/business",
+   "summary": "The Certificate in Entrepreneurial Studies at Leeds School of Business allows students to combine business theory with practical entrepreneurship through competitions, internships,",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-today-2019-08-09-road-entrepreneurship-classes-two-wheels-amp-3butm",
+   "title": "On the road: Entrepreneurship classes on 2 wheels | CU Boulder Today",
+   "type": "course",
+   "org": "colorado.edu/today",
+   "summary": "Overview of Erick Mueller's traveling entrepreneurship workshops series started in 2014 that has reached over 300 business owners across rural Colorado on his Harley-Davidson motor",
+   "audience": [
+    "grad students",
+    "faculty",
+    "staff",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-innovate-programs-resources-entrepreneurial-studies-certificate",
+   "title": "Entrepreneurial Studies Certificate | Leeds School of Business",
+   "type": "course",
+   "org": "colorado.edu/innovate",
+   "summary": "The Entrepreneurial Studies Certificate at Leeds School of Business provides top-ranked undergraduate entrepreneurship education with emphasis on business planning, internships, an",
+   "audience": [
+    "undergrads",
+    "grad students",
+    "faculty",
+    "staff",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "startupcolorado-org-stories-starting-up-with-ice-preneur-chris-bonds",
+   "title": "Starting Up: How “Ice-preneur” Chris Bonds Is Bringing Premium Cocktail Ice to Colorado’s Western Slope - Startup Colorado",
+   "type": "course",
+   "org": "startupcolorado.org",
+   "summary": "Story about Chris Bonds and his premium cocktail ice business in Colorado's Western Slope.",
+   "audience": [
+    "community"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": [
+    "$56,000",
+    "$20,000"
+   ]
+  },
+  {
+   "id": "colorado-edu-venturepartners-about-people-jonathan-marenus",
+   "title": "Jonathan Marenus | Venture Partners at CU Boulder",
+   "type": "course",
+   "org": "colorado.edu/venturepartners",
+   "summary": "Jonathan Marenus is a Licensing Manager for software and physical sciences at Venture Partners and Director of the Creative Futures Fellowship, combining music, law, and innovation",
+   "audience": [
+    "community",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "watson-is-watson-institute-lynn-university",
+   "title": "Watson Institute at Lynn University - Watson Institute",
+   "type": "course",
+   "org": "watson.is",
+   "summary": "Bachelor of Science in Social Impact and Entrepreneurship offered at Lynn University in partnership with Watson Institute, designed for students to major in their mission with inte",
+   "audience": [
+    "undergrads",
+    "alumni",
+    "community",
+    "students"
+   ],
+   "stage": [
+    "explore",
+    "build",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
+   "title": "ExoPower Inc. | Venture Partners at CU Boulder",
+   "type": "space",
+   "org": "colorado.edu/venturepartners",
+   "summary": "ExoPower commercializes wireless charging technology for electric vehicles and automation equipment, founded by CU Boulder alumni and former faculty.",
+   "audience": [
+    "community",
+    "students",
+    "researchers"
+   ],
+   "stage": [
+    "explore",
+    "launch"
+   ],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-innovate-2020-04-21-masters-student-brings-home-middle-school-maker",
+   "title": "Master’s student brings home middle school makerspace to create masks for frontline workers | Innovation & Entrepreneurship Initiative",
+   "type": "space",
+   "org": "colorado.edu/innovate",
+   "summary": "Graduate student entrepreneur established home-based makerspace equipment to produce personal protective equipment for healthcare workers during pandemic response.",
+   "audience": [
+    "students"
+   ],
+   "stage": [],
+   "funding": []
+  },
+  {
+   "id": "colorado-edu-ideaforge-facilities-rapid-prototyping-lab",
+   "title": "Rapid Prototyping Lab | Idea Forge",
+   "type": "space",
+   "org": "colorado.edu/ideaforge",
+   "summary": "CU Boulder Idea Forge facility offering tiered 3D printing (FDM and SLA/SLS) and laser cutting equipment for students to rapidly prototype and iterate designs with staff support.",
+   "audience": [
+    "staff",
+    "students"
+   ],
+   "stage": [
+    "build"
+   ],
+   "funding": []
+  },
+  {
+   "id": "itll-colorado-edu",
+   "title": "Webductor",
+   "type": "space",
+   "org": "itll.colorado.edu",
+   "summary": "Institution-wide teaching and learning laboratory at CU Boulder providing resources and support for faculty developing innovative instructional approaches.",
+   "audience": [],
+   "stage": [],
+   "funding": []
+  }
+ ]
+}
