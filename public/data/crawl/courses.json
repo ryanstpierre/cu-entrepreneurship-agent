@@ -1,0 +1,3924 @@
+{
+ "generatedAt": "2026-08-11T18:34:48.061Z",
+ "source": "https://2026-impact-production.up.railway.app/education-dashboard.html",
+ "enrollment": {
+  "years": [
+   "2023",
+   "2024",
+   "2025",
+   "2026"
+  ],
+  "byCampus": {
+   "CU Boulder": [
+    3766,
+    3820,
+    4343,
+    4397
+   ],
+   "CU Denver": [
+    1893,
+    1889,
+    1859,
+    1675
+   ],
+   "CU Colorado Springs": [
+    1739,
+    1629,
+    1552,
+    1460
+   ],
+   "CU Anschutz Medical Campus": [
+    129,
+    109,
+    109,
+    83
+   ]
+  }
+ },
+ "courses": [
+  {
+   "id": "course-iwks-3180",
+   "code": "IWKS 3180",
+   "title": "Choose Your Own Adventure",
+   "level": "Undergraduate",
+   "campus": "CU Anschutz",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-nurs-4860",
+   "code": "NURS 4860",
+   "title": "Quality, Safety, Nsg-RN",
+   "level": "Undergraduate",
+   "campus": "CU Anschutz",
+   "college": "College of Nursing"
+  },
+  {
+   "id": "course-nurs-6800",
+   "code": "NURS 6800",
+   "title": "Innovative Leadership",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "College of Nursing"
+  },
+  {
+   "id": "course-anat-6931",
+   "code": "ANAT 6931",
+   "title": "MSMHA Internship",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Medicine"
+  },
+  {
+   "id": "course-bsbt-6801",
+   "code": "BSBT 6801",
+   "title": "Biomedical Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Medicine"
+  },
+  {
+   "id": "course-bsbt-6802",
+   "code": "BSBT 6802",
+   "title": "Reg Env Life Sci - Drug Disc",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Medicine"
+  },
+  {
+   "id": "course-bsbt-6803",
+   "code": "BSBT 6803",
+   "title": "Reg Env Life Sci - Med Devices",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Medicine"
+  },
+  {
+   "id": "course-bsbt-6804",
+   "code": "BSBT 6804",
+   "title": "Bioinnovation Regulations",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Medicine"
+  },
+  {
+   "id": "course-bsbt-6939",
+   "code": "BSBT 6939",
+   "title": "Internship Tech & Innov",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Medicine"
+  },
+  {
+   "id": "course-clsc-7300",
+   "code": "CLSC 7300",
+   "title": "Sci Grant Review Process PhD",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Medicine"
+  },
+  {
+   "id": "course-idpt-5011",
+   "code": "IDPT 5011",
+   "title": "Biomedical Innovation and Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Medicine"
+  },
+  {
+   "id": "course-prdm-7150",
+   "code": "PRDM 7150",
+   "title": "Medical Terminology and Lab Interpretation?",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Pharmacy"
+  },
+  {
+   "id": "course-prdm-7490",
+   "code": "PRDM 7490",
+   "title": "Innovation Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Pharmacy"
+  },
+  {
+   "id": "course-prdm-7495",
+   "code": "PRDM 7495",
+   "title": "Innovation Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Pharmacy"
+  },
+  {
+   "id": "course-prdm-7700",
+   "code": "PRDM 7700",
+   "title": "Clinical Skills Foundation",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Pharmacy"
+  },
+  {
+   "id": "course-hsmp-6633",
+   "code": "HSMP 6633",
+   "title": "Management of Non-Profit Organizations in Public Health",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Public Health"
+  },
+  {
+   "id": "course-jtcm-6600",
+   "code": "JTCM 6600",
+   "title": "Communication and Innovation",
+   "level": "Graduate",
+   "campus": "CU Anschutz",
+   "college": "School of Public Health"
+  },
+  {
+   "id": "course-econ-4717",
+   "code": "ECON 4717",
+   "title": "Economics of Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Arts & Sciences"
+  },
+  {
+   "id": "course-mcdb-3333",
+   "code": "MCDB 3333",
+   "title": "Biomed Innovations/Discoveries",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Arts & Sciences"
+  },
+  {
+   "id": "course-socy-4160",
+   "code": "SOCY 4160",
+   "title": "Designing Social Innovations",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Arts & Sciences"
+  },
+  {
+   "id": "course-socy-4161",
+   "code": "SOCY 4161",
+   "title": "Executing Social Innovations",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Arts & Sciences"
+  },
+  {
+   "id": "course-ssir-1010",
+   "code": "SSIR 1010",
+   "title": "Innovating Sustainability",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Arts & Sciences"
+  },
+  {
+   "id": "course-envm-5050",
+   "code": "ENVM 5050",
+   "title": "Social Innovation Sust Cities",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Arts & Sciences"
+  },
+  {
+   "id": "course-envm-5076",
+   "code": "ENVM 5076",
+   "title": "Entrepr and Appl Project Mgmt",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Arts & Sciences"
+  },
+  {
+   "id": "course-envm-6001",
+   "code": "ENVM 6001",
+   "title": "Capstone Innovation Lab 1",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Arts & Sciences"
+  },
+  {
+   "id": "course-envm-6002",
+   "code": "ENVM 6002",
+   "title": "Capstone Innovation Lab 2",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Arts & Sciences"
+  },
+  {
+   "id": "course-atls-1100",
+   "code": "ATLS 1100",
+   "title": "Design Foundations",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-csci-4240",
+   "code": "CSCI 4240",
+   "title": "Introduction to Blockchain",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-csci-4348",
+   "code": "CSCI 4348",
+   "title": "Entrepreneurial Projects",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-csci-4358",
+   "code": "CSCI 4358",
+   "title": "Entrepreneurial Projects II",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emen-4200",
+   "code": "EMEN 4200",
+   "title": "Eng and Entrep for Dev World",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emen-4800",
+   "code": "EMEN 4800",
+   "title": "Tech Ventures & Marketing",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emen-4820",
+   "code": "EMEN 4820",
+   "title": "Entrepren Prod Dev",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emen-4825",
+   "code": "EMEN 4825",
+   "title": "New Venture Creation",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-geen-3400",
+   "code": "GEEN 3400",
+   "title": "Invention and Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-atls-5230",
+   "code": "ATLS 5230",
+   "title": "Case Studies in Social Impact",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-atls-5230",
+   "code": "ATLS 5230",
+   "title": "Social Impact Case Studies",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-atls-5240",
+   "code": "ATLS 5240",
+   "title": "Tech Social Impact Laboratory",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-atls-5410",
+   "code": "ATLS 5410",
+   "title": "Creative Technologies",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-atls-5420",
+   "code": "ATLS 5420",
+   "title": "Proseminar: Bus Creativity",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-atls-5519",
+   "code": "ATLS 5519",
+   "title": "Adv Special Topics in CTD",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-atls-6910",
+   "code": "ATLS 6910",
+   "title": "Social Impact Practicum",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-csci-5240",
+   "code": "CSCI 5240",
+   "title": "Introduction to Blockchain",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-csci-5340",
+   "code": "CSCI 5340",
+   "title": "Entrepreneurial Projects",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-csci-5350",
+   "code": "CSCI 5350",
+   "title": "Entrepreneurial Projects II",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-cven-5139",
+   "code": "CVEN 5139",
+   "title": "Sol'n Ident and Proposal Dev",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-cybr-5240",
+   "code": "CYBR 5240",
+   "title": "Introduction to Blockchain",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-ecea-5347",
+   "code": "ECEA 5347",
+   "title": "Rapd Prototyping Emb I/F Dsgn",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emea-5091",
+   "code": "EMEA 5091",
+   "title": "Getting Started Tech Startups",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emea-5091",
+   "code": "EMEA 5091",
+   "title": "Getting Started with Startups",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emea-5092",
+   "code": "EMEA 5092",
+   "title": "Creating a Startup Business",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emea-5092",
+   "code": "EMEA 5092",
+   "title": "Creating a Tech Startup",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emea-5093",
+   "code": "EMEA 5093",
+   "title": "Frg, Fdg Lg Strtp Comp",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emea-5093",
+   "code": "EMEA 5093",
+   "title": "Frg, Fdg Lg Tech Strtp Comp",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emea-5222",
+   "code": "EMEA 5222",
+   "title": "Prod. Des. for the Circ. Econ.",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emea-5402",
+   "code": "EMEA 5402",
+   "title": "Managing the New Prod Dev Proc",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emea-5403",
+   "code": "EMEA 5403",
+   "title": "Product Innovation Management",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emen-5090",
+   "code": "EMEN 5090",
+   "title": "Marketing & Technology Venture",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emen-5094",
+   "code": "EMEN 5094",
+   "title": "Entrepreneurship for Engineers",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emen-5094",
+   "code": "EMEN 5094",
+   "title": "Technology Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-emen-5400",
+   "code": "EMEN 5400",
+   "title": "Product Dev & Design",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Engr & Applied Sci"
+  },
+  {
+   "id": "course-aprd-4501",
+   "code": "APRD 4501",
+   "title": "Design for Social Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Media, Comm & Info"
+  },
+  {
+   "id": "course-aprd-5006",
+   "code": "APRD 5006",
+   "title": "Design for Startups",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Media, Comm & Info"
+  },
+  {
+   "id": "course-cmci-3202",
+   "code": "CMCI 3202",
+   "title": "Entrepreneurial Media",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Media, Comm & Info"
+  },
+  {
+   "id": "course-mdst-2011",
+   "code": "MDST 2011",
+   "title": "Disruptive Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Media, Comm & Info"
+  },
+  {
+   "id": "course-aprd-5002",
+   "code": "APRD 5002",
+   "title": "Experience Design Foundations",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Media, Comm & Info"
+  },
+  {
+   "id": "course-aprd-5004",
+   "code": "APRD 5004",
+   "title": "Interaction Design",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Media, Comm & Info"
+  },
+  {
+   "id": "course-aprd-5006",
+   "code": "APRD 5006",
+   "title": "Design for Startups",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Media, Comm & Info"
+  },
+  {
+   "id": "course-aprd-5006",
+   "code": "APRD 5006",
+   "title": "Intro to Design for Entrepren",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Media, Comm & Info"
+  },
+  {
+   "id": "course-aprd-5008",
+   "code": "APRD 5008",
+   "title": "Entrepreneurism by Design",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Media, Comm & Info"
+  },
+  {
+   "id": "course-aprd-5012",
+   "code": "APRD 5012",
+   "title": "Entrepreneurial Design",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Media, Comm & Info"
+  },
+  {
+   "id": "course-aprd-5018",
+   "code": "APRD 5018",
+   "title": "Innovative Tech for Design",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Media, Comm & Info"
+  },
+  {
+   "id": "course-musc-4988",
+   "code": "MUSC 4988",
+   "title": "The Entrepreneurial Artist",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Music"
+  },
+  {
+   "id": "course-musc-4998",
+   "code": "MUSC 4998",
+   "title": "Music Entr Cert Capstone",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "College of Music"
+  },
+  {
+   "id": "course-musc-5988",
+   "code": "MUSC 5988",
+   "title": "The Entrepreneurial Artist",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "College of Music"
+  },
+  {
+   "id": "course-orgl-5010",
+   "code": "ORGL 5010",
+   "title": "Leading Change & Innovation",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Cross-College Programs"
+  },
+  {
+   "id": "course-orgl-5315",
+   "code": "ORGL 5315",
+   "title": "Strategy and Innovation",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Cross-College Programs"
+  },
+  {
+   "id": "course-orgl-5320",
+   "code": "ORGL 5320",
+   "title": "Bldg & Ldng Innov Work Teams",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Cross-College Programs"
+  },
+  {
+   "id": "course-bcor-2304",
+   "code": "BCOR 2304",
+   "title": "Strategic and Entrepr Thinking",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-busm-3010",
+   "code": "BUSM 3010",
+   "title": "Innovation & Entrep I",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-busm-3011",
+   "code": "BUSM 3011",
+   "title": "Innovation & Entrep II",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-busm-3011",
+   "code": "BUSM 3011",
+   "title": "Product Development II",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-busm-4010",
+   "code": "BUSM 4010",
+   "title": "Entrepreneurship & Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-busm-4010",
+   "code": "BUSM 4010",
+   "title": "Prof Bus Plan Development",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-buso-2200",
+   "code": "BUSO 2200",
+   "title": "Sports Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-esbm-3100",
+   "code": "ESBM 3100",
+   "title": "Innovation:Creativity to Entrp",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-esbm-3100",
+   "code": "ESBM 3100",
+   "title": "Intro to Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-esbm-3700",
+   "code": "ESBM 3700",
+   "title": "Entrepreneurial Environs",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-esbm-4570",
+   "code": "ESBM 4570",
+   "title": "Entrepreneurial Finance",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-esbm-4830",
+   "code": "ESBM 4830",
+   "title": "New Venture Creation",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-fnce-4080",
+   "code": "FNCE 4080",
+   "title": "Blockchain & Cryptocurrencies",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-inbu-3500",
+   "code": "INBU 3500",
+   "title": "Global Intensive:International",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-inbu-4925",
+   "code": "INBU 4925",
+   "title": "Entrepreneurship: South Africa",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mgmt-4160",
+   "code": "MGMT 4160",
+   "title": "Managing Growth: Entrep High",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mgmt-4160",
+   "code": "MGMT 4160",
+   "title": "Managing Growth:Entrep High",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-bpol-7530",
+   "code": "BPOL 7530",
+   "title": "Doc Sem: Special Topics",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-bpol-7560",
+   "code": "BPOL 7560",
+   "title": "Doc. Sem. - Special Topics",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6001",
+   "code": "MBAE 6001",
+   "title": "Ethics I",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6002",
+   "code": "MBAE 6002",
+   "title": "Ethics II",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6010",
+   "code": "MBAE 6010",
+   "title": "Economics and the Macroeconomy",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6021",
+   "code": "MBAE 6021",
+   "title": "Financial Accounting I",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6022",
+   "code": "MBAE 6022",
+   "title": "Financial Accounting II",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6050",
+   "code": "MBAE 6050",
+   "title": "Executive Level Strategy",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6051",
+   "code": "MBAE 6051",
+   "title": "Operations Management",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6065",
+   "code": "MBAE 6065",
+   "title": "Business Finance",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6081",
+   "code": "MBAE 6081",
+   "title": "Data and Uncertainty",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6091",
+   "code": "MBAE 6091",
+   "title": "Strategic Marketing I",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6092",
+   "code": "MBAE 6092",
+   "title": "Strategic Marketing II",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6100",
+   "code": "MBAE 6100",
+   "title": "Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6205",
+   "code": "MBAE 6205",
+   "title": "Risk Management",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6211",
+   "code": "MBAE 6211",
+   "title": "Applied Financial Management I",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6212",
+   "code": "MBAE 6212",
+   "title": "Applied Financial Mgmt II",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6420",
+   "code": "MBAE 6420",
+   "title": "Digital Strategy",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6470",
+   "code": "MBAE 6470",
+   "title": "Value Through Innovation",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6480",
+   "code": "MBAE 6480",
+   "title": "M&A and Corporate Development",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6530",
+   "code": "MBAE 6530",
+   "title": "Negotiations",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6560",
+   "code": "MBAE 6560",
+   "title": "Executive Leadership",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6565",
+   "code": "MBAE 6565",
+   "title": "Inclusive Leadership",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6581",
+   "code": "MBAE 6581",
+   "title": "Aligning People w Strategy I",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6582",
+   "code": "MBAE 6582",
+   "title": "Aligning People w Strategy II",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbae-6806",
+   "code": "MBAE 6806",
+   "title": "Global Business Experience",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6100",
+   "code": "MBAX 6100",
+   "title": "Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6101",
+   "code": "MBAX 6101",
+   "title": "Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6110",
+   "code": "MBAX 6110",
+   "title": "Entrepeneurial Finance",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6111",
+   "code": "MBAX 6111",
+   "title": "Entrepreneurial Finance",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6140",
+   "code": "MBAX 6140",
+   "title": "Social Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6160",
+   "code": "MBAX 6160",
+   "title": "High Growth Companies",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6170",
+   "code": "MBAX 6170",
+   "title": "New Venture Creation",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6171",
+   "code": "MBAX 6171",
+   "title": "New Venture Creation",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6180",
+   "code": "MBAX 6180",
+   "title": "New Venture Launch",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6190",
+   "code": "MBAX 6190",
+   "title": "Projects in Entrep Co",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6195",
+   "code": "MBAX 6195",
+   "title": "Topics in Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6280",
+   "code": "MBAX 6280",
+   "title": "Ent.Valuation and Investment 1",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6281",
+   "code": "MBAX 6281",
+   "title": "E-Valuation and Investment 2",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6282",
+   "code": "MBAX 6282",
+   "title": "Ent Valuation and Investmnt 3",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6361",
+   "code": "MBAX 6361",
+   "title": "New Product Development",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-mbax-6961",
+   "code": "MBAX 6961",
+   "title": "Ind Study Entrepreneur",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "Leeds School of Business"
+  },
+  {
+   "id": "course-epod-3105",
+   "code": "EPOD 3105",
+   "title": "Humn Centrd Dsgn Entrshp Strat",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "college": "Pgm Environmental Design"
+  },
+  {
+   "id": "course-laws-7271",
+   "code": "LAWS 7271",
+   "title": "Ventur Cap & Priv Equity",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "School of Law"
+  },
+  {
+   "id": "course-laws-7619",
+   "code": "LAWS 7619",
+   "title": "Entrepreneurial Law Clin",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "college": "School of Law"
+  },
+  {
+   "id": "course-entp-3200",
+   "code": "ENTP 3200",
+   "title": "Essentials in Entp",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-3200",
+   "code": "ENTP 3200",
+   "title": "Essentials in Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-3200",
+   "code": "ENTP 3200",
+   "title": "Fundamentals of Entp",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-3201",
+   "code": "ENTP 3201",
+   "title": "Lean Startup Fundamentals",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-3201",
+   "code": "ENTP 3201",
+   "title": "Power of Lean Startup",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-3210",
+   "code": "ENTP 3210",
+   "title": "Visionary Leadership Ventures",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-3240",
+   "code": "ENTP 3240",
+   "title": "Developing Dynamic Concepts",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-3260",
+   "code": "ENTP 3260",
+   "title": "Sales for Entrepreneurs",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-3900",
+   "code": "ENTP 3900",
+   "title": "Experiential Topics in Entp",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-4200",
+   "code": "ENTP 4200",
+   "title": "Mission Driven Mindset",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-4200",
+   "code": "ENTP 4200",
+   "title": "Social Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-4840",
+   "code": "ENTP 4840",
+   "title": "Entrepreneurship Ind Study",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-fnce-3850",
+   "code": "FNCE 3850",
+   "title": "Blockchain/Crypto Investing",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-intb-1111",
+   "code": "INTB 1111",
+   "title": "Int'l Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-mktg-4730",
+   "code": "MKTG 4730",
+   "title": "New Prod Dev/Consumer/Sports",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-bana-6600",
+   "code": "BANA 6600",
+   "title": "Blockchain & Emr Tech Global",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6020",
+   "code": "ENTP 6020",
+   "title": "Bus Model Development & Plan",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6021",
+   "code": "ENTP 6021",
+   "title": "Corporate Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6024",
+   "code": "ENTP 6024",
+   "title": "The Startup Launch",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6110",
+   "code": "ENTP 6110",
+   "title": "Innovation in Fintech",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6200",
+   "code": "ENTP 6200",
+   "title": "Mission Driven Entp",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6200",
+   "code": "ENTP 6200",
+   "title": "Social Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6300",
+   "code": "ENTP 6300",
+   "title": "AI-Driven Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6620",
+   "code": "ENTP 6620",
+   "title": "New Venture Ops & Project MGM",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6801",
+   "code": "ENTP 6801",
+   "title": "Healthcare Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6822",
+   "code": "ENTP 6822",
+   "title": "Legl-Ethicl Issues Entreprnsh",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6822",
+   "code": "ENTP 6822",
+   "title": "Legl-Ethicl Issues Entreprnshp",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6824",
+   "code": "ENTP 6824",
+   "title": "ENTP Financial Management",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6826",
+   "code": "ENTP 6826",
+   "title": "International Entrepreneurshi",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6826",
+   "code": "ENTP 6826",
+   "title": "International Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6836",
+   "code": "ENTP 6836",
+   "title": "High Impact Sales",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6848",
+   "code": "ENTP 6848",
+   "title": "Leadership in New Ventures",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-entp-6860",
+   "code": "ENTP 6860",
+   "title": "Innovation in Blockchain",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-fnce-6850",
+   "code": "FNCE 6850",
+   "title": "Blockchain/Crypto Investing",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-intb-6600",
+   "code": "INTB 6600",
+   "title": "Blockchain & Emr Tech Global",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-mktg-6040",
+   "code": "MKTG 6040",
+   "title": "Serv MKTG-Traditonal/Creat In",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-mktg-6040",
+   "code": "MKTG 6040",
+   "title": "Serv MKTG-Traditonal/Creat Ind",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-xbus-6830",
+   "code": "XBUS 6830",
+   "title": "ExecMBA Busn Model Innovation",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "Business School"
+  },
+  {
+   "id": "course-comm-4051",
+   "code": "COMM 4051",
+   "title": "Advanced Strategic Communication",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-comm-5051",
+   "code": "COMM 5051",
+   "title": "Advanced Strategic Communication",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-dacd-4820",
+   "code": "DACD 4820",
+   "title": "Production III",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fine-1000",
+   "code": "FINE 1000",
+   "title": "Fostering Creativity",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fine-3532",
+   "code": "FINE 3532",
+   "title": "Maquette Design",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fine-4002",
+   "code": "FINE 4002",
+   "title": "Illustration IV",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fine-4195",
+   "code": "FINE 4195",
+   "title": "Photography Portfolio I",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fine-4196",
+   "code": "FINE 4196",
+   "title": "Photography Portfolio II",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fine-4480",
+   "code": "FINE 4480",
+   "title": "Design Thesis Research",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fine-4495",
+   "code": "FINE 4495",
+   "title": "Design Thesis Project",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fine-4950",
+   "code": "FINE 4950",
+   "title": "Studio BFA Thesis",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fitv-2090",
+   "code": "FITV 2090",
+   "title": "Producing for Film & TV",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fitv-3050",
+   "code": "FITV 3050",
+   "title": "Junior Project Production",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fitv-3090",
+   "code": "FITV 3090",
+   "title": "Producing Episodic TV",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fitv-4000",
+   "code": "FITV 4000",
+   "title": "Senior Thesis Production",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fitv-3620",
+   "code": "FITV 3620",
+   "title": "The Business of Film",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fitv-4100",
+   "code": "FITV 4100",
+   "title": "The Business of Acting",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-musc-2815",
+   "code": "MUSC 2815",
+   "title": "Becoming an Ar!st to the World: Social Entrepreneurship and Music in the 21 Century",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-musc-4800",
+   "code": "MUSC 4800",
+   "title": "Music Ind Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-musc-4570",
+   "code": "MUSC 4570",
+   "title": "Career Development in Audio",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-musc-4580",
+   "code": "MUSC 4580",
+   "title": "Audio Production Seminar",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-musc-4939",
+   "code": "MUSC 4939",
+   "title": "Internships in MEIS�",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-pmus-3100",
+   "code": "PMUS 3100",
+   "title": "US Music: Soc & Poltcl Impct",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-pmus-4200",
+   "code": "PMUS 4200",
+   "title": "Senior Recital Project",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-fine-4000",
+   "code": "FINE 4000",
+   "title": "The Business of Art",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Arts & Media"
+  },
+  {
+   "id": "course-bioe-1010",
+   "code": "BIOE 1010",
+   "title": "BIOE Design and Proto I",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-bioe-1020",
+   "code": "BIOE 1020",
+   "title": "BIOE Design and Proto II",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-bioe-4300",
+   "code": "BIOE 4300",
+   "title": "Medical Device Design and Ent",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-csci-1200",
+   "code": "CSCI 1200",
+   "title": "Fund ENGR Design Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-csci-4407",
+   "code": "CSCI 4407",
+   "title": "Security & Cryptography",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-cscy-4407",
+   "code": "CSCY 4407",
+   "title": "Security and Cryptography",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-cven-1200",
+   "code": "CVEN 1200",
+   "title": "Fund ENGR Design Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-elec-1201",
+   "code": "ELEC 1201",
+   "title": "Fund ENGR Design Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-engr-1100",
+   "code": "ENGR 1100",
+   "title": "Fund Computational Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-engr-1200",
+   "code": "ENGR 1200",
+   "title": "Fund ENGR Design Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-iwks-2100",
+   "code": "IWKS 2100",
+   "title": "Human Centered Design",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-iwks-2300",
+   "code": "IWKS 2300",
+   "title": "Fund Computational Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-mech-1100",
+   "code": "MECH 1100",
+   "title": "Fund Computational Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-mech-1200",
+   "code": "MECH 1200",
+   "title": "Fund ENGR Design Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-bioe-5300",
+   "code": "BIOE 5300",
+   "title": "Med Device Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-csci-5407",
+   "code": "CSCI 5407",
+   "title": "Security & Cryptography",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "College of Engr Design & Comp"
+  },
+  {
+   "id": "course-sjus-4001",
+   "code": "SJUS 4001",
+   "title": "Social Justice Senior Project",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "College of Liberal Arts & Sci"
+  },
+  {
+   "id": "course-engl-4280",
+   "code": "ENGL 4280",
+   "title": "Proposal and Grant Writing",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "College of Liberal Arts & Sci"
+  },
+  {
+   "id": "course-engl-5280",
+   "code": "ENGL 5280",
+   "title": "Proposal and Grant Writing",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "College of Liberal Arts & Sci"
+  },
+  {
+   "id": "course-envs-6800",
+   "code": "ENVS 6800",
+   "title": "Community-Based Research Practicum",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "College of Liberal Arts & Sci"
+  },
+  {
+   "id": "course-geog-6800",
+   "code": "GEOG 6800",
+   "title": "Community-Based Research Practicum",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "College of Liberal Arts & Sci"
+  },
+  {
+   "id": "course-edfn-1060",
+   "code": "EDFN 1060",
+   "title": "Lvd Ex & 21st: Inn & Crtl Thk",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "School of Educ & Human Dev"
+  },
+  {
+   "id": "course-edfn-2060",
+   "code": "EDFN 2060",
+   "title": "Lvd Ex & 21st: Inn & Crtl Thk",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "School of Educ & Human Dev"
+  },
+  {
+   "id": "course-puad-4020",
+   "code": "PUAD 4020",
+   "title": "Social Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "college": "School of Public Affairs"
+  },
+  {
+   "id": "course-puad-5180",
+   "code": "PUAD 5180",
+   "title": "Social Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "college": "School of Public Affairs"
+  },
+  {
+   "id": "course-blaw-2010",
+   "code": "BLAW 2010",
+   "title": "Bus/Intellectual Property Law",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Business & Admin"
+  },
+  {
+   "id": "course-entp-1000",
+   "code": "ENTP 1000",
+   "title": "Intro to Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Business & Admin"
+  },
+  {
+   "id": "course-entp-1001",
+   "code": "ENTP 1001",
+   "title": "Intro Social Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Business & Admin"
+  },
+  {
+   "id": "course-entp-3000",
+   "code": "ENTP 3000",
+   "title": "Principles of Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Business & Admin"
+  },
+  {
+   "id": "course-entp-3100",
+   "code": "ENTP 3100",
+   "title": "Adv Princ of Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Business & Admin"
+  },
+  {
+   "id": "course-entp-3950",
+   "code": "ENTP 3950",
+   "title": "Topics in Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Business & Admin"
+  },
+  {
+   "id": "course-entp-4500",
+   "code": "ENTP 4500",
+   "title": "Entrepreneurship and Strategy",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Business & Admin"
+  },
+  {
+   "id": "course-infs-1100",
+   "code": "INFS 1100",
+   "title": "Prod Apps for the Workplace",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Business & Admin"
+  },
+  {
+   "id": "course-osim-4333",
+   "code": "OSIM 4333",
+   "title": "Practical Apps-Social Impact",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Business & Admin"
+  },
+  {
+   "id": "course-buad-6610",
+   "code": "BUAD 6610",
+   "title": "Man Innov for Strategic Adv",
+   "level": "Graduate",
+   "campus": "UCCS",
+   "college": "Coll of Business & Admin"
+  },
+  {
+   "id": "course-buad-6800",
+   "code": "BUAD 6800",
+   "title": "Entrepreneurship/New Ventures",
+   "level": "Graduate",
+   "campus": "UCCS",
+   "college": "Coll of Business & Admin"
+  },
+  {
+   "id": "course-buad-7300",
+   "code": "BUAD 7300",
+   "title": "Digital Strategy & Innovation",
+   "level": "Graduate",
+   "campus": "UCCS",
+   "college": "Coll of Business & Admin"
+  },
+  {
+   "id": "course-cs-4920",
+   "code": "CS 4920",
+   "title": "Intro to Applied Cryptography",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "id": "course-cs-9400",
+   "code": "CS 9400",
+   "title": "Undergrad Ind Stdy in CS Entp",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "id": "course-ece-4211",
+   "code": "ECE 4211",
+   "title": "Rapid Prototyping with FPGAs",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "id": "course-inov-1010",
+   "code": "INOV 1010",
+   "title": "The Innovation Process",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "id": "course-inov-2010",
+   "code": "INOV 2010",
+   "title": "INOV Team: Analyze & Report",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "id": "course-inov-2100",
+   "code": "INOV 2100",
+   "title": "Tech Writing, Proposals & Pres",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "id": "course-inov-3010",
+   "code": "INOV 3010",
+   "title": "INOV Team: Research & Execute",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "id": "course-inov-4000",
+   "code": "INOV 4000",
+   "title": "Ind Study in Innovation",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "id": "course-inov-4010",
+   "code": "INOV 4010",
+   "title": "INOV Team: Design & Lead",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "id": "course-inov-4100",
+   "code": "INOV 4100",
+   "title": "Advancing Innovation Practicum",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "id": "course-cs-5920",
+   "code": "CS 5920",
+   "title": "Intro to Applied Cryptography",
+   "level": "Graduate",
+   "campus": "UCCS",
+   "college": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "id": "course-ece-5211",
+   "code": "ECE 5211",
+   "title": "Rapid Prototyping with FPGAs",
+   "level": "Graduate",
+   "campus": "UCCS",
+   "college": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "id": "course-biol-2040",
+   "code": "BIOL 2040",
+   "title": "PLTW - Biomedical Innovation",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-hist-9499",
+   "code": "HIST 9499",
+   "title": "UGRD Research & Creative Works",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-inov-1000",
+   "code": "INOV 1000",
+   "title": "Intro to Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-inov-1001",
+   "code": "INOV 1001",
+   "title": "Intro Social Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-inov-1010",
+   "code": "INOV 1010",
+   "title": "The Innovation Process",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-inov-1011",
+   "code": "INOV 1011",
+   "title": "Social Innovation",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-inov-2010",
+   "code": "INOV 2010",
+   "title": "INOV Team: Analyze & Report",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-inov-2100",
+   "code": "INOV 2100",
+   "title": "Tech Writing, Proposals & Pres",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-inov-2500",
+   "code": "INOV 2500",
+   "title": "Business Law and Innovation",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-inov-3010",
+   "code": "INOV 3010",
+   "title": "INOV Team: Research & Execute",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-inov-4000",
+   "code": "INOV 4000",
+   "title": "Ind Study in Innovation",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-inov-4010",
+   "code": "INOV 4010",
+   "title": "INOV Team: Design & Lead",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-inov-4100",
+   "code": "INOV 4100",
+   "title": "Advancing Innovation Practicum",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-inov-4500",
+   "code": "INOV 4500",
+   "title": "Innovation Capstone",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-mus-4250",
+   "code": "MUS 4250",
+   "title": "The Business of Music",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-psy-9499",
+   "code": "PSY 9499",
+   "title": "Undergraduate Research",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-vapa-1500",
+   "code": "VAPA 1500",
+   "title": "Arts Innovations",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-west-9499",
+   "code": "WEST 9499",
+   "title": "Research and Creative Works",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "id": "course-nurs-4480",
+   "code": "NURS 4480",
+   "title": "Capstone, Innovation, & Lead",
+   "level": "Undergraduate",
+   "campus": "UCCS",
+   "college": "Coll of Nursing & Health Sci"
+  },
+  {
+   "id": "course-coun-5070",
+   "code": "COUN 5070",
+   "title": "Adventure Education",
+   "level": "Graduate",
+   "campus": "UCCS",
+   "college": "College of Education"
+  },
+  {
+   "id": "course-pad-5160",
+   "code": "PAD 5160",
+   "title": "Leading Nonprofit Innovation",
+   "level": "Graduate",
+   "campus": "UCCS",
+   "college": "College of Public Service"
+  },
+  {
+   "id": "course-pad-5180",
+   "code": "PAD 5180",
+   "title": "Social Entrepreneurship",
+   "level": "Graduate",
+   "campus": "UCCS",
+   "college": "College of Public Service"
+  },
+  {
+   "id": "course-padm-5160",
+   "code": "PADM 5160",
+   "title": "Leading Nonprofit Innovation",
+   "level": "Graduate",
+   "campus": "UCCS",
+   "college": "College of Public Service"
+  }
+ ],
+ "searchTerms": [
+  {
+   "term": "innovation",
+   "courses": 42,
+   "examples": [
+    "IDPT 5011",
+    "PRDM 7490",
+    "PRDM 7495",
+    "JTCM 6600",
+    "ENVM 5050"
+   ]
+  },
+  {
+   "term": "entrepreneurship",
+   "courses": 41,
+   "examples": [
+    "BSBT 6801",
+    "IDPT 5011",
+    "PRDM 7490",
+    "PRDM 7495",
+    "ECON 4717"
+   ]
+  },
+  {
+   "term": "design",
+   "courses": 25,
+   "examples": [
+    "ATLS 1100",
+    "EMEN 5400",
+    "APRD 4501",
+    "APRD 5006",
+    "APRD 5002"
+   ]
+  },
+  {
+   "term": "social",
+   "courses": 20,
+   "examples": [
+    "SOCY 4160",
+    "SOCY 4161",
+    "ENVM 5050",
+    "ATLS 5230",
+    "ATLS 5230"
+   ]
+  },
+  {
+   "term": "entrepreneurial",
+   "courses": 12,
+   "examples": [
+    "CSCI 4348",
+    "CSCI 4358",
+    "CSCI 5340",
+    "CSCI 5350",
+    "CMCI 3202"
+   ]
+  },
+  {
+   "term": "tech",
+   "courses": 11,
+   "examples": [
+    "BSBT 6939",
+    "EMEN 4800",
+    "ATLS 5240",
+    "EMEA 5091",
+    "EMEA 5092"
+   ]
+  },
+  {
+   "term": "blockchain",
+   "courses": 9,
+   "examples": [
+    "CSCI 4240",
+    "CSCI 5240",
+    "CYBR 5240",
+    "FNCE 4080",
+    "FNCE 3850"
+   ]
+  },
+  {
+   "term": "business",
+   "courses": 8,
+   "examples": [
+    "EMEA 5092",
+    "MBAE 6065",
+    "MBAE 6806",
+    "FITV 3620",
+    "FITV 4100"
+   ]
+  },
+  {
+   "term": "research",
+   "courses": 8,
+   "examples": [
+    "FINE 4480",
+    "ENVS 6800",
+    "GEOG 6800",
+    "INOV 3010",
+    "HIST 9499"
+   ]
+  },
+  {
+   "term": "fund",
+   "courses": 8,
+   "examples": [
+    "CSCI 1200",
+    "CVEN 1200",
+    "ELEC 1201",
+    "ENGR 1100",
+    "ENGR 1200"
+   ]
+  },
+  {
+   "term": "venture",
+   "courses": 7,
+   "examples": [
+    "EMEN 4825",
+    "EMEN 5090",
+    "ESBM 4830",
+    "MBAX 6170",
+    "MBAX 6171"
+   ]
+  },
+  {
+   "term": "strategy",
+   "courses": 7,
+   "examples": [
+    "ORGL 5315",
+    "MBAE 6050",
+    "MBAE 6420",
+    "MBAE 6581",
+    "MBAE 6582"
+   ]
+  },
+  {
+   "term": "management",
+   "courses": 6,
+   "examples": [
+    "HSMP 6633",
+    "EMEA 5403",
+    "MBAE 6051",
+    "MBAE 6205",
+    "MBAE 6211"
+   ]
+  },
+  {
+   "term": "project",
+   "courses": 6,
+   "examples": [
+    "ENVM 5076",
+    "ENTP 6620",
+    "FINE 4495",
+    "FITV 3050",
+    "PMUS 4200"
+   ]
+  },
+  {
+   "term": "entrep",
+   "courses": 6,
+   "examples": [
+    "EMEN 4200",
+    "BUSM 3010",
+    "BUSM 3011",
+    "MGMT 4160",
+    "MGMT 4160"
+   ]
+  },
+  {
+   "term": "impact",
+   "courses": 6,
+   "examples": [
+    "ATLS 5230",
+    "ATLS 5230",
+    "ATLS 5240",
+    "ATLS 6910",
+    "ENTP 6836"
+   ]
+  },
+  {
+   "term": "topics",
+   "courses": 6,
+   "examples": [
+    "ATLS 5519",
+    "BPOL 7530",
+    "BPOL 7560",
+    "MBAX 6195",
+    "ENTP 3900"
+   ]
+  },
+  {
+   "term": "strategic",
+   "courses": 6,
+   "examples": [
+    "BCOR 2304",
+    "MBAE 6091",
+    "MBAE 6092",
+    "COMM 4051",
+    "COMM 5051"
+   ]
+  },
+  {
+   "term": "development",
+   "courses": 6,
+   "examples": [
+    "BUSM 3011",
+    "BUSM 4010",
+    "MBAE 6480",
+    "MBAX 6361",
+    "ENTP 6020"
+   ]
+  },
+  {
+   "term": "entp",
+   "courses": 6,
+   "examples": [
+    "ENTP 3200",
+    "ENTP 3200",
+    "ENTP 3900",
+    "ENTP 6200",
+    "ENTP 6824"
+   ]
+  },
+  {
+   "term": "inov",
+   "courses": 6,
+   "examples": [
+    "INOV 2010",
+    "INOV 3010",
+    "INOV 4010",
+    "INOV 2010",
+    "INOV 3010"
+   ]
+  },
+  {
+   "term": "team",
+   "courses": 6,
+   "examples": [
+    "INOV 2010",
+    "INOV 3010",
+    "INOV 4010",
+    "INOV 2010",
+    "INOV 3010"
+   ]
+  },
+  {
+   "term": "leadership",
+   "courses": 5,
+   "examples": [
+    "NURS 6800",
+    "MBAE 6560",
+    "MBAE 6565",
+    "ENTP 3210",
+    "ENTP 6848"
+   ]
+  },
+  {
+   "term": "capstone",
+   "courses": 5,
+   "examples": [
+    "ENVM 6001",
+    "ENVM 6002",
+    "MUSC 4998",
+    "INOV 4500",
+    "NURS 4480"
+   ]
+  },
+  {
+   "term": "projects",
+   "courses": 5,
+   "examples": [
+    "CSCI 4348",
+    "CSCI 4358",
+    "CSCI 5340",
+    "CSCI 5350",
+    "MBAX 6190"
+   ]
+  },
+  {
+   "term": "prod",
+   "courses": 5,
+   "examples": [
+    "EMEN 4820",
+    "EMEA 5222",
+    "EMEA 5402",
+    "MKTG 4730",
+    "INFS 1100"
+   ]
+  },
+  {
+   "term": "practicum",
+   "courses": 5,
+   "examples": [
+    "ATLS 6910",
+    "ENVS 6800",
+    "GEOG 6800",
+    "INOV 4100",
+    "INOV 4100"
+   ]
+  },
+  {
+   "term": "startup",
+   "courses": 5,
+   "examples": [
+    "EMEA 5092",
+    "EMEA 5092",
+    "ENTP 3201",
+    "ENTP 3201",
+    "ENTP 6024"
+   ]
+  },
+  {
+   "term": "music",
+   "courses": 5,
+   "examples": [
+    "MUSC 4998",
+    "MUSC 2815",
+    "MUSC 4800",
+    "PMUS 3100",
+    "MUS 4250"
+   ]
+  },
+  {
+   "term": "financial",
+   "courses": 5,
+   "examples": [
+    "MBAE 6021",
+    "MBAE 6022",
+    "MBAE 6211",
+    "MBAE 6212",
+    "ENTP 6824"
+   ]
+  },
+  {
+   "term": "engr",
+   "courses": 5,
+   "examples": [
+    "CSCI 1200",
+    "CVEN 1200",
+    "ELEC 1201",
+    "ENGR 1200",
+    "MECH 1200"
+   ]
+  },
+  {
+   "term": "cryptography",
+   "courses": 5,
+   "examples": [
+    "CSCI 4407",
+    "CSCY 4407",
+    "CSCI 5407",
+    "CS 4920",
+    "CS 5920"
+   ]
+  },
+  {
+   "term": "innovations",
+   "courses": 4,
+   "examples": [
+    "MCDB 3333",
+    "SOCY 4160",
+    "SOCY 4161",
+    "VAPA 1500"
+   ]
+  },
+  {
+   "term": "ventures",
+   "courses": 4,
+   "examples": [
+    "EMEN 4800",
+    "ENTP 3210",
+    "ENTP 6848",
+    "BUAD 6800"
+   ]
+  },
+  {
+   "term": "marketing",
+   "courses": 4,
+   "examples": [
+    "EMEN 4800",
+    "EMEN 5090",
+    "MBAE 6091",
+    "MBAE 6092"
+   ]
+  },
+  {
+   "term": "creation",
+   "courses": 4,
+   "examples": [
+    "EMEN 4825",
+    "ESBM 4830",
+    "MBAX 6170",
+    "MBAX 6171"
+   ]
+  },
+  {
+   "term": "startups",
+   "courses": 4,
+   "examples": [
+    "EMEA 5091",
+    "EMEA 5091",
+    "APRD 5006",
+    "APRD 5006"
+   ]
+  },
+  {
+   "term": "product",
+   "courses": 4,
+   "examples": [
+    "EMEA 5403",
+    "EMEN 5400",
+    "BUSM 3011",
+    "MBAX 6361"
+   ]
+  },
+  {
+   "term": "finance",
+   "courses": 4,
+   "examples": [
+    "ESBM 4570",
+    "MBAE 6065",
+    "MBAX 6110",
+    "MBAX 6111"
+   ]
+  },
+  {
+   "term": "global",
+   "courses": 4,
+   "examples": [
+    "INBU 3500",
+    "MBAE 6806",
+    "BANA 6600",
+    "INTB 6600"
+   ]
+  },
+  {
+   "term": "high",
+   "courses": 4,
+   "examples": [
+    "MGMT 4160",
+    "MGMT 4160",
+    "MBAX 6160",
+    "ENTP 6836"
+   ]
+  },
+  {
+   "term": "applied",
+   "courses": 4,
+   "examples": [
+    "MBAE 6211",
+    "MBAE 6212",
+    "CS 4920",
+    "CS 5920"
+   ]
+  },
+  {
+   "term": "study",
+   "courses": 4,
+   "examples": [
+    "MBAX 6961",
+    "ENTP 4840",
+    "INOV 4000",
+    "INOV 4000"
+   ]
+  },
+  {
+   "term": "production",
+   "courses": 4,
+   "examples": [
+    "DACD 4820",
+    "FITV 3050",
+    "FITV 4000",
+    "MUSC 4580"
+   ]
+  },
+  {
+   "term": "thesis",
+   "courses": 4,
+   "examples": [
+    "FINE 4480",
+    "FINE 4495",
+    "FINE 4950",
+    "FITV 4000"
+   ]
+  },
+  {
+   "term": "writing",
+   "courses": 4,
+   "examples": [
+    "ENGL 4280",
+    "ENGL 5280",
+    "INOV 2100",
+    "INOV 2100"
+   ]
+  },
+  {
+   "term": "biomedical",
+   "courses": 3,
+   "examples": [
+    "BSBT 6801",
+    "IDPT 5011",
+    "BIOL 2040"
+   ]
+  },
+  {
+   "term": "innov",
+   "courses": 3,
+   "examples": [
+    "BSBT 6939",
+    "ORGL 5320",
+    "BUAD 6610"
+   ]
+  },
+  {
+   "term": "grant",
+   "courses": 3,
+   "examples": [
+    "CLSC 7300",
+    "ENGL 4280",
+    "ENGL 5280"
+   ]
+  },
+  {
+   "term": "process",
+   "courses": 3,
+   "examples": [
+    "CLSC 7300",
+    "INOV 1010",
+    "INOV 1010"
+   ]
+  },
+  {
+   "term": "communication",
+   "courses": 3,
+   "examples": [
+    "JTCM 6600",
+    "COMM 4051",
+    "COMM 5051"
+   ]
+  },
+  {
+   "term": "creative",
+   "courses": 3,
+   "examples": [
+    "ATLS 5410",
+    "HIST 9499",
+    "WEST 9499"
+   ]
+  },
+  {
+   "term": "creativity",
+   "courses": 3,
+   "examples": [
+    "ATLS 5420",
+    "ESBM 3100",
+    "FINE 1000"
+   ]
+  },
+  {
+   "term": "special",
+   "courses": 3,
+   "examples": [
+    "ATLS 5519",
+    "BPOL 7530",
+    "BPOL 7560"
+   ]
+  },
+  {
+   "term": "proposal",
+   "courses": 3,
+   "examples": [
+    "CVEN 5139",
+    "ENGL 4280",
+    "ENGL 5280"
+   ]
+  },
+  {
+   "term": "prototyping",
+   "courses": 3,
+   "examples": [
+    "ECEA 5347",
+    "ECE 4211",
+    "ECE 5211"
+   ]
+  },
+  {
+   "term": "managing",
+   "courses": 3,
+   "examples": [
+    "EMEA 5402",
+    "MGMT 4160",
+    "MGMT 4160"
+   ]
+  },
+  {
+   "term": "leading",
+   "courses": 3,
+   "examples": [
+    "ORGL 5010",
+    "PAD 5160",
+    "PADM 5160"
+   ]
+  },
+  {
+   "term": "international",
+   "courses": 3,
+   "examples": [
+    "INBU 3500",
+    "ENTP 6826",
+    "ENTP 6826"
+   ]
+  },
+  {
+   "term": "growth",
+   "courses": 3,
+   "examples": [
+    "MGMT 4160",
+    "MGMT 4160",
+    "MBAX 6160"
+   ]
+  },
+  {
+   "term": "valuation",
+   "courses": 3,
+   "examples": [
+    "MBAX 6280",
+    "MBAX 6281",
+    "MBAX 6282"
+   ]
+  },
+  {
+   "term": "driven",
+   "courses": 3,
+   "examples": [
+    "ENTP 4200",
+    "ENTP 6200",
+    "ENTP 6300"
+   ]
+  },
+  {
+   "term": "senior",
+   "courses": 3,
+   "examples": [
+    "FITV 4000",
+    "PMUS 4200",
+    "SJUS 4001"
+   ]
+  },
+  {
+   "term": "security",
+   "courses": 3,
+   "examples": [
+    "CSCI 4407",
+    "CSCY 4407",
+    "CSCI 5407"
+   ]
+  },
+  {
+   "term": "computational",
+   "courses": 3,
+   "examples": [
+    "ENGR 1100",
+    "IWKS 2300",
+    "MECH 1100"
+   ]
+  },
+  {
+   "term": "lead",
+   "courses": 3,
+   "examples": [
+    "INOV 4010",
+    "INOV 4010",
+    "NURS 4480"
+   ]
+  },
+  {
+   "term": "adventure",
+   "courses": 2,
+   "examples": [
+    "IWKS 3180",
+    "COUN 5070"
+   ]
+  },
+  {
+   "term": "innovative",
+   "courses": 2,
+   "examples": [
+    "NURS 6800",
+    "APRD 5018"
+   ]
+  },
+  {
+   "term": "internship",
+   "courses": 2,
+   "examples": [
+    "ANAT 6931",
+    "BSBT 6939"
+   ]
+  },
+  {
+   "term": "life",
+   "courses": 2,
+   "examples": [
+    "BSBT 6802",
+    "BSBT 6803"
+   ]
+  },
+  {
+   "term": "medical",
+   "courses": 2,
+   "examples": [
+    "PRDM 7150",
+    "BIOE 4300"
+   ]
+  },
+  {
+   "term": "economics",
+   "courses": 2,
+   "examples": [
+    "ECON 4717",
+    "MBAE 6010"
+   ]
+  },
+  {
+   "term": "entrepr",
+   "courses": 2,
+   "examples": [
+    "ENVM 5076",
+    "BCOR 2304"
+   ]
+  },
+  {
+   "term": "mgmt",
+   "courses": 2,
+   "examples": [
+    "ENVM 5076",
+    "MBAE 6212"
+   ]
+  },
+  {
+   "term": "foundations",
+   "courses": 2,
+   "examples": [
+    "ATLS 1100",
+    "APRD 5002"
+   ]
+  },
+  {
+   "term": "world",
+   "courses": 2,
+   "examples": [
+    "EMEN 4200",
+    "MUSC 2815"
+   ]
+  },
+  {
+   "term": "entrepren",
+   "courses": 2,
+   "examples": [
+    "EMEN 4820",
+    "APRD 5006"
+   ]
+  },
+  {
+   "term": "case",
+   "courses": 2,
+   "examples": [
+    "ATLS 5230",
+    "ATLS 5230"
+   ]
+  },
+  {
+   "term": "studies",
+   "courses": 2,
+   "examples": [
+    "ATLS 5230",
+    "ATLS 5230"
+   ]
+  },
+  {
+   "term": "dsgn",
+   "courses": 2,
+   "examples": [
+    "ECEA 5347",
+    "EPOD 3105"
+   ]
+  },
+  {
+   "term": "getting",
+   "courses": 2,
+   "examples": [
+    "EMEA 5091",
+    "EMEA 5091"
+   ]
+  },
+  {
+   "term": "started",
+   "courses": 2,
+   "examples": [
+    "EMEA 5091",
+    "EMEA 5091"
+   ]
+  },
+  {
+   "term": "creating",
+   "courses": 2,
+   "examples": [
+    "EMEA 5092",
+    "EMEA 5092"
+   ]
+  },
+  {
+   "term": "strtp",
+   "courses": 2,
+   "examples": [
+    "EMEA 5093",
+    "EMEA 5093"
+   ]
+  },
+  {
+   "term": "comp",
+   "courses": 2,
+   "examples": [
+    "EMEA 5093",
+    "EMEA 5093"
+   ]
+  },
+  {
+   "term": "technology",
+   "courses": 2,
+   "examples": [
+    "EMEN 5090",
+    "EMEN 5094"
+   ]
+  },
+  {
+   "term": "experience",
+   "courses": 2,
+   "examples": [
+    "APRD 5002",
+    "MBAE 6806"
+   ]
+  },
+  {
+   "term": "artist",
+   "courses": 2,
+   "examples": [
+    "MUSC 4988",
+    "MUSC 5988"
+   ]
+  },
+  {
+   "term": "plan",
+   "courses": 2,
+   "examples": [
+    "BUSM 4010",
+    "ENTP 6020"
+   ]
+  },
+  {
+   "term": "sports",
+   "courses": 2,
+   "examples": [
+    "BUSO 2200",
+    "MKTG 4730"
+   ]
+  },
+  {
+   "term": "ethics",
+   "courses": 2,
+   "examples": [
+    "MBAE 6001",
+    "MBAE 6002"
+   ]
+  },
+  {
+   "term": "accounting",
+   "courses": 2,
+   "examples": [
+    "MBAE 6021",
+    "MBAE 6022"
+   ]
+  },
+  {
+   "term": "executive",
+   "courses": 2,
+   "examples": [
+    "MBAE 6050",
+    "MBAE 6560"
+   ]
+  },
+  {
+   "term": "digital",
+   "courses": 2,
+   "examples": [
+    "MBAE 6420",
+    "BUAD 7300"
+   ]
+  },
+  {
+   "term": "corporate",
+   "courses": 2,
+   "examples": [
+    "MBAE 6480",
+    "ENTP 6021"
+   ]
+  },
+  {
+   "term": "aligning",
+   "courses": 2,
+   "examples": [
+    "MBAE 6581",
+    "MBAE 6582"
+   ]
+  },
+  {
+   "term": "people",
+   "courses": 2,
+   "examples": [
+    "MBAE 6581",
+    "MBAE 6582"
+   ]
+  },
+  {
+   "term": "launch",
+   "courses": 2,
+   "examples": [
+    "MBAX 6180",
+    "ENTP 6024"
+   ]
+  },
+  {
+   "term": "investment",
+   "courses": 2,
+   "examples": [
+    "MBAX 6280",
+    "MBAX 6281"
+   ]
+  },
+  {
+   "term": "essentials",
+   "courses": 2,
+   "examples": [
+    "ENTP 3200",
+    "ENTP 3200"
+   ]
+  },
+  {
+   "term": "fundamentals",
+   "courses": 2,
+   "examples": [
+    "ENTP 3200",
+    "ENTP 3201"
+   ]
+  },
+  {
+   "term": "lean",
+   "courses": 2,
+   "examples": [
+    "ENTP 3201",
+    "ENTP 3201"
+   ]
+  },
+  {
+   "term": "sales",
+   "courses": 2,
+   "examples": [
+    "ENTP 3260",
+    "ENTP 6836"
+   ]
+  },
+  {
+   "term": "mission",
+   "courses": 2,
+   "examples": [
+    "ENTP 4200",
+    "ENTP 6200"
+   ]
+  },
+  {
+   "term": "crypto",
+   "courses": 2,
+   "examples": [
+    "FNCE 3850",
+    "FNCE 6850"
+   ]
+  },
+  {
+   "term": "investing",
+   "courses": 2,
+   "examples": [
+    "FNCE 3850",
+    "FNCE 6850"
+   ]
+  },
+  {
+   "term": "model",
+   "courses": 2,
+   "examples": [
+    "ENTP 6020",
+    "XBUS 6830"
+   ]
+  },
+  {
+   "term": "legl",
+   "courses": 2,
+   "examples": [
+    "ENTP 6822",
+    "ENTP 6822"
+   ]
+  },
+  {
+   "term": "ethicl",
+   "courses": 2,
+   "examples": [
+    "ENTP 6822",
+    "ENTP 6822"
+   ]
+  },
+  {
+   "term": "issues",
+   "courses": 2,
+   "examples": [
+    "ENTP 6822",
+    "ENTP 6822"
+   ]
+  },
+  {
+   "term": "serv",
+   "courses": 2,
+   "examples": [
+    "MKTG 6040",
+    "MKTG 6040"
+   ]
+  },
+  {
+   "term": "mktg",
+   "courses": 2,
+   "examples": [
+    "MKTG 6040",
+    "MKTG 6040"
+   ]
+  },
+  {
+   "term": "traditonal",
+   "courses": 2,
+   "examples": [
+    "MKTG 6040",
+    "MKTG 6040"
+   ]
+  },
+  {
+   "term": "creat",
+   "courses": 2,
+   "examples": [
+    "MKTG 6040",
+    "MKTG 6040"
+   ]
+  },
+  {
+   "term": "advanced",
+   "courses": 2,
+   "examples": [
+    "COMM 4051",
+    "COMM 5051"
+   ]
+  },
+  {
+   "term": "photography",
+   "courses": 2,
+   "examples": [
+    "FINE 4195",
+    "FINE 4196"
+   ]
+  },
+  {
+   "term": "portfolio",
+   "courses": 2,
+   "examples": [
+    "FINE 4195",
+    "FINE 4196"
+   ]
+  },
+  {
+   "term": "producing",
+   "courses": 2,
+   "examples": [
+    "FITV 2090",
+    "FITV 3090"
+   ]
+  },
+  {
+   "term": "film",
+   "courses": 2,
+   "examples": [
+    "FITV 2090",
+    "FITV 3620"
+   ]
+  },
+  {
+   "term": "audio",
+   "courses": 2,
+   "examples": [
+    "MUSC 4570",
+    "MUSC 4580"
+   ]
+  },
+  {
+   "term": "bioe",
+   "courses": 2,
+   "examples": [
+    "BIOE 1010",
+    "BIOE 1020"
+   ]
+  },
+  {
+   "term": "proto",
+   "courses": 2,
+   "examples": [
+    "BIOE 1010",
+    "BIOE 1020"
+   ]
+  },
+  {
+   "term": "device",
+   "courses": 2,
+   "examples": [
+    "BIOE 4300",
+    "BIOE 5300"
+   ]
+  },
+  {
+   "term": "community",
+   "courses": 2,
+   "examples": [
+    "ENVS 6800",
+    "GEOG 6800"
+   ]
+  },
+  {
+   "term": "based",
+   "courses": 2,
+   "examples": [
+    "ENVS 6800",
+    "GEOG 6800"
+   ]
+  },
+  {
+   "term": "21st",
+   "courses": 2,
+   "examples": [
+    "EDFN 1060",
+    "EDFN 2060"
+   ]
+  },
+  {
+   "term": "crtl",
+   "courses": 2,
+   "examples": [
+    "EDFN 1060",
+    "EDFN 2060"
+   ]
+  },
+  {
+   "term": "apps",
+   "courses": 2,
+   "examples": [
+    "INFS 1100",
+    "OSIM 4333"
+   ]
+  },
+  {
+   "term": "rapid",
+   "courses": 2,
+   "examples": [
+    "ECE 4211",
+    "ECE 5211"
+   ]
+  },
+  {
+   "term": "fpgas",
+   "courses": 2,
+   "examples": [
+    "ECE 4211",
+    "ECE 5211"
+   ]
+  },
+  {
+   "term": "analyze",
+   "courses": 2,
+   "examples": [
+    "INOV 2010",
+    "INOV 2010"
+   ]
+  },
+  {
+   "term": "report",
+   "courses": 2,
+   "examples": [
+    "INOV 2010",
+    "INOV 2010"
+   ]
+  },
+  {
+   "term": "proposals",
+   "courses": 2,
+   "examples": [
+    "INOV 2100",
+    "INOV 2100"
+   ]
+  },
+  {
+   "term": "pres",
+   "courses": 2,
+   "examples": [
+    "INOV 2100",
+    "INOV 2100"
+   ]
+  },
+  {
+   "term": "execute",
+   "courses": 2,
+   "examples": [
+    "INOV 3010",
+    "INOV 3010"
+   ]
+  },
+  {
+   "term": "advancing",
+   "courses": 2,
+   "examples": [
+    "INOV 4100",
+    "INOV 4100"
+   ]
+  },
+  {
+   "term": "works",
+   "courses": 2,
+   "examples": [
+    "HIST 9499",
+    "WEST 9499"
+   ]
+  },
+  {
+   "term": "nonprofit",
+   "courses": 2,
+   "examples": [
+    "PAD 5160",
+    "PADM 5160"
+   ]
+  },
+  {
+   "term": "choose",
+   "courses": 1,
+   "examples": [
+    "IWKS 3180"
+   ]
+  },
+  {
+   "term": "your",
+   "courses": 1,
+   "examples": [
+    "IWKS 3180"
+   ]
+  },
+  {
+   "term": "quality",
+   "courses": 1,
+   "examples": [
+    "NURS 4860"
+   ]
+  },
+  {
+   "term": "safety",
+   "courses": 1,
+   "examples": [
+    "NURS 4860"
+   ]
+  },
+  {
+   "term": "msmha",
+   "courses": 1,
+   "examples": [
+    "ANAT 6931"
+   ]
+  },
+  {
+   "term": "drug",
+   "courses": 1,
+   "examples": [
+    "BSBT 6802"
+   ]
+  },
+  {
+   "term": "disc",
+   "courses": 1,
+   "examples": [
+    "BSBT 6802"
+   ]
+  },
+  {
+   "term": "devices",
+   "courses": 1,
+   "examples": [
+    "BSBT 6803"
+   ]
+  },
+  {
+   "term": "bioinnovation",
+   "courses": 1,
+   "examples": [
+    "BSBT 6804"
+   ]
+  },
+  {
+   "term": "regulations",
+   "courses": 1,
+   "examples": [
+    "BSBT 6804"
+   ]
+  },
+  {
+   "term": "review",
+   "courses": 1,
+   "examples": [
+    "CLSC 7300"
+   ]
+  },
+  {
+   "term": "terminology",
+   "courses": 1,
+   "examples": [
+    "PRDM 7150"
+   ]
+  },
+  {
+   "term": "interpretation",
+   "courses": 1,
+   "examples": [
+    "PRDM 7150"
+   ]
+  },
+  {
+   "term": "clinical",
+   "courses": 1,
+   "examples": [
+    "PRDM 7700"
+   ]
+  },
+  {
+   "term": "skills",
+   "courses": 1,
+   "examples": [
+    "PRDM 7700"
+   ]
+  },
+  {
+   "term": "foundation",
+   "courses": 1,
+   "examples": [
+    "PRDM 7700"
+   ]
+  },
+  {
+   "term": "profit",
+   "courses": 1,
+   "examples": [
+    "HSMP 6633"
+   ]
+  },
+  {
+   "term": "organizations",
+   "courses": 1,
+   "examples": [
+    "HSMP 6633"
+   ]
+  },
+  {
+   "term": "public",
+   "courses": 1,
+   "examples": [
+    "HSMP 6633"
+   ]
+  },
+  {
+   "term": "health",
+   "courses": 1,
+   "examples": [
+    "HSMP 6633"
+   ]
+  },
+  {
+   "term": "biomed",
+   "courses": 1,
+   "examples": [
+    "MCDB 3333"
+   ]
+  },
+  {
+   "term": "discoveries",
+   "courses": 1,
+   "examples": [
+    "MCDB 3333"
+   ]
+  },
+  {
+   "term": "designing",
+   "courses": 1,
+   "examples": [
+    "SOCY 4160"
+   ]
+  },
+  {
+   "term": "executing",
+   "courses": 1,
+   "examples": [
+    "SOCY 4161"
+   ]
+  },
+  {
+   "term": "innovating",
+   "courses": 1,
+   "examples": [
+    "SSIR 1010"
+   ]
+  },
+  {
+   "term": "sustainability",
+   "courses": 1,
+   "examples": [
+    "SSIR 1010"
+   ]
+  },
+  {
+   "term": "sust",
+   "courses": 1,
+   "examples": [
+    "ENVM 5050"
+   ]
+  },
+  {
+   "term": "cities",
+   "courses": 1,
+   "examples": [
+    "ENVM 5050"
+   ]
+  },
+  {
+   "term": "appl",
+   "courses": 1,
+   "examples": [
+    "ENVM 5076"
+   ]
+  },
+  {
+   "term": "invention",
+   "courses": 1,
+   "examples": [
+    "GEEN 3400"
+   ]
+  },
+  {
+   "term": "laboratory",
+   "courses": 1,
+   "examples": [
+    "ATLS 5240"
+   ]
+  },
+  {
+   "term": "technologies",
+   "courses": 1,
+   "examples": [
+    "ATLS 5410"
+   ]
+  },
+  {
+   "term": "proseminar",
+   "courses": 1,
+   "examples": [
+    "ATLS 5420"
+   ]
+  },
+  {
+   "term": "ident",
+   "courses": 1,
+   "examples": [
+    "CVEN 5139"
+   ]
+  },
+  {
+   "term": "rapd",
+   "courses": 1,
+   "examples": [
+    "ECEA 5347"
+   ]
+  },
+  {
+   "term": "circ",
+   "courses": 1,
+   "examples": [
+    "EMEA 5222"
+   ]
+  },
+  {
+   "term": "econ",
+   "courses": 1,
+   "examples": [
+    "EMEA 5222"
+   ]
+  },
+  {
+   "term": "proc",
+   "courses": 1,
+   "examples": [
+    "EMEA 5402"
+   ]
+  },
+  {
+   "term": "engineers",
+   "courses": 1,
+   "examples": [
+    "EMEN 5094"
+   ]
+  },
+  {
+   "term": "media",
+   "courses": 1,
+   "examples": [
+    "CMCI 3202"
+   ]
+  },
+  {
+   "term": "disruptive",
+   "courses": 1,
+   "examples": [
+    "MDST 2011"
+   ]
+  },
+  {
+   "term": "interaction",
+   "courses": 1,
+   "examples": [
+    "APRD 5004"
+   ]
+  },
+  {
+   "term": "entrepreneurism",
+   "courses": 1,
+   "examples": [
+    "APRD 5008"
+   ]
+  },
+  {
+   "term": "entr",
+   "courses": 1,
+   "examples": [
+    "MUSC 4998"
+   ]
+  },
+  {
+   "term": "cert",
+   "courses": 1,
+   "examples": [
+    "MUSC 4998"
+   ]
+  },
+  {
+   "term": "change",
+   "courses": 1,
+   "examples": [
+    "ORGL 5010"
+   ]
+  },
+  {
+   "term": "bldg",
+   "courses": 1,
+   "examples": [
+    "ORGL 5320"
+   ]
+  },
+  {
+   "term": "ldng",
+   "courses": 1,
+   "examples": [
+    "ORGL 5320"
+   ]
+  },
+  {
+   "term": "work",
+   "courses": 1,
+   "examples": [
+    "ORGL 5320"
+   ]
+  },
+  {
+   "term": "teams",
+   "courses": 1,
+   "examples": [
+    "ORGL 5320"
+   ]
+  },
+  {
+   "term": "thinking",
+   "courses": 1,
+   "examples": [
+    "BCOR 2304"
+   ]
+  },
+  {
+   "term": "prof",
+   "courses": 1,
+   "examples": [
+    "BUSM 4010"
+   ]
+  },
+  {
+   "term": "entrp",
+   "courses": 1,
+   "examples": [
+    "ESBM 3100"
+   ]
+  },
+  {
+   "term": "environs",
+   "courses": 1,
+   "examples": [
+    "ESBM 3700"
+   ]
+  },
+  {
+   "term": "cryptocurrencies",
+   "courses": 1,
+   "examples": [
+    "FNCE 4080"
+   ]
+  },
+  {
+   "term": "intensive",
+   "courses": 1,
+   "examples": [
+    "INBU 3500"
+   ]
+  },
+  {
+   "term": "south",
+   "courses": 1,
+   "examples": [
+    "INBU 4925"
+   ]
+  },
+  {
+   "term": "africa",
+   "courses": 1,
+   "examples": [
+    "INBU 4925"
+   ]
+  },
+  {
+   "term": "macroeconomy",
+   "courses": 1,
+   "examples": [
+    "MBAE 6010"
+   ]
+  },
+  {
+   "term": "level",
+   "courses": 1,
+   "examples": [
+    "MBAE 6050"
+   ]
+  },
+  {
+   "term": "operations",
+   "courses": 1,
+   "examples": [
+    "MBAE 6051"
+   ]
+  },
+  {
+   "term": "data",
+   "courses": 1,
+   "examples": [
+    "MBAE 6081"
+   ]
+  }
+ ]
+}

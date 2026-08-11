@@ -1,0 +1,3526 @@
+{
+ "ENROLLMENT": {
+  "years": [
+   "2023",
+   "2024",
+   "2025",
+   "2026"
+  ],
+  "byCampus": {
+   "CU Boulder": [
+    3766,
+    3820,
+    4343,
+    4397
+   ],
+   "CU Denver": [
+    1893,
+    1889,
+    1859,
+    1675
+   ],
+   "CU Colorado Springs": [
+    1739,
+    1629,
+    1552,
+    1460
+   ],
+   "CU Anschutz Medical Campus": [
+    129,
+    109,
+    109,
+    83
+   ]
+  }
+ },
+ "PROGRAMS": [
+  {
+   "name": "Chancellor's Discovery and Innovation Fund",
+   "url": "https://cdifund.secure-platform.com/a",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Faculty / Medical Professionals"
+   ]
+  },
+  {
+   "name": "CU Healthcare Innovation Fund",
+   "url": "https://www.cuanschutz.edu/innovations/campus-innovator/funding/cu-healthcare-innovation-fund",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Healthcare / Innovation Students only",
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "Gates Grubstake Award",
+   "url": "https://gates.cuanschutz.edu/commercialization/gates-grubstake-fund",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Accepted Students",
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "Innovation Hub",
+   "url": "https://www.cuanschutz.edu/innovations/campus-innovator/faculty-or-researcher/form-a-company/innovation-hub",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Healthcare Innovation & Entrepreneurship (HIE) Initiative",
+   "url": "https://www.cuanschutz.edu/innovations/HIE",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Faculty",
+    "Open to Researchers & Graduate Students",
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Clinical Innovation Advisors",
+   "url": "https://www.cuanschutz.edu/innovations/campus-innovator/faculty-or-researcher/manage-ip/healthcare-advisors",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Faculty / Medical Professionals"
+   ]
+  },
+  {
+   "name": "Faculty Commercialization Support",
+   "url": "https://www.cuanschutz.edu/innovations/campus-innovator/faculty-or-researcher",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Faculty / Medical Professionals",
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "Colorado Clinical and Translational Sciences Institute (CCTSI)",
+   "url": "https://cctsi.cuanschutz.edu",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students",
+    "Open to Faculty"
+   ]
+  },
+  {
+   "name": "National Mental Health Innovation Center",
+   "url": "https://mentalhealthinnovation.org/about/",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "CU Anschutz Mental Health Collaborative",
+   "url": "https://www.cuanschutz.edu/offices/advancement/home/stories/cu-anschutz-mental-health-collaborative",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Community"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Center for Surgical Innovation",
+   "url": "https://medschool.cuanschutz.edu/csi",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students",
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "Center for Drug Discovery",
+   "url": "https://pharmacy.cuanschutz.edu/drug-discovery",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students",
+    "Open to Faculty"
+   ]
+  },
+  {
+   "name": "Academia Industry Alliance",
+   "url": "https://www.cuanschutz.edu/services/academia-industry-alliance",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Community"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Brews and Biotech",
+   "url": "https://www.cuanschutz.edu/services/academia-industry-alliance/events/brews-and-biotech",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Events"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "CU Anschutz Innovations Events",
+   "url": "https://www.cuanschutz.edu/innovations/about-us/news-events",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Events"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "CU Anschutz Innovation Forum",
+   "url": "https://www.cuanschutz.edu/innovations/about-us/news-events/2026-cu-anschutz-innovation-forum",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Events"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Fitzsimons Innovation Community",
+   "url": "https://fitzsimonsinnovation.com",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "mHealth Impact Lab",
+   "url": "https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/mhealth/home",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "Work With AI",
+   "url": "https://www.cuanschutz.edu/offices/iss/artificial-intelligence/work-with-ai",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Inworks Innovation Initiative",
+   "url": "https://engineering.ucdenver.edu/inworks/home--anschutz-medical-campus",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Students",
+    "Open to Faculty"
+   ]
+  },
+  {
+   "name": "I-Corps@CCTSI (VP + CCTSI)",
+   "url": "https://cctsi.cuanschutz.edu/training/icorps/join-i-corps",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students",
+    "Open to Faculty"
+   ]
+  },
+  {
+   "name": "Office of the Vice Chancellor for Research",
+   "url": "https://research.cuanschutz.edu/",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Researchers",
+    "Faculty & Graduate Students"
+   ]
+  },
+  {
+   "name": "Investigational New Drug and Device Office",
+   "url": "https://research.cuanschutz.edu/cros/ind-ide-office",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Researchers",
+    "Faculty & Graduate Students"
+   ]
+  },
+  {
+   "name": "Office of Reserach Development and Strategy",
+   "url": "https://research.cuanschutz.edu/research-development",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Spaces & Resources",
+    "Funding"
+   ],
+   "access": [
+    "Open to Researchers",
+    "Faculty & Graduate Students"
+   ]
+  },
+  {
+   "name": "Department of Biomedical Informatices",
+   "url": "https://medschool.cuanschutz.edu/dbmi",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "CU Center for Combat Medicine and Battlefield Research",
+   "url": "https://medschool.cuanschutz.edu/emergency-medicine/major-programs/center-for-combat-research",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Academics & Learning",
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students",
+    "Open to Medical Students"
+   ]
+  },
+  {
+   "name": "Anschutz Acceleration Initiative",
+   "url": "https://www.cuanschutz.edu/chancellor/anschutz-acceleration-initiative",
+   "schools": [
+    "AMC"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students",
+    "Open to Faculty"
+   ]
+  },
+  {
+   "name": "MDMS Medicine and Aerospace Engineering",
+   "url": "https://medschool.cuanschutz.edu/emergency-medicine/major-programs/medicine-and-aerospace-engineering/mdms-medicine-and-aerospace-engineering",
+   "schools": [
+    "AMC",
+    "CU Boulder"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Medical Students"
+   ]
+  },
+  {
+   "name": "AB Nexus",
+   "url": "https://www.colorado.edu/research/abnexus/",
+   "schools": [
+    "AMC",
+    "CU Boulder"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Researchers and Faculty"
+   ]
+  },
+  {
+   "name": "New Venture Challenge",
+   "url": "https://www.colorado.edu/nvc",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Venture Partner Grants",
+   "url": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "Deming Center Venture Fund",
+   "url": "https://www.colorado.edu/dcvf/",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Buff Venture Fund",
+   "url": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/buff-venture-fund",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Students",
+    "Open to Faculty",
+    "Open to Alumni"
+   ]
+  },
+  {
+   "name": "Community Impact Grants",
+   "url": "https://www.colorado.edu/oce/paces/funding",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Faculty",
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Get Seed Funding",
+   "url": "https://www.colorado.edu/innovate/programs-resources/get-seed-funding",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Accepted Students"
+   ]
+  },
+  {
+   "name": "Deming Center for Entrepreneurship",
+   "url": "https://www.colorado.edu/business/deming",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Business Students",
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Venture Partners",
+   "url": "https://www.colorado.edu/venturepartners/",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "LaunchPad Mentor Network",
+   "url": "https://www.colorado.edu/innovate/support/mentorship",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Creative Futures Fellowship",
+   "url": "https://www.colorado.edu/venturepartners/opportunities-and-events/creative-futures-fellowship",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Faculty"
+   ]
+  },
+  {
+   "name": "Catalyze",
+   "url": "https://www.colorado.edu/catalyzecu/",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Students",
+    "Open to Faculty"
+   ]
+  },
+  {
+   "name": "Center for Translational Research",
+   "url": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/center-translational-research",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "Startups2Students",
+   "url": "https://www.colorado.edu/innovate/programs-resources/startups2students-s2s",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Community"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Boulder Venture Club",
+   "url": "https://www.colorado.edu/business/deming/news/2026/03/03/behind-scenes-boulder-venture-club",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Community"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Boulder Startup Week",
+   "url": "https://boulderstartupweek.com/",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Events"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Destination Startup",
+   "url": "https://www.colorado.edu/venturepartners/opportunities-and-events/destination-startup",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Events"
+   ],
+   "access": [
+    "Open to Accepted Students",
+    "Open to Faculty",
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Hack CU",
+   "url": "https://www.hackcu.org/",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Events"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Ascent Deep Tech Accelerator",
+   "url": "https://www.colorado.edu/venturepartners/opportunities-and-events/ascent-deep-tech-accelerator",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Events"
+   ],
+   "access": [
+    "Open to Accepted Students",
+    "Open to Faculty"
+   ]
+  },
+  {
+   "name": "Startups & Sandwiches",
+   "url": "https://www.colorado.edu/business/deming/entrepreneurship-events",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Events"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Innovation Workshop Series",
+   "url": "https://www.colorado.edu/business/deming/entrepreneurship-events",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Events"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Business Minor",
+   "url": "https://www.colorado.edu/business/academic-programs/minor-business",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "CESR Fellows",
+   "url": "https://www.colorado.edu/business/CESR",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Community"
+   ],
+   "access": [
+    "Open to Business Students"
+   ]
+  },
+  {
+   "name": "Silicon Flatirons",
+   "url": "https://siliconflatirons.org/",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Accepted Students"
+   ]
+  },
+  {
+   "name": "Burridge Center for Finance",
+   "url": "https://www.colorado.edu/business/burridge-center-for-finance",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Academics & Learning",
+    "Funding"
+   ],
+   "access": [
+    "Open to Business Students"
+   ]
+  },
+  {
+   "name": "Entrepreneurship Center for Music",
+   "url": "https://www.colorado.edu/center/music-entrepreneurship/",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Music Students"
+   ]
+  },
+  {
+   "name": "BioFrontiers",
+   "url": "https://www.colorado.edu/biofrontiers/",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "Engineering Entrepreneurship Minor",
+   "url": "https://www.colorado.edu/emp/undergraduate-programs/engineering-entrepreneurship-minor",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Engineering Students"
+   ]
+  },
+  {
+   "name": "Entrepreneurial Studies Certificate",
+   "url": "https://www.colorado.edu/business/undergraduate-programs/enhance-your-experience/certificate-programs/entrepreneurial-studies",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "New Venture Launch Class",
+   "url": "https://www.colorado.edu/business/deming/student-opportunities/new-venture-launch",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Academics & Learning",
+    "Funding"
+   ],
+   "access": [
+    "Open to Accepted Students"
+   ]
+  },
+  {
+   "name": "Startup Summer",
+   "url": "https://siliconflatirons.org/initiatives/entrepreneurship-initiative/startup-summer/",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Accepted Students"
+   ]
+  },
+  {
+   "name": "Idea Forge",
+   "url": "https://www.colorado.edu/ideaforge/",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "The ATLAS Institute",
+   "url": "https://www.colorado.edu/atlas/",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Blow Things Up (BTU) Lab",
+   "url": "https://www.colorado.edu/atlas/btu-lab",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Research & Innovation Office",
+   "url": "https://www.colorado.edu/researchinnovation/node/8528/funding/rio-funding-limited-submission-opportunities",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students",
+    "Open to Faculty",
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Creative Labs Center",
+   "url": "https://www.colorado.edu/envd/facilities-labs/creative-labs-center",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Entrepreneurial Law Clinic",
+   "url": "https://www.colorado.edu/law/academics/clinics/entrepreneurial-law-clinic",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Boulder Climate Ventures",
+   "url": "https://www.colorado.edu/business/cesr/current-students/graduate-programs/boulder-climate-ventures",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Mentorship & Support",
+    "Academics & Learning",
+    "Community"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students",
+    "Open to Accepted Students"
+   ]
+  },
+  {
+   "name": "Embark",
+   "url": "https://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
+   "schools": [
+    "CU Boulder"
+   ],
+   "categories": [
+    "Mentorship & Support",
+    "Funding"
+   ],
+   "access": [
+    "Open to Accepted Graduates"
+   ]
+  },
+  {
+   "name": "Lab Venture Challenge",
+   "url": "https://www.colorado.edu/venturepartners/opportunities-and-events/lab-venture-challenge",
+   "schools": [
+    "CU Boulder",
+    "CU Denver",
+    "UCCS"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "THE CLIMB | Startup Pitch Competition",
+   "url": "https://jakejabscenter.org/the-climb/",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "THE CLIMB | Workshops",
+   "url": "https://jakejabscenter.org/the-climb/",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "The Rutt Bridges Venture Fund",
+   "url": "https://jakejabscenter.org/rbvf/",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Students",
+    "Open to Accepted Students"
+   ]
+  },
+  {
+   "name": "Grand Challenges",
+   "url": "https://research.ucdenver.edu/news-awards/grand-challenges-team-awards",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Jake Jabs Center for Entrepreneurship",
+   "url": "https://jakejabscenter.org/",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "FaM Mentor Program",
+   "url": "https://business.ucdenver.edu/centers-programs/first-generation-and-multicultural-fam-business-program/become-fam-mentor",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Information Technology Innovation",
+   "url": "https://business.ucdenver.edu/centers/information-technology-innovation",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Entrepreneurship Minor",
+   "url": "https://business.ucdenver.edu/minors/entrepreneurship",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Entrepreneurship Certificate (Graduate)",
+   "url": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/entrepreneurship-certificate/",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Bioinnovation and Entrepreneurship Certificate (Graduate)",
+   "url": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/business-administration/bioinnovation-entrepreneurship-certificate/",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "International Entrepreneurship Certificate (Graduate)",
+   "url": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/international-entrepreneurship-certificate/",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Entrepreneurship Certificate (Undergraduate)",
+   "url": "https://catalog.ucdenver.edu/cu-denver/undergraduate/schools-colleges-departments/business-school/business-administration/entrepreneurship-certificate/",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Bioengineering Program",
+   "url": "https://engineering.ucdenver.edu/academics/departments/bioengineering",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Entrepreneurship Major, BS in Business Administration",
+   "url": "https://catalog.ucdenver.edu/cu-denver/undergraduate/schools-colleges-departments/business-school/business-administration/entrepreneurship-bs/",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Master's in Entrepreneurship",
+   "url": "https://business.ucdenver.edu/ms/entrepreneurship",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Accepted Students"
+   ]
+  },
+  {
+   "name": "Entrepreneurship Specialization, MBA",
+   "url": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/business-administration/business-administration-mba/#degreerequirementstext",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "MBA/MS in Biomedical Engineering",
+   "url": "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/business-school/business-administration/mba-ms-bioengineering/",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Accepted Students"
+   ]
+  },
+  {
+   "name": "Business Clubs",
+   "url": "https://business.ucdenver.edu/student-life/student-clubs",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Community"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Women's Entrepreneurship Day (WED) Colorado Summit",
+   "url": "https://womensdaycolorado.com/",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Community"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Downtown Startup Ecosystem Access",
+   "url": "https://www.ucdenver.edu/about-cu-denver/innovation",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Collaborative Workspaces",
+   "url": "https://news.ucdenver.edu/cu-denver-community-collaborative-research-center-empowers-communities/",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Student Research Center",
+   "url": "https://www.ucdenver.edu/lynxconnect/undergraduate-research",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Quantum Certificate",
+   "url": "https://clas.ucdenver.edu/certificate-quantum-information-technologyy",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "BDLab",
+   "url": "https://cse.ucdenver.edu/bdlab/index.html",
+   "schools": [
+    "CU Denver"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students",
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Faculty Commercialization Support",
+   "url": "https://www.cuanschutz.edu/innovations/campus-innovator/faculty-or-researcher",
+   "schools": [
+    "CU Denver",
+    "AMC"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Faculty"
+   ]
+  },
+  {
+   "name": "Ascent Deep Tech Accelerator",
+   "url": "https://www.colorado.edu/venturepartners/opportunities-and-events/ascent-deep-tech-accelerator",
+   "schools": [
+    "CU Denver",
+    "CU Boulder",
+    "UCCS"
+   ],
+   "categories": [
+    "Events"
+   ],
+   "access": [
+    "Open to Community",
+    "Open to Accepted Students"
+   ]
+  },
+  {
+   "name": "Innovation Scholarship",
+   "url": "https://innovation.uccs.edu/innovationships-scholarship-program",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "EPIIC Venture Attractor",
+   "url": "https://www.uccs.edu/venture-attractor",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Funding"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "The Garage at UCCS",
+   "url": "https://garageatuccs.com/",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Venture AttractorTM",
+   "url": "https://www.uccs.edu/venture-attractor",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Mentorship & Support"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "Entrepreneurship Minor",
+   "url": "https://business.uccs.edu/academics/programs/entrepreneurship-minor-business-students",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Entrepreneurship Curriculum",
+   "url": "https://business.uccs.edu/entrepreneurship-emphasis",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Student Research Center",
+   "url": "https://studentresearch.uccs.edu/",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students",
+    "Open to Researchers & Graduate Students"
+   ]
+  },
+  {
+   "name": "Bachelor of Innovation",
+   "url": "https://innovation.uccs.edu/about",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Accepted Students"
+   ]
+  },
+  {
+   "name": "Center for Entrepreneurship",
+   "url": "https://business.uccs.edu/resources/entrepreneurship",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Academics & Learning"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Entrepreneurship Club",
+   "url": "https://business.uccs.edu/resources/clubs-and-organizations",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Community"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "Economic Forum",
+   "url": "https://business.uccs.edu/economic-forum",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Events"
+   ],
+   "access": [
+    "Open to Community"
+   ]
+  },
+  {
+   "name": "The Garage Space",
+   "url": "https://garageatuccs.com/",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Students"
+   ]
+  },
+  {
+   "name": "ROAR Program",
+   "url": "https://business.uccs.edu/resources/career-development-center/ROAR",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Spaces & Resources"
+   ],
+   "access": [
+    "Open to Accepted Students"
+   ]
+  },
+  {
+   "name": "Lyda Hill",
+   "url": "https://resilience.uccs.edu/",
+   "schools": [
+    "UCCS"
+   ],
+   "categories": [
+    "Academics & Learning",
+    "Community"
+   ],
+   "access": [
+    "Open to Researchers & Graduate Students"
+   ]
+  }
+ ],
+ "CLASSES": [
+  {
+   "code": "IWKS 3180",
+   "title": "Choose Your Own Adventure",
+   "level": "Undergraduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "NURS 4860",
+   "title": "Quality, Safety, Nsg-RN",
+   "level": "Undergraduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "College of Nursing"
+  },
+  {
+   "code": "NURS 6800",
+   "title": "Innovative Leadership",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "College of Nursing"
+  },
+  {
+   "code": "ANAT 6931",
+   "title": "MSMHA Internship",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Medicine"
+  },
+  {
+   "code": "BSBT 6801",
+   "title": "Biomedical Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Medicine"
+  },
+  {
+   "code": "BSBT 6802",
+   "title": "Reg Env Life Sci - Drug Disc",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Medicine"
+  },
+  {
+   "code": "BSBT 6803",
+   "title": "Reg Env Life Sci - Med Devices",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Medicine"
+  },
+  {
+   "code": "BSBT 6804",
+   "title": "Bioinnovation Regulations",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Medicine"
+  },
+  {
+   "code": "BSBT 6939",
+   "title": "Internship Tech & Innov",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Medicine"
+  },
+  {
+   "code": "CLSC 7300",
+   "title": "Sci Grant Review Process PhD",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Medicine"
+  },
+  {
+   "code": "IDPT 5011",
+   "title": "Biomedical Innovation and Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Medicine"
+  },
+  {
+   "code": "PRDM 7150",
+   "title": "Medical Terminology and Lab Interpretation?",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Pharmacy"
+  },
+  {
+   "code": "PRDM 7490",
+   "title": "Innovation Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Pharmacy"
+  },
+  {
+   "code": "PRDM 7495",
+   "title": "Innovation Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Pharmacy"
+  },
+  {
+   "code": "PRDM 7700",
+   "title": "Clinical Skills Foundation",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Pharmacy"
+  },
+  {
+   "code": "HSMP 6633",
+   "title": "Management of Non-Profit Organizations in Public Health",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Public Health"
+  },
+  {
+   "code": "JTCM 6600",
+   "title": "Communication and Innovation",
+   "level": "Graduate",
+   "campus": "CU Anschutz Medical Campus",
+   "group": "School of Public Health"
+  },
+  {
+   "code": "ECON 4717",
+   "title": "Economics of Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Arts & Sciences"
+  },
+  {
+   "code": "MCDB 3333",
+   "title": "Biomed Innovations/Discoveries",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Arts & Sciences"
+  },
+  {
+   "code": "SOCY 4160",
+   "title": "Designing Social Innovations",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Arts & Sciences"
+  },
+  {
+   "code": "SOCY 4161",
+   "title": "Executing Social Innovations",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Arts & Sciences"
+  },
+  {
+   "code": "SSIR 1010",
+   "title": "Innovating Sustainability",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Arts & Sciences"
+  },
+  {
+   "code": "ENVM 5050",
+   "title": "Social Innovation Sust Cities",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Arts & Sciences"
+  },
+  {
+   "code": "ENVM 5076",
+   "title": "Entrepr and Appl Project Mgmt",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Arts & Sciences"
+  },
+  {
+   "code": "ENVM 6001",
+   "title": "Capstone Innovation Lab 1",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Arts & Sciences"
+  },
+  {
+   "code": "ENVM 6002",
+   "title": "Capstone Innovation Lab 2",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Arts & Sciences"
+  },
+  {
+   "code": "ATLS 1100",
+   "title": "Design Foundations",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "CSCI 4240",
+   "title": "Introduction to Blockchain",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "CSCI 4348",
+   "title": "Entrepreneurial Projects",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "CSCI 4358",
+   "title": "Entrepreneurial Projects II",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEN 4200",
+   "title": "Eng and Entrep for Dev World",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEN 4800",
+   "title": "Tech Ventures & Marketing",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEN 4820",
+   "title": "Entrepren Prod Dev",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEN 4825",
+   "title": "New Venture Creation",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "GEEN 3400",
+   "title": "Invention and Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "ATLS 5230",
+   "title": "Case Studies in Social Impact",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "ATLS 5230",
+   "title": "Social Impact Case Studies",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "ATLS 5240",
+   "title": "Tech Social Impact Laboratory",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "ATLS 5410",
+   "title": "Creative Technologies",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "ATLS 5420",
+   "title": "Proseminar: Bus Creativity",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "ATLS 5519",
+   "title": "Adv Special Topics in CTD",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "ATLS 6910",
+   "title": "Social Impact Practicum",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "CSCI 5240",
+   "title": "Introduction to Blockchain",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "CSCI 5340",
+   "title": "Entrepreneurial Projects",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "CSCI 5350",
+   "title": "Entrepreneurial Projects II",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "CVEN 5139",
+   "title": "Sol'n Ident and Proposal Dev",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "CYBR 5240",
+   "title": "Introduction to Blockchain",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "ECEA 5347",
+   "title": "Rapd Prototyping Emb I/F Dsgn",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEA 5091",
+   "title": "Getting Started Tech Startups",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEA 5091",
+   "title": "Getting Started with Startups",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEA 5092",
+   "title": "Creating a Startup Business",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEA 5092",
+   "title": "Creating a Tech Startup",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEA 5093",
+   "title": "Frg, Fdg Lg Strtp Comp",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEA 5093",
+   "title": "Frg, Fdg Lg Tech Strtp Comp",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEA 5222",
+   "title": "Prod. Des. for the Circ. Econ.",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEA 5402",
+   "title": "Managing the New Prod Dev Proc",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEA 5403",
+   "title": "Product Innovation Management",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEN 5090",
+   "title": "Marketing & Technology Venture",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEN 5094",
+   "title": "Entrepreneurship for Engineers",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEN 5094",
+   "title": "Technology Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "EMEN 5400",
+   "title": "Product Dev & Design",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Engr & Applied Sci"
+  },
+  {
+   "code": "APRD 4501",
+   "title": "Design for Social Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Media, Comm & Info"
+  },
+  {
+   "code": "APRD 5006",
+   "title": "Design for Startups",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Media, Comm & Info"
+  },
+  {
+   "code": "CMCI 3202",
+   "title": "Entrepreneurial Media",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Media, Comm & Info"
+  },
+  {
+   "code": "MDST 2011",
+   "title": "Disruptive Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Media, Comm & Info"
+  },
+  {
+   "code": "APRD 5002",
+   "title": "Experience Design Foundations",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Media, Comm & Info"
+  },
+  {
+   "code": "APRD 5004",
+   "title": "Interaction Design",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Media, Comm & Info"
+  },
+  {
+   "code": "APRD 5006",
+   "title": "Design for Startups",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Media, Comm & Info"
+  },
+  {
+   "code": "APRD 5006",
+   "title": "Intro to Design for Entrepren",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Media, Comm & Info"
+  },
+  {
+   "code": "APRD 5008",
+   "title": "Entrepreneurism by Design",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Media, Comm & Info"
+  },
+  {
+   "code": "APRD 5012",
+   "title": "Entrepreneurial Design",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Media, Comm & Info"
+  },
+  {
+   "code": "APRD 5018",
+   "title": "Innovative Tech for Design",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Media, Comm & Info"
+  },
+  {
+   "code": "MUSC 4988",
+   "title": "The Entrepreneurial Artist",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Music"
+  },
+  {
+   "code": "MUSC 4998",
+   "title": "Music Entr Cert Capstone",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "College of Music"
+  },
+  {
+   "code": "MUSC 5988",
+   "title": "The Entrepreneurial Artist",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "College of Music"
+  },
+  {
+   "code": "ORGL 5010",
+   "title": "Leading Change & Innovation",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Cross-College Programs"
+  },
+  {
+   "code": "ORGL 5315",
+   "title": "Strategy and Innovation",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Cross-College Programs"
+  },
+  {
+   "code": "ORGL 5320",
+   "title": "Bldg & Ldng Innov Work Teams",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Cross-College Programs"
+  },
+  {
+   "code": "BCOR 2304",
+   "title": "Strategic and Entrepr Thinking",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "BUSM 3010",
+   "title": "Innovation & Entrep I",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "BUSM 3011",
+   "title": "Innovation & Entrep II",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "BUSM 3011",
+   "title": "Product Development II",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "BUSM 4010",
+   "title": "Entrepreneurship & Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "BUSM 4010",
+   "title": "Prof Bus Plan Development",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "BUSO 2200",
+   "title": "Sports Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "ESBM 3100",
+   "title": "Innovation:Creativity to Entrp",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "ESBM 3100",
+   "title": "Intro to Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "ESBM 3700",
+   "title": "Entrepreneurial Environs",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "ESBM 4570",
+   "title": "Entrepreneurial Finance",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "ESBM 4830",
+   "title": "New Venture Creation",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "FNCE 4080",
+   "title": "Blockchain & Cryptocurrencies",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "INBU 3500",
+   "title": "Global Intensive:International",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "INBU 4925",
+   "title": "Entrepreneurship: South Africa",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MGMT 4160",
+   "title": "Managing Growth: Entrep High",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MGMT 4160",
+   "title": "Managing Growth:Entrep High",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "BPOL 7530",
+   "title": "Doc Sem: Special Topics",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "BPOL 7560",
+   "title": "Doc. Sem. - Special Topics",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6001",
+   "title": "Ethics I",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6002",
+   "title": "Ethics II",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6010",
+   "title": "Economics and the Macroeconomy",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6021",
+   "title": "Financial Accounting I",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6022",
+   "title": "Financial Accounting II",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6050",
+   "title": "Executive Level Strategy",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6051",
+   "title": "Operations Management",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6065",
+   "title": "Business Finance",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6081",
+   "title": "Data and Uncertainty",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6091",
+   "title": "Strategic Marketing I",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6092",
+   "title": "Strategic Marketing II",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6100",
+   "title": "Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6205",
+   "title": "Risk Management",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6211",
+   "title": "Applied Financial Management I",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6212",
+   "title": "Applied Financial Mgmt II",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6420",
+   "title": "Digital Strategy",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6470",
+   "title": "Value Through Innovation",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6480",
+   "title": "M&A and Corporate Development",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6530",
+   "title": "Negotiations",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6560",
+   "title": "Executive Leadership",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6565",
+   "title": "Inclusive Leadership",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6581",
+   "title": "Aligning People w Strategy I",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6582",
+   "title": "Aligning People w Strategy II",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAE 6806",
+   "title": "Global Business Experience",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6100",
+   "title": "Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6101",
+   "title": "Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6110",
+   "title": "Entrepeneurial Finance",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6111",
+   "title": "Entrepreneurial Finance",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6140",
+   "title": "Social Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6160",
+   "title": "High Growth Companies",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6170",
+   "title": "New Venture Creation",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6171",
+   "title": "New Venture Creation",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6180",
+   "title": "New Venture Launch",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6190",
+   "title": "Projects in Entrep Co",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6195",
+   "title": "Topics in Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6280",
+   "title": "Ent.Valuation and Investment 1",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6281",
+   "title": "E-Valuation and Investment 2",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6282",
+   "title": "Ent Valuation and Investmnt 3",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6361",
+   "title": "New Product Development",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "MBAX 6961",
+   "title": "Ind Study Entrepreneur",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "Leeds School of Business"
+  },
+  {
+   "code": "EPOD 3105",
+   "title": "Humn Centrd Dsgn Entrshp Strat",
+   "level": "Undergraduate",
+   "campus": "CU Boulder",
+   "group": "Pgm Environmental Design"
+  },
+  {
+   "code": "LAWS 7271",
+   "title": "Ventur Cap & Priv Equity",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "School of Law"
+  },
+  {
+   "code": "LAWS 7619",
+   "title": "Entrepreneurial Law Clin",
+   "level": "Graduate",
+   "campus": "CU Boulder",
+   "group": "School of Law"
+  },
+  {
+   "code": "ENTP 3200",
+   "title": "Essentials in Entp",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 3200",
+   "title": "Essentials in Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 3200",
+   "title": "Fundamentals of Entp",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 3201",
+   "title": "Lean Startup Fundamentals",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 3201",
+   "title": "Power of Lean Startup",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 3210",
+   "title": "Visionary Leadership Ventures",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 3240",
+   "title": "Developing Dynamic Concepts",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 3260",
+   "title": "Sales for Entrepreneurs",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 3900",
+   "title": "Experiential Topics in Entp",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 4200",
+   "title": "Mission Driven Mindset",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 4200",
+   "title": "Social Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 4840",
+   "title": "Entrepreneurship Ind Study",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "FNCE 3850",
+   "title": "Blockchain/Crypto Investing",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "INTB 1111",
+   "title": "Int'l Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "MKTG 4730",
+   "title": "New Prod Dev/Consumer/Sports",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "BANA 6600",
+   "title": "Blockchain & Emr Tech Global",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6020",
+   "title": "Bus Model Development & Plan",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6021",
+   "title": "Corporate Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6024",
+   "title": "The Startup Launch",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6110",
+   "title": "Innovation in Fintech",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6200",
+   "title": "Mission Driven Entp",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6200",
+   "title": "Social Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6300",
+   "title": "AI-Driven Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6620",
+   "title": "New Venture Ops & Project MGM",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6801",
+   "title": "Healthcare Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6822",
+   "title": "Legl-Ethicl Issues Entreprnsh",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6822",
+   "title": "Legl-Ethicl Issues Entreprnshp",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6824",
+   "title": "ENTP Financial Management",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6826",
+   "title": "International Entrepreneurshi",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6826",
+   "title": "International Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6836",
+   "title": "High Impact Sales",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6848",
+   "title": "Leadership in New Ventures",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "ENTP 6860",
+   "title": "Innovation in Blockchain",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "FNCE 6850",
+   "title": "Blockchain/Crypto Investing",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "INTB 6600",
+   "title": "Blockchain & Emr Tech Global",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "MKTG 6040",
+   "title": "Serv MKTG-Traditonal/Creat In",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "MKTG 6040",
+   "title": "Serv MKTG-Traditonal/Creat Ind",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "XBUS 6830",
+   "title": "ExecMBA Busn Model Innovation",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "Business School"
+  },
+  {
+   "code": "COMM 4051",
+   "title": "Advanced Strategic Communication",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "COMM 5051",
+   "title": "Advanced Strategic Communication",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "DACD 4820",
+   "title": "Production III",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FINE 1000",
+   "title": "Fostering Creativity",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FINE 3532",
+   "title": "Maquette Design",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FINE 4002",
+   "title": "Illustration IV",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FINE 4195",
+   "title": "Photography Portfolio I",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FINE 4196",
+   "title": "Photography Portfolio II",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FINE 4480",
+   "title": "Design Thesis Research",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FINE 4495",
+   "title": "Design Thesis Project",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FINE 4950",
+   "title": "Studio BFA Thesis",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FITV 2090",
+   "title": "Producing for Film & TV",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FITV 3050",
+   "title": "Junior Project Production",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FITV 3090",
+   "title": "Producing Episodic TV",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FITV 4000",
+   "title": "Senior Thesis Production",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FITV 3620",
+   "title": "The Business of Film",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FITV 4100",
+   "title": "The Business of Acting",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "MUSC 2815",
+   "title": "Becoming an Ar!st to the World: Social Entrepreneurship and Music in the 21 Century",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "MUSC 4800",
+   "title": "Music Ind Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "MUSC 4570",
+   "title": "Career Development in Audio",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "MUSC 4580",
+   "title": "Audio Production Seminar",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "MUSC 4939",
+   "title": "Internships in MEIS�",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "PMUS 3100",
+   "title": "US Music: Soc & Poltcl Impct",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "PMUS 4200",
+   "title": "Senior Recital Project",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "FINE 4000",
+   "title": "The Business of Art",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Arts & Media"
+  },
+  {
+   "code": "BIOE 1010",
+   "title": "BIOE Design and Proto I",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "BIOE 1020",
+   "title": "BIOE Design and Proto II",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "BIOE 4300",
+   "title": "Medical Device Design and Ent",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "CSCI 1200",
+   "title": "Fund ENGR Design Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "CSCI 4407",
+   "title": "Security & Cryptography",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "CSCY 4407",
+   "title": "Security and Cryptography",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "CVEN 1200",
+   "title": "Fund ENGR Design Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "ELEC 1201",
+   "title": "Fund ENGR Design Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "ENGR 1100",
+   "title": "Fund Computational Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "ENGR 1200",
+   "title": "Fund ENGR Design Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "IWKS 2100",
+   "title": "Human Centered Design",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "IWKS 2300",
+   "title": "Fund Computational Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "MECH 1100",
+   "title": "Fund Computational Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "MECH 1200",
+   "title": "Fund ENGR Design Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "BIOE 5300",
+   "title": "Med Device Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "CSCI 5407",
+   "title": "Security & Cryptography",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "College of Engr Design & Comp"
+  },
+  {
+   "code": "SJUS 4001",
+   "title": "Social Justice Senior Project",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "College of Liberal Arts & Sci"
+  },
+  {
+   "code": "ENGL 4280",
+   "title": "Proposal and Grant Writing",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "College of Liberal Arts & Sci"
+  },
+  {
+   "code": "ENGL 5280",
+   "title": "Proposal and Grant Writing",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "College of Liberal Arts & Sci"
+  },
+  {
+   "code": "ENVS 6800",
+   "title": "Community-Based Research Practicum",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "College of Liberal Arts & Sci"
+  },
+  {
+   "code": "GEOG 6800",
+   "title": "Community-Based Research Practicum",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "College of Liberal Arts & Sci"
+  },
+  {
+   "code": "EDFN 1060",
+   "title": "Lvd Ex & 21st: Inn & Crtl Thk",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "School of Educ & Human Dev"
+  },
+  {
+   "code": "EDFN 2060",
+   "title": "Lvd Ex & 21st: Inn & Crtl Thk",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "School of Educ & Human Dev"
+  },
+  {
+   "code": "PUAD 4020",
+   "title": "Social Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Denver",
+   "group": "School of Public Affairs"
+  },
+  {
+   "code": "PUAD 5180",
+   "title": "Social Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Denver",
+   "group": "School of Public Affairs"
+  },
+  {
+   "code": "BLAW 2010",
+   "title": "Bus/Intellectual Property Law",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Business & Admin"
+  },
+  {
+   "code": "ENTP 1000",
+   "title": "Intro to Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Business & Admin"
+  },
+  {
+   "code": "ENTP 1001",
+   "title": "Intro Social Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Business & Admin"
+  },
+  {
+   "code": "ENTP 3000",
+   "title": "Principles of Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Business & Admin"
+  },
+  {
+   "code": "ENTP 3100",
+   "title": "Adv Princ of Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Business & Admin"
+  },
+  {
+   "code": "ENTP 3950",
+   "title": "Topics in Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Business & Admin"
+  },
+  {
+   "code": "ENTP 4500",
+   "title": "Entrepreneurship and Strategy",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Business & Admin"
+  },
+  {
+   "code": "INFS 1100",
+   "title": "Prod Apps for the Workplace",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Business & Admin"
+  },
+  {
+   "code": "OSIM 4333",
+   "title": "Practical Apps-Social Impact",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Business & Admin"
+  },
+  {
+   "code": "BUAD 6610",
+   "title": "Man Innov for Strategic Adv",
+   "level": "Graduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Business & Admin"
+  },
+  {
+   "code": "BUAD 6800",
+   "title": "Entrepreneurship/New Ventures",
+   "level": "Graduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Business & Admin"
+  },
+  {
+   "code": "BUAD 7300",
+   "title": "Digital Strategy & Innovation",
+   "level": "Graduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Business & Admin"
+  },
+  {
+   "code": "CS 4920",
+   "title": "Intro to Applied Cryptography",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "code": "CS 9400",
+   "title": "Undergrad Ind Stdy in CS Entp",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "code": "ECE 4211",
+   "title": "Rapid Prototyping with FPGAs",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "code": "INOV 1010",
+   "title": "The Innovation Process",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "code": "INOV 2010",
+   "title": "INOV Team: Analyze & Report",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "code": "INOV 2100",
+   "title": "Tech Writing, Proposals & Pres",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "code": "INOV 3010",
+   "title": "INOV Team: Research & Execute",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "code": "INOV 4000",
+   "title": "Ind Study in Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "code": "INOV 4010",
+   "title": "INOV Team: Design & Lead",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "code": "INOV 4100",
+   "title": "Advancing Innovation Practicum",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "code": "CS 5920",
+   "title": "Intro to Applied Cryptography",
+   "level": "Graduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "code": "ECE 5211",
+   "title": "Rapid Prototyping with FPGAs",
+   "level": "Graduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Engineering & Appl Sci"
+  },
+  {
+   "code": "BIOL 2040",
+   "title": "PLTW - Biomedical Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "HIST 9499",
+   "title": "UGRD Research & Creative Works",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "INOV 1000",
+   "title": "Intro to Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "INOV 1001",
+   "title": "Intro Social Entrepreneurship",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "INOV 1010",
+   "title": "The Innovation Process",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "INOV 1011",
+   "title": "Social Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "INOV 2010",
+   "title": "INOV Team: Analyze & Report",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "INOV 2100",
+   "title": "Tech Writing, Proposals & Pres",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "INOV 2500",
+   "title": "Business Law and Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "INOV 3010",
+   "title": "INOV Team: Research & Execute",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "INOV 4000",
+   "title": "Ind Study in Innovation",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "INOV 4010",
+   "title": "INOV Team: Design & Lead",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "INOV 4100",
+   "title": "Advancing Innovation Practicum",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "INOV 4500",
+   "title": "Innovation Capstone",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "MUS 4250",
+   "title": "The Business of Music",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "PSY 9499",
+   "title": "Undergraduate Research",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "VAPA 1500",
+   "title": "Arts Innovations",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "WEST 9499",
+   "title": "Research and Creative Works",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Letters, Arts & Sci"
+  },
+  {
+   "code": "NURS 4480",
+   "title": "Capstone, Innovation, & Lead",
+   "level": "Undergraduate",
+   "campus": "CU Colorado Springs",
+   "group": "Coll of Nursing & Health Sci"
+  },
+  {
+   "code": "COUN 5070",
+   "title": "Adventure Education",
+   "level": "Graduate",
+   "campus": "CU Colorado Springs",
+   "group": "College of Education"
+  },
+  {
+   "code": "PAD 5160",
+   "title": "Leading Nonprofit Innovation",
+   "level": "Graduate",
+   "campus": "CU Colorado Springs",
+   "group": "College of Public Service"
+  },
+  {
+   "code": "PAD 5180",
+   "title": "Social Entrepreneurship",
+   "level": "Graduate",
+   "campus": "CU Colorado Springs",
+   "group": "College of Public Service"
+  },
+  {
+   "code": "PADM 5160",
+   "title": "Leading Nonprofit Innovation",
+   "level": "Graduate",
+   "campus": "CU Colorado Springs",
+   "group": "College of Public Service"
+  }
+ ],
+ "FUNDING": {
+  "funded": [
+   {
+    "name": "CU Healthcare Innovation Fund",
+    "campus": "CU Anschutz Medical Campus",
+    "amount": 375000,
+    "qualifier": "average investment"
+   },
+   {
+    "name": "Rutt Bridges Venture Fund",
+    "campus": "CU Denver",
+    "amount": 175000,
+    "qualifier": "estimated average investment"
+   },
+   {
+    "name": "New Venture Challenge",
+    "campus": "CU Boulder",
+    "amount": 336000,
+    "qualifier": "max winner"
+   },
+   {
+    "name": "Gates Grubstake Award",
+    "campus": "CU Anschutz Medical Campus",
+    "amount": 150000,
+    "qualifier": "average award"
+   },
+   {
+    "name": "Lab Venture Challenge",
+    "campus": "CU Boulder",
+    "amount": 125000,
+    "qualifier": "max award"
+   },
+   {
+    "name": "Grand Challenges",
+    "campus": "CU Denver",
+    "amount": 75000,
+    "qualifier": "average"
+   },
+   {
+    "name": "Chancellor's Discovery & Innovation Fund",
+    "campus": "CU Anschutz Medical Campus",
+    "amount": 75000,
+    "qualifier": "average"
+   },
+   {
+    "name": "Venture Partner Grants",
+    "campus": "CU Boulder",
+    "amount": 50000,
+    "qualifier": "average"
+   },
+   {
+    "name": "Embark",
+    "campus": "CU Boulder",
+    "amount": 50000,
+    "qualifier": ""
+   },
+   {
+    "name": "Buff Venture Fund",
+    "campus": "CU Boulder",
+    "amount": 37500,
+    "qualifier": "estimated average"
+   },
+   {
+    "name": "Deming Center Venture Fund",
+    "campus": "CU Boulder",
+    "amount": 25000,
+    "qualifier": "average investment"
+   },
+   {
+    "name": "The Climb Startup Pitch Competition",
+    "campus": "CU Denver",
+    "amount": 15000,
+    "qualifier": "average prizes"
+   },
+   {
+    "name": "EPIIC Venture Attractor",
+    "campus": "CU Colorado Springs",
+    "amount": 50000,
+    "qualifier": "average"
+   },
+   {
+    "name": "Innovation Scholarship",
+    "campus": "CU Colorado Springs",
+    "amount": 3500,
+    "qualifier": "average"
+   },
+   {
+    "name": "Get Seed Funding",
+    "campus": "CU Boulder",
+    "amount": 10000,
+    "qualifier": ""
+   }
+  ],
+  "undisclosed": [
+   {
+    "name": "Community Impact Grants",
+    "campus": "CU Boulder"
+   },
+   {
+    "name": "Burridge Center for Finance",
+    "campus": "CU Boulder"
+   },
+   {
+    "name": "New Venture Launch Class",
+    "campus": "CU Boulder"
+   },
+   {
+    "name": "Innovation Hub",
+    "campus": "CU Anschutz Medical Campus"
+   }
+  ]
+ }
+}
