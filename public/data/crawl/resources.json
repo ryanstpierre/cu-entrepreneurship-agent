@@ -4491,7 +4491,7 @@
  },
  {
   "id": "colorado-edu-nvc-compete",
-  "url": "http://colorado.edu/nvc/compete",
+  "url": "https://colorado.edu/nvc/compete",
   "title": "Compete | New Venture Challenge",
   "org": "colorado.edu/nvc",
   "type": "competition",
@@ -4523,13 +4523,13 @@
   "specificity": 10,
   "depth": 3,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/nvc",
-  "fetchedAt": "2026-08-11T16:54:55.489Z",
+  "parent": "https://colorado.edu/nvc",
+  "fetchedAt": "2026-08-11T17:02:58.953Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-nvc-events",
-  "url": "http://colorado.edu/nvc/events",
+  "url": "https://colorado.edu/nvc/events",
   "title": "Events and Opportunities | New Venture Challenge",
   "org": "colorado.edu/nvc",
   "type": "competition",
@@ -4559,8 +4559,8 @@
   "specificity": 10,
   "depth": 3,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/nvc",
-  "fetchedAt": "2026-08-11T16:54:55.824Z",
+  "parent": "https://colorado.edu/nvc",
+  "fetchedAt": "2026-08-11T17:02:58.946Z",
   "needsAnalysis": false
  },
  {
@@ -13725,7 +13725,7 @@
  },
  {
   "id": "startupcolorado-org-pitch-competition",
-  "url": "https://startupcolorado.org/pitch-competition",
+  "url": "http://www.startupcolorado.org/pitch-competition",
   "title": "Pitch Competition - Startup Colorado",
   "org": "startupcolorado.org",
   "type": "competition",
@@ -13754,10 +13754,10 @@
    "Apply by August 20th"
   ],
   "specificity": 8,
-  "depth": 1,
+  "depth": 4,
   "discoveredVia": "link",
-  "parent": "https://startupcolorado.org/",
-  "fetchedAt": "2026-08-11T16:56:36.252Z",
+  "parent": "https://startupcolorado.org/stories/mighty-mikes-second-act",
+  "fetchedAt": "2026-08-11T17:04:05.851Z",
   "needsAnalysis": false
  },
  {
@@ -14544,6 +14544,74 @@
   "discoveredVia": "link",
   "parent": "http://colorado.edu/ocg",
   "fetchedAt": "2026-08-11T17:02:50.366Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-spotlight-on-youthbiz-stars-competition",
+  "url": "https://startupcolorado.org/event/spotlight-on-youthbiz-stars-competition",
+  "title": "Spotlight on YouthBiz Stars Competition - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "Youth ages 6-21 with a business that has made at least 1 sale are invited to apply for the Spotlight on YouthBiz Stars Competition! Complete the online application for a [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$10,000"
+  ],
+  "deadlines": [
+   "Applications close 5/31/26! This event has passed"
+  ],
+  "specificity": 8,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:03:29.297Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-how-geyser-systems-worked-the-system",
+  "url": "https://startupcolorado.org/how-geyser-systems-worked-the-system",
+  "title": "How Geyser Systems &quot;Worked the System&quot; to Fund a Growing Business - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "funding",
+  "description": "Discover how Geyser Systems worked the system to fund a growing startup in Rural Colorado. Now, they&#039;re in outdoor retailers across the US!",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$40,000",
+   "$5,000",
+   "$250M",
+   "$1m",
+   "$100"
+  ],
+  "deadlines": [
+   "due to OEDIT and the Moosejaw Accelerator for the education and introductions, but"
+  ],
+  "specificity": 8,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/colorado-state-grants-and-tax-incentives-explained",
+  "fetchedAt": "2026-08-11T17:04:17.088Z",
   "needsAnalysis": false
  },
  {
@@ -16027,6 +16095,119 @@
   "discoveredVia": "link",
   "parent": "https://www.cuanschutz.edu/innovations/about-us/team",
   "fetchedAt": "2026-08-11T17:01:05.284Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "url": "https://www.cuanschutz.edu/innovations/spark/about-spark/spark-award",
+  "title": "SPARK Awards",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "SPARK Awards Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alumni Res",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "Gali.Baler@cuanschutz.edu"
+  ],
+  "funding": [
+   "$200,000"
+  ],
+  "deadlines": [],
+  "specificity": 7,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:20.574Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-about-spark-faqs",
+  "url": "https://www.cuanschutz.edu/innovations/spark/about-spark/faqs",
+  "title": "FAQs | SPARK",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "FAQs | SPARK Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alumni Res",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$200,000"
+  ],
+  "deadlines": [
+   "due to restrictions on indirect costs, subcontracts are not allowed on SPARK awards"
+  ],
+  "specificity": 7,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:21.942Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-events-calendar",
+  "url": "https://www.cuanschutz.edu/innovations/spark/events/calendar",
+  "title": "Calendar",
+  "org": "cuanschutz.edu",
+  "type": "event",
+  "description": "Calendar Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alumni Resourc",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "sparkcu@ucdenver.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "due to the disclosure of confidential information"
+  ],
+  "specificity": 7,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:22.346Z",
   "needsAnalysis": false
  },
  {
@@ -22839,7 +23020,7 @@
  },
  {
   "id": "colorado-edu-nvc-get-involved",
-  "url": "http://colorado.edu/nvc/get-involved",
+  "url": "https://colorado.edu/nvc/get-involved",
   "title": "Support | New Venture Challenge",
   "org": "colorado.edu/nvc",
   "type": "competition",
@@ -22868,13 +23049,13 @@
   "specificity": 6,
   "depth": 3,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/nvc",
-  "fetchedAt": "2026-08-11T16:54:55.558Z",
+  "parent": "https://colorado.edu/nvc",
+  "fetchedAt": "2026-08-11T17:02:58.951Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-nvc-contact-us",
-  "url": "http://colorado.edu/nvc/contact-us",
+  "url": "https://colorado.edu/nvc/contact-us",
   "title": "Contact Us | New Venture Challenge",
   "org": "colorado.edu/nvc",
   "type": "competition",
@@ -22898,8 +23079,8 @@
   "specificity": 6,
   "depth": 3,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/nvc",
-  "fetchedAt": "2026-08-11T16:54:55.918Z",
+  "parent": "https://colorado.edu/nvc",
+  "fetchedAt": "2026-08-11T17:02:58.942Z",
   "needsAnalysis": false
  },
  {
@@ -24459,36 +24640,6 @@
   "needsAnalysis": false
  },
  {
-  "id": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
-  "url": "https://startupcolorado.org/event/colorado-capital-funding-opportunities-you-may-be-missing-out-on-climber-loan-fund-program",
-  "title": "Colorado Capital: Funding opportunities you may be missing out on- CLIMBER Loan Fund Program  - Startup Colorado",
-  "org": "startupcolorado.org",
-  "type": "funding",
-  "description": "Each session will explore different Colorado-specific capital opportunities that could make a serious difference in your business.",
-  "audience": [
-   "community"
-  ],
-  "stage": [
-   "explore",
-   "build",
-   "launch"
-  ],
-  "sectors": [
-   "ai"
-  ],
-  "contacts": [],
-  "funding": [
-   "$500,000"
-  ],
-  "deadlines": [],
-  "specificity": 6,
-  "depth": 3,
-  "discoveredVia": "link",
-  "parent": "https://startupcolorado.org/all-events/photo/featured/?eventDisplay=past",
-  "fetchedAt": "2026-08-11T17:02:18.921Z",
-  "needsAnalysis": false
- },
- {
   "id": "startupcolorado-org-event-capital-bootcamp-pitch-prep-telling-your-story-learnin",
   "url": "https://startupcolorado.org/event/capital-bootcamp-pitch-prep-telling-your-story-learning-outcomes",
   "title": "Capital Bootcamp Pitch Prep - Startup Colorado",
@@ -25477,6 +25628,593 @@
   "discoveredVia": "link",
   "parent": "http://colorado.edu/researchinnovation/bulletin",
   "fetchedAt": "2026-08-11T17:02:48.257Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-about-join-our-team",
+  "url": "http://colorado.edu/ideaforge/about/join-our-team",
+  "title": "Join Our Team | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "reference",
+  "description": "The Idea Forge is a fun place to work and learn new skills. We hire student staff each semester, and would love to hear from you if you are interested in joining our team.",
+  "audience": [
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$18.17",
+   "$23.27"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/about",
+  "fetchedAt": "2026-08-11T17:02:59.834Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-industry-pathways-workshop-turning-research-strength",
+  "url": "https://calendar.colorado.edu/event/industry-pathways-workshop-turning-research-strengths-into-new-funding-streams-130",
+  "title": "Industry Pathways Workshop: Turning Research Strengths into New Funding Streams - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "competition",
+  "description": "This virtual workshop, hosted by CU Boulder&#39;s Industry Research Partnerships team, offers a clear view inside industry’s R&amp;D priorities—and what companies actually look for when partnering with faculty. Understand the technical pain points driving corporate investment and how to position your research so it stands out.\n\n \n\n[Register Now]\n\n \n\nWhat you’ll get out of the workshop\n\nUnderstanding of how industry R&amp;D works, including milestones, deliverables, and funding trendsIdentifying industry sectors that might be a fit for your researchUnderstanding specific company needs and challenges that could be a fit for your researchA playbook to approach potential industry partners \n\nTime commitment\n\nApproximately 5-6 hours (session time + homework)\n \n\nIf you have these questions, this workshop is for you:\n\nHow might industry supplement currently diminishing research funding streams?How can my research solve company problems?How do I keep my lab running and students funded potentially through industry partnerships?, powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/researchinnovation/newsletter/rio-bulletin/july-21-2026",
+  "fetchedAt": "2026-08-11T17:03:03.397Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-announcing-the-finalists-of-the-startup-colorado-pit",
+  "url": "https://startupcolorado.org/stories/announcing-the-finalists-of-the-startup-colorado-pitch-competition-wssw25",
+  "title": "Announcing the Pitch Competition Winners at West Slope Startup Week - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "Discover the winners of Startup Colorado’s Pitch Competition at WSSW25, celebrating rural innovation, funding, and founder success stories.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "food"
+  ],
+  "contacts": [],
+  "funding": [
+   "$10,000 m",
+   "$1,500",
+   "$5,000"
+  ],
+  "deadlines": [
+   "Due Diligence The Startup Colorado Pitch Competition also created valuable visibili"
+  ],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/2025/10/15",
+  "fetchedAt": "2026-08-11T17:03:10.932Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-soco-startup-week-innovation-tour-with-pterodynamics",
+  "url": "https://startupcolorado.org/event/soco-startup-week-innovation-tour-with-pterodynamics",
+  "title": "SoCo Startup Week - Innovation Tour with PteroDynamics - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "🚀 Innovation Tour with PteroDynamics Wednesday, August 26th | 9:00 AM – 10:15 AM PteroDynamics | Colorado Springs, CO Get an inside look at one of Colorado Springs’ fastest-growing technology [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "aerospace",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$1.5"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person",
+  "fetchedAt": "2026-08-11T17:03:15.019Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-startup-entrepreneurship-emprendimiento-de-nuevos-nego",
+  "url": "https://startupcolorado.org/event/startup-entrepreneurship-emprendimiento-de-nuevos-negocios",
+  "title": "Startup Entrepreneurship/Emprendimiento de Nuevos Negocios - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "FREE Zoom workshops Four sessions | Presented in Spanish with simultaneous interpretation to Engish &nbsp; It all starts with a business idea! This four-part workshop series offers programming to help [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [
+   "$400"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:03:17.791Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-june-demo-day-recap",
+  "url": "https://startupcolorado.org/stories/june-demo-day-recap",
+  "title": "From Dog Yogurt to Advanced Robotics: Rural Founders Pitch at June Demo Day - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "From dog yogurt to advanced robotics, these rural founders pitched exciting and truly unique ideas at our June Demo Day.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "cybersecurity"
+  ],
+  "contacts": [],
+  "funding": [
+   "$500",
+   "$950",
+   "$250K",
+   "$100K"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/blog",
+  "fetchedAt": "2026-08-11T17:03:20.206Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-young-americans-center-virtual-town-hall-financial-lit",
+  "url": "https://startupcolorado.org/event/young-americans-center-virtual-town-hall-financial-literacy-and-entrepreneurship-programming",
+  "title": "Young Americans Center Virtual Town Hall: Financial Literacy and Entrepreneurship Programming - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Join Young Americans Center for Financial Education for a virtual teacher town hall designed for educators who want to learn more about hands-on programming in financial literacy, entrepreneurship, free enterprise, [&hellip;]",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$20"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:03:20.223Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-the-western-union-global-fellowship-powered-by-watson-",
+  "url": "https://startupcolorado.org/event/the-western-union-global-fellowship-powered-by-watson-institute",
+  "title": "The Western Union Global Fellowship powered by Watson Institute - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "funding",
+  "description": "The Western Union Global Fellowship is a fully funded, 16- week program designed to help leaders and entrepreneurs to achieve product-market fit and scale their ventures. Fellows gain access to [&hellip;]",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "social enterprise"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "deadline: June 28, 2026 Apply Now: https://watson"
+  ],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:03:25.099Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-profile-emilie-odeile-and-ken-chapin",
+  "url": "https://startupcolorado.org/stories/profile-emilie-odeile-and-ken-chapin",
+  "title": "Profile: Startup Colorado’s First Artist-in-Residence, Emilie Odeile and Business Partner, Ken Chapin - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Learn about Startup Colorado’s First Artist-in-Residence, Emilie Odeile and her business partner, Ken Chapin.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$10",
+   "$1,500"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/founder-stories",
+  "fetchedAt": "2026-08-11T17:03:55.878Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-the-backpack-didnt-fit",
+  "url": "https://startupcolorado.org/stories/the-backpack-didnt-fit",
+  "title": "The Backpack Didn’t Fit—So She Built a Better One - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Sarah Berkeley&#039;s startup story is as adventurous as her product. Read about how the backpack didn&#039;t fit, so she built a better one.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$15,000"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/founder-stories",
+  "fetchedAt": "2026-08-11T17:03:56.692Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-announcing-startup-colorados-first-artist-in-residen",
+  "url": "https://startupcolorado.org/stories/announcing-startup-colorados-first-artist-in-residence-emilie-odeile",
+  "title": "Announcing Startup Colorado’s First Artist in Residence: Emilie Odeile - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "We&#039;re announcing Startup Colorado&#039;s first Artist in Residence: Emilie Odeile! Emilie is a unique fiber artist based in Southern CO.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$1,500"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/founder-stories",
+  "fetchedAt": "2026-08-11T17:03:59.709Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-starting-up-with-ice-preneur-chris-bonds",
+  "url": "https://startupcolorado.org/stories/starting-up-with-ice-preneur-chris-bonds",
+  "title": "Starting Up: How “Ice-preneur” Chris Bonds Is Bringing Premium Cocktail Ice to Colorado’s Western Slope - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "course",
+  "description": "Starting Up with Ice-Preneur Chris Bonds: Learn how a passion for classy cocktails grew into a unique local business.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$56,000",
+   "$20,000",
+   "$2,500"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/funding-capital-access",
+  "fetchedAt": "2026-08-11T17:04:01.098Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-food-and-ag-idea-factory",
+  "url": "https://startupcolorado.org/stories/food-and-ag-idea-factory",
+  "title": "Startup Colorado Teams Up with Naturally Colorado and CSU to Offer Food &amp; Ag Idea Factory - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Startup Colorado teams up with Naturally Colorado and CSU to offer Food &amp; Ag Idea Factory. Check out the March 2025 cohort!",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "food",
+   "energy",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Due to the nature of the partnership, the participants were selected from both rura"
+  ],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/founder-stories",
+  "fetchedAt": "2026-08-11T17:04:03.047Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-weld-county-startup-colorado-roadtrip",
+  "url": "https://startupcolorado.org/event/weld-county-startup-colorado-roadtrip",
+  "title": "Weld County Startup Colorado Roadtrip - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Startup Colorado is hitting the road, bringing the top business resources, knowledge, and networking opportunities to your hometown.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "Olivia@StartupColorado.org"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/free-opportunities-and-resources-for-rural-founders-in-q1-2026",
+  "fetchedAt": "2026-08-11T17:04:10.197Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rural-women-in-entrepreneurship-8",
+  "url": "https://startupcolorado.org/event/rural-women-in-entrepreneurship-8",
+  "title": "Rural Women in Entrepreneurship - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Each month, the Rural Women in Entrepreneurship group inside the Startup Colorado Community comes together for a virtual hour of connection. ",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "energy"
+  ],
+  "contacts": [],
+  "funding": [
+   "$25 million",
+   "$4"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/vanessa-mccrann/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:04:35.478Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-startup-colorados-response-to-the-quantum-industry-b",
+  "url": "https://startupcolorado.org/stories/startup-colorados-response-to-the-quantum-industry-bill",
+  "title": "Startup Colorado’s Response to the Quantum Industry Bill - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Read Startup Colorado&#039;s response to the Quantum Industry Bill that could skyrocket tech opportunities for rural entrepreneurs.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "quantum",
+   "energy",
+   "deep tech"
+  ],
+  "contacts": [],
+  "funding": [
+   "$74 million",
+   "$70 million",
+   "$1"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/insights",
+  "fetchedAt": "2026-08-11T17:05:00.715Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-2024-end-of-year-reflections",
+  "url": "https://startupcolorado.org/stories/2024-end-of-year-reflections",
+  "title": "2024 End of Year Reflections - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "As we prepare for the turn of the year, read the 2024 end of year reflections from our Executive Director, Brittany Romano.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$380K",
+   "$2m"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/insights",
+  "fetchedAt": "2026-08-11T17:05:00.732Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-how-to-organize-an-event-the-startup-colorado-way",
+  "url": "https://startupcolorado.org/stories/how-to-organize-an-event-the-startup-colorado-way",
+  "title": "How to Organize an Event the “Startup Colorado Way” - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Events are powerful tools for building strong communities. Learn how to organize an event the &quot;Startup Colorado Way&quot;!",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "energy",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "due to a captive audience, but in-person gatherings tend to foster more open, authe",
+   "deadlines you can’t get around"
+  ],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/startup-communities",
+  "fetchedAt": "2026-08-11T17:05:22.185Z",
   "needsAnalysis": false
  },
  {
@@ -28881,6 +29619,52 @@
   "needsAnalysis": false
  },
  {
+  "id": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
+  "url": "https://www.cuanschutz.edu/innovations/campus-innovator/faculty-or-researcher/form-a-company/innovation-hub",
+  "title": "Innovation Hub",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Innovation Hub Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alumni R",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "bioscience",
+   "aerospace",
+   "edtech",
+   "health",
+   "arts",
+   "medtech",
+   "space"
+  ],
+  "contacts": [
+   "np@smithhopen.com",
+   "bfassett@wsgr.com",
+   "wbarrett@wsgr.com",
+   "steve@setterroche.com",
+   "Hello@ProximaCRO.com"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/campus-innovator/funding/toolbox-microgrants",
+  "fetchedAt": "2026-08-11T17:03:03.213Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "cuanschutz-edu-innovations-campus-innovator-funding-cu-healthcare-innovation-fun",
   "url": "https://www.cuanschutz.edu/innovations/campus-innovator/funding/cu-healthcare-innovation-fund",
   "title": "CU Healthcare Innovation Fund",
@@ -30520,6 +31304,42 @@
   "needsAnalysis": false
  },
  {
+  "id": "cuanschutz-edu-innovations-about-us-news-events-2023-women-led-innovation-showca",
+  "url": "https://www.cuanschutz.edu/innovations/about-us/news-events/2023-women-led-innovation-showcase/speaker-bio-details/Violette-PhD-Shelia-EXTJ6WN8T",
+  "title": "sviolette@q32bio.com",
+  "org": "cuanschutz.edu",
+  "type": "event",
+  "description": "sviolette@q32bio.com Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Al",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "health"
+  ],
+  "contacts": [
+   "sviolette@q32bio.com"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/about-us/news-events/2023-women-led-innovation-showcase",
+  "fetchedAt": "2026-08-11T17:05:38.932Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "cuanschutz-edu-innovations-student-student-ip-undergraduate-innovators",
   "url": "https://www.cuanschutz.edu/innovations/student/student-ip/undergraduate-innovators",
   "title": "Undergraduate Innovators",
@@ -31076,6 +31896,648 @@
   "discoveredVia": "sitemap",
   "parent": "https://coloradostartups.org/sitemap.xml",
   "fetchedAt": "2026-08-11T17:02:52.728Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "url": "https://www.cuanschutz.edu/cu-innovations/campus-innovator/faculty-or-researcher/form-a-company/innovation-hub",
+  "title": "Innovation Hub",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Innovation Hub Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alumni R",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "bioscience",
+   "aerospace",
+   "edtech",
+   "health",
+   "arts",
+   "medtech",
+   "space"
+  ],
+  "contacts": [
+   "np@smithhopen.com",
+   "bfassett@wsgr.com",
+   "wbarrett@wsgr.com",
+   "steve@setterroche.com",
+   "Hello@ProximaCRO.com"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/campus-innovator/funding/toolbox-microgrants",
+  "fetchedAt": "2026-08-11T17:03:03.620Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-innovation-hub",
+  "url": "https://www.cuanschutz.edu/cu-innovations/cu-innovations/innovator-resources/innovation-hub",
+  "title": "Innovation Hub",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Innovation Hub Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alumni R",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "bioscience",
+   "aerospace",
+   "edtech",
+   "health",
+   "arts",
+   "medtech",
+   "space"
+  ],
+  "contacts": [
+   "np@smithhopen.com",
+   "bfassett@wsgr.com",
+   "wbarrett@wsgr.com",
+   "steve@setterroche.com",
+   "Hello@ProximaCRO.com"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/campus-innovator/funding/toolbox-microgrants",
+  "fetchedAt": "2026-08-11T17:03:03.699Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-organizer-olivia-reed",
+  "url": "https://startupcolorado.org/organizer/olivia-reed",
+  "title": "Olivia Reed - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Olivia Reed - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS Close PROGRAMS O",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "due on June 20! Apply now and join the lineup"
+  ],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/event/november-pitch-readiness-workshop-with-startup-colorado",
+  "fetchedAt": "2026-08-11T17:03:43.660Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-about-spark-application-process",
+  "url": "https://www.cuanschutz.edu/innovations/spark/about-spark/application-process",
+  "title": "Application Process | SPARK",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Application Process | SPARK Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "deadline"
+  ],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:20.991Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-about-spark-what-we-fund",
+  "url": "https://www.cuanschutz.edu/innovations/spark/about-spark/what-we-fund",
+  "title": "What We Fund | SPARK",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "What We Fund | SPARK Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Al",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "sparkcu@ucdenver.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:21.548Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-about-spark-submit-an-application",
+  "url": "https://www.cuanschutz.edu/innovations/spark/about-spark/submit-an-application",
+  "title": "University of Colorado - Anschutz -",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "University of Colorado - Anschutz - [Skip to Content] Menu Home Review Criteria FAQs My Account Apply Now Login to Complete an Application or to Access Judging Panel Login Email Address Password lost password?",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "edtech",
+   "health",
+   "medtech"
+  ],
+  "contacts": [],
+  "funding": [
+   "$200,000"
+  ],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:21.768Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-get-involved",
+  "url": "https://www.cuanschutz.edu/innovations/spark/get-involved",
+  "title": "Get Involved | SPARK",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Get Involved | SPARK Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Al",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "cuinnovations@cuanschutz.edu",
+   "sparkcu@ucdenver.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:23.088Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-contact-us",
+  "url": "https://www.cuanschutz.edu/innovations/spark/contact-us",
+  "title": "Contact Us | SPARK",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Contact Us | SPARK Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alum",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "sparkcu@ucdenver.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:23.096Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-gold-aidan-ext53vu",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Gold-Aidan-EXT53VUU8",
+  "title": "noreply1@cuinnovations.com",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "noreply1@cuinnovations.com Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "noreply1@cuinnovations.com"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/2",
+  "fetchedAt": "2026-08-11T17:05:39.448Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-grigsby-david-ext4",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Grigsby-David-EXT484BHM",
+  "title": "noreply3@cuinnovations.com",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "noreply3@cuinnovations.com Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "noreply3@cuinnovations.com"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/2",
+  "fetchedAt": "2026-08-11T17:05:39.764Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-groegler-jason-ext",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Groegler-Jason-EXT7TNE3F",
+  "title": "jason.groegler@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "jason.groegler@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppo",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "jason.groegler@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/2",
+  "fetchedAt": "2026-08-11T17:05:39.805Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-gopinath-shalmali-",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Gopinath-Shalmali-EXT8BS3F9",
+  "title": "noreply2@cuinnovations.com",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "noreply2@cuinnovations.com Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "noreply2@cuinnovations.com"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/2",
+  "fetchedAt": "2026-08-11T17:05:39.984Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-miao-tyler-extj9f8",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Miao-Tyler-EXTJ9F8JE",
+  "title": "noreply6@cuinnovations.com",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "noreply6@cuinnovations.com Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "noreply6@cuinnovations.com"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/4",
+  "fetchedAt": "2026-08-11T17:05:40.505Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-hansen-richard-ext",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Hansen-Richard-EXT18O7FT",
+  "title": "noreply4@cuinnovations.com",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "noreply4@cuinnovations.com Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "noreply4@cuinnovations.com"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/3",
+  "fetchedAt": "2026-08-11T17:05:40.847Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-ivich-adriana-ext9",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Ivich-Adriana-EXT9284SK",
+  "title": "adriana.ivich@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "adriana.ivich@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "adriana.ivich@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/3",
+  "fetchedAt": "2026-08-11T17:05:40.890Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-morrissey-samantha",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Morrissey-Samantha-EXTRU5TZ4",
+  "title": "noreply7@cuinnovations.com",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "noreply7@cuinnovations.com Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "noreply7@cuinnovations.com"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/5",
+  "fetchedAt": "2026-08-11T17:05:41.294Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-passeri-carlo-extz",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Passeri-Carlo-EXTZNB241",
+  "title": "noreply8@cuinnovations.com",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "noreply8@cuinnovations.com Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "noreply8@cuinnovations.com"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/5",
+  "fetchedAt": "2026-08-11T17:05:41.920Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-simon-maxwell-ext0",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Simon-Maxwell-EXT06PH9Z",
+  "title": "maxwell.simon@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "maxwell.simon@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "maxwell.simon@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/6",
+  "fetchedAt": "2026-08-11T17:05:42.352Z",
   "needsAnalysis": false
  },
  {
@@ -38342,6 +39804,34 @@
   "needsAnalysis": false
  },
  {
+  "id": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
+  "url": "https://startupcolorado.org/event/colorado-capital-funding-opportunities-you-may-be-missing-out-on-at-west-slope-startup-week",
+  "title": "Colorado Capital: Funding opportunities you may be missing out on at West Slope Startup Week - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "funding",
+  "description": "This panel will take place in person during West Slope Startup Week in Durango and will explore Colorado-specific funding opportunities.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/olivia-reed",
+  "fetchedAt": "2026-08-11T17:03:47.842Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "startupcolorado-org-rural-creative-collective",
   "url": "https://startupcolorado.org/rural-creative-collective",
   "title": "Rural Creative Collective - Startup Colorado",
@@ -39952,6 +41442,779 @@
   "discoveredVia": "link",
   "parent": "http://colorado.edu/researchinnovation/bulletin",
   "fetchedAt": "2026-08-11T17:02:48.925Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-welding-shop",
+  "url": "http://colorado.edu/ideaforge/facilities/welding-shop",
+  "title": "Welding Shop | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "event",
+  "description": "The Idea Forge houses a shop specifically for welding purposes. It contains four MIG machines in individual stations, one large MIG machine (with an aluminum spool gun attachment), and two TIG machines. Everything else you might need to complete a project &ndash; cutting tools, pedestal and angle grinders, clamps, vises, files, measuring tools, welding rod, hoods, jackets, and advice &ndash; are available. Completion of a welding workshop is required for access to the welding shop.",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:03:00.847Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-rapid-prototyping-lab",
+  "url": "http://colorado.edu/ideaforge/facilities/rapid-prototyping-lab",
+  "title": "Rapid Prototyping Lab | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "space",
+  "description": "This lab has what you need for all of your rapid prototyping needs. With various tiers of 3D printing and a laser cutter, you have all the tools you need to rapidly iterate your prototypes. See detailed information about our fabrication equipment below.",
+  "audience": [
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:03:00.962Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-soco-startup-week-community-hackathon-workshop-naturec",
+  "url": "https://startupcolorado.org/event/soco-startup-week-community-hackathon-workshop-naturechase-mainstreet-adventure",
+  "title": "SoCo Startup Week - Community Hackathon Workshop &amp; NatureChase Mainstreet Adventure - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Community Hackathon Workshop &amp; NatureChase Mainstreet Adventure 📅 Tuesday, August 25th | 2:45 PM – 4:45 PM 📍 Post Office Event Center, 505 Macon Ave, Canon City CO 81212 Great [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person",
+  "fetchedAt": "2026-08-11T17:03:15.887Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-telluride-venture-network-2026-climate-solutions-inves",
+  "url": "https://startupcolorado.org/event/telluride-venture-network-2026-climate-solutions-investment-bootcamp",
+  "title": "Telluride Venture Network 2026 Climate Solutions INVESTMENT Bootcamp - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "Telluride Venture Network is committed to helping startups access funding to grow and scale. Our Climate Solutions Investment Bootcamp &#8211; a hybrid sprint program complete with a Pitch Day &#8211; [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:03:26.226Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-our-work-in-action-anywhere-cams-journey",
+  "url": "https://startupcolorado.org/our-work-in-action-anywhere-cams-journey",
+  "title": "Our Work In Action: AnywhereCam’s Journey in the Startup Colorado Ecosystem - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Our Work In Action: AnywhereCam’s journey in the Startup Colorado ecosystem is highlighted in this inspiring blog.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$2,500",
+   "$250K"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/why-pitch-competitions-are-essential",
+  "fetchedAt": "2026-08-11T17:03:34.767Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-growth-challenge",
+  "url": "https://startupcolorado.org/growth-challenge",
+  "title": "Home - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "Empowering startups in Colorado with resources, programs, and a vibrant community. Start your entrepreneurial journey with us.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/our-work-in-action-anywhere-cams-journey",
+  "fetchedAt": "2026-08-11T17:03:37.507Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-roadtrip",
+  "url": "https://startupcolorado.org/roadtrip",
+  "title": "Roadtrip - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "funding",
+  "description": "The Startup Colorado Roadtrip is bridging access gaps by bringing funding resources to communities across Rural Colorado.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/sterling-pitch-competition-winners",
+  "fetchedAt": "2026-08-11T17:03:42.025Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-margaret-startupcolorado-org",
+  "url": "https://startupcolorado.org/stories/margaret@startupcolorado.org",
+  "title": "Home - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Empowering startups in Colorado with resources, programs, and a vibrant community. Start your entrepreneurial journey with us.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/inaugural-belonging-cohort",
+  "fetchedAt": "2026-08-11T17:03:42.933Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-reviving-old-tires-and-rural-economies-in-eastern-co",
+  "url": "https://startupcolorado.org/stories/reviving-old-tires-and-rural-economies-in-eastern-colorado",
+  "title": "Reviving Old Tires—and Rural Economies—in Eastern Colorado - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "funding",
+  "description": "Great Western Tire is reviving old tires and rural economies in Eastern Colorado. Learn how they scaled using regional grant programs.",
+  "audience": [
+   "staff",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "due to grants and tax incentives via Colorado’s Rural Jump-Start Grant program, alo"
+  ],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/funding-capital-access",
+  "fetchedAt": "2026-08-11T17:03:46.390Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-our-work-in-action-anywhere-cams-journey",
+  "url": "https://startupcolorado.org/stories/our-work-in-action-anywhere-cams-journey",
+  "title": "Our Work In Action: AnywhereCam’s Journey in the Startup Colorado Ecosystem - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Our Work In Action: AnywhereCam’s journey in the Startup Colorado ecosystem is highlighted in this inspiring blog.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$2,500",
+   "$250K"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/funding-capital-access",
+  "fetchedAt": "2026-08-11T17:03:50.441Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-the-skys-the-limit",
+  "url": "https://startupcolorado.org/stories/the-skys-the-limit",
+  "title": "The Sky’s the Limit for Buena Vista Tent Manufacturer - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "The sky’s the limit for this Buena Vista tent manufacturer—read Joseph Bissonnette&#039;s story of rural innovation.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "energy"
+  ],
+  "contacts": [],
+  "funding": [
+   "$10,000 m",
+   "$1 million",
+   "$1,500"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/founder-stories",
+  "fetchedAt": "2026-08-11T17:03:54.287Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-mighty-mikes-second-act",
+  "url": "https://startupcolorado.org/stories/mighty-mikes-second-act",
+  "title": "Mighty Mike’s Second Act - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Discover Mighty Mike&#039;s second act and learn how a rural comeback helped forge a rising Colorado food brand.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "food",
+   "energy"
+  ],
+  "contacts": [],
+  "funding": [
+   "$11,000"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/founder-stories",
+  "fetchedAt": "2026-08-11T17:03:55.866Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-meet-the-winners-fremont-county-idea-factory",
+  "url": "https://startupcolorado.org/stories/meet-the-winners-fremont-county-idea-factory",
+  "title": "Meet the Winners: Fremont County Idea Factory - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "We&#039;re thrilled to announce the winners of the Fremont Idea Factory— Barna Kasa, Brock Predovich, and Zachary Stormant.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "health"
+  ],
+  "contacts": [
+   "tim@startupcolorado.org"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/founder-stories",
+  "fetchedAt": "2026-08-11T17:04:05.289Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rural-startup-days",
+  "url": "https://startupcolorado.org/event/rural-startup-days",
+  "title": "Rural Startup Days - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Rural Startup Days is completely free, multi-day event designed to activate the Southeast entrepreneurial community.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/free-opportunities-and-resources-for-rural-founders-in-q1-2026",
+  "fetchedAt": "2026-08-11T17:04:10.672Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-news-441615",
+  "url": "https://startupcolorado.org/news/441615",
+  "title": "Home - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Empowering startups in Colorado with resources, programs, and a vibrant community. Start your entrepreneurial journey with us.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/how-wssw-has-evolved-to-serve-more-rural-entrepreneurs",
+  "fetchedAt": "2026-08-11T17:04:21.156Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-financing-a-small-business",
+  "url": "https://startupcolorado.org/financing-a-small-business",
+  "title": "How do you secure financing for a small business? - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "funding",
+  "description": "Mike O&#039;Donnell discusses how there is no &quot;one-size-fits-all&quot; to financing a small business. Funding plans are unique to every business!",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [
+   "$25",
+   "$15,000",
+   "$12,000 K"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/how-geyser-systems-worked-the-system",
+  "fetchedAt": "2026-08-11T17:04:21.840Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rural-women-in-entrepreneurship-3",
+  "url": "https://startupcolorado.org/event/rural-women-in-entrepreneurship-3",
+  "title": "Rural Women in Entrepreneurship - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Startup Colorado Rural Women in Entrepreneurship meetings invite women at every business stage to gather for casual networking and education.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/vanessa-mccrann/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:04:31.080Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-how-wssw-has-evolved-to-serve-more-rural-entrepreneu",
+  "url": "https://startupcolorado.org/stories/how-wssw-has-evolved-to-serve-more-rural-entrepreneurs",
+  "title": "How WSSW Has Evolved to Serve More Rural Entrepreneurs - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "By Khara Wolf West Slope Startup Week (WSSW) is on the move! This free week-long event for entrepreneurs and small business owners is relocating from Grand Junction to the rural startup [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/2023/08/02",
+  "fetchedAt": "2026-08-11T17:04:31.096Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rural-women-in-entrepreneurship-6",
+  "url": "https://startupcolorado.org/event/rural-women-in-entrepreneurship-6",
+  "title": "Rural Women in Entrepreneurship - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Each month, the Rural Women in Entrepreneurship group inside the Startup Colorado Community gathers to have a networking conversation.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/vanessa-mccrann/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:04:35.846Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rural-women-in-entrepreneurship-11",
+  "url": "https://startupcolorado.org/event/rural-women-in-entrepreneurship-11",
+  "title": "Rural Women in Entrepreneurship - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Join Vanessa McCrann and Christina Christian for Startup Colorado&#039;s monthly Rural Women in Entrepreneurship virtual meetup!",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/vanessa-mccrann/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:04:37.810Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rural-women-in-entrepreneurship-4",
+  "url": "https://startupcolorado.org/event/rural-women-in-entrepreneurship-4",
+  "title": "Rural Women in Entrepreneurship - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Join the Rural Women in Entrepreneurship group for a free monthly networking hour to connect with women entrepreneurs and listen to speakers.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/vanessa-mccrann/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:04:38.338Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-ready-to-scale",
+  "url": "https://startupcolorado.org/stories/ready-to-scale",
+  "title": "Ready to scale? Here’s how strategic partnerships can drive growth - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Ready to scale? Discover how strategic partnerships can drive growth with insights from Diane Bailey on the Rural Startup.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "due to upfront costs"
+  ],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice",
+  "fetchedAt": "2026-08-11T17:04:49.343Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-financing-a-small-business",
+  "url": "https://startupcolorado.org/stories/financing-a-small-business",
+  "title": "How do you secure financing for a small business? - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "funding",
+  "description": "Mike O&#039;Donnell discusses how there is no &quot;one-size-fits-all&quot; to financing a small business. Funding plans are unique to every business!",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [
+   "$25",
+   "$15,000",
+   "$12,000 K"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice/page/2",
+  "fetchedAt": "2026-08-11T17:05:05.871Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-the-latine-program",
+  "url": "https://startupcolorado.org/stories/the-latine-program",
+  "title": "Enriching Diversity: The Latine Program at West Slope Startup Week - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "The Latine Program at West Slope Startup Week honors the integral part that Spanish-speaking community has in CO&#039;s entrepreneurial landscape.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/startup-communities",
+  "fetchedAt": "2026-08-11T17:05:17.695Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rural-women-in-entrepreneurship-5",
+  "url": "https://startupcolorado.org/event/rural-women-in-entrepreneurship-5",
+  "title": "Rural Women in Entrepreneurship - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Each month, the Rural Women in Entrepreneurship group inside the Startup Colorado Community comes together for a virtual hour of connection.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/startup-colorado/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:05:38.998Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-pitch-workshop",
+  "url": "https://startupcolorado.org/event/pitch-workshop",
+  "title": "Pitch Workshop - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "Pitch Workshop with Jolene Collins Are you ready to pitch your business with confidence? Join us for a virtual Pitch Readiness Session with expert coach Jolene Collins. Whether you&#8217;re preparing [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/startup-colorado/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:05:42.918Z",
   "needsAnalysis": false
  },
  {
@@ -46012,7 +48275,7 @@
  },
  {
   "id": "colorado-edu-nvc-news",
-  "url": "http://colorado.edu/nvc/news",
+  "url": "https://colorado.edu/nvc/news",
   "title": "News | New Venture Challenge",
   "org": "colorado.edu/nvc",
   "type": "competition",
@@ -46032,8 +48295,8 @@
   "specificity": 3,
   "depth": 3,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/nvc",
-  "fetchedAt": "2026-08-11T16:54:55.653Z",
+  "parent": "https://colorado.edu/nvc",
+  "fetchedAt": "2026-08-11T17:02:58.950Z",
   "needsAnalysis": false
  },
  {
@@ -46068,41 +48331,6 @@
   "discoveredVia": "link",
   "parent": "https://www.cuanschutz.edu/cu-innovations",
   "fetchedAt": "2026-08-11T16:56:33.854Z",
-  "needsAnalysis": false
- },
- {
-  "id": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
-  "url": "https://www.cuanschutz.edu/innovations/campus-innovator/faculty-or-researcher/form-a-company",
-  "title": "Form a Company | CU Innovations",
-  "org": "cuanschutz.edu",
-  "type": "reference",
-  "description": "Form a Company | CU Innovations Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Sup",
-  "audience": [
-   "faculty",
-   "staff",
-   "alumni",
-   "community",
-   "students",
-   "researchers"
-  ],
-  "stage": [
-   "explore",
-   "build",
-   "launch"
-  ],
-  "sectors": [
-   "ai",
-   "health",
-   "space"
-  ],
-  "contacts": [],
-  "funding": [],
-  "deadlines": [],
-  "specificity": 3,
-  "depth": 2,
-  "discoveredVia": "link",
-  "parent": "https://www.cuanschutz.edu/innovations/campus-innovator/faculty-or-researcher",
-  "fetchedAt": "2026-08-11T17:01:08.323Z",
   "needsAnalysis": false
  },
  {
@@ -47001,39 +49229,6 @@
   "needsAnalysis": false
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-news-events-2023-women-led-innovation-showca",
-  "url": "https://www.cuanschutz.edu/innovations/about-us/news-events/2023-women-led-innovation-showcase",
-  "title": "2023 Women-Led Innovation Showcase",
-  "org": "cuanschutz.edu",
-  "type": "event",
-  "description": "2023 Women-Led Innovation Showcase Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources ",
-  "audience": [
-   "faculty",
-   "staff",
-   "alumni",
-   "community",
-   "students"
-  ],
-  "stage": [
-   "explore",
-   "build",
-   "launch"
-  ],
-  "sectors": [
-   "ai",
-   "health"
-  ],
-  "contacts": [],
-  "funding": [],
-  "deadlines": [],
-  "specificity": 3,
-  "depth": 2,
-  "discoveredVia": "link",
-  "parent": "https://www.cuanschutz.edu/innovations/about-us/news-events",
-  "fetchedAt": "2026-08-11T17:01:07.824Z",
-  "needsAnalysis": false
- },
- {
   "id": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-manage-ip",
   "url": "https://www.cuanschutz.edu/innovations/campus-innovator/faculty-or-researcher/manage-ip",
   "title": "Manage Your IP | CU Innovations",
@@ -47709,6 +49904,1279 @@
   "discoveredVia": "link",
   "parent": "http://colorado.edu/researchinnovation/bulletin",
   "fetchedAt": "2026-08-11T17:02:49.374Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-machine-shop",
+  "url": "http://colorado.edu/ideaforge/facilities/machine-shop",
+  "title": "Machine Shop | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "reference",
+  "description": "Machine Shop | Idea Forge | University of Colorado Boulder Skip to main content Translate English Spanish Chinese French German Korean Lao Nepali Japanese Tibetan Search Enter the terms you wish to search for.",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:03:00.831Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-sewing-resources",
+  "url": "http://colorado.edu/ideaforge/sewing-resources",
+  "title": "Sewing Resources | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "reference",
+  "description": "The Idea Forge has a variety of sewing resources available. Whether you",
+  "audience": [],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:03:01.190Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-researchinnovation-newsletter",
+  "url": "https://colorado.edu/researchinnovation/newsletter",
+  "title": "Newsletter | Research & Innovation Office",
+  "org": "colorado.edu/researchinnovation",
+  "type": "reference",
+  "description": "Newsletter | Research & Innovation Office | University of Colorado Boulder Skip to main content Research & Innovation Office Home About Operations & Administration Research Operations & Administration Office of Contracts and Grants Partners with researchers throughout the lifecycle of an award to ob",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "quantum"
+  ],
+  "contacts": [
+   "rio@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/researchinnovation/newsletter/rio-bulletin/july-21-2026",
+  "fetchedAt": "2026-08-11T17:03:03.271Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-cu-innovations-disclose-an-invention",
+  "url": "https://www.cuanschutz.edu/cu-innovations/disclose-an-invention",
+  "title": "Invention &amp; Copyright Material Disclosure Process",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Invention & Copyright Material Disclosure Process Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & S",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/campus-innovator/funding/toolbox-microgrants",
+  "fetchedAt": "2026-08-11T17:03:03.567Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-tag-online-event",
+  "url": "https://startupcolorado.org/stories/tag/online-event",
+  "title": "Online Event Archives - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Online Event Archives - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS Close ",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/event/venture-studio-office-hours-pre-seed-seed-strategy",
+  "fetchedAt": "2026-08-11T17:03:11.266Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-organizer-telluride-venture-network-eventdisplay-past",
+  "url": "https://startupcolorado.org/organizer/telluride-venture-network/?eventDisplay=past",
+  "title": "Telluride Venture Network - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Telluride Venture Network - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS Cl",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate"
+  ],
+  "contacts": [],
+  "funding": [
+   "$750"
+  ],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 6,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/telluride-venture-network",
+  "fetchedAt": "2026-08-11T17:03:35.945Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-tag-podcasts",
+  "url": "https://startupcolorado.org/stories/tag/podcasts",
+  "title": "Podcasts Archives - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Podcasts Archives - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS Close PROG",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "energy",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [
+   "$5K"
+  ],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/town-hall-startup-colorado-podcast",
+  "fetchedAt": "2026-08-11T17:03:37.208Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-2026-04-02",
+  "url": "https://startupcolorado.org/stories/2026/04/02",
+  "title": "April 2, 2026 - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "April 2, 2026 - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS Close PROGRAMS",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/inaugural-belonging-cohort",
+  "fetchedAt": "2026-08-11T17:03:51.977Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-who-are-we-team",
+  "url": "https://www.cuanschutz.edu/innovations/spark/who-are-we/team",
+  "title": "Team | SPARK",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Team | SPARK Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alumni Res",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:22.133Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-who-are-we-fellows",
+  "url": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "title": "Fellows | SPARK",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Fellows | SPARK Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alumni ",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:22.257Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-resources-links",
+  "url": "https://www.cuanschutz.edu/innovations/spark/resources/links",
+  "title": "Helpful Links",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Helpful Links Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alumni Re",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:22.566Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-resources-applicantsupports",
+  "url": "https://www.cuanschutz.edu/innovations/spark/resources/applicantsupports",
+  "title": "SPARK Applicant Supports",
+  "org": "cuanschutz.edu",
+  "type": "service",
+  "description": "SPARK Applicant Supports Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter ",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:22.668Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-resources-cctsi-icorps",
+  "url": "https://www.cuanschutz.edu/innovations/spark/resources/cctsi---icorps",
+  "title": "CCTSI - ICorps | SPARK",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "CCTSI - ICorps | SPARK Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & ",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:22.714Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "url": "https://www.cuanschutz.edu/innovations/spark/resources/spark-documents",
+  "title": "SPARK Documents",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "SPARK Documents Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alumni ",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark",
+  "fetchedAt": "2026-08-11T17:04:22.924Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-all-events-list",
+  "url": "https://startupcolorado.org/all-events/list",
+  "title": "Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Found",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$99.00"
+  ],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events",
+  "fetchedAt": "2026-08-11T17:04:30.776Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-all-events-photo",
+  "url": "https://startupcolorado.org/all-events/photo",
+  "title": "Display of Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Display of Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belongin",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$99.00"
+  ],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events",
+  "fetchedAt": "2026-08-11T17:04:30.795Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-all-events-list-page-2",
+  "url": "https://startupcolorado.org/all-events/list/page/2",
+  "title": "Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Page 2 &#8211; Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Page 2 &#8211; Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belo",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/list/?shortcode=fbfaa9c3",
+  "fetchedAt": "2026-08-11T17:04:46.299Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-all-events-list-eventdisplay-past",
+  "url": "https://startupcolorado.org/all-events/list/?eventDisplay=past",
+  "title": "Past Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Past Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For ",
+  "audience": [
+   "staff",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/list/?shortcode=fbfaa9c3",
+  "fetchedAt": "2026-08-11T17:04:47.341Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-organizer-startup-colorado-eventdisplay-past",
+  "url": "https://startupcolorado.org/organizer/startup-colorado/?eventDisplay=past",
+  "title": "Startup Colorado - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Startup Colorado - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS Close PROGR",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/startup-colorado",
+  "fetchedAt": "2026-08-11T17:05:34.614Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-elder-nina-exthhli",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Elder-Nina-EXTHHLIFA",
+  "title": "NINA.ELDER@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "NINA.ELDER@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/2",
+  "fetchedAt": "2026-08-11T17:05:39.291Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-fetzer-jennifer-ex",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Fetzer-Jennifer-EXT3DZLQS",
+  "title": "JENNIFER.FETZER@UCDENVER.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "JENNIFER.FETZER@UCDENVER.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "energy"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/2",
+  "fetchedAt": "2026-08-11T17:05:39.344Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-laughter-melissa-e",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Laughter-Melissa-EXTZ5GCCW",
+  "title": "MELISSA.LAUGHTER@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "MELISSA.LAUGHTER@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Sup",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/4",
+  "fetchedAt": "2026-08-11T17:05:40.164Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-lee-byoungin-extkz",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Lee-Byoungin-EXTKZNSE3",
+  "title": "BYOUNGIN.LEE@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "BYOUNGIN.LEE@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/4",
+  "fetchedAt": "2026-08-11T17:05:40.171Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-madsen-henry-exts5",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Madsen-Henry-EXTS55LMB",
+  "title": "HENRY.MADSEN@UCDENVER.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "HENRY.MADSEN@UCDENVER.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/4",
+  "fetchedAt": "2026-08-11T17:05:40.365Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-mecca-andrew-extli",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Mecca-Andrew-EXTLI7YT0",
+  "title": "ANDREW.MECCA@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "ANDREW.MECCA@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/4",
+  "fetchedAt": "2026-08-11T17:05:40.545Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-mohan-adithya-exte",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Mohan-Adithya-EXTE45QQB",
+  "title": "ADITHYA.MOHAN@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "ADITHYA.MOHAN@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/4",
+  "fetchedAt": "2026-08-11T17:05:40.779Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-hoff-katelyn-extl0",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Hoff-Katelyn-EXTL02CUB",
+  "title": "KATIE.HOFF@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "KATIE.HOFF@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/3",
+  "fetchedAt": "2026-08-11T17:05:40.865Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-kerr-jake-extnizzk",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Kerr-Jake-EXTNIZZKZ",
+  "title": "JAKE.KERR@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "JAKE.KERR@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter ",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/3",
+  "fetchedAt": "2026-08-11T17:05:41.208Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-kim-emmeline-extp3",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Kim-Emmeline-EXTP31A0A",
+  "title": "EMMELINE.KIM@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "EMMELINE.KIM@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/3",
+  "fetchedAt": "2026-08-11T17:05:41.215Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-king-benjamin-exte",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/King-Benjamin-EXTEPL6V0",
+  "title": "BENJAMIN.KING@UCHEALTH.ORG",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "BENJAMIN.KING@UCHEALTH.ORG Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/3",
+  "fetchedAt": "2026-08-11T17:05:41.302Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-neves-da-silva-hel",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Neves-da-Silva-Helio-EXTQC2SV3",
+  "title": "HELIO.NEVESDASILVA@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "HELIO.NEVESDASILVA@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources S",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/5",
+  "fetchedAt": "2026-08-11T17:05:41.560Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-myers-tyler-extv90",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Myers-Tyler-EXTV90W7E",
+  "title": "TYLER.MYERS@UCDENVER.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "TYLER.MYERS@UCDENVER.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter ",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/5",
+  "fetchedAt": "2026-08-11T17:05:41.570Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-ormsby-andrew-ext0",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Ormsby-Andrew-EXT04TOUR",
+  "title": "ANDREW.ORMSBY@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "ANDREW.ORMSBY@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/5",
+  "fetchedAt": "2026-08-11T17:05:41.635Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-palan-jordan-ext83",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Palan-Jordan-EXT83SSOS",
+  "title": "JORDAN.PALAN@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "JORDAN.PALAN@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/5",
+  "fetchedAt": "2026-08-11T17:05:41.647Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-parsana-juhi-extti",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Parsana-Juhi-EXTTIO6XR",
+  "title": "JUHI.PARSANA@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "JUHI.PARSANA@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/5",
+  "fetchedAt": "2026-08-11T17:05:41.930Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-pradhan-sharvari-e",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Pradhan-Sharvari-EXTE8JELH",
+  "title": "SHARVARISAINATH.PRADHAN@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "SHARVARISAINATH.PRADHAN@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resour",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/5",
+  "fetchedAt": "2026-08-11T17:05:41.979Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-rothfuss-craig-ext",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Rothfuss-Craig-EXTE4TE7G",
+  "title": "CRAIG.ROTHFUSS@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "CRAIG.ROTHFUSS@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppo",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/6",
+  "fetchedAt": "2026-08-11T17:05:41.995Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-sorrells-matt-exth",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Sorrells-Matt-EXTHPE4VU",
+  "title": "MATTHEW.SORRELLS@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "MATTHEW.SORRELLS@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Sup",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/6",
+  "fetchedAt": "2026-08-11T17:05:42.330Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-schuppan-oksana-ex",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Schuppan-Oksana-EXTJ59M5F",
+  "title": "OKSANA.SCHUPPAN@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "OKSANA.SCHUPPAN@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supp",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/6",
+  "fetchedAt": "2026-08-11T17:05:42.345Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-templeton-john-ext",
+  "url": "https://www.cuanschutz.edu/innovations/student/fellowships/fellow-profile/Templeton-John-EXT71DTAJ",
+  "title": "JOHN.2.TEMPLETON@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "JOHN.2.TEMPLETON@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Sup",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/student/fellowships/6",
+  "fetchedAt": "2026-08-11T17:05:42.357Z",
   "needsAnalysis": false
  },
  {
@@ -50047,6 +53515,921 @@
   "needsAnalysis": false
  },
  {
+  "id": "lawinnovation-colorado-edu-account-login",
+  "url": "https://lawinnovation.colorado.edu/Account/Login",
+  "title": "Log in - Law Innovation Web Applications",
+  "org": "colorado.edu/Account",
+  "type": "reference",
+  "description": "Log in - Law Innovation Web Applications Log in Chrome or Firefox Recommended Use Google Chrome or Mozilla Firefox for the best experience with our web applications.",
+  "audience": [],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://lawinnovation.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:02:59.367Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-about-about",
+  "url": "http://colorado.edu/ideaforge/about/about",
+  "title": "About | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "space",
+  "description": "Idea Forge The Idea Forge is a prototyping facility focused on design and innovation. We are a flexible, cross-disciplinary collaborative space where students can imagine, design, create, and test products and solutions to meet a range of societal and customer needs.",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/about",
+  "fetchedAt": "2026-08-11T17:02:59.632Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-about-find-us",
+  "url": "http://colorado.edu/ideaforge/about/find-us",
+  "title": "Find Us | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "reference",
+  "description": "Find Us | Idea Forge | University of Colorado Boulder Skip to main content Translate English Spanish Chinese French German Korean Lao Nepali Japanese Tibetan Search Enter the terms you wish to search for.",
+  "audience": [],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "ideaforge@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/about",
+  "fetchedAt": "2026-08-11T17:02:59.645Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-drop-design-lab",
+  "url": "http://colorado.edu/ideaforge/facilities/drop-design-lab",
+  "title": "Drop-In Design Lab | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "reference",
+  "description": "A true project work area, the Drop In Design Lab, affectionately known as the DIDL, begs for students to get in and get working on projects. The DIDL (MBE 178), the space holds a SolidWorks CAD/LabView/engineering software computer lab and plenty of project work space. There are two study rooms available for students to reserve - rooms 178A and 178B. Both have phones and full presentation capabilities. Borrow an external camera from Victoria (MBE 130G).",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:02:59.985Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-chevron-design-studio",
+  "url": "http://colorado.edu/ideaforge/facilities/chevron-design-studio",
+  "title": "Chevron Design Studio | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "course",
+  "description": "The Chevron Design Studio is a large design and build space run by Design Center Colorado and dedicated to the Mechanical Engineering and Biomedical Engineering Senior Design classes. This course allows students to work on industry sponsored projects while guided by a faculty advisor. The course is a transitionary experience for students as they bridge from being a student to thinking like an engineer in industry. Design teams have dedicated work and storage space.",
+  "audience": [
+   "faculty",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:03:00.021Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-conference-rooms-northrop-grumman-think-tank",
+  "url": "http://colorado.edu/ideaforge/facilities/conference-rooms/northrop-grumman-think-tank",
+  "title": "Northrop Grumman Think Tank | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "event",
+  "description": "The Think Tank is a conference room suspended over the Idea Forge Commons. Available to be reserved by anyone on campus, the room seats 8 people and has full projection capabilities. It is commonly used by students and faculty alike.",
+  "audience": [
+   "faculty",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:03:00.375Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-conference-rooms-mesab-teleconference-room",
+  "url": "http://colorado.edu/ideaforge/facilities/conference-rooms/mesab-teleconference-room",
+  "title": "MESAB Teleconference Room | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "course",
+  "description": "The MESAB Teleconference Room (MBE 179) fulfills the need for a large meeting space (16 seats) with video conference capabilities on campus. Schedule the room for your class project or student group meeting. It is often used by students to meet with industry partners, faculty to hold research meetings, and student groups and startups. Bring your dry-erase markers to write on the white board table. This space has been named by the generous members of the Mechanical Engineering Strategic Advisory Board (MESAB).",
+  "audience": [
+   "faculty",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:03:00.638Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-sheppard-electronics-lab",
+  "url": "http://colorado.edu/ideaforge/facilities/sheppard-electronics-lab",
+  "title": "Sheppard Electronics Lab | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "event",
+  "description": "The Sheppard Electronics Lab in the Idea Forge is your go-to place for all things electronics, from basic electronics to electrical systems, and circuitry design to PCB manufacture. With soldering irons, DAQ equipment, computers, and various workshops, the Sheppard Electronics Lab can help you create, test and manufacture your project.",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:03:00.967Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-pretotyping-cabinet",
+  "url": "http://colorado.edu/ideaforge/pretotyping-cabinet",
+  "title": "Pretotyping Cabinet | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "space",
+  "description": "The Pretotyping Cabinet is your first stop for early prototyping needs. With cheap, expendible, easy-to-use materials in stock, you can make low resolution prototypes, answer your design questions, and develop your idea quickly and effectively.",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:03:01.174Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-finishing-room",
+  "url": "http://colorado.edu/ideaforge/facilities/finishing-room",
+  "title": "Finishing Room | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "reference",
+  "description": "The Finishing Room is a well ventilated room that is a great place for any dirty work: painting, staining, using epoxy, sanding, etc.",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:03:01.217Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-checkout-office",
+  "url": "http://colorado.edu/ideaforge/checkout-office",
+  "title": "Checkout Office | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "space",
+  "description": "The Checkout Office has an assortment of fasteners, hardware (hand tools, snap rings, punches, etc.), components (springs, bearings, gears, belts, etc.), and test equipment (scales, force gauges, accelerometers, DAQ&rsquo;s, cameras, etc.) for student to check out. There are also several large pieces of test equipment available for student use, including an optical comparator, Instron, Lansmont Shock Tester, and Rockwell Hardness Tester.",
+  "audience": [
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:03:01.632Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-state-of-startup-communities-in-rural-colorado-how-to-build-",
+  "url": "https://startupcolorado.org/state-of-startup-communities-in-rural-colorado/how-to-build-a-startup-community",
+  "title": "How to Build a Rural Startup Community - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "How to build a vibrant and sustainable startup ecosystem in a rural community through partnerships and longterm planning.",
+  "audience": [
+   "community",
+   "high school"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "energy",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/why-pitch-competitions-are-essential",
+  "fetchedAt": "2026-08-11T17:03:34.589Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-scoutspaces-vc-deal",
+  "url": "https://startupcolorado.org/stories/scoutspaces-vc-deal",
+  "title": "How ScoutSpace’s VC Deal Proves the Potential of Rural Tech Startups - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "In this exciting blog, discover how ScoutSpace’s venture capital deal proves the potential of rural tech startups.",
+  "audience": [
+   "staff",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/funding-capital-access",
+  "fetchedAt": "2026-08-11T17:03:47.963Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-3-essential-tips-for-startup-fundraising-from-angel-",
+  "url": "https://startupcolorado.org/stories/3-essential-tips-for-startup-fundraising-from-angel-investor-jeff-erickson",
+  "title": "3 Essential Tips for Startup Fundraising from Angel Investor Jeff Erickson - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Ready to scale? Check out these 3 essential tips for startup fundraising from angel investor Jeff Erickson!",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/funding-capital-access",
+  "fetchedAt": "2026-08-11T17:03:50.427Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-march-momentum-in-the-idea-factory",
+  "url": "https://startupcolorado.org/stories/march-momentum-in-the-idea-factory",
+  "title": "Introducing the Founders Driving Momentum in the March Founder Coopetition // Idea Factory - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Introducing the founders driving momentum after the March Idea Factory! Our virtual cohort was packed with inspiring founders.",
+  "audience": [
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "food",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/founder-stories",
+  "fetchedAt": "2026-08-11T17:04:04.914Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-decembers-idea-factory-winners",
+  "url": "https://startupcolorado.org/decembers-idea-factory-winners",
+  "title": "Announcing December’s Idea Factory Winners - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "We&#039;re thrilled to announce December&#039;s Idea Factory Winners— Erica Hines, Mike Milakovic and Sam Sickles. Read about these inspiring founders.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "food",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/mighty-mikes-second-act",
+  "fetchedAt": "2026-08-11T17:04:07.890Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-qa-jon-rosenberg-of-cold-case-gear",
+  "url": "https://startupcolorado.org/qa-jon-rosenberg-of-cold-case-gear",
+  "title": "Q&amp;A: Jon Rosenberg of Cold Case Gear - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Necessity inspires innovation. Just look at Cold Case Gear, a Pagosa Springs startup that manufactures insulated, waterproof phone cases for backcountry adventures. After numerous electronic failures in extreme conditions, Jon Rosenberg and his wife Deirdre decided to build the toughest and most cold resistant cases on the market. Now, Cold Case Gear is launching their West Slope Thermal Phone Case, just in time for winter. We spoke with Jon about his experience launching an outdoor startup in rural Colorado. Startup Colorado: You launched Cold Case Gear after a successful Kickstarter campaign. What tips do you have for other businesses considering crowdfunding?Jon: Calculate every single cent that you need and tack on 20% for unforeseen expenses and various fees. Make sure that your product has a good enough margin that you can grow once you have fulfilled orders. It’s easy to run out of money AND product. You need great margins to truly launch your business off Kickstarter.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/resource-center/explained-how-colorados-rural-jump-start-program-supports-founders",
+  "fetchedAt": "2026-08-11T17:04:20.074Z",
+  "needsAnalysis": true
+ },
+ {
+  "id": "startupcolorado-org-town-hall-startup-colorado-podcast",
+  "url": "https://startupcolorado.org/town-hall-startup-colorado-podcast",
+  "title": "Listen: Town Hall—How Love of Community Led to an Adventure in Entrepreneurship - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Robin Hall co-founded the sustainable kids outwear brand Town Hall in Steamboat Springs. The brand seeks to fill an outdoor industry niche.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/resource-center/explained-how-colorados-rural-jump-start-program-supports-founders",
+  "fetchedAt": "2026-08-11T17:04:24.013Z",
+  "needsAnalysis": true
+ },
+ {
+  "id": "startupcolorado-org-stories-your-startup-community-wont-build",
+  "url": "https://startupcolorado.org/stories/your-startup-community-wont-build",
+  "title": "Your Startup Community Won&#039;t Build Itself - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Recently, on The Rural Startup— discover five ways that founders can support and engage with their local communities.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice",
+  "fetchedAt": "2026-08-11T17:04:51.524Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-small-town-big-impact",
+  "url": "https://startupcolorado.org/stories/small-town-big-impact",
+  "title": "Small Town, Big Impact: How Rural Startups Can Leverage Experiential Marketing - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "This week, get top-notch advice about how rural startups can leverage experiential marketing on The Rural Startup.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice",
+  "fetchedAt": "2026-08-11T17:04:54.195Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-how-carver-brewing-achieved-carbon-neutrality",
+  "url": "https://startupcolorado.org/stories/how-carver-brewing-achieved-carbon-neutrality",
+  "title": "How Carver Brewing Achieved Carbon Neutrality (and You Can Too)  - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Explore the story of how Carve Brewing achieved carbon neutrality—and how you can, too. The Rural Startup is packed with expert advice.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice",
+  "fetchedAt": "2026-08-11T17:04:56.904Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-startup-legal-mistakes-3-fatal-fails-that-can-kill-y",
+  "url": "https://startupcolorado.org/stories/startup-legal-mistakes-3-fatal-fails-that-can-kill-your-business",
+  "title": "Startup Legal Mistakes: 3 Fatal Fails That Can Kill Your Business - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Stop what you&#039;re doing and explore the 3 fatal fails that can kill your business! These are the startup legal mistakes to avoid.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice",
+  "fetchedAt": "2026-08-11T17:04:57.199Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-curiosity-didnt-kill-the-founder",
+  "url": "https://startupcolorado.org/stories/curiosity-didnt-kill-the-founder",
+  "title": "Curiosity Didn’t Kill the Founder: It Helped Them Navigate Chaos - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Feeling overwhelmed? Head to The Rural Startup to hear how curiosity didn&#039;t kill the founder: it helped them navigate chaos.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice/page/2",
+  "fetchedAt": "2026-08-11T17:05:02.439Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-from-risk-to-resilience",
+  "url": "https://startupcolorado.org/stories/from-risk-to-resilience",
+  "title": "From Risk to Resilience: How to Conduct a Climate Risk Assessment for Your Business - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Learn how to conduct a Climate Risk Assessment for your business. This article introduces climate impacts, from risk to resilience.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice",
+  "fetchedAt": "2026-08-11T17:05:03.326Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-storytelling-tips-for-your-startup-pitch-with-diane-",
+  "url": "https://startupcolorado.org/stories/storytelling-tips-for-your-startup-pitch-with-diane-bailey",
+  "title": "Storytelling Tips for Your Startup Pitch with Diane Bailey - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "Storytelling tips for your startup pitch with Diane Bailey guides you through the best way to hone your pitch and share your business goals.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "edtech",
+   "medtech"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice/page/2",
+  "fetchedAt": "2026-08-11T17:05:04.512Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-hiring-resources-for-rural-founders",
+  "url": "https://startupcolorado.org/stories/hiring-resources-for-rural-founders",
+  "title": "Sneak Peek: Hiring Resources for Rural Founders - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "service",
+  "description": "In this Rural Startup article, we offer hiring resources for rural founders that are expanding and need support.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice/page/2",
+  "fetchedAt": "2026-08-11T17:05:07.276Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-brittany-romano-startup-colorados-new-executive-dire",
+  "url": "https://startupcolorado.org/stories/brittany-romano-startup-colorados-new-executive-director",
+  "title": "Q&amp;A with Brittany Romano, Startup Colorado&#039;s New Executive Director - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "We chat with Brittany Romano, Startup Colorado&#039;s new Executive Director about the future of rural entrepreneurship.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/insights",
+  "fetchedAt": "2026-08-11T17:05:07.291Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-our-intern-read-the-startup-community-way-heres-what",
+  "url": "https://startupcolorado.org/stories/our-intern-read-the-startup-community-way-heres-what-she-thought",
+  "title": "Our Intern Read The Startup Community Way. Here&#039;s What She Thought. - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Joyce Liew is a business research and data analysis intern at Startup Colorado. To support her understanding of entreprenurial ecosystem building, Joyce recently read The Startup Community Way by Brad Feld and Ian Hathaway. Since joining the SUCO team 9 months ago, Joyce has learned a lot about the startup world and we wanted to know how this book informed her education.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/insights",
+  "fetchedAt": "2026-08-11T17:05:08.800Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-who-are-the-new-builders-an-interview-with-seth-levi",
+  "url": "https://startupcolorado.org/stories/who-are-the-new-builders-an-interview-with-seth-levine",
+  "title": "Who Are the New Builders? An Interview With Seth Levine - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Seth Levine of The Foundry Group discusses his book The New Builders, which busts the myth that entrepreneurs are white, male tech founders.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/insights",
+  "fetchedAt": "2026-08-11T17:05:10.304Z",
+  "needsAnalysis": true
+ },
+ {
+  "id": "startupcolorado-org-stories-behind-wssws-new-climate-initiative",
+  "url": "https://startupcolorado.org/stories/behind-wssws-new-climate-initiative",
+  "title": "Behind WSSW’s New Climate Initiative - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "center",
+  "description": "WSSW&#039;s new climate initiative will inspire CO entrepreneurs to address the global climate crisis through mindful business practices!",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "quantum"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/startup-communities",
+  "fetchedAt": "2026-08-11T17:05:20.857Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-cu-innovations-site",
+  "url": "https://www.cuanschutz.edu/innovations/cu-innovations-site",
+  "title": "Error 404",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Check the current status of outages Support by Phone 303-724-4357 (4-HELP from a campus phone) Monday–Thursday: 7:30 a.m.",
+  "audience": [],
+  "stage": [],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/about-us/news-events/2024-cu-innovation-forum",
+  "fetchedAt": "2026-08-11T17:05:35.072Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-cu-innovations-site-contact-us-prior-team-prior-molk-",
+  "url": "https://www.cuanschutz.edu/innovations/cu-innovations-site/contact-us-prior/team-prior/Molk-Doreen-EXT1ASN8S",
+  "title": "Error 404",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Check the current status of outages Support by Phone 303-724-4357 (4-HELP from a campus phone) Monday–Thursday: 7:30 a.m.",
+  "audience": [],
+  "stage": [],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/about-us/news-events/2023-women-led-innovation-showcase",
+  "fetchedAt": "2026-08-11T17:05:38.873Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-cu-innovations-site-contact-us-prior-team-prior-mulle",
+  "url": "https://www.cuanschutz.edu/innovations/cu-innovations-site/contact-us-prior/team-prior/Muller-Kimberly-EXT7Q6VW5",
+  "title": "Error 404",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Check the current status of outages Support by Phone 303-724-4357 (4-HELP from a campus phone) Monday–Thursday: 7:30 a.m.",
+  "audience": [],
+  "stage": [],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/about-us/news-events/2023-women-led-innovation-showcase",
+  "fetchedAt": "2026-08-11T17:05:39.109Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-emp-2023-10-17-global-semester-escend-engineering-managemententrepr",
   "url": "https://www.colorado.edu/emp/2023/10/17/global-semester-escend-engineering-managemententrepreneurship-minor-lisbon-portugal",
   "title": "Global Semester: ESCEND Engineering Management/Entrepreneurship Minor (Lisbon, Portugal) | Lockheed Martin Engineering Management Program",
@@ -50355,6 +54738,168 @@
   "discoveredVia": "link",
   "parent": "https://startupcolorado.org/all-events/photo/featured/?shortcode=fdcdb04f",
   "fetchedAt": "2026-08-11T17:02:02.932Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-project-based-learning-studio",
+  "url": "http://colorado.edu/ideaforge/facilities/project-based-learning-studio",
+  "title": "Project Based Learning Studio | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "course",
+  "description": "The Project Based Learning Studio, on the ground level of the Idea Forge, is a classroom completely dedicated to learning through hands-on experience. With its round tables, the room holds classes that focus on teamwork and small group discussion rather than lecture. There are many dry-erase boards on wheels to use for break out sessions, general group work, or dividing the room into multiple sections.",
+  "audience": [],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 1,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:02:59.974Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-facilities-conference-rooms",
+  "url": "http://colorado.edu/ideaforge/facilities/conference-rooms",
+  "title": "Conference Rooms | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "event",
+  "description": "NameLocationSeatsProjectionVideoconf.PhoneWhiteboardsMESABMBE 17916YesYesYesYesThink TankMBE 2348YesNoYesYes",
+  "audience": [],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 1,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities",
+  "fetchedAt": "2026-08-11T17:03:00.423Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-organizer-telluride-venture-network",
+  "url": "https://startupcolorado.org/organizer/telluride-venture-network",
+  "title": "Telluride Venture Network - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Telluride Venture Network - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS Cl",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 1,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/event/telluride-venture-network-2026-climate-solutions-investment-bootcamp",
+  "fetchedAt": "2026-08-11T17:03:31.985Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-organizer-vanessa-mccrann-eventdisplay-past",
+  "url": "https://startupcolorado.org/organizer/vanessa-mccrann/?eventDisplay=past",
+  "title": "Vanessa McCrann - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Vanessa McCrann - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS Close PROGRA",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 1,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/vanessa-mccrann",
+  "fetchedAt": "2026-08-11T17:04:27.006Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-all-events-photo-eventdisplay-past",
+  "url": "https://startupcolorado.org/all-events/photo/?eventDisplay=past",
+  "title": "Display of Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Display of Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belongin",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 1,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events",
+  "fetchedAt": "2026-08-11T17:04:40.093Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-all-events-photo-page-2",
+  "url": "https://startupcolorado.org/all-events/photo/page/2",
+  "title": "Display of Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Page 2 &#8211; Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Display of Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Page 2 &#8211; Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Bu",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 1,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events",
+  "fetchedAt": "2026-08-11T17:04:42.773Z",
   "needsAnalysis": false
  },
  {

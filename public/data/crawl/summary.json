@@ -1,14 +1,14 @@
 {
- "updatedAt": "2026-08-11T17:02:53.004Z",
+ "updatedAt": "2026-08-11T17:05:43.195Z",
  "startedAt": "2026-08-11T16:50:27.591Z",
- "batches": 9,
- "pagesFetched": 2135,
- "resourcesCatalogued": 1530,
- "relationshipEdges": 1274,
- "frontierSize": 1974,
- "analysisQueueSize": 220,
- "externalDomainsFound": 377,
- "errors": 20,
+ "batches": 10,
+ "pagesFetched": 2389,
+ "resourcesCatalogued": 1676,
+ "relationshipEdges": 1936,
+ "frontierSize": 1900,
+ "analysisQueueSize": 226,
+ "externalDomainsFound": 397,
+ "errors": 21,
  "maxDepthReached": 7,
  "depthHistogram": {
   "0": {
@@ -27,29 +27,29 @@
    "pending": 793
   },
   "3": {
-   "fetched": 423,
-   "discovered": 780,
-   "pending": 357
+   "fetched": 633,
+   "discovered": 694,
+   "pending": 61
   },
   "4": {
-   "fetched": 136,
-   "discovered": 446,
-   "pending": 310
+   "fetched": 162,
+   "discovered": 679,
+   "pending": 517
   },
   "5": {
-   "fetched": 62,
-   "discovered": 150,
-   "pending": 88
+   "fetched": 77,
+   "discovered": 179,
+   "pending": 102
   },
   "6": {
-   "fetched": 23,
-   "discovered": 41,
+   "fetched": 26,
+   "discovered": 44,
    "pending": 18
   },
   "7": {
    "fetched": 3,
-   "discovered": 13,
-   "pending": 10
+   "discovered": 14,
+   "pending": 11
   },
   "8": {
    "fetched": 0,
@@ -61,11 +61,11 @@
   "0": 1,
   "1": 0.672,
   "2": 0.453,
-  "3": 0.542,
-  "4": 0.305,
-  "5": 0.413,
-  "6": 0.561,
-  "7": 0.231,
+  "3": 0.912,
+  "4": 0.239,
+  "5": 0.43,
+  "6": 0.591,
+  "7": 0.214,
   "8": 0
  },
  "perOrgDepth": {
@@ -80,7 +80,7 @@
   "colorado.edu/graduateschool": 4,
   "colorado.edu/initiative": 4,
   "colorado.edu/oce": 6,
-  "startupcolorado.org": 5,
+  "startupcolorado.org": 6,
   "colorado.edu/catalyzecu": 2,
   "siliconflatirons.org": 4,
   "cuanschutz.edu": 3,
@@ -100,31 +100,32 @@
   "colorado.edu/center/teaching-learning": 3,
   "colorado.edu/asmagazine": 2,
   "colorado.edu/calendar": 3,
+  "colorado.edu/ideaforge": 3,
   "colorado.edu/emp": 2,
   "colorado.edu/music": 3,
   "colorado.edu/cmci": 2,
-  "colorado.edu/ideaforge": 3,
   "watson.is": 1,
   "colorado.edu/news-events": 2,
   "lawinnovation.colorado.edu": 2,
   "colorado.edu/Public": 2,
+  "colorado.edu/Account": 3,
   "boulderstartupweek.com": 0
  },
  "byType": {
   "program": 56,
-  "funding": 341,
-  "event": 149,
-  "competition": 376,
-  "community": 94,
-  "reference": 257,
-  "service": 18,
-  "center": 202,
-  "course": 29,
-  "space": 8
+  "funding": 380,
+  "event": 178,
+  "competition": 384,
+  "community": 104,
+  "reference": 306,
+  "service": 20,
+  "center": 203,
+  "course": 33,
+  "space": 12
  },
  "byOrg": {
   "colorado.edu/venturepartners": 254,
-  "colorado.edu/researchinnovation": 104,
+  "colorado.edu/researchinnovation": 105,
   "colorado.edu/innovate": 443,
   "colorado.edu/nvc": 140,
   "colorado.edu/service": 2,
@@ -134,12 +135,12 @@
   "colorado.edu/graduateschool": 13,
   "colorado.edu/initiative": 8,
   "colorado.edu/oce": 6,
-  "startupcolorado.org": 207,
+  "startupcolorado.org": 282,
   "colorado.edu/catalyzecu": 10,
   "siliconflatirons.org": 17,
-  "cuanschutz.edu": 108,
+  "cuanschutz.edu": 159,
   "colorado.edu/engineering": 9,
-  "colorado.edu/event": 22,
+  "colorado.edu/event": 23,
   "colorado.edu/mechanical": 3,
   "colorado.edu/business": 58,
   "colorado.edu/law": 2,
@@ -154,14 +155,15 @@
   "colorado.edu/center/teaching-learning": 4,
   "colorado.edu/asmagazine": 1,
   "colorado.edu/calendar": 1,
+  "colorado.edu/ideaforge": 27,
   "colorado.edu/emp": 4,
   "colorado.edu/music": 5,
   "colorado.edu/cmci": 1,
-  "colorado.edu/ideaforge": 10,
   "watson.is": 5,
   "colorado.edu/news-events": 1,
   "lawinnovation.colorado.edu": 1,
   "colorado.edu/Public": 4,
+  "colorado.edu/Account": 1,
   "boulderstartupweek.com": 1
  }
 }
