@@ -1,0 +1,929 @@
+{
+  "colorado-edu-venturepartners-2024-05-16-internal-news-colorado-office-economic-d": {
+    "summary": "OEDIT announces Proof of Concept and Early-Stage Capital and Retention grants to 34 Colorado companies and eight researchers through the Advanced Industries Accelerator Program to support innovation and commercialization.",
+    "entities": {
+      "people": [{"name": "Michelle Hadwiger", "role": "Global Business Development Director"}],
+      "orgs": ["Colorado Office of Economic Development and International Trade (OEDIT)", "Advanced Industries Accelerator Program"],
+      "programs": ["Proof of Concept grant", "Early-Stage Capital and Retention grant"],
+      "amounts": [],
+      "dates": ["2024-05-16"],
+      "eligibility": ["Colorado researchers", "Colorado companies"]
+    }
+  },
+  "colorado-edu-nvc-promo-kit-2026-new-venture-challenge": {
+    "summary": "CU Boulder's New Venture Challenge is a multi-round entrepreneurial competition offering up to $220,000 in prizes for teams solving problems through deep tech or open category ventures.",
+    "entities": {
+      "people": [{"name": "Karen Reid", "role": "marketing and communications specialist"}],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "University of Colorado Boulder"],
+      "programs": ["New Venture Challenge (NVC)", "Deep Tech Category", "Open Category"],
+      "amounts": ["$220,000"],
+      "dates": ["2025-11-18", "2026-02-06"],
+      "eligibility": ["current students", "faculty", "staff", "alums within one year of graduation"]
+    }
+  },
+  "online-colorado-edu-organizational-leadership-ms-cost": {
+    "summary": "Tuition and fee information for CU Boulder's online Master of Science in Organizational Leadership program.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Online"],
+      "programs": ["Organizational Leadership MS"],
+      "amounts": ["$872-$13,028 in-state per credit hour", "$946-$13,527 out-of-state per credit hour"],
+      "dates": ["2025-26", "2026-27"],
+      "eligibility": ["graduate students"]
+    }
+  },
+  "cuanschutz-edu-chancellor-anschutz-acceleration-initiative": {
+    "summary": "Unable to extract information - text content unavailable.",
+    "entities": {"people": [], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-tier-1": {
+    "summary": "Tier 1 grants support creation of public outreach events and partnership development through funding for materials, travel, and related expenses.",
+    "entities": {
+      "people": [],
+      "orgs": ["Office for Outreach and Community Engagement"],
+      "programs": ["Public and Community-Engaged Scholarship Grants (PACES)", "Tier 1", "Tier 2"],
+      "amounts": ["up to $2,000"],
+      "dates": ["2026-spring"],
+      "eligibility": ["CU Boulder faculty", "staff", "undergraduate or graduate students with advisor"]
+    }
+  },
+  "colorado-edu-researchinnovation-research-strategy-development-sustainability-res": {
+    "summary": "Sustainability Research Initiative collaborating with Boulder County on a pilot project to develop measurement approaches for climate and sustainability projects, with up to $100K available.",
+    "entities": {
+      "people": [],
+      "orgs": ["Sustainability Research Initiative (SRI)", "Boulder County", "Boulder County Office of Sustainability, Climate Action & Resilience"],
+      "programs": [],
+      "amounts": ["up to $100,000"],
+      "dates": ["2026-04-17"],
+      "eligibility": []
+    }
+  },
+  "grad-apply-colorado-edu-register-gsfundingadmingeneralform": {
+    "summary": "Form for graduate students to submit overload petitions, requests for matching fellowship funds, and emergency grant applications.",
+    "entities": {
+      "people": [],
+      "orgs": ["International Student and Scholar Services (ISSS)"],
+      "programs": ["Overload Petition", "Request for Matching Fellowship Funds", "Emergency Grant Application"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["graduate students"]
+    }
+  },
+  "online-colorado-edu-organizational-leadership-ms-admissions": {
+    "summary": "Application requirements and deadlines for CU Boulder's online Master of Science in Organizational Leadership program.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Online"],
+      "programs": ["Organizational Leadership MS"],
+      "amounts": ["$50 application fee"],
+      "dates": ["2026-11-02", "2026-12-09", "2027-01-07", "2027-05-03"],
+      "eligibility": ["3-5 years professional experience minimum", "minimum 2.75 undergraduate GPA"]
+    }
+  },
+  "colorado-edu-oce-paces-initiatives-and-programs-community-perspectives": {
+    "summary": "PACES Community Perspectives grants fund projects addressing locally identified needs in rural Southeast Colorado through partnerships between CU Boulder and community organizations.",
+    "entities": {
+      "people": [],
+      "orgs": ["Office for Outreach and Community Engagement", "CU Boulder"],
+      "programs": ["Community Perspectives Grant Program", "Public and Community-Engaged Scholarship (PACES)"],
+      "amounts": [],
+      "dates": ["2026-02", "2026-03-21", "2026-04"],
+      "eligibility": ["Community organizations in Huerfano, Las Animas, Otero, Pueblo counties"]
+    }
+  },
+  "startupcolorado-org-stories-why-pitch-competitions-are-essential": {
+    "summary": "Discusses importance of pitch competitions for startup ecosystem development, particularly benefiting rural founders.",
+    "entities": {"people": [], "orgs": ["Startup Colorado"], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "nepc-colorado-edu-blog-will-federal": {
+    "summary": "Updates on federal education funding flow and changes to grant distribution through federal agencies in FY 2026.",
+    "entities": {
+      "people": [{"name": "Jan Resseger", "role": "author"}, {"name": "Mark Lieberman", "role": "reporter"}],
+      "orgs": ["Department of Education", "Department of Labor", "Department of Health and Human Services"],
+      "programs": ["Title I", "IDEA (Individuals with Disabilities Education Act)"],
+      "amounts": [],
+      "dates": ["2026-07-01", "2026-08-07"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-programs-resources-catalyze-cu": {
+    "summary": "Catalyze CU is a 12-week summer startup accelerator for CU Boulder students, faculty, and staff offering up to $25,000 in equity-free funding and mentorship.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Startup Hub", "Village Center"],
+      "programs": ["Catalyze CU"],
+      "amounts": ["up to $25,000 equity-free"],
+      "dates": ["mid-May through August"],
+      "eligibility": ["BuffOne card holders", "CU Boulder students, faculty, staff"]
+    }
+  },
+  "colorado-edu-venturepartners-2024-10-28-internal-news-1m-awarded-university-colo": {
+    "summary": "Lab Venture Challenge awarded $1.25M in grants to 14 CU innovators through Shark Tank-style pitches in biosciences and physical sciences/engineering categories.",
+    "entities": {
+      "people": [{"name": "Daniel Leonard", "role": "author"}],
+      "orgs": ["Venture Partners at CU Boulder", "Colorado Office of Economic Development and International Trade (OEDIT)", "Chancellor's Innovation Fund"],
+      "programs": ["Lab Venture Challenge (LVC)"],
+      "amounts": ["up to $125,000", "$1,250,000 total"],
+      "dates": ["2024-10-28"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2021-11-08-groundbreaking-cu-boulder-innovators-awa": {
+    "summary": "Lab Venture Challenge awarded $1.475 million in 15 grants to CU Boulder innovators in biosciences and physical sciences/engineering.",
+    "entities": {
+      "people": [{"name": "Dipika Singh", "role": "director of LVC"}, {"name": "Jeanne Barthold", "role": "professor"}, {"name": "Corey Neu", "role": "professor"}, {"name": "Liang He", "role": "assistant professor"}],
+      "orgs": ["Venture Partners at CU Boulder", "OEDIT", "New Soft Tissue Bioengineering Lab"],
+      "programs": ["Lab Venture Challenge (LVC)"],
+      "amounts": ["$1,475,000"],
+      "dates": ["2021-11-03", "2021-11-04", "2021-11-08"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2018-11-12-cu-boulder-startup-awarded-250000-grant-": {
+    "summary": "BREK Electronics, a CU Boulder spinout, received a $250,000 Early Stage Capital and Retention grant from OEDIT's Advanced Industries Accelerator to develop solar inverter technology.",
+    "entities": {
+      "people": [{"name": "Robert Erickson", "role": "professor"}, {"name": "Kala Majeti", "role": "Technology Transfer Office"}, {"name": "Roger Bell", "role": "instructor"}],
+      "orgs": ["Venture Partners at CU Boulder", "OEDIT", "Colorado Power Electronics Center (CoPEC)"],
+      "programs": ["Advanced Industries Accelerator (AIA)", "Early Stage Capital and Retention (ESCR)"],
+      "amounts": ["$250,000"],
+      "dates": ["2018-11-12"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-researchinnovation-2020-12-21-henry-luce-foundation-theology-progra": {
+    "summary": "Henry Luce Foundation Theology Program invites proposals for competitively-awarded grants supporting projects advancing public knowledge on race, justice, and religion in America.",
+    "entities": {
+      "people": [],
+      "orgs": ["Henry Luce Foundation"],
+      "programs": ["Henry Luce Foundation Theology Program"],
+      "amounts": [],
+      "dates": ["2020-12-21"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-baler-gali-extp66qym": {
+    "summary": "Gali Baler is Managing Director of Ventures & Investments at CU Anschutz Innovations, overseeing $110M in CU Healthcare Innovation Funds.",
+    "entities": {
+      "people": [{"name": "Gali Baler", "role": "Managing Director of Ventures & Investments"}],
+      "orgs": ["CU Anschutz Innovations", "CU Healthcare Innovation Fund", "Rockies Venture Club"],
+      "programs": [],
+      "amounts": ["$110M", "$200M+"],
+      "dates": ["2016"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-uchida-lili-ucd6004063037": {
+    "summary": "Lili Uchida is Innovations Strategy Manager at CU Anschutz, supporting technology commercialization and business development for healthcare inventions.",
+    "entities": {
+      "people": [{"name": "Lili Uchida", "role": "Innovations Strategy Manager"}],
+      "orgs": ["CU Anschutz Innovations", "Dextera Biosciences", "ClearView Healthcare Partners"],
+      "programs": [],
+      "amounts": ["$30M+"],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-newsletter-newsletter-innovation-entrepreneurship-newslett": {
+    "summary": "Monthly newsletter from CU Boulder's Innovation & Entrepreneurship Initiative featuring success stories, upcoming events, and resources for the entrepreneurial community.",
+    "entities": {
+      "people": [{"name": "Stan Hickory", "role": "former director"}, {"name": "Karen Reid", "role": "marketing specialist"}],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "Venture Partners at CU Boulder"],
+      "programs": ["Lab Venture Challenge", "Starting Blocks"],
+      "amounts": ["up to $125,000"],
+      "dates": ["2026-07-16", "2026-08-30"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-innovators-lab-venture-challenge": {
+    "summary": "Lab Venture Challenge provides grants up to $125,000 to top innovations from CU Boulder, Denver, and Colorado Springs addressing commercial needs with clear market potential and strong scientific support.",
+    "entities": {
+      "people": [{"name": "Joshua Bennett", "role": "Director of LVC"}],
+      "orgs": ["Venture Partners at CU Boulder", "OEDIT Advanced Industries Program"],
+      "programs": ["Lab Venture Challenge (LVC)"],
+      "amounts": ["up to $125,000", "$691M follow-on financing"],
+      "dates": ["2026-07-17", "2026-08-21"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-researchinnovation-fundingawards-limited-campus-competitions": {
+    "summary": "Limited Submission Funding Opportunities provides information about funder-restricted grant competitions and campus procedures for submitting proposals.",
+    "entities": {
+      "people": [],
+      "orgs": ["Research & Innovation Office (RIO)"],
+      "programs": ["Limited Submission Funding Opportunities"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2025-10-27-internal-news-755000-awarded-university-": {
+    "summary": "Lab Venture Challenge 2025 awarded $755,000 across 6 grants to CU innovators in biosciences and physical sciences/engineering categories.",
+    "entities": {
+      "people": [],
+      "orgs": ["Venture Partners at CU Boulder", "OEDIT Advanced Industries Program", "Chancellor's Innovation Fund"],
+      "programs": ["Lab Venture Challenge (LVC)"],
+      "amounts": ["$755,000"],
+      "dates": ["2025-10-27"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-programs-resources-embark-deep-tech-startup-creator": {
+    "summary": "Embark Deep Tech Startup Creator matches motivated entrepreneurs with breakthrough CU Boulder innovations to launch new deep tech companies, providing competitive advantages and ecosystem support.",
+    "entities": {
+      "people": [],
+      "orgs": ["Venture Partners at CU Boulder"],
+      "programs": ["Embark Deep Tech Startup Creator", "Ascent Deep Tech Accelerator", "Lab Venture Challenge", "New Venture Challenge", "Center for Translational Research"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "siliconflatirons-org-student-opportunities-competitions-writing-competition": {
+    "summary": "Annual student writing competition for CU Boulder students on law and technology topics, with $1,000 award and publication opportunity in Colorado Technology Law Journal.",
+    "entities": {
+      "people": [],
+      "orgs": ["Silicon Flatirons", "WilmerHale", "Colorado Technology Law Journal (CTLJ)"],
+      "programs": ["Annual Student Writing Competition"],
+      "amounts": ["$1,000"],
+      "dates": ["May 1 to May 31"],
+      "eligibility": ["CU Boulder students only"]
+    }
+  },
+  "colorado-edu-venturepartners-2019-10-21-eleven-cu-boulder-researchers-pitch-thei": {
+    "summary": "Eleven CU Boulder researchers pitched innovations in robotics, medical devices, and clean tech at the 2019 Lab Venture Challenge.",
+    "entities": {
+      "people": [{"name": "Tam Vu", "role": "associate professor"}, {"name": "Rafael Piestun", "role": "professor"}, {"name": "Ivan Smalyukh", "role": "professor"}],
+      "orgs": [],
+      "programs": ["Lab Venture Challenge"],
+      "amounts": [],
+      "dates": ["2019-10-21"],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-dedicated-funding-opportunities-for-woman-owned-businesses": {
+    "summary": "Discusses the gender funding gap in venture capital and business loans, highlighting need for dedicated women-focused funding opportunities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["women founders"]
+    }
+  },
+  "colorado-edu-innovate-getseedfunding": {
+    "summary": "Get Seed Funding provides micro-funding up to $500 for CU Boulder undergraduate and graduate students with entrepreneurial ideas through rolling applications and weekly pitch sessions.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative"],
+      "programs": ["Get Seed Funding (GSF)"],
+      "amounts": ["up to $500"],
+      "dates": [],
+      "eligibility": ["CU Boulder undergraduate and graduate students"]
+    }
+  },
+  "startupcolorado-org-event-apply-to-pitch-at-naturally-rising-the-conscious-busin": {
+    "summary": "Naturally Rising is an annual pitch competition where entrepreneurs pitch to judges for prizes including booth space at Newtopia Now 2026.",
+    "entities": {
+      "people": [],
+      "orgs": ["Naturally Colorado"],
+      "programs": ["Naturally Rising", "Naturally Colorado's 21st Annual Pitch Slam"],
+      "amounts": [],
+      "dates": ["2026-02-06"],
+      "eligibility": []
+    }
+  },
+  "siliconflatirons-org-announcements-silicon-flatirons-opens-call-for-proposals-fo": {
+    "summary": "Silicon Flatirons seeks proposals for 30-minute teaching modules for a Policy Academy curriculum designed to teach entrepreneurs about policy engagement.",
+    "entities": {
+      "people": [],
+      "orgs": ["Silicon Flatirons"],
+      "programs": ["Policy Academy"],
+      "amounts": [],
+      "dates": ["2020-07-17"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2023-10-24-internal-news-lab-venture-challenge-anno": {
+    "summary": "Lab Venture Challenge 2023 finalists competed in biosciences and physical sciences showcases offering $1.5 million in total funding.",
+    "entities": {
+      "people": [{"name": "Amy Dodenhoff", "role": "director"}],
+      "orgs": ["Venture Partners at CU Boulder", "OEDIT Advanced Industries Program"],
+      "programs": ["Lab Venture Challenge (LVC)"],
+      "amounts": ["$1.5 million"],
+      "dates": ["2023-11-08", "2023-11-09"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2020-01-17-cu-boulder-startup-arpeggio-bio-raises-3": {
+    "summary": "Arpeggio Bio, a CU Boulder preclinical biotech startup, raised $3.2M in oversubscribed seed funding for RNA drug screening technology.",
+    "entities": {
+      "people": [{"name": "Joey Azofeifa", "role": "CEO, co-founder"}],
+      "orgs": [],
+      "programs": ["Y Combinator Summer 2019 batch"],
+      "amounts": ["$3.2 million"],
+      "dates": ["2020-01-17"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2019-12-12-six-cu-boulder-startups-clean-advanced-i": {
+    "summary": "Six CU Boulder startups won $1.5M in OEDIT Advanced Industries Accelerator grants for robotics, AI, health tech, and other innovations.",
+    "entities": {
+      "people": [],
+      "orgs": ["Venture Partners at CU Boulder", "Innovation and Entrepreneurship Initiative", "OEDIT"],
+      "programs": ["Advanced Industries Accelerator (AIA)", "Lab Venture Challenge", "Commercialization Academy", "New Venture Challenge"],
+      "amounts": ["$250,000", "$240,000", "$1,500,000 total"],
+      "dates": ["2019-12-12"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2020-11-05-cu-boulder-spinout-coldquanta-raises-32m": {
+    "summary": "Redirect page - full content unavailable in crawl.",
+    "entities": {"people": [], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-engineering-six-teams-kick-catalyze-cu-startup-accelerator": {
+    "summary": "Six student teams began Catalyze CU's 12-week summer accelerator offering mentorship, networking, professional development, and up to $5,000 equity-free funding.",
+    "entities": {
+      "people": [{"name": "Dan Caruso", "role": "philanthropist"}, {"name": "Cindy Caruso", "role": "philanthropist"}],
+      "orgs": ["College of Engineering and Applied Science", "Caruso Foundation"],
+      "programs": ["Catalyze CU"],
+      "amounts": ["up to $5,000 per team", "$3,000 per founder"],
+      "dates": ["2020-06-03", "2020-08-25"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2021-05-24-three-cu-boulder-spinouts-awarded-1-mill": {
+    "summary": "Redirect page - full content unavailable.",
+    "entities": {"people": [], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-venturepartners-2023-08-09-internal-news-new-deep-tech-startup-crea": {
+    "summary": "Embark Deep Tech Startup Creator announced its first cohort of entrepreneurs matching business minds with CU Boulder breakthroughs to bring innovations to market.",
+    "entities": {
+      "people": [{"name": "Bryn Rees", "role": "associate vice chancellor"}],
+      "orgs": ["Venture Partners at CU Boulder"],
+      "programs": ["Embark Deep Tech Startup Creator"],
+      "amounts": [],
+      "dates": ["2023-08-09"],
+      "eligibility": []
+    }
+  },
+  "siliconflatirons-org-2026-flagship-conference-registration-types-admission-items": {
+    "summary": "Silicon Flatirons' 2026 Flagship Conference offers registration with varying admission tiers and early bird pricing available through December 12.",
+    "entities": {
+      "people": [],
+      "orgs": ["Silicon Flatirons"],
+      "programs": ["2026 Flagship Conference"],
+      "amounts": ["$300", "$150", "FREE"],
+      "dates": ["2026-12-12"],
+      "eligibility": ["General admission", "alum/nonprofit/government", "student/faculty/staff"]
+    }
+  },
+  "startupcolorado-org-stories-call-for-applications-meet-our-new-founder-coopetiti": {
+    "summary": "Announcement about applications and new program director for Startup Colorado's founder coopetition program.",
+    "entities": {"people": [], "orgs": ["Startup Colorado"], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-nvc-promo-kit-2025-new-venture-challenge-women-founders-competition": {
+    "summary": "Women Founders Competition is a specialty NVC competition for teams with women founders offering $15,000 in funding at finals pitch event.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "Deming Center for Entrepreneurship"],
+      "programs": ["New Venture Challenge (NVC)", "Women Founders Competition"],
+      "amounts": ["$15,000"],
+      "dates": ["2025-03-20"],
+      "eligibility": ["Teams with at least one woman core team member"]
+    }
+  },
+  "colorado-edu-venturepartners-2026-04-02-internal-news-cu-boulder-and-techstars-a": {
+    "summary": "CU Boulder and Techstars partnership connects CU's entrepreneurship programs and startup pipeline with Techstars' global network of mentors and investors.",
+    "entities": {
+      "people": [{"name": "Massimo Ruzzene", "role": "senior vice chancellor"}],
+      "orgs": ["CU Boulder", "Techstars", "Venture Partners at CU Boulder"],
+      "programs": ["Innovation & Entrepreneurship Initiative"],
+      "amounts": [],
+      "dates": ["2026-04-02"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2024-04-03-internal-news-pitch-competition-celebrat": {
+    "summary": "2024 NVC Deep Tech Competition funded new ventures with $53,000 across various technology categories with final showcase offering $160,000 total.",
+    "entities": {
+      "people": [{"name": "Joshua Bennett", "role": "senior licensing manager"}],
+      "orgs": ["Venture Partners at CU Boulder", "Deming Center for Entrepreneurship", "Innovation & Entrepreneurship Initiative"],
+      "programs": ["New Venture Challenge (NVC)", "NVC Deep Tech Competition"],
+      "amounts": ["$53,000", "$160,000"],
+      "dates": ["2024-03-19", "2024-04-17"],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin": {
+    "summary": "Women Founders Competition Finals event where women-founded teams pitch for $10,000 in funding.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "New Venture Challenge", "Deming Center for Entrepreneurship"],
+      "programs": ["Women Founders Competition"],
+      "amounts": ["$10,000"],
+      "dates": ["2024-03-20"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2026-07-16-applications-open-director-innovation-entrepreneursh": {
+    "summary": "Job opening announcement for Director of Innovation & Entrepreneurship Initiative.",
+    "entities": {"people": [], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-innovate-2026-02-03-get-seed-funding-supports-student-ideas-and-inn": {
+    "summary": "Get Seed Funding provides microfunding up to $500 for CU Boulder students to support entrepreneurial ideas with student-led reviewing and weekly pitch sessions.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative"],
+      "programs": ["Get Seed Funding (GSF)"],
+      "amounts": ["up to $500", "$3,850"],
+      "dates": ["2026-02-03"],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-innovate-2026-02-24-nominations-open-2026-innovation-entrepreneursh": {
+    "summary": "Nominations open for 2026 I&E Initiative Awards recognizing outstanding contributions of students, faculty, staff, mentors, and community members.",
+    "entities": {
+      "people": [{"name": "Frank Moyes", "role": "former tech executive"}, {"name": "Fletcher Richman", "role": "CU alum"}],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "Leeds School of Business", "Deming Center for Entrepreneurship"],
+      "programs": ["2026 Innovation & Entrepreneurship Awards", "Frank Moyes Award", "Fletcher Richman Award"],
+      "amounts": [],
+      "dates": ["2026-03-24"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2020-06-16-cu-boulder-spinout-artimus-robotics-wins": {
+    "summary": "Artimus Robotics received $225,000 through NSF Small Business Innovation Research program for soft robotics HASEL actuator development.",
+    "entities": {
+      "people": [{"name": "Christoph Keplinger", "role": "professor"}, {"name": "Tim Morrissey", "role": "PhDMechEngr'19"}, {"name": "Eric Acome", "role": "PhDMechEngr'20"}, {"name": "Nicholas Kellaris", "role": "PhD student"}, {"name": "Shane Mitchell", "role": "PhD student"}],
+      "orgs": ["Venture Partners at CU Boulder", "NSF", "Paul M. Rady Mechanical Engineering"],
+      "programs": ["NSF SBIR Phase I", "Research-to-Market (R2M)", "Lab Venture Challenge", "New Venture Challenge", "Catalyze CU"],
+      "amounts": ["$225,000"],
+      "dates": ["2020-06-16"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-mechanical-2020-06-16-spinout-soft-robotics-company-receives-nsf-sb": {
+    "summary": "Artimus Robotics received $225,000 NSF SBIR Phase I award for advancing HASEL actuator technology for robotics applications.",
+    "entities": {
+      "people": [{"name": "Christoph Keplinger", "role": "professor"}, {"name": "Tim Morrissey", "role": "PhDMechEngr'19"}, {"name": "Eric Acome", "role": "PhDMechEngr'20"}, {"name": "Nicholas Kellaris", "role": "PhD student"}, {"name": "Shane Mitchell", "role": "PhD student"}],
+      "orgs": ["NSF", "Paul M. Rady Mechanical Engineering"],
+      "programs": ["NSF SBIR Phase I"],
+      "amounts": ["$225,000"],
+      "dates": ["2020-06-16"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2022-05-24-promising-venture-partners-startups-awar": {
+    "summary": "Seven Venture Partners startups received $1.75M in Early Stage Capital and Retention Grants from Colorado's Advanced Industries Accelerator program.",
+    "entities": {
+      "people": [{"name": "Rama Haris", "role": "OEDIT senior manager"}],
+      "orgs": ["Venture Partners at CU Boulder", "OEDIT"],
+      "programs": ["Early Stage Capital and Retention Grants", "Advanced Industries Accelerator", "NSF I-Corps", "Research-to-Market (R2M)"],
+      "amounts": ["$1,750,000"],
+      "dates": ["2022-05-24"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-what-we-do-mentorship-advising": {
+    "summary": "Venture Partners provides mentorship and advising connecting entrepreneurs and innovators to experienced mentors from Colorado and worldwide.",
+    "entities": {
+      "people": [{"name": "Bryn Rees", "role": "Managing Director"}],
+      "orgs": ["Venture Partners at CU Boulder"],
+      "programs": ["Mentorship and Advising"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder, CU Denver, UCCS innovators"]
+    }
+  },
+  "colorado-edu-nvc-2026-05-04-innovative-ideas-and-founder-spirit-ride-high-2026-n": {
+    "summary": "2026 New Venture Challenge Finals featured six ventures competing for $336,000 in record-setting prizes across Deep Tech and Open categories.",
+    "entities": {
+      "people": [{"name": "Justin Schwartz", "role": "Chancellor"}, {"name": "Kelly Coyne", "role": "judge"}, {"name": "Jack Gugel", "role": "Arkana Therapeutics co-founder"}],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": ["New Venture Challenge (NVC)", "Deep Tech category", "Open category"],
+      "amounts": ["$336,000"],
+      "dates": ["2026-04-22"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2022-11-07-internal-news-cu-boulder-innovators-awar": {
+    "summary": "Lab Venture Challenge 2022 awarded $1.25M to twelve teams across biosciences and physical sciences/engineering categories.",
+    "entities": {
+      "people": [{"name": "Daniel Leonard", "role": "author"}],
+      "orgs": ["Venture Partners at CU Boulder", "OEDIT", "NSF"],
+      "programs": ["Lab Venture Challenge (LVC)", "Starting Blocks", "Research-to-Market (R2M)", "NSF I-Corps"],
+      "amounts": ["$1,250,000"],
+      "dates": ["2022-11-09"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2024-03-22-internal-news-2024-destination-startup-c": {
+    "summary": "Destination Startup is an annual investor showcase connecting 23 select ventures from Intermountain West research institutions with investors.",
+    "entities": {
+      "people": [{"name": "Greg Rieker", "role": "mechanical engineering professor"}, {"name": "Gregor Henze", "role": "civil engineering professor"}, {"name": "Galen Williams", "role": "WHISPER Energy"}],
+      "orgs": ["Venture Partners at CU Boulder"],
+      "programs": ["Destination Startup"],
+      "amounts": [],
+      "dates": ["2024-03-22"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-researchinnovation-2024-01-21-quantum-seed-grants-awarded-advance-i": {
+    "summary": "Colorado approved $1.5M in translational quantum research seed grants with seven winners supporting quantum science and technology innovations from lab to commercialization.",
+    "entities": {
+      "people": [{"name": "Massimo Ruzzene", "role": "Vice Chancellor"}],
+      "orgs": ["Colorado Economic Development Commission", "CU Boulder"],
+      "programs": ["Translational quantum research seed grants"],
+      "amounts": ["$1,500,000", "$50,000 per award"],
+      "dates": ["2024-01-21"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2025-05-06-internal-news-university-colorado-boulde": {
+    "summary": "CU Boulder awarded $100,000 in pre-seed funding to PrecisionTerra, a GPS technology startup, bridging the \"valley of death\" for early-stage ventures.",
+    "entities": {
+      "people": [{"name": "Maithreyi Gopalakrishnan", "role": "CEO, alum"}, {"name": "Bryn Rees", "role": "associate vice chancellor"}],
+      "orgs": ["Venture Partners at CU Boulder"],
+      "programs": ["Pre-seed fund", "New Venture Challenge"],
+      "amounts": ["$100,000", "$144,000"],
+      "dates": ["2025-05-06"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2026-04-28-internal-news-forge-nano-list-16-billion": {
+    "summary": "Forge Nano, an advanced materials company based on atomic layer deposition technology, plans to go public via $1.6B SPAC deal, making it CU Boulder's 11th unicorn.",
+    "entities": {
+      "people": [{"name": "Alan W. Weimer", "role": "professor"}, {"name": "Steven M. George", "role": "professor"}],
+      "orgs": [],
+      "programs": ["Lab Venture Challenge (LVC)"],
+      "amounts": ["$1,600,000,000"],
+      "dates": ["2026-04-28"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-funding-opportunities-limited-campus-competitions-anticipa": {
+    "summary": "Listing of past limited submission funding opportunities and research competition deadlines from various federal agencies and foundations.",
+    "entities": {
+      "people": [],
+      "orgs": ["NSF", "NIH", "Schmidt Science"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2026-07 to 2026-09"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2025-01-09-internal-news-cu-boulder-shines-record-b": {
+    "summary": "CU Boulder launched 35 new companies based on university IP in FY 2024, ranking No. 1 nationally for startup launches, second highest in any single year.",
+    "entities": {
+      "people": [{"name": "Daniel Leonard", "role": "author"}, {"name": "Chunmei Ban", "role": "associate professor"}],
+      "orgs": ["Venture Partners at CU Boulder", "AUTM"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2025-09-15"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-opportunities-and-events-destination-startup-destin": {
+    "summary": "Destination Startup 2026 seeks sponsors at various tiers offering branding, tickets, and networking opportunities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Venture Partners at CU Boulder"],
+      "programs": ["Destination Startup 2026"],
+      "amounts": ["$500+", "$1,000", "$2,500", "$5,000", "$10,000+"],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-i-corpstm-hub-w": {
+    "summary": "Venture Partners leads NSF I-Corps Hub West, a partnership with 11 Western universities helping researchers commercialize innovations through customer discovery and business skills training.",
+    "entities": {
+      "people": [{"name": "Mark Rentschler", "role": "professor"}, {"name": "Emily Vogt", "role": "Director of Venture Development"}],
+      "orgs": ["Venture Partners at CU Boulder", "USC", "UCLA"],
+      "programs": ["NSF I-Corps", "I-Corps Hub West", "Starting Blocks Customer Discovery Workshop"],
+      "amounts": ["$50,000"],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-researchinnovation-federal-funding-updates-under-new-administration": {
+    "summary": "Updates on federal funding changes and agency reorganization affecting research funding distribution to CU Boulder.",
+    "entities": {
+      "people": [],
+      "orgs": ["Research & Innovation Office", "Office of Contracts and Grants (OCG)"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2025-11-24"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-get-seed-funding-provides-financial-backing-help-jumpstart": {
+    "summary": "Get Seed Funding provides microfunding up to $500 for CU Boulder student ventures with examples of recent awards.",
+    "entities": {
+      "people": [],
+      "orgs": ["Boulder Venture Club"],
+      "programs": ["Get Seed Funding"],
+      "amounts": ["up to $500", "$2,000 total"],
+      "dates": [],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-researchinnovation-research-development-funding-rio-funding-opportu": {
+    "summary": "RIO Travel Grants provide up to $1,500 for CU Boulder faculty to meet with extramural research sponsors to facilitate relationship building.",
+    "entities": {
+      "people": [],
+      "orgs": ["Research & Innovation Office"],
+      "programs": ["RIO Travel Grants"],
+      "amounts": ["up to $1,500"],
+      "dates": [],
+      "eligibility": ["CU Boulder faculty (50%+ appointment)"]
+    }
+  },
+  "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-inc": {
+    "summary": "Mesa Quantum Systems develops chip-scale quantum sensing for positioning, navigation, and timing, commercializing technology from CU Boulder's JILA lab.",
+    "entities": {
+      "people": [{"name": "Sristy Agrawal", "role": "CEO, grad student"}, {"name": "Svenja Knappe", "role": "lab director"}],
+      "orgs": ["NIST", "JILA", "CU Boulder Physics"],
+      "programs": ["NSF I-Corps Hub West"],
+      "amounts": ["$3,700,000", "$100,000", "$1,200,000"],
+      "dates": ["2025", "2026"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-funding-week": {
+    "summary": "Center for Translational Research provides non-dilutive funding support and business development services for university-based startups pursuing SBIR/STTR grants and commercialization.",
+    "entities": {
+      "people": [{"name": "Sarah Hughes", "role": "Director"}],
+      "orgs": ["Venture Partners at CU Boulder"],
+      "programs": ["Center for Translational Research (CTR)", "SBIR", "STTR"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-event-registration-opens-nvc-women-founders-competition": {
+    "summary": "Women Founders Competition registration opens February 8 with $15,000 in funding available for women-founded teams.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "Deming Center for Entrepreneurship"],
+      "programs": ["Women Founders Competition", "New Venture Challenge (NVC)"],
+      "amounts": ["$15,000"],
+      "dates": ["2025-02-08"],
+      "eligibility": ["Teams with at least one woman core team member"]
+    }
+  },
+  "colorado-edu-innovate-content-innovation-entrepreneurship-content-submission": {
+    "summary": "Content submission form for innovative and entrepreneurial news, program announcements, and events for I&E communications.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-event-deadline-social-impact-new-venture-challenge-competi": {
+    "summary": "Social Impact New Venture Challenge registration deadline is February 8 with $5,000 at stake and guaranteed SEA Change accelerator acceptance for top teams.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative"],
+      "programs": ["Social Impact New Venture Challenge (SINVC)", "New Venture Challenge", "SEA Change Social Enterprise Accelerator"],
+      "amounts": ["$5,000"],
+      "dates": ["2025-02-08"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-programs-resources-high-growth-venture-fellowship": {
+    "summary": "Deming High Growth Venture Fellowship is a two-year competitive MBA program providing financial support, master classes, and exclusive networking for high-growth venture careers.",
+    "entities": {
+      "people": [],
+      "orgs": ["Leeds School of Business", "CU Boulder", "Deming Center for Entrepreneurship"],
+      "programs": ["High Growth Venture Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["MBA candidates"]
+    }
+  },
+  "calendar-colorado-edu-event-deadline-new-venture-challenge-competition-registrat": {
+    "summary": "New Venture Challenge registration closes February 8 with $320,000 in prize money available across Deep Tech and Open categories.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative"],
+      "programs": ["New Venture Challenge (NVC)", "Deep Tech Category", "Open Category"],
+      "amounts": ["$320,000"],
+      "dates": ["2025-02-08"],
+      "eligibility": ["current students", "faculty", "staff", "recent graduates"]
+    }
+  },
+  "colorado-edu-coloradan-2025-03-10-sustainable-spinouts-innovation-action": {
+    "summary": "Prometheus Materials, a CU Boulder sustainability spinout, uses bio-cement bacteria and microbes to create environmentally-friendly building materials.",
+    "entities": {
+      "people": [{"name": "Wil Srubar", "role": "founder, professor"}, {"name": "Loren Burnett", "role": "CEO"}, {"name": "Mija Hubler", "role": "professor"}, {"name": "Sherri Cook", "role": "professor"}],
+      "orgs": ["CU Boulder Living Materials Laboratory", "Department of Civil, Environmental and Architectural Engineering"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2025-03-10"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2025-12-01-igniting-next-generation-innovator-25k-scholars": {
+    "summary": "High School New Venture Challenge (HSNVC) offers $25,000+ in scholarships to Colorado high school students focusing on rural and first-generation students.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Innovation & Entrepreneurship Initiative", "FirstBank"],
+      "programs": ["High School New Venture Challenge (HSNVC)"],
+      "amounts": ["$25,000+"],
+      "dates": ["2025-12-01"],
+      "eligibility": ["ALL Colorado high school students", "rural", "underserved", "first-generation"]
+    }
+  },
+  "colorado-edu-venturepartners-2025-03-10-internal-news-alum-sristy-agrawal-leads-": {
+    "summary": "Mesa Quantum announced $3.7M in seed funding and $1.9M SpaceWERX grant to advance chip-scale quantum sensor commercialization.",
+    "entities": {
+      "people": [{"name": "Sristy Agrawal", "role": "CEO, co-founder"}],
+      "orgs": ["SpaceWERX"],
+      "programs": [],
+      "amounts": ["$3,700,000", "$1,900,000"],
+      "dates": ["2025-03-10"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-today-2025-10-31-cu-boulder-delivers-impactful-research-and-creativ": {
+    "summary": "CU Boulder research funding totaled $766.7M (3.3% increase) in FY 2024-25 despite federal funding challenges and cuts.",
+    "entities": {
+      "people": [{"name": "Massimo Ruzzene", "role": "senior vice chancellor"}],
+      "orgs": ["CU Boulder", "NSF", "NIH", "NASA", "NOAA", "NIST"],
+      "programs": [],
+      "amounts": ["$766,700,000", "$15,000,000"],
+      "dates": ["2025-10-31"],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-wssw-extends-impact-as-regional-event": {
+    "summary": "West Slope Startup Week announced as regional event.",
+    "entities": {"people": [], "orgs": ["Startup Colorado"], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-venturepartners-internal-news-funding-your-research-or-creative-wor": {
+    "summary": "Commercialization through Venture Partners offers funding and support for researchers, inventors, and creators to advance innovations into startups or licenses.",
+    "entities": {
+      "people": [],
+      "orgs": ["Venture Partners at CU Boulder", "CU Innovations"],
+      "programs": ["I-Corps"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-today-2025-05-05-new-climate-initiative-turn-student-innovations-st": {
+    "summary": "Boulder Climate Ventures is a new interdisciplinary graduate program connecting students to experts for developing high-impact climate solution startups.",
+    "entities": {
+      "people": [{"name": "Ashley Grosh", "role": "CU alum, VP at Breakthrough Energy"}, {"name": "Andrew Mayock", "role": "vice chancellor"}],
+      "orgs": ["Leeds School of Business", "Center for Ethics and Social Responsibility (CESR)", "Deming Center for Entrepreneurship", "Breakthrough Energy"],
+      "programs": ["Boulder Climate Ventures", "Breakthrough Energy's University Climate Ventures network"],
+      "amounts": [],
+      "dates": ["2025-05-05"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2025-04-14-missed-startups2students-dont-worry-you-can-sti": {
+    "summary": "Startups2Students event connects students with startup companies hiring for internships and positions across marketing, engineering, sales, and more.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative"],
+      "programs": ["Startups2Students", "Startup Summer", "New Venture Challenge Finals"],
+      "amounts": [],
+      "dates": ["2025-04-08", "2025-04-14"],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-innovate-2026-02-03-five-best-ways-students-connect-startups": {
+    "summary": "Five ways for students to connect with startups: Startups2Students events, New Venture Challenge, Boulder Venture Club, Startups & Sandwiches, and other networking opportunities.",
+    "entities": {
+      "people": [{"name": "Dylan Mark", "role": "author"}],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": ["Startups2Students", "New Venture Challenge", "Boulder Venture Club", "Startups & Sandwiches"],
+      "amounts": [],
+      "dates": ["2026-02-03"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-researchinnovation-2019-02-19-stateless-cu-boulder-spinoff-and-cata": {
+    "summary": "Stateless, a network-as-a-service company and Catalyze CU alumnus, raised $11.33M in Series A funding for innovative data center connectivity solutions.",
+    "entities": {
+      "people": [{"name": "Murad Kablan", "role": "PhD student, co-founder"}, {"name": "Eric Keller", "role": "assistant professor"}],
+      "orgs": ["Electrical and Computer Engineering"],
+      "programs": ["Catalyze CU 2016", "New Venture Challenge", "NSF I-Corps", "Techstars Boulder 2017"],
+      "amounts": ["$11,330,000", "$225,000", "$1,400,000"],
+      "dates": ["2019-02-19"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-law-2020-07-09-silicon-flatirons-startup-colorado-launch-policy-aca": {
+    "summary": "Silicon Flatirons and Startup Colorado received $85,000 from Kauffman Foundation to develop a three-day policy academy training rural entrepreneurs in policy advocacy.",
+    "entities": {
+      "people": [{"name": "Delaney Keating", "role": "executive director of Startup Colorado"}],
+      "orgs": ["Silicon Flatirons", "Startup Colorado", "Telluride Foundation"],
+      "programs": ["Policy Academy", "Entrepreneurial Policy Academy"],
+      "amounts": ["$85,000"],
+      "dates": ["2020-07-09"],
+      "eligibility": ["rural entrepreneurs"]
+    }
+  },
+  "colorado-edu-venturepartners-2019-12-12-coldquanta-cu-boulder-startup-closes-add": {
+    "summary": "ColdQuanta, a quantum computing spinout, closed $10M in additional seed financing, bringing total investment to approximately $24M.",
+    "entities": {
+      "people": [{"name": "Dana Anderson", "role": "professor, CTO, co-founder"}],
+      "orgs": ["JILA", "NIST"],
+      "programs": [],
+      "amounts": ["$10,000,000", "$24,000,000 total"],
+      "dates": ["2019-12-12"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2019-03-22-engineering-startup-stride-tech-innovates-safer": {
+    "summary": "Stride Tech won first place in New Venture Challenge 11 Hardware Track finals with Smart Step, a walker accessory that detects unsafe usage and monitors walking data.",
+    "entities": {
+      "people": [{"name": "Tim Visos-Ely", "role": "CEO, engineering plus senior"}, {"name": "Humsini Acharya", "role": "co-founder"}],
+      "orgs": [],
+      "programs": ["New Venture Challenge 11", "Mechanical Engineering Entrepreneurship Capstone"],
+      "amounts": [],
+      "dates": ["2019-03-22"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-techtransfer-2018-11-20-lab-venture-challenge-awards-900000-promisi": {
+    "summary": "Lab Venture Challenge 2018 awarded $900,000 in seven grants up to $125,000 each for physical sciences, engineering, and bioscience innovations.",
+    "entities": {
+      "people": [{"name": "Timothy Morrissey", "role": "Artificial Muscles"}, {"name": "Svenja Knappe", "role": "Magnetographic Imaging"}, {"name": "Jeffrey Thayer", "role": "Shallow Water Hazards"}, {"name": "Corey Neu", "role": "Dermal Fillers"}],
+      "orgs": ["Technology Transfer Office"],
+      "programs": ["Lab Venture Challenge (LVC)"],
+      "amounts": ["$900,000"],
+      "dates": ["2018-11-20"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2026-01-12-internal-news-announcing-2026-cohort-emb": {
+    "summary": "Embark Deep Tech Startup Creator launched its third cohort of entrepreneurs with IP rights, funding, accelerator programming, and investor introductions.",
+    "entities": {
+      "people": [{"name": "Bryn Rees", "role": "senior associate vice chancellor"}, {"name": "Marta Zgagacz", "role": "senior director"}],
+      "orgs": ["Venture Partners at CU Boulder"],
+      "programs": ["Embark Deep Tech Startup Creator"],
+      "amounts": [],
+      "dates": ["2026-01-12"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2020-08-19-venture-partners-flagship-research-marke": {
+    "summary": "Research-to-Market (R2M) is a customer discovery program helping researchers transition from lab-focused discovery to market-focused innovation strategy.",
+    "entities": {
+      "people": [{"name": "Mark Rentschler", "role": "professor"}, {"name": "Alex Mulvaney", "role": "founder"}, {"name": "Katherine Vega", "role": "founder"}, {"name": "Taylor Brooks-Murphy", "role": "founder"}],
+      "orgs": ["Venture Partners at CU Boulder"],
+      "programs": ["Research-to-Market (R2M)", "Customer Discovery"],
+      "amounts": ["$30,000+"],
+      "dates": ["2020-08-19"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2021-03-12-cu-spinout-longpath-wins-5m-doe-funding-": {
+    "summary": "Redirect page - full content unavailable.",
+    "entities": {"people": [], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-venturepartners-2020-09-25-spinout-aspero-medical-further-develop-p": {
+    "summary": "Aspero Medical received $225,000 NSF SBIR and $310,000 NIH grants to develop C-Tube product line for gastroenterology applications.",
+    "entities": {
+      "people": [{"name": "Mark Rentschler", "role": "CEO, professor"}],
+      "orgs": [],
+      "programs": ["NSF SBIR", "NIH grants"],
+      "amounts": ["$225,000", "$310,000"],
+      "dates": ["2020-09-25"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2021-05-13-cu-spinout-coldquanta-adds-20m-speed-com": {
+    "summary": "Redirect page - full content unavailable.",
+    "entities": {"people": [], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-venturepartners-2021-03-23-cu-boulder-spinout-tissueform-wins-20000": {
+    "summary": "TissueForm won first place and $20,000 at UNC Monfort Entrepreneurial Challenge for regenerative tissue technology, with multiple awards from CU competitions.",
+    "entities": {
+      "people": [{"name": "Jeanne Barthold", "role": "PhD, co-founder"}, {"name": "Corey Neu", "role": "associate professor, co-founder"}],
+      "orgs": [],
+      "programs": ["UNC Monfort Entrepreneurial Challenge", "Lab Venture Challenge 2018", "New Venture Challenge 11"],
+      "amounts": ["$20,000", "$125,000", "$20,000+"],
+      "dates": ["2021-03-23"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2021-04-09-six-cu-boulder-startup-teams-advance-new-ventur": {
+    "summary": "Six CU Boulder startup finalists advanced to New Venture Challenge 14 Championships competing for $100,000 from 110+ ventures in the program.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative"],
+      "programs": ["New Venture Challenge (NVC) 14"],
+      "amounts": ["$100,000"],
+      "dates": ["2021-04-13"],
+      "eligibility": []
+    }
+  }
+}

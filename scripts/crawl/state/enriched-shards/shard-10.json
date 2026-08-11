@@ -1,0 +1,362 @@
+{
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-chaudhury-uddeep-e": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Uddeep Chaudhury", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-crary-ariana-extc9": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Ariana Crary", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-burciaga-samuel-uc": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Samuel Burciaga", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-aithal-manjushree-": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Manjushree Aithal", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-ingram-asia-ext8a7": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Asia Ingram", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-haas-evan-ext5qanw": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Evan Haas", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-koutsoukos-stefano": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Stefanos Koutsoukos", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-lehner-taylor-ext2": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Taylor Lehner", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-cao-phoebe-ext6v1r": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Phoebe Cao", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-cu-innovations-about-us-team-profile-dressler-tara-ext42z6wy": {
+    "summary": "Listing of a trademark director and her contact information at CU.",
+    "entities": {"people": [{"name": "Tara Dressler", "role": "Senior Director for Trademarks"}], "orgs": ["CU"], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "coloradostartups-org-new-events-1": {
+    "summary": "Events calendar with no upcoming listings at the time of capture.",
+    "entities": {"people": [], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-spark-about-spark-application-process": {
+    "summary": "Detailed breakdown of the SPARK Award's multi-stage application process spanning eight months, including bootcamp preparation, external expert review, pitch presentations, and final award selection.",
+    "entities": {"people": [], "orgs": ["CU Anschutz"], "programs": ["SPARK Award", "SPARK Program"], "amounts": [], "dates": ["July 25, 2025", "early December 2025"], "eligibility": ["Academic research with commercial potential", "PI must meet SPARK eligibility criteria"]}
+  },
+  "coloradostartups-org-new-page-1": {
+    "summary": "Placeholder page with generic template content.",
+    "entities": {"people": [], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "coloradostartups-org-fund": {
+    "summary": "Brief announcement of fund development activity with contact channels for inquiries.",
+    "entities": {"people": [{"name": "Micah"}, {"name": "Lindsey"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "coloradostartups-org-code-of-conduct": {
+    "summary": "Community engagement guidelines for Colorado Startups social groups, emphasizing respectful dialogue, startup focus, and collaborative support among members.",
+    "entities": {"people": [], "orgs": ["Colorado Startups"], "programs": ["Facebook", "LinkedIn", "Slack"], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-innovation-hub": {
+    "summary": "Innovation hub resource page for academic innovators.",
+    "entities": {"people": [], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-spark-about-spark-what-we-fund": {
+    "summary": "Overview of funding criteria for the SPARK program.",
+    "entities": {"people": [], "orgs": [], "programs": ["SPARK"], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "coloradostartups-org-store": {
+    "summary": "Store or marketplace page for Colorado Startups.",
+    "entities": {"people": [], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "coloradostartups-org-links": {
+    "summary": "Directory of resources and tools for participating in the Colorado startup ecosystem, including networking events, social platforms, and community dashboards.",
+    "entities": {"people": [], "orgs": ["Colorado Startups"], "programs": ["Event Calendar", "Startup Ski Days", "Startup Hikes", "Leaderboard", "Ecosystem Canvas"], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-spark-get-involved": {
+    "summary": "Describes multiple engagement pathways for industry professionals, including roles as advisors, mentors, partners, and investors supporting SPARK fellows and the broader innovation ecosystem.",
+    "entities": {"people": [], "orgs": ["CU Anschutz", "CU Anschutz Innovations"], "programs": ["SPARK Program", "SPARK Colorado", "Startup Toolbox"], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-gold-aidan-ext53vu": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Aidan Gold", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-grigsby-david-ext4": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "David Grigsby", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-groegler-jason-ext": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Jason Groegler", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-gopinath-shalmali-": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Shalmali Gopinath", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-miao-tyler-extj9f8": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Tyler Miao", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-hansen-richard-ext": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Richard Hansen", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-ivich-adriana-ext9": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Adriana Ivich", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-morrissey-samantha": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Samantha Morrissey", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-passeri-carlo-extz": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Carlo Passeri", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-simon-maxwell-ext0": {
+    "summary": "Profile page for an innovation fellow at CU Anschutz.",
+    "entities": {"people": [{"name": "Maxwell Simon", "role": "Fellow"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-jagannathan-sujatha-extyt37h6": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Sujatha Jagannathan"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-manoharan-niranjan-extt56ryd": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Niranjan Manoharan"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-ocg-fellowships-fellowship-faqs": {
+    "summary": "Answers to common questions about externally funded fellowships, including definition, application support, qualification assessment, and funding disbursement processes.",
+    "entities": {"people": [{"name": "Patty Stanfield"}], "orgs": ["Office of Contracts and Grants", "NSF", "Fulbright-Hays"], "programs": ["NSF GRFP"], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-kuhn-kristi-extpq7zb7": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Kristi Kuhn"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-researchinnovation-human-research-irb-0": {
+    "summary": "Overview of CU Boulder's Institutional Review Board and human subjects research protocols, including application processes, eligibility for student researchers, and mandatory training requirements.",
+    "entities": {"people": [], "orgs": ["CU Boulder", "Institutional Review Board"], "programs": [], "amounts": [], "dates": ["November 18, 2024"], "eligibility": ["Graduate students can serve as PIs", "Undergraduate students require faculty PI", "All human subject research requires IRB review"]}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-li-suzhao-extc48963": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Suzhao Li"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-rissland-olivia-extsszhfb": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Olivia Rissland"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-wilcox-duncan-exto5e6b1": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Duncan Wilcox"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-altunbas-cem-ext26972n": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Cem Altunbas"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-bodine-cathy-ext55827e": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Cathy Bodine"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-ramachandran-srinivas-exthophwe": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Srinivas Ramachandran"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-venturepartners-about-reports": {
+    "summary": "Archive of economic impact and annual reports documenting CU Boulder's entrepreneurship ecosystem development over two decades.",
+    "entities": {"people": [], "orgs": ["Venture Partners at CU Boulder"], "programs": [], "amounts": [], "dates": ["2002-2026"], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-bubak-andrew-ext5yb5tj": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Andrew Bubak"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-flaig-thomas-extcieezu": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Thomas Flaig"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-hesselberth-jay-extzenjdt": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Jay Hesselberth"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-ifantides-cristos-ext829aun": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Cristos Ifantides"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-lambert-jim-extjt9wyo": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Jim Lambert"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-nagel-maria-extt8dv7w": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Maria Nagel"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-mei-dan-omer-extz2shvw": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Omer Mei Dan"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-venturepartners-newsroom-cu-technology-and-discovery-news": {
+    "summary": "Newsletter signup and media contact information for CU Boulder Venture Partners' monthly publication featuring entrepreneurship news, events, and opportunities.",
+    "entities": {"people": [{"name": "Daniel Leonard", "role": "Senior Marketing and Communications Specialist"}], "orgs": ["Venture Partners at CU Boulder"], "programs": ["The Insider"], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-nordeen-steven-extp463am": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Steven Nordeen"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-nair-devatha-extghma27": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Devatha Nair"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-segil-jacob-extauvwtz": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Jacob Segil"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-thurman-joshua-ext1ezdl8": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Joshua Thurman"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-pantcheva-mina-exthfky9o": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Mina Pantcheva"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-wempe-michael-extd2mvi9": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Michael Wempe"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-vibhakar-rajeev-exto1jycu": {
+    "summary": "Team member profile at CU Anschutz Innovations.",
+    "entities": {"people": [{"name": "Rajeev Vibhakar"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-research-abnexus-ab-nexus-grant-awardees-2025-ab-nexus-grant-awards": {
+    "summary": "2025 AB Nexus Grant awards supporting interdisciplinary medical research spanning infant gut health, microbiome studies, and AI-quantum computing applications for cancer treatment.",
+    "entities": {"people": [{"name": "Kyla Ost", "role": "CU Anschutz PI, Microbiology"}, {"name": "Jennifer Hill", "role": "CU Boulder PI, Molecular, Cellular & Developmental Biology"}, {"name": "Julia Dunn", "role": "CU Anschutz PI, Pediatrics"}, {"name": "Matthew Olm", "role": "CU Boulder PI, Integrative Physiology"}, {"name": "Daniel LaBarbera", "role": "CU Anschutz PI, Pharmaceutical Sciences"}, {"name": "Karolin Luger", "role": "CU Boulder PI, Biochemistry"}], "orgs": ["CU Anschutz", "CU Boulder", "CU Anschutz Center for Drug Discovery"], "programs": ["AB Nexus Grant", "Exploratory track", "Quantum and Human Health track"], "amounts": ["$75,000 per exploratory project"], "dates": ["2025"], "eligibility": []}
+  },
+  "colorado-edu-business-deming-community-engagement": {
+    "summary": "Community engagement initiatives through the Deming Center emphasizing rural entrepreneurship workshops, business mentoring networks, K-12 programming, and veteran support.",
+    "entities": {"people": [{"name": "Jeff York", "role": "Research Director"}, {"name": "Brad Werner", "role": "Faculty Director"}], "orgs": ["Leeds School of Business", "Deming Center for Entrepreneurship"], "programs": ["Creative Distillation Research Podcast", "Demystifying Entrepreneurship: Rural Colorado Workshop Series", "CU Entrepreneurs Mentor Network", "Veterans Entrepreneurship Program"], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "siliconflatirons-org-events-entrepreneurs-unplugged-2026-05-06": {
+    "summary": "Panel discussion with university innovation leaders supporting entrepreneurship across campus was scheduled for May 6 2026 but was cancelled due to weather closure.",
+    "entities": {"people": [], "orgs": ["Colorado Law", "Silicon Flatirons", "Boulder Startup Week"], "programs": ["Entrepreneurs Unplugged"], "amounts": [], "dates": ["May 6, 2026"], "eligibility": []}
+  },
+  "siliconflatirons-org-events-susu-pitch-night-2025-08-14": {
+    "summary": "Annual pitch competition where 41 Startup Summer participants showcase 10 student-founded companies representing diverse academic disciplines, with audience voting and cash prize awards.",
+    "entities": {"people": [], "orgs": ["Silicon Flatirons", "Wolf Law Building"], "programs": ["Startup Summer", "Startup Summer Pitch Night"], "amounts": [], "dates": ["August 14, 2025", "5:30 PM - 8:30 PM"], "eligibility": ["High school seniors through graduate students"]}
+  },
+  "startupcolorado-org-organizer-olivia-reed": {
+    "summary": "Event organizer profile focused on making funding opportunities accessible to entrepreneurs.",
+    "entities": {"people": [{"name": "Olivia Reed"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "startupcolorado-org-stories-tag-in-person-page-2": {
+    "summary": "Catalog of in-person entrepreneurship events ranging from investment bootcamps to business planning workshops and product creation classes.",
+    "entities": {"people": [], "orgs": ["Startup Colorado", "Young Americans Center"], "programs": ["Telluride Venture Network", "Climate Solutions Investment Bootcamp", "Melty Bead Creations Workshop", "First South West Community Fund Open House", "YouthBiz Spring Marketplace", "Ascent Deep Tech Community Showcase", "Business Plan in a Day", "Female Founders & Funders in Climate"], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "siliconflatirons-org-events-innovation-vs-access-2026-01-15": {
+    "summary": "CLE-eligible panel examining pharmaceutical pricing in the U.S., innovation incentives, and ethical considerations in balancing drug affordability against research advancement.",
+    "entities": {"people": [], "orgs": ["Davis Graham", "Silicon Flatirons"], "programs": ["Innovation vs. Access panel"], "amounts": [], "dates": ["January 15, 2026"], "eligibility": []}
+  },
+  "siliconflatirons-org-events-legal-tech-startup-variety-show-2026-04-07": {
+    "summary": "Networking event showcasing early-stage legal technology startups and established firms demonstrating innovation at the intersection of law, technology, and entrepreneurship.",
+    "entities": {"people": [{"name": "Matt Schmit", "role": "Executive Director, Silicon Flatirons"}, {"name": "Morgan Tregenza", "role": "Founder and CEO, levelheaded"}, {"name": "Harris Cunningham", "role": "GTM Lead, Legora"}, {"name": "Otto Hanson", "role": "VP of Product & GM of Screens, Agiloft"}, {"name": "Hon. Adam Kendall", "role": "Magistrate Judge, Colorado Judicial Branch"}, {"name": "Kevin Mulcahy", "role": "VP of Education & Community Programs, Neota"}, {"name": "Staci Pratt", "role": "Assistant Teaching Professor, CU Law"}], "orgs": ["University of Colorado Law School", "Silicon Flatirons"], "programs": ["Legal Tech Startup Variety Show"], "amounts": [], "dates": ["April 7, 2026", "5:00 PM - 8:00 PM MT"], "eligibility": []}
+  },
+  "siliconflatirons-org-events-ip-labor-interface-2025-11-06": {
+    "summary": "Ethics panel featuring UCLA law professor discussing intellectual property protections for artists and creators navigating AI usage in entertainment and creative labor markets.",
+    "entities": {"people": [{"name": "Xiyin Tang", "role": "Professor of Law, UCLA School of Law"}, {"name": "Melanie Kay", "role": "Director, Daniels Fund Ethics Initiative"}, {"name": "Casey Fiesler", "role": "Associate Professor, Information Science, CU Boulder"}, {"name": "Blake E. Reid", "role": "Associate Professor of Law, CU Boulder"}], "orgs": ["Colorado Law", "Silicon Flatirons", "UCLA School of Law"], "programs": ["The IP-Labor Interface", "Silicon Flatirons x Ethics Series"], "amounts": [], "dates": ["November 6, 2025", "12:00 PM - 12:50 PM"], "eligibility": []}
+  },
+  "startupcolorado-org-all-events-list-page-2-eventdisplay-past": {
+    "summary": "Past event addressing the emotional and mental challenges founders face during business growth and stress management strategies.",
+    "entities": {"people": [{"name": "Stephanie Kwong", "role": "Co-founder, Rapid Rewire Method and Unbound"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-governmental-entrepreneurial-leadership-accele": {
+    "summary": "Report on a pioneering partnership between Denver and CU Boulder establishing the Governmental Entrepreneurial Leadership Accelerator to teach public sector employees and law students entrepreneurial problem-solving skills.",
+    "entities": {"people": [], "orgs": ["City and County of Denver", "Silicon Flatirons Center", "University of Colorado Boulder"], "programs": ["Governmental Entrepreneurial Leadership Accelerator (GELA)", "Techstars", "Unreasonable Institute", "MergeLane", "Code for America"], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "startupcolorado-org-all-events-photo-page-2-eventdisplay-past": {
+    "summary": "Event focused on personal and professional development for business scaling.",
+    "entities": {"people": [], "orgs": [], "programs": ["Scaling Your Business Requires Scaling Your Mind"], "amounts": [], "dates": ["June 26"], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-transcript-2024-02-04-flagship-conference": {
+    "summary": "Transcript document from Silicon Flatirons' 2024 annual flagship conference.",
+    "entities": {"people": [], "orgs": ["Silicon Flatirons"], "programs": ["Flagship Conference"], "amounts": [], "dates": ["February 4, 2024"], "eligibility": []}
+  },
+  "siliconflatirons-org-people-grant-besser": {
+    "summary": "Leadership profile of Boulder Community Health Foundation president with background spanning nonprofit management, teacher development, and corporate marketing.",
+    "entities": {"people": [{"name": "Grant Besser", "role": "President, BCH Foundation and VP of Community Health & Engagement"}], "orgs": ["Boulder Community Health", "Teach for America", "Warner Bros", "Yahoo"], "programs": [], "amounts": [], "dates": ["2018"], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-rural-entrepreneurial-policy-academy-outcomes-": {
+    "summary": "Report documenting the 2020 Rural Entrepreneurial Policy Academy curriculum, rural entrepreneur perspectives, and policy recommendations emerging from direct engagement with state and federal legislators.",
+    "entities": {"people": [{"name": "Lily Zafran", "role": "Student editor and researcher"}, {"name": "Brad Bernthal", "role": "Associate Professor, Director of Entrepreneurship Initiative"}, {"name": "Wendy Guillies", "role": "President and CEO, Ewing Marion Kauffman Foundation"}, {"name": "Dan Tishman", "role": "Chair, Telluride Foundation Board"}], "orgs": ["Silicon Flatirons", "Startup Colorado", "Telluride Foundation"], "programs": ["Rural Entrepreneurial Policy Academy"], "amounts": [], "dates": ["November 13-14, 2020"], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-innovation-entrepreneurship-at-the-university-": {
+    "summary": "Assessment of innovation and entrepreneurship assets across University of Colorado system campuses, identifying opportunities for enhanced coordination and support.",
+    "entities": {"people": [{"name": "Brad Bernthal"}, {"name": "Alicia Sepulveda"}], "orgs": ["University of Colorado system"], "programs": [], "amounts": [], "dates": ["2021-2022"], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-law-school-innovation": {
+    "summary": "Analysis of emerging law school models responding to post-recession economic pressures and preparing students for evolving legal services landscape.",
+    "entities": {"people": [{"name": "Phil Weiser"}, {"name": "Bryce Wilson"}], "orgs": [], "programs": [], "amounts": [], "dates": ["2008-09"], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-building-a-great-health-care-innovation-ecosys": {
+    "summary": "Examination of how healthcare entrepreneurs challenge incumbent systems through innovation, and the critical partnerships required between startups and established providers.",
+    "entities": {"people": [{"name": "Jack Vihstadt"}], "orgs": ["Centers for Medicare and Medicaid Services"], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-the-promise-and-limits-of-social-entrepreneurs": {
+    "summary": "Overview of social entrepreneurship as a model combining profit generation with social objectives through innovation and opportunity recognition.",
+    "entities": {"people": [{"name": "Jill Rennert"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-ongoing-innovation-in-legaleducation-2": {
+    "summary": "Review of law school innovation responses to post-2008 economic challenges, including curriculum changes, alternative service delivery models, and career development paths.",
+    "entities": {"people": [], "orgs": ["Colorado Law"], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-different-shapes-common-patternsemerging-appro": {
+    "summary": "Comparative study of innovation teaching methods in higher education that develop entrepreneurial mindset, creativity, and collaborative problem-solving across disciplines.",
+    "entities": {"people": [{"name": "Andy Evans"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-the-cable-and-satellite-compulsory-copyright-l": {
+    "summary": "Roundtable discussion of cable and satellite compulsory copyright licenses and their implications for content distribution, creator compensation, and media innovation.",
+    "entities": {"people": [{"name": "Christopher Achatz"}], "orgs": [], "programs": [], "amounts": [], "dates": ["April 29, 2011"], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-a-template-for-critical-massnext-steps-for-a-v": {
+    "summary": "Strategic framework identifying steps Denver's startup community could take to achieve critical mass and sustained entrepreneurial momentum.",
+    "entities": {"people": [{"name": "Ian Kuliasha"}], "orgs": [], "programs": [], "amounts": ["1,000+ participants", "520+ companies"], "dates": ["September 6, 2012"], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-transcript-2023-02-05-flagship-conference": {
+    "summary": "Transcript document from Silicon Flatirons' 2023 annual flagship conference.",
+    "entities": {"people": [], "orgs": ["Silicon Flatirons"], "programs": ["Flagship Conference"], "amounts": [], "dates": ["February 5, 2023"], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-private-equity-and-venture-capital-whats-the-d": {
+    "summary": "Educational guide clarifying differences between private equity and venture capital investment models, including their distinct approaches to capital deployment and returns.",
+    "entities": {"people": [{"name": "David Mangum"}], "orgs": [], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-open-standards-open-innovation-and-the-rollout": {
+    "summary": "Policy analysis of IP Multimedia Subsystem deployment and its implications for open innovation, network architecture, and competition in broadband services.",
+    "entities": {"people": [{"name": "Christopher Achatz"}], "orgs": [], "programs": [], "amounts": [], "dates": ["February 7, 2009"], "eligibility": []}
+  },
+  "siliconflatirons-org-initiatives-technology-policy-silicon-flatirons-annual-flag": {
+    "summary": "Documentary history of Silicon Flatirons' evolution from a technology policy conference series founded in 1999 to a comprehensive forum addressing law, technology, and entrepreneurship.",
+    "entities": {"people": [{"name": "Phil Weiser"}, {"name": "Vinton Cerf"}, {"name": "Tim Wu"}], "orgs": [], "programs": ["Telecommunications Law for the Twenty-First Century", "Digital Broadband Migration (DBM) Conference"], "amounts": [], "dates": ["1999", "2017"], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-building-a-great-entrepreneurial-university": {
+    "summary": "Strategic framework from university leaders discussing how to develop entrepreneurial mindset across all students and build institutional support for innovation exploration.",
+    "entities": {"people": [{"name": "Zach Shulman"}, {"name": "Troy D'Ambrosio"}], "orgs": ["University of Colorado Boulder", "Cornell University", "University of Utah"], "programs": [], "amounts": [], "dates": ["April 4, 2017"], "eligibility": []}
+  },
+  "cuanschutz-edu-chancellor-messages-communiques-announcing-the-anschutz-accelerat": {
+    "summary": "Announcement of $50 million philanthropic gift from Anschutz Foundation supporting 7-15 million dollar awards for healthcare innovation projects with near-term patient impact.",
+    "entities": {"people": [{"name": "Don Elliman", "role": "Chancellor"}, {"name": "John J. Reilly, Jr., MD", "role": "Vice Chancellor for Health Affairs"}], "orgs": ["Anschutz Foundation", "CU Anschutz"], "programs": ["Anschutz Acceleration Initiative"], "amounts": ["$50 million", "$5-15 million per award"], "dates": ["June 6, 2023"], "eligibility": []}
+  },
+  "cuanschutz-edu-chancellor-messages-communiques-announcing-anschutz-acceleration-": {
+    "summary": "Details of award ceremony for Anschutz Acceleration Initiative featuring 56 reviewed proposals for transformative healthcare projects targeting patient impact within 3-5 years.",
+    "entities": {"people": [{"name": "Don Elliman", "role": "Chancellor"}, {"name": "John J. Reilly, Jr., MD", "role": "Vice Chancellor for Health Affairs"}], "orgs": ["CU Anschutz"], "programs": ["Anschutz Acceleration Initiative"], "amounts": ["165 letters of intent submitted", "56 full proposals reviewed"], "dates": ["January 10, 2024"], "eligibility": []}
+  },
+  "siliconflatirons-org-publications-authorship-and-accessibility-in-the-digital-ag": {
+    "summary": "Analysis of digital accessibility for creators and audiences with disabilities, emphasizing human rights-based approaches over medical models of disability.",
+    "entities": {"people": [], "orgs": ["United Nations"], "programs": [], "amounts": [], "dates": [], "eligibility": ["People with long-term physical, mental, intellectual or sensory impairments"]}
+  },
+  "colorado-edu-venturepartners-about-people-margaret-bryant": {
+    "summary": "Staff profile of events manager coordinating accelerator and venture initiative programming.",
+    "entities": {"people": [{"name": "Margaret Bryant", "role": "Events Manager"}], "orgs": ["Venture Partners at CU Boulder"], "programs": ["ASCENT DEEP TECH ACCELERATOR", "DESTINATION STARTUP LAB", "VENTURE CHALLENGE", "CREATIVE FUTURES FELLOWSHIP"], "amounts": [], "dates": [], "eligibility": []}
+  },
+  "colorado-edu-venturepartners-about-people-christine-jackson": {
+    "summary": "Staff profile of executive assistant supporting innovation and research leadership at Venture Partners.",
+    "entities": {"people": [{"name": "Christine Jackson", "role": "Executive Assistant to Senior Associate Vice Chancellor"}], "orgs": ["Venture Partners at CU Boulder"], "programs": [], "amounts": [], "dates": [], "eligibility": []}
+  }
+}

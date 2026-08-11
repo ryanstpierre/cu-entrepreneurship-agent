@@ -1,0 +1,992 @@
+{
+  "colorado-edu-oce-funding-and-resources-tools-compliance-resources": {
+    "summary": "Provides guidance for CU Boulder faculty and staff organizing community outreach activities, covering legal compliance, child protection policies, photo permissions, and institutional review requirements.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Office for Outreach and Community Engagement", "University Risk Management", "Institutional Review Board"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["University-sponsored outreach programs", "programs for children"]
+    }
+  },
+  "startupcolorado-org-event-creative-writers-meetup-publishing": {
+    "summary": "A networking event connecting authors working on manuscripts, featuring advice from published author Andrew Kenrick about navigating the publishing industry.",
+    "entities": {
+      "people": ["Margaret Hedderman (Director of Communications, Startup Colorado)", "Andrew Kenrick (author, editor)"],
+      "orgs": ["Startup Colorado", "Penguin/Torva", "Hinterland"],
+      "programs": ["Creative Writers' Meetup + Publishing Q&A"],
+      "amounts": [],
+      "dates": ["July 22, 2026, 11:30 am - 12:30 pm"],
+      "eligibility": ["Writers working on fiction, poetry, memoir, or creative non-fiction"]
+    }
+  },
+  "colorado-edu-oce-funding-and-resources-tools-consultations-and-presentations": {
+    "summary": "Offers consultations and presentations from CU Boulder staff to help faculty develop and implement community-engaged scholarship projects.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Office for Outreach and Community Engagement"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder faculty interested in community engagement"]
+    }
+  },
+  "colorado-edu-oce-paces-funding-and-resources-tools-evaluation-resources": {
+    "summary": "Provides frameworks and tools for evaluating community partnerships and measuring the impact of university-community engagement work.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Office for Outreach and Community Engagement", "Campus Compact", "Resource & Innovation Office"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Faculty and community partners in engagement work"]
+    }
+  },
+  "colorado-edu-business-deming-community-creative-distillation-research-podcast": {
+    "summary": "A podcast translating entrepreneurship research into actionable insights for students and entrepreneurs, featuring conversations between faculty about recent studies and their practical applications.",
+    "entities": {
+      "people": ["Jeff York (Research Director, Deming Center)", "Brad Werner (Faculty Director, Deming Center)", "Joel Davis (producer)", "Erik Jeffries", "Jesse Burns", "Pilar Pheffer", "Eloise Popiel", "Stefani Harrison"],
+      "orgs": ["Deming Center for Entrepreneurship", "Analog/Digital Arts"],
+      "programs": ["Creative Distillation Research Podcast"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Entrepreneurs and students interested in research-backed business practices"]
+    }
+  },
+  "startupcolorado-org-event-rural-creative-roundtable-featuring-cine-fe": {
+    "summary": "A virtual networking event connecting rural creatives with a spotlight on a documentary filmmaker and impact producer discussing her journey building a Colorado film nonprofit.",
+    "entities": {
+      "people": ["Stephanie (documentary filmmaker and impact producer, Cine Fe leader)"],
+      "orgs": ["Startup Colorado", "Cine Fe", "Kartemquin Films", "Sundance"],
+      "programs": ["Rural Creative Roundtable"],
+      "amounts": [],
+      "dates": ["August 15, 2025, 12:00 pm - 1:00 pm"],
+      "eligibility": ["Rural creatives"]
+    }
+  },
+  "colorado-edu-aerospaceventures-capabilities-and-missions": {
+    "summary": "Highlights CU Boulder's aerospace research capabilities and partnerships, showcasing expertise in space sciences, spacecraft design, satellite technology, and Earth observation.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder AeroSpace Ventures"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Industry and government partners interested in aerospace collaboration"]
+    }
+  },
+  "colorado-edu-business-deming-about-us-faculty-0": {
+    "summary": "Directory of faculty teaching strategy, entrepreneurship, and operations at the Deming Center for Entrepreneurship.",
+    "entities": {
+      "people": [],
+      "orgs": ["Leeds School of Business", "Deming Center for Entrepreneurship"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-business-cesr-business-resources-judging-20case-20competitions": {
+    "summary": "Describes two ethics competitions where judges evaluate students' ability to address complex business ethics challenges through debate and case analysis.",
+    "entities": {
+      "people": [],
+      "orgs": ["Leeds School of Business"],
+      "programs": ["March Debate Madness", "Business Ethics Case Competition (BECC)"],
+      "amounts": ["cash awards for finalists"],
+      "dates": ["Debate Madness: late February/early March", "BECC: late October/early November"],
+      "eligibility": ["Undergraduate and graduate students at CU"]
+    }
+  },
+  "startupcolorado-org-event-west-slope-startup-week-2025": {
+    "summary": "A five-day regional entrepreneurship event in Durango featuring speakers, programming, and networking activities to build momentum around the startup ecosystem.",
+    "entities": {
+      "people": ["Vanessa McCrann (organizer)"],
+      "orgs": ["Startup Colorado"],
+      "programs": ["West Slope Startup Week"],
+      "amounts": [],
+      "dates": ["October 6-10, 2025"],
+      "eligibility": ["Entrepreneurs, local leaders, community members"]
+    }
+  },
+  "startupcolorado-org-stories-startup-colorados-2025-annual-report-is-here": {
+    "summary": "Highlights from Startup Colorado's annual report covering rural founder experiences and artificial intelligence adoption strategies for scaling.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-january-lean-coffee": {
+    "summary": "A quarterly networking event where entrepreneurs hear from funding professionals about accessing capital and connect with peer founders in breakout discussions.",
+    "entities": {
+      "people": ["Juan Carlos Rosales de la Garza (Senior Investment Officer, CEDS Finance)"],
+      "orgs": ["Startup Colorado", "CEDS Finance"],
+      "programs": ["Lean Coffee"],
+      "amounts": [],
+      "dates": ["January 7, 2026, 9:00 am - 10:00 am"],
+      "eligibility": ["Entrepreneurs from all industries"]
+    }
+  },
+  "startupcolorado-org-event-youthbiz-spring-marketplace": {
+    "summary": "A family-friendly marketplace event where young entrepreneurs sell products and connect with peer mentors for business support and guidance.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Young Americans Center"],
+      "programs": ["YouthBiz Spring Marketplace"],
+      "amounts": [],
+      "dates": ["April 25, 2026, 10:00 am - 2:00 pm"],
+      "eligibility": ["Youth entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-xi-tech-connect-coffee-community-3": {
+    "summary": "A weekly in-person gathering for tech entrepreneurs and founders to network, collaborate, and share ideas about emerging technologies and startups.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Exponential Impact"],
+      "programs": ["XI Tech Connect: Coffee & Community"],
+      "amounts": [],
+      "dates": ["Weekly Thursdays, 9:00 am - 10:00 am through March 25, 2027"],
+      "eligibility": ["Tech entrepreneurs, founders, startups"]
+    }
+  },
+  "startupcolorado-org-event-exploring-watercolor-workshop": {
+    "summary": "An all-day painting workshop teaching fundamental watercolor techniques and artistic principles including composition and color theory.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Blue Sage Art"],
+      "programs": ["Exploring Watercolor Workshop"],
+      "amounts": [],
+      "dates": ["September 19, 2025, 8:00 am - 5:00 pm"],
+      "eligibility": ["All skill levels"]
+    }
+  },
+  "startupcolorado-org-event-inclusive-by-design": {
+    "summary": "A practical workshop on designing and executing accessible events that welcome people with disabilities and create inclusive experiences for diverse attendees.",
+    "entities": {
+      "people": ["Chrysta Bairre (speaker, author, founder of She Goes High)"],
+      "orgs": ["Startup Colorado", "NOCOBIZ CONNECT", "She Goes High"],
+      "programs": ["Inclusive by Design"],
+      "amounts": [],
+      "dates": ["January 30, 2026, 12:00 pm - 1:30 pm"],
+      "eligibility": ["Event organizers and planners"]
+    }
+  },
+  "startupcolorado-org-event-how-to-star-your-business-a-startup-checklist": {
+    "summary": "A webinar covering the practical steps to launch a business in Colorado, including legal structure, state registration, licensing, and financial setup.",
+    "entities": {
+      "people": ["Callie Koch (Program Manager, Colorado SBDC)"],
+      "orgs": ["Startup Colorado", "Colorado SBDC serving the West Central region"],
+      "programs": ["How to Start Your Business"],
+      "amounts": [],
+      "dates": ["February 3, 2026, 12:00 pm - 1:00 pm"],
+      "eligibility": ["Businesses in idea or pre-venture phase, early-stage startups"]
+    }
+  },
+  "startupcolorado-org-event-enactus-usa-national-exposition-2026": {
+    "summary": "A three-day national student competition showcasing student-led social and economic innovations, with networking opportunities and an impact marketplace.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Enactus USA", "Resolution Project"],
+      "programs": ["Enactus USA National Exposition"],
+      "amounts": [],
+      "dates": ["April 16-18, 2026"],
+      "eligibility": ["Student innovators, educators, business leaders"]
+    }
+  },
+  "startupcolorado-org-event-how-to-launch-your-business": {
+    "summary": "A webinar walking prospective entrepreneurs through essential startup logistics including business planning, company registration, financial management, and customer acquisition.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Northwest SBDC"],
+      "programs": ["How to Launch Your Business"],
+      "amounts": [],
+      "dates": ["November 17, 2025, 5:00 pm - 6:00 pm"],
+      "eligibility": ["Prospective entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-idea-feasibility-methods-to-test-your-business-idea": {
+    "summary": "A webinar teaching methods to validate business ideas before launch, with practical exercises and access to personalized advising from business counselors.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Northwest SBDC"],
+      "programs": ["Idea Feasibility"],
+      "amounts": [],
+      "dates": ["November 12, 2025, 12:00 pm - 1:00 pm"],
+      "eligibility": ["Entrepreneurs considering starting a business"]
+    }
+  },
+  "startupcolorado-org-event-service-to-success-veterans-connection-kickoff-2025-09": {
+    "summary": "The first in a series of webinars designed to help veteran entrepreneurs understand business establishment requirements and build strategies for success.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "East Colorado SBDC", "Colorado Small Business Development Center"],
+      "programs": ["Service to Success", "Veteran Connection"],
+      "amounts": [],
+      "dates": ["September 24, 2025, 8:00 am - 5:00 pm"],
+      "eligibility": ["Veteran-owned and veteran-supporting businesses"]
+    }
+  },
+  "startupcolorado-org-event-free-spanish-classes-for-beginners-2025-10-28": {
+    "summary": "An eight-week series of free Spanish language classes designed for busy professionals wanting practical communication skills taught by a native speaker.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "The Spanish Practice Club", "Learn Quick Spanish"],
+      "programs": ["Free Spanish Classes for Beginners"],
+      "amounts": [],
+      "dates": ["October 28, 2025, 6:00 pm - 7:00 pm"],
+      "eligibility": ["Spanish language beginners"]
+    }
+  },
+  "startupcolorado-org-event-finance-friday": {
+    "summary": "A monthly webinar series covering small business accounting and financial management topics, from bookkeeping fundamentals to scaling strategies.",
+    "entities": {
+      "people": ["Kelly Johnston (facilitator, West Central SBDC consultant)"],
+      "orgs": ["Startup Colorado", "West Central SBDC"],
+      "programs": ["Finance Friday"],
+      "amounts": [],
+      "dates": ["December 19, 2025, 2:30 pm - 3:30 pm"],
+      "eligibility": ["Small business owners and entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-why-your-startup-needs-a-press-page": {
+    "summary": "Resource article discussing the importance of public relations strategy and press materials for startup visibility and credibility.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Startup founders"]
+    }
+  },
+  "startupcolorado-org-event-business-valuation-basics-for-owners-or-buyers": {
+    "summary": "A webinar covering business valuation methods and strategies from both the seller's perspective and the buyer's perspective in acquisitions.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Northwest SBDC"],
+      "programs": ["Business Valuation Basics"],
+      "amounts": [],
+      "dates": ["October 22, 2025, 5:00 pm - 6:00 pm"],
+      "eligibility": ["Business owners, prospective buyers"]
+    }
+  },
+  "startupcolorado-org-event-virtual-friday-reset-yoga-meditation": {
+    "summary": "A weekly online wellness session combining yoga and mindfulness meditation designed to help entrepreneurs and founders manage stress and reset before the weekend.",
+    "entities": {
+      "people": ["Sarah Woodward (co-owner, Thrive Yoga Summit)"],
+      "orgs": ["Startup Colorado", "Thrive Yoga Summit"],
+      "programs": ["Virtual Friday Reset"],
+      "amounts": [],
+      "dates": ["April 17, 2026, 9:00 am - 10:00 am"],
+      "eligibility": ["All fitness levels"]
+    }
+  },
+  "startupcolorado-org-event-belonging-prospects-info-session": {
+    "summary": "An informational session for applicants interested in the Belong @ Startup Colorado accelerator, covering program timeline, curriculum, and selection expectations.",
+    "entities": {
+      "people": ["Tim Martinez (organizer)"],
+      "orgs": ["Startup Colorado", "Belonging Colorado"],
+      "programs": ["Belong @ Startup Colorado accelerator"],
+      "amounts": [],
+      "dates": ["January 15, 2026, 10:00 am - 11:30 am"],
+      "eligibility": ["Prospective accelerator applicants"]
+    }
+  },
+  "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con": {
+    "summary": "Error page for a CU Boulder IT service (content not available).",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Office of Information Technology"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-the-growth-challenge-expands-support-for-rural-found": {
+    "summary": "Updates on Startup Colorado's Growth Challenge program and its expanded support for rural entrepreneurs scaling their businesses.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Growth Challenge"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Rural founders"]
+    }
+  },
+  "colorado-edu-initiative-cubit-industry-partners": {
+    "summary": "Describes partnerships between CU Boulder's quantum research initiative and industry, academic, and government organizations advancing quantum information technologies.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder CUbit Quantum Initiative", "Atom Computing", "Lockheed Martin", "Quantinuum", "Boeing", "IQM", "Colorado State University", "Colorado School of Mines"],
+      "programs": ["CUbit Quantum Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Industry and academic partners in quantum research"]
+    }
+  },
+  "cires-colorado-edu-research-earth-science-and-observation-center": {
+    "summary": "A research center at CU Boulder using remote sensing technologies to understand Earth systems and environmental processes at global and regional scales.",
+    "entities": {
+      "people": ["Kristy Tiampo (Professor of Geological Sciences, Director of ESOC)"],
+      "orgs": ["CU Boulder CIRES", "Earth Science and Observation Center"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["August 21, 2025 - crater observation"],
+      "eligibility": ["Researchers and scientists"]
+    }
+  },
+  "startupcolorado-org-event-lean-coffee": {
+    "summary": "A quarterly networking event where entrepreneurs hear from an established founder about their journey and then connect in small group discussions.",
+    "entities": {
+      "people": ["Morgan Moutrie (founder, Colorado Smell Goods)"],
+      "orgs": ["Startup Colorado", "Colorado Smell Goods"],
+      "programs": ["Lean Coffee"],
+      "amounts": ["approximately $2,000 won through pitch competitions"],
+      "dates": ["April 1, 2026, 9:00 am - 10:00 am"],
+      "eligibility": ["Entrepreneurs from all industries"]
+    }
+  },
+  "startupcolorado-org-event-rural-creative-connections": {
+    "summary": "A virtual networking event highlighting a rural creative entrepreneur's business journey with peer connections and collaboration opportunities.",
+    "entities": {
+      "people": ["Julie Anderson (ceramic artist, educator, Studio Director at Warehome Studios)"],
+      "orgs": ["Startup Colorado", "Warehome Studios", "Anderson Ceramic & Design", "Grasso Glass & Stone"],
+      "programs": ["Rural Creative Connections"],
+      "amounts": [],
+      "dates": ["September 17, 2025, 12:00 pm - 1:00 pm"],
+      "eligibility": ["Rural creatives"]
+    }
+  },
+  "cuanschutz-edu-research": {
+    "summary": "Research and clinical trial information page for CU Anschutz medical campus.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-about-visit-cu-anschutz": {
+    "summary": "Information page about visiting the CU Anschutz medical campus.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-startup-colorado-announces-first-founder-co-opetitio": {
+    "summary": "Announcement of Startup Colorado's inaugural Founder CO-OPetition cohort focusing on collaborative entrepreneurship approaches.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Founder CO-OPetition"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Founders"]
+    }
+  },
+  "ibs-colorado-edu-colleen-scanlan-lyons-discusses-digital-innovation-for-amazon-c": {
+    "summary": "Highlights a CU Boulder researcher's presentation on using digital technologies for Amazon forest conservation and climate resilience.",
+    "entities": {
+      "people": ["Colleen Scanlan Lyons (IBS Fellow, Associate Research Professor, Director of Center for Governance of Natural Resources)"],
+      "orgs": ["CU Boulder Institute of Behavioral Science", "World Bank", "Governors' Climate and Forests Task Force"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["July 22, 2025 - webinar date"],
+      "eligibility": ["Climate and conservation researchers"]
+    }
+  },
+  "cuanschutz-edu-chancellor-messages-communiques-announcing-the-cu-anschutz-office": {
+    "summary": "Announces the creation of a new office to streamline clinical trials administration and accelerate translating research into patient treatments at CU Anschutz.",
+    "entities": {
+      "people": ["Adit Ginde (Senior Associate Dean for Clinical Research)", "John Sampson (Dean of School of Medicine)", "Thomas Gronow (President and CEO of UCHealth)", "Thomas Flaig (Vice Chancellor for Research)"],
+      "orgs": ["CU Anschutz", "CU Anschutz School of Medicine", "UCHealth University of Colorado Hospital"],
+      "programs": ["CU Anschutz Office of Clinical Trials"],
+      "amounts": [],
+      "dates": ["May 19, 2026 - announcement"],
+      "eligibility": ["Faculty and clinical researchers"]
+    }
+  },
+  "cuanschutz-edu-about-leadership-old-chancellor-at-the-forefront": {
+    "summary": "Leadership and organizational information for CU Anschutz.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-offices-advancement-home-stories-stories-of-change-feature-storie": {
+    "summary": "Announces an endowed chair in innovation at the Colorado School of Public Health established through philanthropic support.",
+    "entities": {
+      "people": ["Richard Hoffman (MD, MPH, former Chief Medical Officer of Colorado)", "David Conti (MS, PhD, inaugural chair holder)"],
+      "orgs": ["CU Anschutz", "Colorado School of Public Health", "University of Southern California"],
+      "programs": ["Colorado School of Public Health Endowed Chair in Innovation"],
+      "amounts": [],
+      "dates": ["November 14, 2025 - announcement", "January 2026 - Dr. Conti joining"],
+      "eligibility": ["Public health researchers and students"]
+    }
+  },
+  "watson-is-mexico-fellowship-application": {
+    "summary": "Application portal for the Watson Institute's fellowship program supporting impact-driven entrepreneurs with mentorship and intensive training.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute"],
+      "programs": ["Rising Leaders of Mexico Fellowship"],
+      "amounts": [],
+      "dates": ["applications currently closed"],
+      "eligibility": ["Impact-driven entrepreneurs"]
+    }
+  },
+  "watson-is-2023-venture-accelerator-fellows": {
+    "summary": "Profiles of Watson Institute fellowship recipients working on sustainable and social impact ventures across Asia, the Americas, and other regions.",
+    "entities": {
+      "people": ["Wanqing Xu (2023 Flagship Fellowship Fellow)", "An Lin (founder, The Freelancer's Salon)", "Anushka Purohit (founder, Breer Ltd.)", "Benji Gerst (founder, FarmWay)"],
+      "orgs": ["Watson Institute", "The Freelancer's Salon", "Breer Ltd.", "FarmWay", "University of Arizona Entrepreneurship Program"],
+      "programs": ["Watson Institute Venture Accelerator", "Enlight China Fellowship", "Mike and Christine Miles Fellowship"],
+      "amounts": ["approximately $2,000 won through pitch competitions by FarmWay"],
+      "dates": ["2023"],
+      "eligibility": ["International entrepreneurs"]
+    }
+  },
+  "watson-is-hammed-alabi-western-union-fondation-fellowship-fellow": {
+    "summary": "Profiles a social entrepreneur who placed as first runner-up in the Western Union Global Fellowship Program and describes his vision for expanding skills training to underserved African communities.",
+    "entities": {
+      "people": ["Hammed Kayode Alabi (social entrepreneur)"],
+      "orgs": ["Watson Institute", "Western Union Global Fellowship Program"],
+      "programs": ["Western Union Global Fellowship Program"],
+      "amounts": ["$5,000 venture development stipend"],
+      "dates": ["2023"],
+      "eligibility": ["Social entrepreneurs from Africa"]
+    }
+  },
+  "colorado-edu-oce-grant-committees-tier3-4": {
+    "summary": "Describes the committee that reviews and selects community-engaged scholarship grant proposals from CU Boulder faculty based on impact and partnership criteria.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Office for Outreach and Community Engagement"],
+      "programs": ["CU Boulder Public and Community-Engaged Scholarship Grants"],
+      "amounts": [],
+      "dates": ["spring - meeting time"],
+      "eligibility": ["Faculty with community-engaged scholarship projects"]
+    }
+  },
+  "ctlj-colorado-edu-p-1291": {
+    "summary": "Analysis of Apple's patent litigation strategy and disputes with companies over internet security, wearable technology, and health monitoring features.",
+    "entities": {
+      "people": [],
+      "orgs": ["Apple", "VirnetX", "U.S. Patent Trial and Appeal Board"],
+      "programs": [],
+      "amounts": ["$502.8 million - VirnetX jury verdict in 2020"],
+      "dates": ["14-year legal battle", "2020 verdict"],
+      "eligibility": ["Tech industry professionals, patent attorneys"]
+    }
+  },
+  "colorado-edu-dcvf-startup-information": {
+    "summary": "Describes an early-stage venture capital fund managed by CU Boulder graduate students providing funding and mentorship to Colorado startups.",
+    "entities": {
+      "people": ["John Afdem (Managing Director)", "Dalton Mills (Managing Director)"],
+      "orgs": ["Deming Center Venture Fund", "CU Boulder", "Leeds School of Business"],
+      "programs": ["Deming Center Venture Fund"],
+      "amounts": ["$25,000 investment checks for equity or convertible debt"],
+      "dates": [],
+      "eligibility": ["Early-stage startups with Colorado or CU connections"]
+    }
+  },
+  "startupcolorado-org-event-belonging-colorado-prospect-info-session": {
+    "summary": "Informational session for prospective applicants to the Belong @ Startup Colorado accelerator covering program details and selection criteria.",
+    "entities": {
+      "people": ["Tim Martinez (organizer)"],
+      "orgs": ["Startup Colorado", "Belonging Colorado"],
+      "programs": ["Belong @ Startup Colorado accelerator"],
+      "amounts": [],
+      "dates": ["December 11, 2025, 10:00 am - 11:30 am", "January 15, 2026 - alternate session"],
+      "eligibility": ["Prospective accelerator applicants"]
+    }
+  },
+  "ctlj-colorado-edu-p-750": {
+    "summary": "Explains how the Lifeline universal service program evolved from providing phone service to supporting broadband access for low-income Americans.",
+    "entities": {
+      "people": [],
+      "orgs": ["Federal Communications Commission", "Universal Service Administrative Company"],
+      "programs": ["Lifeline", "Universal Service Fund", "Connect America", "E-rate"],
+      "amounts": [],
+      "dates": ["1980s - Lifeline inception", "2016 - broadband added", "2021 - broadband only"],
+      "eligibility": ["Low-income Americans"]
+    }
+  },
+  "startupcolorado-org-event-the-peoples-festival-celebrating-employee-owned-busine": {
+    "summary": "A community festival celebrating employee-owned businesses in Colorado with vendor booths, entertainment, and storytelling about shared ownership models.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Rocky Mountain Employee Ownership Center"],
+      "programs": ["The People's Festival", "Employee Ownership Month"],
+      "amounts": [],
+      "dates": ["October 11, 2026, 11 am - 4 pm"],
+      "eligibility": ["Employee-owned businesses, community members"]
+    }
+  },
+  "colorado-edu-business-deming-news-stories-demystifying-entrepreneurship-rural-co": {
+    "summary": "Workshop series teaching entrepreneurship fundamentals and business development to rural Colorado entrepreneurs.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Leeds School of Business", "Deming Center for Entrepreneurship"],
+      "programs": ["Demystifying Entrepreneurship Rural Colorado Workshop Series"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Rural Colorado entrepreneurs"]
+    }
+  },
+  "colorado-edu-innovate-2019-10-09-leeds-deming-center-wins-global-award-entrepren": {
+    "summary": "Announcement that the Deming Center for Entrepreneurship received a global award recognizing excellence in entrepreneurship education.",
+    "entities": {
+      "people": [],
+      "orgs": ["Leeds School of Business", "Deming Center for Entrepreneurship", "Global Consortium of Entrepreneurship Centers"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["October 9, 2019"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2020-04-15-deming-center-launches-coventure-forward-suppor": {
+    "summary": "Announcement of the Deming Center's COventure Forward program providing support to small businesses and entrepreneurs during economic challenges.",
+    "entities": {
+      "people": [],
+      "orgs": ["Deming Center for Entrepreneurship"],
+      "programs": ["COventure Forward"],
+      "amounts": [],
+      "dates": ["April 15, 2020"],
+      "eligibility": ["Small business owners, entrepreneurs"]
+    }
+  },
+  "colorado-edu-innovate-2021-05-17-deming-center-entrepreneurship-host-southwest-c": {
+    "summary": "Announcement of a workshop hosted by the Deming Center focused on entrepreneurship and business development in Southwest Colorado's Native American communities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Deming Center for Entrepreneurship"],
+      "programs": ["Native Entrepreneurship workshop"],
+      "amounts": [],
+      "dates": ["May 17, 2021"],
+      "eligibility": ["Native American entrepreneurs in Southwest Colorado"]
+    }
+  },
+  "startupcolorado-org-stories-startup-colorado-hits-1000-members-on-entrepreneur-n": {
+    "summary": "Milestone announcement that Startup Colorado reached 1,000 members in its entrepreneur network.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Startup Colorado Entrepreneur Network"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-watson-institute-fellowships-info-session-fully-funded": {
+    "summary": "Information session presenting fully-funded fellowship opportunities from the Watson Institute for Colorado-based entrepreneurs with mentorship and business training.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute", "Startup Colorado"],
+      "programs": ["Watson Institute fellowships"],
+      "amounts": ["fully funded"],
+      "dates": ["May 14, 2026, 12:00 pm - 1:00 pm"],
+      "eligibility": ["Colorado-based entrepreneurs"]
+    }
+  },
+  "colorado-edu-innovate-2021-11-22-deming-center-wins-prestigious-award-global-con": {
+    "summary": "Announcement that the Deming Center won a prestigious award from the Global Consortium of Entrepreneurship Centers for excellence in specialized entrepreneurship education.",
+    "entities": {
+      "people": [],
+      "orgs": ["Deming Center for Entrepreneurship", "Global Consortium of Entrepreneurship Centers"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["November 22, 2021"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2024-10-16-innovation-through-collaboration-deming-center-": {
+    "summary": "Announcement of a partnership between the Deming Center for Entrepreneurship and the Entrepreneurship Center for Music to support music entrepreneurs.",
+    "entities": {
+      "people": [],
+      "orgs": ["Deming Center for Entrepreneurship", "Entrepreneurship Center for Music"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["October 16, 2024"],
+      "eligibility": ["Music entrepreneurs"]
+    }
+  },
+  "colorado-edu-innovate-programs-resources-deming-center-entrepreneurship": {
+    "summary": "Overview of the Deming Center's mission to develop entrepreneurial leaders through education, research, and connections to industry and community partners.",
+    "entities": {
+      "people": [],
+      "orgs": ["Deming Center for Entrepreneurship", "Leeds School of Business", "CU Boulder"],
+      "programs": ["entrepreneurship education and research programs"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students, faculty, entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-stories-meet-some-of-the-speakers-behind-west-slope-startup-": {
+    "summary": "Feature article introducing speakers participating in West Slope Startup Week programming.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["West Slope Startup Week"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Startup community"]
+    }
+  },
+  "colorado-edu-researchinnovation-research-and-federal-funding": {
+    "summary": "Information hub for CU Boulder faculty and researchers about federal funding opportunities and impacts of changes in federal funding policies.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Research & Innovation Office"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2024-25"],
+      "eligibility": ["CU Boulder faculty, researchers, students"]
+    }
+  },
+  "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o": {
+    "summary": "Directory of faculty in the Strategy and Entrepreneurship research area at the Leeds School of Business.",
+    "entities": {
+      "people": [],
+      "orgs": ["Leeds School of Business", "CU Boulder"],
+      "programs": ["Strategy and Entrepreneurship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Students seeking faculty advisors"]
+    }
+  },
+  "startupcolorado-org-event-marketing-101-first-southwest-community-fund": {
+    "summary": "A free bilingual workshop teaching entrepreneurs fundamental marketing principles including audience identification, brand messaging, and channel selection.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "First Southwest Community Fund"],
+      "programs": ["Marketing 101"],
+      "amounts": [],
+      "dates": ["April 16, 2026, 6:00 pm - 8:00 pm"],
+      "eligibility": ["Entrepreneurs, bilingual English/Spanish"]
+    }
+  },
+  "colorado-edu-business-deming-graduate-students-hgv-2021-cohort": {
+    "summary": "Information page listing High Growth Venture Fellows from the 2021 cohort at CU Boulder's Deming Center.",
+    "entities": {
+      "people": [],
+      "orgs": ["Leeds School of Business", "Deming Center for Entrepreneurship"],
+      "programs": ["High Growth Venture Fellowship"],
+      "amounts": [],
+      "dates": ["2021"],
+      "eligibility": ["CU Boulder MBA and graduate students"]
+    }
+  },
+  "colorado-edu-business-deming-graduate-students-hgv-2019-cohort": {
+    "summary": "Information page listing High Growth Venture Fellows from the 2019 cohort at CU Boulder's Deming Center.",
+    "entities": {
+      "people": [],
+      "orgs": ["Leeds School of Business", "Deming Center for Entrepreneurship"],
+      "programs": ["High Growth Venture Fellowship"],
+      "amounts": [],
+      "dates": ["2019"],
+      "eligibility": ["CU Boulder MBA and graduate students"]
+    }
+  },
+  "startupcolorado-org-event-colorado-climate-week": {
+    "summary": "A week-long series of panels, forums, and community events connecting Colorado's climate solution ecosystem including agri-tech, renewable energy, and sustainability entrepreneurs.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Colorado Cleantech Foundation", "Climate Week Network", "Climatebase"],
+      "programs": ["Colorado Climate Week"],
+      "amounts": [],
+      "dates": ["March 30 - April 3, 2026"],
+      "eligibility": ["Climate solutions entrepreneurs, community members"]
+    }
+  },
+  "colorado-edu-innovate-innovation-entrepreneurship-champions-club": {
+    "summary": "A select community of leaders and connectors advancing CU Boulder's innovation and entrepreneurship ecosystem and supporting the next generation of innovators.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Innovation & Entrepreneurship Initiative"],
+      "programs": ["Innovation & Entrepreneurship Champions Club"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Invited leaders and connectors"]
+    }
+  },
+  "colorado-edu-business-deming-graduate-students-high-growth-venture-fellowship-hi": {
+    "summary": "Information page listing High Growth Venture Fellows from the 2023 cohort at CU Boulder's Deming Center for Entrepreneurship.",
+    "entities": {
+      "people": [],
+      "orgs": ["Leeds School of Business", "Deming Center for Entrepreneurship"],
+      "programs": ["High Growth Venture Fellowship"],
+      "amounts": [],
+      "dates": ["2023"],
+      "eligibility": ["CU Boulder MBA and graduate students"]
+    }
+  },
+  "colorado-edu-innovate-2025-01-13-cu-boulder-shines-record-breaking-year-startups": {
+    "summary": "Announcement highlighting CU Boulder's record-breaking performance in supporting and launching startup companies.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Venture Partners"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["January 13, 2025"],
+      "eligibility": ["Startup founders at CU"]
+    }
+  },
+  "colorado-edu-researchinnovation-find-funding-external-funding": {
+    "summary": "A comprehensive resource guide for CU Boulder faculty and researchers seeking external research funding from federal agencies and private foundations.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Research & Innovation Office", "NIH", "NSF"],
+      "programs": ["external funding opportunities"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder faculty and researchers"]
+    }
+  },
+  "colorado-edu-business-deming-student-opportunities-high-growth-venture-fellowshi": {
+    "summary": "Information page listing High Growth Venture Fellows from the 2026 cohort at CU Boulder's Deming Center.",
+    "entities": {
+      "people": [],
+      "orgs": ["Leeds School of Business", "Deming Center for Entrepreneurship"],
+      "programs": ["High Growth Venture Fellowship"],
+      "amounts": [],
+      "dates": ["2026"],
+      "eligibility": ["CU Boulder MBA and graduate students"]
+    }
+  },
+  "startupcolorado-org-event-women-in-cpg-the-power-of-resiliency": {
+    "summary": "An evening networking event for women in consumer packaged goods featuring a keynote from a successful gluten-free brewery founder and peer connections.",
+    "entities": {
+      "people": ["Karen Hertz (founder, Holidaily Brewing Company)"],
+      "orgs": ["Startup Colorado", "Naturally Colorado", "Holidaily Brewing Company", "Just BE Kitchen", "New Hope Network"],
+      "programs": ["Women in CPG"],
+      "amounts": [],
+      "dates": ["November 17, 2025, 5:30 pm - 7:30 pm"],
+      "eligibility": ["Women entrepreneurs in CPG"]
+    }
+  },
+  "colorado-edu-innovate-2025-01-23-donny-mccauleys-journey-passionate-skier-entrep": {
+    "summary": "Profile of a CU Boulder entrepreneur's journey from skiing passion to launching a startup venture.",
+    "entities": {
+      "people": ["Donny McCauley (entrepreneur)"],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["January 23, 2025"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2025-02-26-upcoming-competition-workshops": {
+    "summary": "Announcement of workshop series preparing student entrepreneurs for business competitions through intellectual property, pitching, and funding strategy training.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Innovation & Entrepreneurship Initiative"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["February 26 - March 18, 2025"],
+      "eligibility": ["CU Boulder students competing"]
+    }
+  },
+  "colorado-edu-innovate-2025-03-05-essential-skills-working-startups-and-how-build": {
+    "summary": "Article discussing key competencies sought by startups including resilience, problem-solving, resourcefulness, and the ability to adapt quickly to change.",
+    "entities": {
+      "people": ["Dylan Mark (author)", "Donavan Bennett (founder, Mili Llama)", "Matt Schottland (president, Brain Buffs)"],
+      "orgs": ["Mili Llama", "Brain Buffs"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["March 5, 2025"],
+      "eligibility": ["Students considering startup employment"]
+    }
+  },
+  "colorado-edu-business-deming-graduate-students-hgv-high-growth-venture-fellows-2": {
+    "summary": "Information page listing High Growth Venture Fellows from the 2027 cohort at CU Boulder's Deming Center.",
+    "entities": {
+      "people": [],
+      "orgs": ["Leeds School of Business", "Deming Center for Entrepreneurship"],
+      "programs": ["High Growth Venture Fellowship"],
+      "amounts": [],
+      "dates": ["2027"],
+      "eligibility": ["CU Boulder MBA and graduate students"]
+    }
+  },
+  "colorado-edu-innovate-2025-09-15-cu-boulder-ranked-no-1-launching-startups-based": {
+    "summary": "Recognition of CU Boulder ranking as the top university for launching startups based on commercialization of research discoveries.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["September 15, 2025"],
+      "eligibility": ["Startup founders"]
+    }
+  },
+  "colorado-edu-innovate-2025-09-02-inside-colorado-quantum-incubator-quantum-rings": {
+    "summary": "Feature on the Colorado Quantum Incubator and a quantum startup company's progress in advancing quantum technology innovations.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Colorado Quantum Incubator", "Quantum Rings"],
+      "programs": ["Colorado Quantum Incubator"],
+      "amounts": [],
+      "dates": ["September 2, 2025"],
+      "eligibility": ["Quantum technology entrepreneurs"]
+    }
+  },
+  "colorado-edu-business-deming-graduate-students-hgv-2022-cohort": {
+    "summary": "Information page listing High Growth Venture Fellows from the 2022 cohort at CU Boulder's Deming Center.",
+    "entities": {
+      "people": [],
+      "orgs": ["Leeds School of Business", "Deming Center for Entrepreneurship"],
+      "programs": ["High Growth Venture Fellowship"],
+      "amounts": [],
+      "dates": ["2022"],
+      "eligibility": ["CU Boulder MBA and graduate students"]
+    }
+  },
+  "colorado-edu-innovate-2020-08-18-demystifying-entrepreneurship-rural-colorado-wo": {
+    "summary": "Information about entrepreneurship workshops delivered to rural communities across Colorado by CU Boulder's Deming Center.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Deming Center for Entrepreneurship"],
+      "programs": ["Demystifying Entrepreneurship Rural Colorado Workshop Series"],
+      "amounts": [],
+      "dates": ["August 18, 2020"],
+      "eligibility": ["Rural entrepreneurs"]
+    }
+  },
+  "colorado-edu-innovate-2025-09-25-unlock-new-funding-opportunities-translational-": {
+    "summary": "Announcement of a funding opportunity week connecting researchers and entrepreneurs with resources for translational research projects.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Venture Partners"],
+      "programs": ["Translational Funding Week"],
+      "amounts": [],
+      "dates": ["October 27-30, 2025"],
+      "eligibility": ["Researchers with translational projects"]
+    }
+  },
+  "colorado-edu-innovate-2026-05-04-big-ideas-and-bold-minds-take-stage-hsnvc-final": {
+    "summary": "Announcement of the High School New Venture Challenge finals competition showcasing student entrepreneurs and their business innovations.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "High School New Venture Challenge"],
+      "programs": ["HSNVC"],
+      "amounts": [],
+      "dates": ["May 4, 2026"],
+      "eligibility": ["High school students"]
+    }
+  },
+  "colorado-edu-innovate-2026-04-29-driving-discovery-partnership-and-growth-across": {
+    "summary": "Video presentation about CU Boulder's innovation and entrepreneurship ecosystem and cross-campus partnership models.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["April 29, 2026"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-deming-graduate-students-hgv-2020-cohort": {
+    "summary": "Information page listing High Growth Venture Fellows from the 2020 cohort at CU Boulder's Deming Center.",
+    "entities": {
+      "people": [],
+      "orgs": ["Leeds School of Business", "Deming Center for Entrepreneurship"],
+      "programs": ["High Growth Venture Fellowship"],
+      "amounts": [],
+      "dates": ["2020"],
+      "eligibility": ["CU Boulder MBA and graduate students"]
+    }
+  },
+  "colorado-edu-innovate-support-sponsorship": {
+    "summary": "Information for organizations and individuals interested in partnering with CU Boulder's innovation and entrepreneurship initiatives through sponsorship.",
+    "entities": {
+      "people": ["Lonny Phelps", "Nancy Pierce-Phelps", "Dan Caruso", "Cindy Caruso", "Libby Cook", "Ashish Kothari", "Dan DeRose", "Jeff Gustavson", "Shane Percival", "Kim Tatsch", "Marcy Tatsch", "Chris Westfall", "Henry Wright"],
+      "orgs": ["CU Boulder Innovation & Entrepreneurship Initiative"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Potential partners and sponsors"]
+    }
+  },
+  "colorado-edu-innovate-2019-06-24-cu-boulder-teach-entrepreneurship-workshops-eac": {
+    "summary": "Article about CU Boulder's Deming Center offering entrepreneurship education workshops across different regions of Colorado.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Deming Center for Entrepreneurship"],
+      "programs": ["entrepreneurship workshops"],
+      "amounts": [],
+      "dates": ["June 24, 2019"],
+      "eligibility": ["Colorado entrepreneurs"]
+    }
+  },
+  "colorado-edu-innovate-2019-08-13-road-entrepreneurship-classes-two-wheels": {
+    "summary": "Article about mobile entrepreneurship education classes delivered by CU Boulder reaching entrepreneurs across the region.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["entrepreneurship classes"],
+      "amounts": [],
+      "dates": ["August 13, 2019"],
+      "eligibility": ["Entrepreneurs"]
+    }
+  },
+  "colorado-edu-innovate-2021-01-06-authenticity-key-factor-founders-sustainable-st": {
+    "summary": "Article discussing how founder authenticity and values are key drivers of success in sustainable and socially conscious startup ventures.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["January 6, 2021"],
+      "eligibility": ["Founders interested in sustainable business"]
+    }
+  },
+  "colorado-edu-innovate-2021-02-20-jeffrey-nytch-named-yamaha-master-educator-new-": {
+    "summary": "Announcement that Jeffrey Nytch was named Yamaha Master Educator and will lead a new music business and entrepreneurship group.",
+    "entities": {
+      "people": ["Jeffrey Nytch (Yamaha Master Educator)"],
+      "orgs": ["CU Boulder", "Yamaha"],
+      "programs": ["Music Business and Entrepreneurship group"],
+      "amounts": [],
+      "dates": ["February 20, 2021"],
+      "eligibility": ["Music entrepreneurs"]
+    }
+  },
+  "colorado-edu-innovate-2021-04-30-how-digital-platforms-can-orchestrate-innovatio": {
+    "summary": "Article exploring how digital platforms can strategically enable innovation and entrepreneurship through access control mechanisms and governance models.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["April 30, 2021"],
+      "eligibility": ["Tech entrepreneurs, platform developers"]
+    }
+  },
+  "colorado-edu-innovate-2021-08-09-venture-partners-featured-daily-camera-when-big": {
+    "summary": "Article on grant programs that provide patient capital and resources for founders developing transformational entrepreneurial ideas.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder Venture Partners"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["August 9, 2021"],
+      "eligibility": ["Founders with big ideas"]
+    }
+  }
+}

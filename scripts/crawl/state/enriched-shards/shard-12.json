@@ -1,0 +1,1163 @@
+{
+  "colorado-edu-innovate-resources-how-startup-videos": {
+    "summary": "A curated video library featuring expert instructors from CU Boulder addressing common startup challenges with step-by-step guidance on topics ranging from idea validation to fundraising and product-market fit.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Emerging entrepreneurs"]
+    }
+  },
+  "colorado-edu-innovate-meet-your-future-employer-startups2students": {
+    "summary": "An annual networking event connecting students with 10+ local Colorado startups hiring for internships and entry-level positions, featuring company pitches and direct recruitment opportunities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Colorado startups"],
+      "programs": ["Startups2Students"],
+      "amounts": [],
+      "dates": ["January 29"],
+      "eligibility": ["CU Boulder students seeking internships or jobs"]
+    }
+  },
+  "colorado-edu-innovate-2018-01-07-new-years-tips-our-global-entrepreneurs-residen": {
+    "summary": "Global entrepreneurs-in-residence Colin Daniels and Masha Zvereva share personal strategies for beginning entrepreneurs on setting intentions, reflecting on progress, and building new habits during the new year.",
+    "entities": {
+      "people": [
+        "Colin Daniels (Global Entrepreneur in Residence)",
+        "Masha Zvereva (Global Entrepreneur in Residence)"
+      ],
+      "orgs": ["CU Boulder"],
+      "programs": ["Global Entrepreneurs in Residence"],
+      "amounts": [],
+      "dates": ["2018", "January"],
+      "eligibility": ["Entrepreneurs"]
+    }
+  },
+  "colorado-edu-business-2025-05-06-cesr-and-deming-center-entrepreneurship-bring-b": {
+    "summary": "Boulder Climate Ventures is a new graduate-level interdisciplinary program launching at CU Boulder that equips students with business, engineering, and science backgrounds to build high-impact climate startups, part of Breakthrough Energy's global university network.",
+    "entities": {
+      "people": [
+        "Andrew Mayock (vice chancellor for sustainability)"
+      ],
+      "orgs": [
+        "CU Boulder",
+        "Center for Ethics and Social Responsibility (CESR)",
+        "Deming Center for Entrepreneurship",
+        "Leeds School of Business",
+        "Breakthrough Energy",
+        "Stanford University",
+        "MIT",
+        "Technical University of Munich",
+        "Nanyang Technological University Singapore"
+      ],
+      "programs": ["Boulder Climate Ventures"],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": ["Graduate students from business, engineering, science backgrounds"]
+    }
+  },
+  "colorado-edu-nvc-2019-02-21-fletcher-richmans-entrepreneurial-journey-cu-boulder": {
+    "summary": "Article highlighting the entrepreneurial path of a CU Boulder alumnus who progressed through university programs to join the accelerator network.",
+    "entities": {
+      "people": ["Fletcher Richman"],
+      "orgs": ["CU Boulder", "Techstars"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2019"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-researchinnovation-research-development-funding-external-funding-di": {
+    "summary": "Dimensions is a comprehensive grants database allowing CU Boulder researchers and staff to identify funding opportunities, analyze grant trends, track funder landscapes, and find collaborators across the U.S. and globally.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "University Libraries", "Research & Innovation Office"],
+      "programs": ["Dimensions"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder faculty and research staff"]
+    }
+  },
+  "colorado-edu-nvc-2018-06-22-leading-toy-maker-sphero-acquires-cu-boulder-bred-st": {
+    "summary": "Boulder-based toy maker Sphero acquired Specdrums, a CU Boulder-born startup founded by aeronautical engineering student Steven Dourmashkin that won the 2018 New Venture Challenge with app-controlled color-to-sound rings.",
+    "entities": {
+      "people": [
+        "Steven Dourmashkin (founder, Specdrums, aerospace engineering)",
+        "Jenna Palensky (ethnomusicology, Specdrums)",
+        "Jack FitzGerrell (marketing, Specdrums)",
+        "Sarabeth Berk (director, Innovation & Entrepreneurship Initiative)"
+      ],
+      "orgs": ["Sphero", "CU Boulder", "Specdrums"],
+      "programs": ["New Venture Challenge"],
+      "amounts": [],
+      "dates": ["2018", "June"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2018-09-12-media-takes-note-cu-boulder-and-entrepreneurial": {
+    "summary": "Media coverage highlighted CU Boulder's central role in Boulder's thriving startup ecosystem, citing research from the Boulder Innovation Report which ranked Boulder among top innovation communities nationally.",
+    "entities": {
+      "people": [
+        "Chris Yankee (author)"
+      ],
+      "orgs": [
+        "CU Boulder",
+        "Boulder Chamber",
+        "Boulder Economic Council",
+        "Leeds School of Business",
+        "Business Research Division"
+      ],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2018", "September"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-cesr-insights-news-boulder-climate-ventures-connects-leeds": {
+    "summary": "Boulder Climate Ventures immerses MBA students in real climate-tech venture teams, providing hands-on experience collaborating with engineers, PhD researchers, and investors to translate business education into solutions for sustainability challenges.",
+    "entities": {
+      "people": [
+        "Alex Kaindl (MBA'26)"
+      ],
+      "orgs": [
+        "CU Boulder",
+        "Center for Ethics and Social Responsibility (CESR)",
+        "Deming Center for Entrepreneurship",
+        "Leeds School of Business",
+        "College of Engineering and Applied Sciences",
+        "Breakthrough Energy",
+        "Stanford",
+        "MIT"
+      ],
+      "programs": ["Boulder Climate Ventures"],
+      "amounts": [],
+      "dates": ["2025", "fall", "2026", "spring"],
+      "eligibility": ["MBA students interested in entrepreneurship, investing, and sustainability"]
+    }
+  },
+  "colorado-edu-innovate-2019-03-05-new-report-pegs-economic-impact-cu-boulder-comm": {
+    "summary": "Report documenting the economic value generated by CU Boulder's commercialization and technology transfer initiatives across the region.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": ["$1.9 billion"],
+      "dates": ["2019"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2019-03-18-australian-startup-community-leaders-visit-cu-b": {
+    "summary": "International delegation from Australia toured CU Boulder's innovation ecosystem as part of a global learning mission to study best practices in university-supported entrepreneurship and startup development.",
+    "entities": {
+      "people": [
+        "Sarabeth Berk (director, Innovation & Entrepreneurship Initiative)"
+      ],
+      "orgs": [
+        "CU Boulder",
+        "Startup Catalyst (Australia)",
+        "San Francisco startup community"
+      ],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2019", "March 12"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2019-04-23-what-role-does-university-play-building-startup": {
+    "summary": "CU Boulder hosted University Track sessions at Boulder Startup Week featuring faculty and community leaders discussing how universities support startup ecosystems through research, education, mentorship, and industry partnerships.",
+    "entities": {
+      "people": [
+        "Sarabeth Berk (director, Innovation & Entrepreneurship Initiative)",
+        "Brad Bernthal (associate professor of law, Colorado Law School, director Entrepreneurship Initiative)",
+        "Zach Nies (computer science instructor, Techstars managing director)",
+        "Daria Kotys-Schwartz (professor, College of Engineering)"
+      ],
+      "orgs": [
+        "CU Boulder",
+        "Boulder Startup Week",
+        "Silicon Flatirons Center",
+        "Colorado Law School"
+      ],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2019", "May 13-17"],
+      "eligibility": ["Entrepreneurs, community members"]
+    }
+  },
+  "colorado-edu-innovate-2019-05-08-cu-boulder-students-pitch-defense-contractors-i": {
+    "summary": "CU Boulder student teams presented innovative security technology solutions to defense and security industry professionals in a structured pitch competition.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Defense contractors"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2019", "May"],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-center-teaching-learning-programs-services-faculty-learning-collabo": {
+    "summary": "Center for Teaching & Learning runs an innovation incubator supporting three student-faculty projects: an inclusive mentorship program for underrepresented media arts students (GUT-C), virtual laboratory simulations for science education, and an AI literacy ambassador initiative.",
+    "entities": {
+      "people": [
+        "Laura Conway (ART/ARTHIST)",
+        "Michelle Ellsworth (THTR/DNC)",
+        "Corey Koehler",
+        "Angelica Lawson",
+        "Charlie McCain (ALUM)",
+        "Emilie Upczak",
+        "Kristin A. Moore (BIO)",
+        "Jian Wei Tay (BIOFRONTIERS)",
+        "Nishanth Narayan (MCDB)",
+        "Kerrie MacMillan (ALUM)"
+      ],
+      "orgs": ["CU Boulder", "Center for Teaching & Learning"],
+      "programs": ["Innovation Incubator", "Give Us the Camera (GUT-C)", "Developing Virtual Laboratories", "AI Literacy Ambassador"],
+      "amounts": [],
+      "dates": ["2023-2026"],
+      "eligibility": ["CU Boulder undergraduates, graduate students, faculty"]
+    }
+  },
+  "colorado-edu-innovate-2019-05-08-listen-now-seven-new-students-and-startups-podc": {
+    "summary": "Podcast miniseries featuring interviews with CU Boulder student and alumni founders discussing their entrepreneurial journeys, startup ideas, and the campus resources that helped them launch their ventures.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["Students and Startups Podcast"],
+      "amounts": [],
+      "dates": ["2019", "May"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2019-05-14-students-pitch-ideas-thwart-national-security-t": {
+    "summary": "Student innovators presented ideas addressing national security threats and defense challenges to industry and government evaluators.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2019", "May"],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-innovate-2019-05-20-university-and-community-innovation-opportuniti": {
+    "summary": "Panel discussions at Boulder Startup Week explored how CU Boulder's research, student talent, and entrepreneurial programming strengthen the region's startup ecosystem and create mutual benefits between academia and industry.",
+    "entities": {
+      "people": [
+        "Zach Nies (computer science instructor, Techstars managing director)",
+        "Brad Bernthal (associate professor of law, Silicon Flatirons)",
+        "Daria Kotys-Schwartz (professor, College of Engineering)"
+      ],
+      "orgs": [
+        "CU Boulder",
+        "Boulder Startup Week",
+        "Techstars",
+        "Silicon Flatirons",
+        "College of Engineering"
+      ],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2019", "May 13-17"],
+      "eligibility": ["Community members, entrepreneurs, university staff"]
+    }
+  },
+  "colorado-edu-innovate-podcast": {
+    "summary": "A podcast series hosted by CU Boulder Innovation Action Team members featuring startup founder stories from diverse disciplines including music, biology, engineering, environmental science, and fashion.",
+    "entities": {
+      "people": [
+        "Jenna Palensky (PhD Musicology and Ethnomusicology, Specdrums)",
+        "Kevin Emory (BA Evolutionary Biology and Ecology, Respect Your Mother Recycling)",
+        "Fletcher Richman (BA Electrical and Computer Engineering, BubbleIQ)",
+        "Courtlyn Carpenter (BA and MA Environmental Engineering, BridgeUSA)",
+        "Chris White (JD/MBA, Shinesty)",
+        "Jens Nicolaysen (BS Business Administration and Marketing, Shinesty)",
+        "Claudia Steen (ME Engineering Management, Pastificio)",
+        "Danielle Dannenberg (MBA, MergeLane)",
+        "Pavel Reppo (BS Speech, Language and Hearing, Mindfulwe)"
+      ],
+      "orgs": ["CU Boulder"],
+      "programs": ["Students and Startups Podcast Miniseries", "CU Engineering podcast"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2019-06-28-cu-boulder-faculty-and-donors-featured-cpt12s-s": {
+    "summary": "Documentary video showcasing CU Boulder faculty members and financial supporters of the entrepreneurial ecosystem discussing startup development and innovation.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "CPT12"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2019"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2019-08-20-boulder-bay-alumni-investors-connect-university": {
+    "summary": "Eight CU Boulder research-based startups traveled to Silicon Valley to meet with alumni investors through Bay Area Buffs Investors Club, a grassroots network facilitating connections between university ventures and capital.",
+    "entities": {
+      "people": [
+        "Pingrong 'PR' Yu (PhDChem'04, venture capitalist, Bay Area Buffs Investors Club founder)",
+        "Terri Fiez (vice chancellor for Research & Innovation, CU Boulder)"
+      ],
+      "orgs": [
+        "CU Boulder",
+        "Bay Area Buffs Investors Club",
+        "Aspero Medical",
+        "Big Blue Technologies",
+        "Double Helix",
+        "New Iridium",
+        "Orbital Micro Systems",
+        "Respirogen",
+        "Socialcontext.ai",
+        "B Cell Solutions (CU Colorado Springs)"
+      ],
+      "programs": ["Venture Partners at CU Boulder", "Lab Venture Challenge", "New Venture Challenge"],
+      "amounts": [],
+      "dates": ["2019", "August 17"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2019-09-23-thrifted-cu-startup-style": {
+    "summary": "Profile of student entrepreneurs who launched an online peer-to-peer marketplace allowing CU Boulder students to buy, sell, and exchange secondhand clothing and gear on campus, promoting sustainable fashion.",
+    "entities": {
+      "people": [
+        "Marlee Durand (Phil'19, Thrift/ed co-founder)",
+        "Julie Kinsella (Marquette University graduate, Thrift/ed co-founder)"
+      ],
+      "orgs": ["CU Boulder", "Marquette University"],
+      "programs": ["New Venture Challenge", "Catalyze CU"],
+      "amounts": [],
+      "dates": ["2019"],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-innovate-2019-10-31-venture-progress-how-zach-klaus-turning-passion": {
+    "summary": "Student entrepreneur who transitioned from personal blacksmithing hobby into building a commercial venture, leveraging campus resources and mentorship.",
+    "entities": {
+      "people": ["Zach Klaus"],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2019", "October"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2020-04-10-covid-19-test-ptsd-treatment-take-top-honors-new-ven": {
+    "summary": "Winners of the New Venture Challenge were announced, with top honors going to ventures in healthcare and therapeutics addressing pressing societal needs.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["New Venture Challenge"],
+      "amounts": [],
+      "dates": ["2020", "April"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2019-12-05-hip-hop-dance-class-lets-engineering-students-t": {
+    "summary": "Course offering innovative pedagogical approach combining hip-hop dance with engineering education to build creative and collaborative skills.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2019"],
+      "eligibility": ["CU Boulder engineering students"]
+    }
+  },
+  "colorado-edu-engineering-2019-05-30-all-woman-engineering-team-earns-most-innova": {
+    "summary": "Interdisciplinary all-female student team from CU Boulder, Harvard, and Cornell won NASA's Most Innovative Award for their SIRONA project on sustainable Mars greenhouse design and operations.",
+    "entities": {
+      "people": [
+        "Heather Hava (team leader, AeroEngr)",
+        "Sarah Aguasvivas Manzano (CompSci, CU Boulder)",
+        "Kaixin 'Kai' Cui (MechEngr, CU Boulder)",
+        "Heeyeon 'Sara' Joung (MechEngr, CU Boulder)",
+        "Abby King (ChemBioEngr, CU Boulder)",
+        "Hayley Kinlaw (ArchEngr, CU Boulder)",
+        "Larissa Zhou (Harvard)",
+        "Elizabeth M. Lombardi (Cornell)",
+        "Kyri Baker (faculty advisor, Department of Civil, Environmental, and Architectural Engineering)",
+        "Andy Kaufman (faculty advisor, University of Hawaii at Manoa)",
+        "Christine Fanchiang (faculty advisor, AeroEngr MS'10, PhD'17)",
+        "Steve Bailey (industry advisor, Deep Space Systems)",
+        "Adam Burch (industry advisor, Deep Space Systems)"
+      ],
+      "orgs": [
+        "CU Boulder",
+        "Harvard University",
+        "Cornell University",
+        "University of Hawaii at Manoa",
+        "Deep Space Systems",
+        "NASA"
+      ],
+      "programs": ["NASA BIG Idea Challenge"],
+      "amounts": [],
+      "dates": ["2019", "April 23-24"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2020-02-10-vitrivax-co-founder-ted-randolph-named-giant-bi": {
+    "summary": "CU Boulder biopharmaceutical researcher and startup co-founder received prestigious recognition for contributions to pharmaceutical science and biopharmaceutical development.",
+    "entities": {
+      "people": ["Ted Randolph (VitriVax co-founder)"],
+      "orgs": ["CU Boulder", "VitriVax", "The Journal of Pharmaceutical Science"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2020", "February"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2020-04-21-masters-student-brings-home-middle-school-maker": {
+    "summary": "Graduate student entrepreneur established home-based makerspace equipment to produce personal protective equipment for healthcare workers during pandemic response.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2020", "April"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2020-07-16-founder-new-personal-stylist-app-describes-his-journ": {
+    "summary": "Founder of a digital personal styling application shared his entrepreneurial background in fashion and technology, describing the journey from idea to market launch.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2020", "July"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2020-12-03-student-spotlight-lochlainn-renfrow-entrepreneu": {
+    "summary": "Feature on a CU Boulder student pursuing entrepreneurial ventures while balancing academic coursework and business development.",
+    "entities": {
+      "people": ["Lochlainn Renfrow"],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2020", "December"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2020-09-09-media-student-captures-life-stories-video-start": {
+    "summary": "Media student founded a video production startup focused on capturing and sharing personal narratives and life stories through documentary-style content.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["Mamabird Interviews"],
+      "amounts": [],
+      "dates": ["2020", "September"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2021-02-18-futurum-partnership-puts-cu-research-hands-youn": {
+    "summary": "Partnership program bringing CU Boulder research and innovation projects to younger students through hands-on learning and mentorship from current researchers.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Futurum"],
+      "programs": ["Futurum partnership"],
+      "amounts": [],
+      "dates": ["2021", "February"],
+      "eligibility": ["K-12 and younger students"]
+    }
+  },
+  "colorado-edu-nvc-2021-04-16-vaccines-plants-new-venture-challenge-finalists-focu": {
+    "summary": "New Venture Challenge finalists showcased ventures addressing critical healthcare and agricultural challenges, from vaccine development to sustainable food systems.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["New Venture Challenge"],
+      "amounts": [],
+      "dates": ["2021", "April"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2021-02-23-qa-student-organizers-design-inclusive-hackatho": {
+    "summary": "Student leaders designed a hackathon event intentionally structured to welcome and support participants from underrepresented backgrounds in technology and innovation.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2021", "February"],
+      "eligibility": ["Students from underrepresented backgrounds"]
+    }
+  },
+  "colorado-edu-innovate-2021-03-17-cu-boulder-researcher-awarded-nsf-career-grant-": {
+    "summary": "Faculty researcher received NSF's prestigious CAREER award to fund research on digital legacy and technology's role in end-of-life decision-making.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "National Science Foundation"],
+      "programs": ["NSF CAREER"],
+      "amounts": [],
+      "dates": ["2021", "March"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2021-05-05-alumni-connections-claire-france-entrepreneur": {
+    "summary": "Profile of a CU Boulder alumna who has built a successful entrepreneurial career, offering insights into her path from student to business leader.",
+    "entities": {
+      "people": ["Claire France"],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2021", "May"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2021-05-24-cu-boulder-engineering-students-win-1st-place-n": {
+    "summary": "CU Boulder student engineering team won the national Solar District Cup competition, demonstrating excellence in renewable energy systems design and implementation.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["Solar District Cup"],
+      "amounts": [],
+      "dates": ["2021", "May"],
+      "eligibility": ["CU Boulder engineering students"]
+    }
+  },
+  "colorado-edu-innovate-2021-06-07-mse-grad-student-entrepreneur-alumnus-nicholas-": {
+    "summary": "Graduate student in materials science engineering transitioned to entrepreneurship, building a company based on materials science innovations.",
+    "entities": {
+      "people": ["Nicholas Kellaris"],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2021", "June"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2023-07-27-external-news-new-venture-challenge-favorite-noso-no": {
+    "summary": "NoSo November, a New Venture Challenge alumni company focused on mental health awareness, organized a youth-oriented fundraiser to support mental wellness.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "NoSo November"],
+      "programs": ["New Venture Challenge"],
+      "amounts": [],
+      "dates": ["2023", "July"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2021-08-20-community-ownership-and-values-driven-investmen": {
+    "summary": "Panel discussion on alternative economic models and community-centered investment strategies for building a more equitable and resilient local economy in Boulder.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Boulder city government"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2021", "August"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2022-02-18-cu-boulder-student-run-venture-aligns-business-": {
+    "summary": "Student-founded company combining business strategy and 3D printing technology to develop dental solutions, bridging engineering and healthcare entrepreneurship.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2022", "February"],
+      "eligibility": ["CU Boulder MBA and engineering students"]
+    }
+  },
+  "colorado-edu-innovate-2022-03-09-student-teams-present-innovative-solutions-figh": {
+    "summary": "Student teams pitched climate and environmental solutions at a campus competition with prize funding to incentivize development of sustainability-focused ventures.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2022", "March"],
+      "eligibility": ["CU Boulder student teams"]
+    }
+  },
+  "colorado-edu-nvc-2025-nvc-competition-promo-kits": {
+    "summary": "Marketing and promotional materials for the 2025 New Venture Challenge competition including general, women founders, and social impact tracks.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["New Venture Challenge", "Women Founders Competition", "Social Impact New Venture Challenge"],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2016-09-12-cu-boulder-new-venture-challenge-kicks-sept-21": {
+    "summary": "Announcement of the annual New Venture Challenge kickoff featuring registration information and competition details for aspiring student entrepreneurs.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["New Venture Challenge"],
+      "amounts": [],
+      "dates": ["2016", "September 21"],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-nvc-2016-12-07-huffpost-qualities-make-amazing-entrepreneur": {
+    "summary": "Article discussing key personal and professional qualities that characterize successful entrepreneurs, providing guidance for aspiring business founders.",
+    "entities": {
+      "people": [],
+      "orgs": ["HuffPost"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2016", "December"],
+      "eligibility": ["Aspiring entrepreneurs"]
+    }
+  },
+  "colorado-edu-nvc-2021-11-15-cu-boulder-named-2021-innovation-award-winner-aplu": {
+    "summary": "CU Boulder received recognition from the Association of Public and Land-grant Universities for its innovative programs and leadership in supporting entrepreneurship and economic development.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Association of Public and Land-grant Universities (APLU)"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2021", "November"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2022-03-09-student-teams-present-innovative-solutions-fight-cli": {
+    "summary": "Student teams competing at the NVC Climate Prize Night presented climate-focused business solutions with prize funding supporting venture development.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["New Venture Challenge", "NVC Climate Prize Night"],
+      "amounts": [],
+      "dates": ["2022", "March"],
+      "eligibility": ["CU Boulder student teams"]
+    }
+  },
+  "colorado-edu-nvc-2022-09-23-venturewell-seeking-students-big-ideas-e-team-progra": {
+    "summary": "VentureWell is recruiting students with innovative ideas to participate in the E-Team program, which provides funding, mentorship, and resources for early-stage venture development.",
+    "entities": {
+      "people": [],
+      "orgs": ["VentureWell"],
+      "programs": ["E-Team Program"],
+      "amounts": [],
+      "dates": ["2022", "September"],
+      "eligibility": ["Students with innovative business ideas"]
+    }
+  },
+  "colorado-edu-nvc-2023-10-16-external-news-cu-boulder-seeks-be-leader-innovation-": {
+    "summary": "CU Boulder has positioned itself as a leader in innovation and entrepreneurship education nationally, expanding programs and resources to solidify its reputation in the startup ecosystem.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2023", "October"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2023-11-06-external-news-turning-science-startups": {
+    "summary": "Feature on CU Boulder's efforts to translate academic research and scientific discoveries into commercially viable startups through technology transfer and entrepreneurship programs.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2023", "November"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2023-12-14-external-news-programs-cu-boulder-cu-denver-light-pa": {
+    "summary": "CU Boulder and CU Denver offer programming designed to introduce high school students to entrepreneurship, innovation, and business development opportunities early in their academic careers.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "CU Denver"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2023", "December"],
+      "eligibility": ["High school students"]
+    }
+  },
+  "colorado-edu-nvc-2024-05-09-external-news-student-startup-better-bites-healthy-b": {
+    "summary": "Student startup focused on creating nutritious food products that combine health and taste, leveraging entrepreneurship programming to develop and scale their business.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Better Bites"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2024", "May"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2024-02-28-external-news-pollution-production-student-startup-t": {
+    "summary": "Student venture converting carbon dioxide waste streams into aerospace-grade hardware and materials, demonstrating innovation in circular economy and climate solutions.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2024", "February"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2024-06-24-external-news-entrepreneur-whistleblower": {
+    "summary": "Profile of an entrepreneur who has taken a principled stand on compliance and ethics in their business operations, highlighting values-driven leadership.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2024", "June"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2024-10-25-flipping-couches-building-sellbuddy-startup-turning-": {
+    "summary": "Founder story of SellBuddy, a student venture that built a secondhand furniture marketplace, scaling from personal side hustle to structured e-commerce business.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "SellBuddy"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2024", "October"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-about": {
+    "summary": "CU Boulder's Innovation & Entrepreneurship Initiative coordinates cross-campus resources and programs to foster entrepreneurial culture, support venture development, and strengthen the region's startup ecosystem.",
+    "entities": {
+      "people": [],
+      "orgs": [
+        "CU Boulder",
+        "Center for Teaching & Learning",
+        "ATLAS Institute",
+        "Research & Innovation Office",
+        "Deming Center for Entrepreneurship",
+        "School of Business"
+      ],
+      "programs": [
+        "Innovation & Entrepreneurship Initiative",
+        "A&S Innovation Incubator",
+        "ATLAS Institute",
+        "Deming Center for Entrepreneurship"
+      ],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["All CU Boulder students, faculty, and staff"]
+    }
+  },
+  "colorado-edu-nvc-2024-10-24-innovation-price-hidden-costs-antibiotic-development": {
+    "summary": "Analysis of the significant financial, regulatory, and development challenges inherent in bringing new antibiotic treatments to market, examining innovation economics in pharmaceutical development.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2024", "October"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2026-03-31-two-cu-boulder-innovators-admitted-equalize-2026-coh": {
+    "summary": "Two CU Boulder entrepreneurs were selected for the Equalize 2026 cohort, a prestigious accelerator program supporting underrepresented and diverse founders.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Equalize"],
+      "programs": ["Equalize 2026 Cohort"],
+      "amounts": [],
+      "dates": ["2026", "March"],
+      "eligibility": ["Underrepresented and diverse founders"]
+    }
+  },
+  "colorado-edu-nvc-2025-02-05-last-call-registration-closes-feb-8-new-venture-chal": {
+    "summary": "Registration reminder for the New Venture Challenge competition with a deadline for entrepreneurs to submit their venture applications.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["New Venture Challenge"],
+      "amounts": [],
+      "dates": ["2025", "February 8"],
+      "eligibility": ["CU Boulder students, faculty, staff"]
+    }
+  },
+  "cuanschutz-edu-innovations-campus-innovator-funding": {
+    "summary": "CU Anschutz Innovations provides funding support to student and faculty innovators with research-based ideas or emerging ventures, offering capital to advance projects.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz"],
+      "programs": ["Campus Innovator Funding"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Anschutz students and faculty with innovative ideas"]
+    }
+  },
+  "watson-is": {
+    "summary": "Watson Institute supports social entrepreneurs and innovators building ventures that address global challenges, with emphasis on sustainable business models and scalable impact.",
+    "entities": {
+      "people": [
+        "Nzambi Matee (2018 Watson Institute Alumna, founder Gjenge Makers)"
+      ],
+      "orgs": [
+        "Watson Institute",
+        "Gjenge Makers (Kenya)"
+      ],
+      "programs": ["Watson Institute"],
+      "amounts": [],
+      "dates": ["2018"],
+      "eligibility": ["Social entrepreneurs"]
+    }
+  },
+  "cuanschutz-edu-innovations-industry-partner-entrepreneur-investor": {
+    "summary": "CU Anschutz Innovations facilitates connections between external partners, entrepreneurs, and investors interested in supporting ventures at the intersection of healthcare and innovation.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Industry partners, entrepreneurs, investors"]
+    }
+  },
+  "colorado-edu-researchinnovation-bulletin": {
+    "summary": "Bi-weekly email bulletin from CU Boulder's Research & Innovation Office providing faculty and researchers with funding opportunities, policy updates, and research resources.",
+    "entities": {
+      "people": [],
+      "orgs": [
+        "CU Boulder",
+        "Research & Innovation Office"
+      ],
+      "programs": ["RIO Bulletin"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder faculty and research community members"]
+    }
+  },
+  "colorado-edu-nvc-about": {
+    "summary": "The New Venture Challenge is CU Boulder's flagship annual entrepreneurship competition and program offering mentorship, resources, and significant prize funding to student and faculty ventures.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["New Venture Challenge"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder undergraduates, graduates, PhD candidates, postdocs, faculty, and staff"]
+    }
+  },
+  "colorado-edu-catalyzecu-support": {
+    "summary": "Catalyze CU summer accelerator program seeks business and individual partners interested in supporting student, faculty, and staff ventures through funding, mentorship, and in-kind contributions.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["Catalyze CU"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Potential partners and donors"]
+    }
+  },
+  "colorado-edu-catalyzecu-new-1-credit-courses-spring-2026": {
+    "summary": "Spring 2026 professional development courses offered through the Engineering Management program covering innovation communication, funding, and legal foundations for emerging ventures.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["Engineering Management ESCEND Program", "Innovation Communication (EMEN4830)", "Innovation Funding & Legal (EMEN4830)"],
+      "amounts": [],
+      "dates": ["2026", "spring"],
+      "eligibility": ["All CU Boulder students, any major or level"]
+    }
+  },
+  "colorado-edu-ideaforge-fabrication": {
+    "summary": "Idea Forge is a campus makerspace providing equipment and expertise in 3D printing, laser cutting, machining, welding, woodworking, and sewing for prototyping and fabricating student innovation projects.",
+    "entities": {
+      "people": [
+        "Victoria Lanaghan",
+        "Pat Maguire",
+        "Greg",
+        "Chase"
+      ],
+      "orgs": ["CU Boulder"],
+      "programs": ["Idea Forge"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students with innovation projects"]
+    }
+  },
+  "startupcolorado-org-funding-opportunities": {
+    "summary": "Startup Colorado provides information and access to diverse funding resources specifically designed for rural and underrepresented entrepreneurs across the state.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Colorado entrepreneurs, especially rural and underrepresented founders"]
+    }
+  },
+  "startupcolorado-org-event-from-idea-to-launch-building-a-strong-foundation-for-y": {
+    "summary": "Workshop exploring Colorado-specific capital resources like the Colorado Startup Loan Fund, providing guidance on business readiness, customer validation, and alternative financing options.",
+    "entities": {
+      "people": [
+        "Taylor Littrell (Statewide English Program Coordinator, Rocky Mountain MicroFinance Institute)"
+      ],
+      "orgs": [
+        "Startup Colorado",
+        "Rocky Mountain MicroFinance Institute (RMMFI)",
+        "Community Development Financial Institutions (CDFIs)"
+      ],
+      "programs": ["Colorado Startup Loan Fund (CSLF)"],
+      "amounts": [],
+      "dates": ["2026", "August 20"],
+      "eligibility": ["Colorado business owners"]
+    }
+  },
+  "startupcolorado-org-stories-two-rural-startups-just-closed-new-funding-rounds": {
+    "summary": "Profile highlighting successful funding outcomes for rural Colorado startups using AI and contemporary business practices, demonstrating viability of rural entrepreneurship.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-november-demo-days-with-startup-colorado": {
+    "summary": "Quarterly virtual pitch event providing Colorado founders with platform to present to judges and audience, receive feedback, and compete for cash awards and business support packages.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Demo Days"],
+      "amounts": [],
+      "dates": ["2026", "November 18"],
+      "eligibility": ["Colorado founders"]
+    }
+  },
+  "startupcolorado-org-event-venture-studio-office-hours-pre-seed-seed-strategy": {
+    "summary": "Drop-in advisory sessions with venture studio consultants offering founder-first guidance on pitch decks, go-to-market strategy, unit economics, and pre-seed funding planning.",
+    "entities": {
+      "people": ["Luvira Consulting"],
+      "orgs": ["Startup Colorado", "Luvira Consulting", "gener8tor", "Catalyst HTI"],
+      "programs": ["Venture Studio Office Hours"],
+      "amounts": [],
+      "dates": ["2026", "August 10-11"],
+      "eligibility": ["Denver-area entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-rural-women-in-entrepreneurship-september-meetup": {
+    "summary": "Monthly virtual networking group for women entrepreneurs across rural Colorado, featuring guest speakers and peer connections for business guidance and mutual support.",
+    "entities": {
+      "people": [
+        "Vanessa McCrann (organizer, Startup Colorado)",
+        "Katy Martin (Joyful Design Co., Steamboat Springs)"
+      ],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Rural Women in Entrepreneurship"],
+      "amounts": [],
+      "dates": ["2026", "September 11"],
+      "eligibility": ["Rural Colorado women entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-stories-rural-startup-days-launches-in-southeast-colorado": {
+    "summary": "Startup Colorado expanded programming to Southeast Colorado with Rural Startup Days event series supporting local entrepreneurs and small business owners.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Rural Startup Days"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Southeast Colorado entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-rural-women-in-entrepreneurship-at-west-slope-startup-": {
+    "summary": "In-person networking session at West Slope Startup Week bringing together women entrepreneurs and business leaders from rural Colorado for peer connection and community building.",
+    "entities": {
+      "people": [
+        "Vanessa McCrann (Startup Colorado)"
+      ],
+      "orgs": ["Startup Colorado", "West Slope Startup Week"],
+      "programs": ["Rural Women in Entrepreneurship"],
+      "amounts": [],
+      "dates": ["2026", "October 9"],
+      "eligibility": ["Women entrepreneurs and business leaders from rural Colorado"]
+    }
+  },
+  "startupcolorado-org-meet-the-winners-fremont-county-idea-factory": {
+    "summary": "Recognition of successful entrepreneurs from the Fremont County area who participated in Startup Colorado initiatives and business development programs.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Fremont County Idea Factory"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-rural-founders-take-home-380k-at-startup-colorado-pi": {
+    "summary": "Rural Colorado founders won significant prize funding at the Startup Colorado pitch competition, validating diverse ventures and supporting rural economic development.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Startup Colorado Pitch Competition"],
+      "amounts": ["$380,000"],
+      "dates": [],
+      "eligibility": ["Rural Colorado founders"]
+    }
+  },
+  "startupcolorado-org-event-demystifying-entrepreneurship-workshop-sw-co": {
+    "summary": "Multi-day workshop providing practical entrepreneurship education and guidance for business owners and emerging entrepreneurs in Southwest Colorado, with full scholarships available.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Southern Ute Indian Tribe"],
+      "programs": ["Demystifying Entrepreneurship Workshop"],
+      "amounts": [],
+      "dates": ["2025", "September 22-23"],
+      "eligibility": ["Small business owners, entrepreneurs, community leaders in Southwest Colorado"]
+    }
+  },
+  "startupcolorado-org-stories-high-plains-spice-company": {
+    "summary": "Profile of an Eastern Colorado-based food product business demonstrating successful rural entrepreneurship and local economic contribution through specialty food production.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "High Plains Spice Company"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-november-pitch-readiness-workshop-with-startup-colorad": {
+    "summary": "Virtual workshop coaching entrepreneurs on pitch fundamentals including business positioning, problem-solution framing, market opportunity assessment, and investment pitching.",
+    "entities": {
+      "people": [
+        "Olivia Reed (Startup Colorado)"
+      ],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Pitch Readiness Workshop"],
+      "amounts": [],
+      "dates": ["2026", "November 4"],
+      "eligibility": ["Colorado entrepreneurs preparing to pitch"]
+    }
+  },
+  "startupcolorado-org-event-march-demo-day": {
+    "summary": "Quarterly demo day event where rural Colorado founders pitch their businesses to judges and community, competing for cash awards and business support services.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Demo Days"],
+      "amounts": [],
+      "dates": ["2026", "March 11"],
+      "eligibility": ["Colorado rural founders"]
+    }
+  },
+  "startupcolorado-org-event-pitch-practice": {
+    "summary": "Virtual pitch coaching session with expert instructor Jolene Collins offering feedback on pitch storytelling, market understanding, and investor communication.",
+    "entities": {
+      "people": [
+        "Jolene Collins",
+        "Mark Madic"
+      ],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Pitch Readiness Workshop"],
+      "amounts": [],
+      "dates": ["2026", "February 11"],
+      "eligibility": ["Colorado entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-virtual-pitch-workshop-with-jolene-collins": {
+    "summary": "Virtual workshop providing entrepreneurs with expert guidance on developing compelling pitch narratives, understanding market opportunities, and confidently presenting to investors.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Pitch Readiness Workshop"],
+      "amounts": [],
+      "dates": ["2026", "May 6"],
+      "eligibility": ["Colorado entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-stories-these-rural-entrepreneurs-are-redefining-local-journ": {
+    "summary": "Feature on rural Colorado entrepreneurs building new media ventures and local journalism businesses, demonstrating innovation in information and content delivery.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-meet-the-entrepreneurs-behind-the-vanlife-boom": {
+    "summary": "Profile of entrepreneurs building businesses and ventures around the vanlife community and lifestyle, representing emerging consumer and travel market segments.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-meet-sara-jennings-of-orion-labs-founder-coopetition": {
+    "summary": "Portrait of an entrepreneur who won the Startup Colorado founder coopetition award, highlighting innovative business leadership and competitive achievement.",
+    "entities": {
+      "people": [
+        "Sara Jennings (Orion Labs founder)"
+      ],
+      "orgs": ["Startup Colorado", "Orion Labs"],
+      "programs": ["Founder Coopetition"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-faq": {
+    "summary": "FAQ resource addressing common questions about CU Anschutz innovation programs, startup support, invention disclosure processes, patent procedures, and laboratory record-keeping for researchers.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz"],
+      "programs": ["Healthcare Innovation & Entrepreneurship (HIE) Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Anschutz researchers and innovators"]
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-data-metrics-2025": {
+    "summary": "Annual metrics and data report from CU Anschutz Innovations documenting program impact, startup outcomes, and innovation activity.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": []
+    }
+  },
+  "innosphereventures-org-impact": {
+    "summary": "Innosphere supports deep-tech and scientific innovation ventures through NSF ASCEND Engine grants and Earth & Space Systems accelerator, with $5M in grants supporting projects addressing natural disaster resilience and environmental challenges.",
+    "entities": {
+      "people": [
+        "John Volckens (professor, CSU)",
+        "Kelsey McDonough (CEO)",
+        "Maithreyi Gopalakrishnan (CEO)",
+        "Kathy Andersen (CEO)",
+        "Shiloh Meeks (Wind River Indian Reservation resident)"
+      ],
+      "orgs": [
+        "Innosphere",
+        "National Science Foundation",
+        "Colorado State University",
+        "gener8tor"
+      ],
+      "programs": [
+        "NSF ASCEND Engine",
+        "Earth & Space Systems Accelerator",
+        "gener8tor Skills Accelerator"
+      ],
+      "amounts": ["$5,000,000"],
+      "dates": [],
+      "eligibility": ["Deep-tech entrepreneurs, scientific innovators, Mountain West founders"]
+    }
+  },
+  "startupcolorado-org-stories-differentkind-gifts-25000-coding-scholarship-to-sali": {
+    "summary": "Entrepreneur from DifferentKind contributed significant scholarship funding to support technology and coding education for students in Salida, Colorado.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "DifferentKind"],
+      "programs": [],
+      "amounts": ["$25,000"],
+      "dates": [],
+      "eligibility": ["Salida, Colorado students"]
+    }
+  }
+}

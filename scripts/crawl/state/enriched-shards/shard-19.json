@@ -1,0 +1,442 @@
+{
+  "watson-is-wellsfargo-fellowship-2026-fellow-page": {
+    "summary": "Showcases 30+ entrepreneurs participating in the 2025-2026 Wells Fargo Small Business Fellows program, featuring diverse founders from across the US working in various industries including consulting, creative services, and community-focused ventures. The fellowship is a fully-funded program run by the Watson Institute in Boulder, Colorado.",
+    "entities": {
+      "people": ["Moses Hall", "Andrea Kamara", "Angela Wells-Sims", "Ashley Walker", "Brandon Graham", "Catrina (CJ) Harris", "Chibuenyi (Chibu) Anyanwu", "Christopher Richards", "Crystal Berger", "Ebony Lucas", "Franklin Eruo", "Fuadat (Frances) Joseph", "Glenda Lee", "Haneef Hardy", "Hyacinth Tucker", "Jehad (Jeje) Mohamed", "Jennifer Brooks", "Jona Siko", "Kenya Pope", "Larvetta Loftin", "Melissa Picciola", "Noelle Curtis", "Omar Hernandez", "Seke Ballard", "Tammy Parks", "Terri Evans", "Trezell Ragas"],
+      "orgs": ["Watson Institute", "Wells Fargo", "MoHall Commercial & Urban Development", "CEA Enterprise", "UX Brite", "EBOAI", "The Closing Firm", "Eruo Advisory", "Juris Ledger", "CitiLife Development", "Unlimited Potential Mentoring", "The Laundry Basket", "Bastet Insights", "Unlimited Expressions", "Print Studio", "Guiding For Greatness Coaching", "The L3 Agency", "Legal Aid for New Entrepreneurs (LANE)", "Bisi Books", "ONEBIT", "BetaScore", "Wealthie Therapy", "Dockside Delivery", "Ragas Consulting", "Jollof Bowl", "Durant Bailey Group", "ASH Consulting", "Our HBCUs Matter Foundation", "That's So Creative"],
+      "programs": ["Wells Fargo Small Business Fellows"],
+      "amounts": [],
+      "dates": ["2025-2026"],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-do-you-need-a-business-coach": {
+    "summary": "Article from Startup Colorado discussing business coaching services, with a focus on how rural founders can scale their ventures more effectively using artificial intelligence tools.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-research-focus": {
+    "summary": "Outlines CU Boulder's major research initiatives across multiple disciplines including aerospace engineering, biological sciences, climate and environmental science, and emerging quantum technology areas. Provides overview of available research opportunities and campus resources for students and faculty.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["Aerospace", "Biosciences", "Climate & Environment", "Quantum Science & Technology"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Faculty", "Students"]
+    }
+  },
+  "colorado-edu-emp-2023-10-17-global-semester-escend-engineering-managemententrepr": {
+    "summary": "Offers CU Boulder students the opportunity to complete an engineering management or entrepreneurship minor while studying abroad in Lisbon, Portugal during the fall semester through the Lockheed Martin Engineering Management Program.",
+    "entities": {
+      "people": [],
+      "orgs": ["Lockheed Martin", "CU Boulder"],
+      "programs": ["Engineering Management Program", "Entrepreneurship minor", "Global Semester", "ESCEND"],
+      "amounts": [],
+      "dates": ["Fall semester"],
+      "eligibility": ["Students pursuing Engineering Management or Entrepreneurship minor"]
+    }
+  },
+  "boulderstartupweek-com": {
+    "summary": "Multi-day free conference bringing together entrepreneurs, innovators, and business leaders in Boulder for networking, learning, and community building around startup culture.",
+    "entities": {
+      "people": [],
+      "orgs": [],
+      "programs": ["Boulder Startup Week"],
+      "amounts": [],
+      "dates": ["May 4-8, 2026"],
+      "eligibility": ["Entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-stories-growth-challenges-launches-as-new-founder-coopetitio": {
+    "summary": "Announces a new coopetition program from Growth Challenges that brings entrepreneurs together in a collaborative and competitive framework to advance their ventures.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Growth Challenges"],
+      "programs": ["Growth Challenges Founder Coopetition"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Founders"]
+    }
+  },
+  "colorado-edu-innovate-programs-resources-assett-innovation-incubator": {
+    "summary": "CU Boulder's Center for Teaching & Learning operates an innovation lab supporting teams of faculty, students, and staff through design-thinking cycles to develop technology-enhanced learning solutions. Teams receive three-year funding periods to test educational innovations.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Center for Teaching & Learning", "Research & Innovation Office", "Office of Information Technology"],
+      "programs": ["CTL Innovation Incubator", "ASSETT", "Communities of Practice", "Inclusive Teaching and Learning Community of Practice", "Large Courses Community of Practice"],
+      "amounts": [],
+      "dates": ["2023-2026", "2019-2022"],
+      "eligibility": ["Faculty", "Students", "Staff"]
+    }
+  },
+  "startupcolorado-org-stories-how-gearo-is-changing-the-outdoor-rental-market": {
+    "summary": "Profiles Gearo, a startup disrupting the outdoor equipment rental industry through an innovative platform that connects users with rental opportunities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Gearo"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-ideaforge-facilities-makerspace": {
+    "summary": "Woodworking-focused makerspace at CU Boulder's Idea Forge offering students access to power tools, precision equipment, and hand tools for project creation, contingent on safety certification.",
+    "entities": {
+      "people": ["Josh Colyer"],
+      "orgs": ["CU Boulder", "Idea Forge"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Students who have completed an Idea Forge tour", "Students who have completed Saws and Drills workshop", "Students with completed Safety Waiver"]
+    }
+  },
+  "colorado-edu-ideaforge-facilities-project-based-learning-studio": {
+    "summary": "Dedicated classroom space at CU Boulder's Idea Forge designed for hands-on, collaborative learning with flexible furniture and technology to support small group projects and team-based coursework.",
+    "entities": {
+      "people": ["Jenny Brown", "Victoria Lanaghan"],
+      "orgs": ["CU Boulder", "Idea Forge"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder courses and students"]
+    }
+  },
+  "colorado-edu-outreach-paces-funding-and-resources-grant-recipients-past-grant-re": {
+    "summary": "Lists faculty-led community engagement projects that received CU Boulder outreach funding, covering topics from pediatric mental health services to multilingual education and wildfire research.",
+    "entities": {
+      "people": ["Nomita Chhabildas", "Erik Willcutt", "Marialis Rosario Franco", "Seth Hornstein", "John Keller", "AJ Schiera", "Ashley Cartun", "Deborah Palmer", "Michelle Renée Valladares", "Elizabeth Meyer", "Bethy Leonardi", "Sara Staley", "Hannah Brenkert-Smith", "Kelly Wallace", "Sherri Tennant"],
+      "orgs": ["CU Boulder", "Office for Outreach and Community Engagement", "Department of Psychology and Neuroscience", "Department of Astrophysical and Planetary Sciences", "Fiske Planetarium", "Program in Equity, Bilingualism & Biliteracy", "Program in Educational Foundations, Policy & Practice", "Institute of Behavioral Science", "Department of Speech"],
+      "programs": ["Attention, Behavior and Learning Clinic", "Astrosenderos", "APEX Teacher Academy", "Caminos", "Creating a Colorado-based Coalition for LGBTQ Youth-Serving Organizations", "Community of Practice Workshop"],
+      "amounts": [],
+      "dates": ["2025-2026"],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-the-team-photo": {
+    "summary": "Short article from Startup Colorado exploring the importance of professional team photography for startups, offering guidance on visual branding and presentation.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-meet-the-startup-colorado-team": {
+    "summary": "Profiles the team members at Startup Colorado who support and mentor founders across the state.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-ideaforge-facilities-conference-rooms": {
+    "summary": "CU Boulder's Idea Forge provides multiple sized conference rooms equipped with projection, whiteboarding, and optional videoconferencing, available for reservation by students and external users.",
+    "entities": {
+      "people": ["Jenny Brown", "Victoria Lanaghan"],
+      "orgs": ["CU Boulder", "Idea Forge"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students", "External users"]
+    }
+  },
+  "itll-colorado-edu": {
+    "summary": "Institution-wide teaching and learning laboratory at CU Boulder providing resources and support for faculty developing innovative instructional approaches.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "ITLL"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Faculty"]
+    }
+  },
+  "startupcolorado-org-all-events-photo-featured-eventdisplay-past": {
+    "summary": "Startup Colorado's June Demo Days event providing a platform for startups and entrepreneurs to showcase their ventures to investors and the business community.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Demo Days"],
+      "amounts": [],
+      "dates": ["June 3"],
+      "eligibility": ["Entrepreneurs", "Startups"]
+    }
+  },
+  "startupcolorado-org-organizer-vanessa-mccrann-eventdisplay-past": {
+    "summary": "West Slope Startup Week organized by Vanessa McCrann brings together entrepreneurs and community leaders in Durango to build momentum around the region's startup ecosystem with speaker programming and networking.",
+    "entities": {
+      "people": ["Vanessa McCrann"],
+      "orgs": ["Startup Colorado"],
+      "programs": ["West Slope Startup Week"],
+      "amounts": [],
+      "dates": ["October 6-10, 2025"],
+      "eligibility": ["Entrepreneurs", "Local leaders"]
+    }
+  },
+  "startupcolorado-org-stories-category-funding-capital-access": {
+    "summary": "Archive page on Startup Colorado featuring articles and resources about funding options, capital raising strategies, and financial resources available to entrepreneurs.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-organizer-mark-madic-eventdisplay-past": {
+    "summary": "Pitch Readiness Session led by business storytelling expert Jolene Collins helping entrepreneurs refine their pitch delivery and business narrative for competitions and investor meetings.",
+    "entities": {
+      "people": ["Jolene Collins", "Mark Madic"],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Pitch Readiness Session", "West Slope Startup Week"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-organizer-first-southwest-community-fund": {
+    "summary": "First Southwest Community Fund event calendar page on Startup Colorado providing information about financing opportunities and support for small business development.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "First Southwest Community Fund"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-all-events-featured-page-3-eventdisplay-past": {
+    "summary": "Monthly Lean Coffee networking series for entrepreneurs featuring rotating guest hosts from the funding and investment community who discuss how different funding programs work.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Lean Coffee"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Entrepreneurs from all industries"]
+    }
+  },
+  "startupcolorado-org-all-events-photo-eventdisplay-past": {
+    "summary": "Workshop on organizational and operational best practices for rural startups, addressing the unique challenges faced by entrepreneurs operating outside major metro areas.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Strategic Organization & Operations for Rural Startups"],
+      "amounts": [],
+      "dates": ["July 21"],
+      "eligibility": ["Rural entrepreneurs"]
+    }
+  },
+  "watson-is-category-western-union-global-fellowship-program": {
+    "summary": "Celebrates an alumna of the Western Union Global Fellowship Program who earned a full scholarship to Harvard University after completing the program, highlighting the fellowship's success in supporting international student entrepreneurs.",
+    "entities": {
+      "people": ["Purva Parwani", "Monica Solares"],
+      "orgs": ["Watson Institute", "Western Union", "Harvard University"],
+      "programs": ["Western Union Global Fellowship Program"],
+      "amounts": [],
+      "dates": ["2023-2024"],
+      "eligibility": ["International students", "Entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-all-events-featured-page-2": {
+    "summary": "West Slope Startup Week returns to Durango in 2026 as a multi-day free event connecting entrepreneurs and community members to advance regional economic opportunity and startup growth.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["West Slope Startup Week"],
+      "amounts": [],
+      "dates": ["October 5-9, 2026"],
+      "eligibility": ["Entrepreneurs", "Community members"]
+    }
+  },
+  "startupcolorado-org-all-events-list-page-4": {
+    "summary": "Pitch Readiness Session offering entrepreneurs expert coaching on improving their business pitch and storytelling for competitions and investor presentations.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Pitch Readiness Session"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-organizer-margaret-hedderman-2-eventdisplay-past": {
+    "summary": "Community discussion group for authors to share experiences, exchange ideas about writing and publishing, and build relationships with other writers working on book projects.",
+    "entities": {
+      "people": ["Margaret Hedderman"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Authors", "Writers"]
+    }
+  },
+  "startupcolorado-org-organizer-fswcf-eventdisplay-past": {
+    "summary": "Open house event by First Southwest Community Fund introducing small business owners to financing options, loan programs, and technical support resources available through the organization.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "First Southwest Community Fund", "Colorado Small Business Development Center"],
+      "programs": ["Small business financing"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Small business owners", "Entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-organizer-bside-capital-2-eventdisplay-past": {
+    "summary": "B:Side Assist AI-powered financial tool demonstration for small business owners, providing real-time cash flow tracking, trend analysis, and financial insights without requiring manual spreadsheet management.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "B:Side Capital"],
+      "programs": ["B:Side Assist"],
+      "amounts": [],
+      "dates": ["July 8"],
+      "eligibility": ["Small businesses"]
+    }
+  },
+  "startupcolorado-org-all-events-photo-page-4": {
+    "summary": "November Pitch Workshop offered by Startup Colorado providing entrepreneurs with guidance on refining and delivering effective pitches to investors and stakeholders.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Pitch Workshop"],
+      "amounts": [],
+      "dates": ["November 4"],
+      "eligibility": ["Entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-organizer-resolution-project-eventdisplay-past": {
+    "summary": "Enactus USA National Exposition brings together top student social entrepreneurs from across the country to compete, network, and present solutions to real-world social and economic challenges.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Enactus USA", "Resolution Project"],
+      "programs": ["Enactus USA National Exposition"],
+      "amounts": [],
+      "dates": ["April 16-18, 2026"],
+      "eligibility": ["Student entrepreneurs", "Innovators"]
+    }
+  },
+  "startupcolorado-org-organizer-nocobiz-connect-eventdisplay-past": {
+    "summary": "Workshop on designing and hosting truly inclusive events that accommodate attendees with diverse abilities and accessibility needs, emphasizing belonging and equitable event design.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "NOCOBIZ CONNECT"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Event organizers", "Business owners"]
+    }
+  },
+  "startupcolorado-org-organizer-east-colorado-sbdc-eventdisplay-past": {
+    "summary": "Multi-part webinar series by Colorado Small Business Development Center designed specifically for veterans and veteran-supporting business owners, offering practical guidance on business operations and best practices.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "East Colorado SBDC", "Colorado Small Business Development Center"],
+      "programs": ["Service to Success webinar series"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Veteran-owned businesses", "Veteran-supporting businesses", "Veterans"]
+    }
+  },
+  "startupcolorado-org-organizer-town-of-hayden-eventdisplay-past": {
+    "summary": "Hayden Business Pitch Competition provides local entrepreneurs with mentorship, community recognition, and feedback opportunities to refine and present their business ideas.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Town of Hayden"],
+      "programs": ["Business Pitch Competition"],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": ["Hayden entrepreneurs", "Small business owners", "Aspiring entrepreneurs"]
+    }
+  },
+  "colorado-edu-innovate-programs-resources-boulder-venture-club": {
+    "summary": "CU Boulder's student-led venture club providing networking, mentorship, and educational programming for students interested in startups, entrepreneurship, and venture capital.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Boulder Venture Club"],
+      "programs": ["Boulder Venture Club"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-ideaforge-workshops-videos": {
+    "summary": "Idea Forge at CU Boulder offers hands-on workshops and instructional videos teaching technical and creative skills including woodworking, electronics, metalworking, sewing, and 3D printing to students.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Idea Forge"],
+      "programs": ["Intro to Woodworking", "Bluetooth Speaker", "Electronics", "Packable Hammock", "MIG Welding", "Intro to Sewing", "3D Printing", "Canvas Tote Workshop", "Charcuterie Board", "Soldering", "PCB Design", "Design Thinking"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-ideaforge-workshops": {
+    "summary": "Comprehensive workshop program at CU Boulder's Idea Forge teaching hands-on making and technical skills through instructor-led and self-guided formats, with supporting video tutorials for self-directed learners.",
+    "entities": {
+      "people": ["Josh Colyer"],
+      "orgs": ["CU Boulder", "Idea Forge"],
+      "programs": ["Intro to Woodworking", "Bluetooth Speaker", "Electronics", "Packable Hammock", "MIG Welding", "Intro to Sewing", "3D Printing", "Canvas Tote Workshop", "Charcuterie Board", "Soldering", "PCB Design", "Design Thinking"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "startupcolorado-org-all-events-list-page-5": {
+    "summary": "Empty event listing page on Startup Colorado calendar with no events scheduled for the period.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-all-events-photo-page-5": {
+    "summary": "Empty photo event display page on Startup Colorado with no upcoming events to showcase.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-all-events-featured-page-3": {
+    "summary": "Empty featured events listing on Startup Colorado showing no highlighted events for the current period.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-all-events-photo-page-6-eventdisplay-past": {
+    "summary": "XI Tech Connect monthly coffee and community gathering fostering connection among technology entrepreneurs and professionals in the Colorado startup ecosystem.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "XI Tech Connect"],
+      "programs": ["XI Tech Connect"],
+      "amounts": [],
+      "dates": ["January 22"],
+      "eligibility": ["Entrepreneurs", "Technology professionals"]
+    }
+  }
+}

@@ -1,0 +1,992 @@
+{
+  "colorado-edu-venturepartners-2022-12-21-external-news-cofounders-cu-boulder-star": {
+    "summary": "References a news redirect about CU Boulder cofounders recognized by Forbes for 30 Under 30 achievement. Venture Partners at CU Boulder provides a monthly newsletter with entrepreneurship updates and opportunities.",
+    "entities": {
+      "people": ["Daniel Leonard"],
+      "orgs": ["Venture Partners at CU Boulder", "Forbes"],
+      "programs": ["Forbes 30 Under 30", "The Insider newsletter"],
+      "amounts": [],
+      "dates": ["2022-12-21"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2026-07-08-lab-venture-challenge-applications-now-open-202": {
+    "summary": "Announces 2026 Lab Venture Challenge applications. This competition is hosted by CU Boulder's Innovation & Entrepreneurship Initiative.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": ["Lab Venture Challenge"],
+      "amounts": [],
+      "dates": ["2026-07-08"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-2019-12-09-glutton-knowledge-learnings-startup-founders-ov": {
+    "summary": "A flagship program bringing startup founders to speak with students over lunch. Covers practical entrepreneurship lessons from founders like Ian McGregor of Skratch Labs, a Boulder-based sports performance drinks company.",
+    "entities": {
+      "people": ["Ian McGregor", "Allen Lim", "Sam Schanfarber"],
+      "orgs": ["Skratch Labs", "Leeds School of Business"],
+      "programs": ["Startups & Sandwiches"],
+      "amounts": [],
+      "dates": ["2019-12-09"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-deming-news-2024-02-14-empowering-innovators-path-entrepre": {
+    "summary": "The New Venture Leadership (NVL) program at the Deming Center for Entrepreneurship equips entrepreneurially-focused students with essential skills to transform ideas into ventures. Program includes teams working on AI software development and AI-powered healthcare note writing.",
+    "entities": {
+      "people": ["Brad Werner", "Bhargav Shadilya", "Tyler Hollenbach", "Henry Coote"],
+      "orgs": ["Deming Center for Entrepreneurship", "Leeds School of Business"],
+      "programs": ["New Venture Leadership (NVL)"],
+      "amounts": [],
+      "dates": ["2024-02-14"],
+      "eligibility": ["entrepreneurially-focused students"]
+    }
+  },
+  "colorado-edu-business-deming-center-deming-center-news-2020-04-01-cu-entrepreneu": {
+    "summary": "The BUSM 4010 capstone course teaches students to develop business plans, build prototypes, and pitch ideas to investors. During COVID-19, the Deming Center secured $25K in seed funding for teams to pivot their businesses toward community-focused solutions.",
+    "entities": {
+      "people": ["Scott King", "Visda Carson", "Erick Mueller", "Brad Werner"],
+      "orgs": ["Deming Center for Entrepreneurship", "Leeds School of Business"],
+      "programs": ["BUSM 4010 capstone", "Get Seed Funding program"],
+      "amounts": ["$25,000"],
+      "dates": ["2020-04-01"],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-innovate-entrepreneurial-mentors-bart-foster": {
+    "summary": "Bart Foster is a Managing Director at Sanitas Advisors with Fortune 500 experience and founder expertise raising $50M in capital. He serves as an entrepreneurial mentor helping startups with strategic partnerships and revenue acceleration.",
+    "entities": {
+      "people": ["Bart Foster"],
+      "orgs": ["Sanitas Advisors", "Innovation & Entrepreneurship Initiative"],
+      "programs": [],
+      "amounts": ["$50,000,000", "$100,000,000"],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "innosphereventures-org": {
+    "summary": "Innosphere is a regional organization that accelerates science and technology startups through commercialization programs and strategic partnerships. With 80% of their startups receiving funding and $2.1B capital raised, they serve entrepreneurs, investors, and partner networks.",
+    "entities": {
+      "people": ["Kelsey McDonough"],
+      "orgs": ["Innosphere", "Colorado State University"],
+      "programs": ["Innosphere incubation program", "Earth & Space Systems Accelerator"],
+      "amounts": ["$2,100,000,000"],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2025-02-06-internal-news-registration-now-open-emba": {
+    "summary": "Venture Partners at CU Boulder is hosting the Embark Deep Tech Startup Creator Showcase. Registration is open for this event celebrating deep tech innovation.",
+    "entities": {
+      "people": ["Daniel Leonard"],
+      "orgs": ["Venture Partners at CU Boulder"],
+      "programs": ["Embark Deep Tech Startup Creator Showcase"],
+      "amounts": [],
+      "dates": ["2025-02-06"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-entrepreneurial-programs-student-programs": {
+    "summary": "A directory of on-campus and off-campus programs and resources available to CU Boulder students interested in entrepreneurship and innovation. Includes resources like Boulder Climate Ventures.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": ["Boulder Climate Ventures"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-venturepartners-newsroom-aerospace": {
+    "summary": "A news and updates section highlighting CU Boulder aerospace innovation and related topics. Part of Venture Partners' newsroom providing entrepreneurship updates.",
+    "entities": {
+      "people": ["Daniel Leonard"],
+      "orgs": ["Venture Partners at CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-university-innovators-intellectual-property-managem": {
+    "summary": "Presents CU Boulder's intellectual property policies (Policy 5.I and APS 1013/1014) designed to encourage faculty discoveries, protect university equity, and advance research commercialization. Policies govern patents, inventions, and educational materials.",
+    "entities": {
+      "people": [],
+      "orgs": ["Venture Partners at CU Boulder", "University of Colorado"],
+      "programs": ["IP Policy 5.I", "APS 1013", "APS 1014"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU faculty", "CU staff employees"]
+    }
+  },
+  "colorado-edu-innovate-innospheres-social-advisory-group-entrepreneurs-sage": {
+    "summary": "The Social and Advisory Group for Entrepreneurs (SAGE) program connects experienced advisors with early-stage, high-tech startups to refine business strategies and validate go-to-market plans. Companies typically progress from SAGE to incubators seeking angel funding.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innosphere", "Innovation & Entrepreneurship Initiative"],
+      "programs": ["SAGE - Social and Advisory Group for Entrepreneurs"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["early-stage startups with innovative technology or business model"]
+    }
+  },
+  "colorado-edu-innovate-programs-resources-antler-founder-residency": {
+    "summary": "Antler is a pre-seed investor offering monthly residency programs for exceptional founders to work together in person for up to 3 months. They provide initial commitments of $500K-$1M plus $650K in partner credits and support companies through their full lifecycle.",
+    "entities": {
+      "people": [],
+      "orgs": ["Antler", "Innovation & Entrepreneurship Initiative"],
+      "programs": ["Antler Residency", "Pre-Seed Investment"],
+      "amounts": ["$500,000-$1,000,000", "$650,000"],
+      "dates": [],
+      "eligibility": ["founders applying year-round"]
+    }
+  },
+  "colorado-edu-innovate-programs-resources-denver-startup-week": {
+    "summary": "Colorado Startup Week is a free, community-driven celebration attracting over 10,000 founders, investors, and changemakers for a week of learning and networking. Offers hundreds of sessions on topics from robotics to fundraising with noted speakers.",
+    "entities": {
+      "people": ["Bryan Leach", "Mike Johnston", "Lee Mayer", "Brad Feld", "Seth Levine", "Dan Caruso"],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "Ibotta", "Havenly"],
+      "programs": ["Colorado Startup Week"],
+      "amounts": [],
+      "dates": ["September 14-18, 2026"],
+      "eligibility": ["all entrepreneurs and innovators"]
+    }
+  },
+  "colorado-edu-innovate-off-campus-resources": {
+    "summary": "Directory of off-campus entrepreneurship and innovation programs and resources for CU Boulder students. Provides filtering by pathway, opportunity, eligibility, venture type, location, programming and sectors.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-innovate-newsletter-newsletter-special-announcement-sustainability-": {
+    "summary": "The CU Boulder Sustainability Hackathon is a campus-wide virtual and in-person event where students collaborate on ideas addressing environmental, economic, social and equity challenges. Features mentorship, prototype development, and prizes worth thousands of dollars.",
+    "entities": {
+      "people": ["Stan Hickory"],
+      "orgs": ["CU Boulder"],
+      "programs": ["CU Boulder Sustainability Hackathon"],
+      "amounts": [],
+      "dates": ["November 1-8"],
+      "eligibility": ["actively enrolled CU Boulder students"]
+    }
+  },
+  "colorado-edu-innovate-newsletter-newsletter-special-announcement-last-call-rsvp-": {
+    "summary": "The New Venture Challenge Finals on April 23 features top entrepreneurs pitching to judges for a share of $325,000 in funding. This 18th annual event includes specialty competitions and awards for innovation and entrepreneurship.",
+    "entities": {
+      "people": ["Justin Schwartz", "Albus Brooks", "Dianne Myles"],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": ["New Venture Challenge (NVC)", "Women Founders Competition", "Social Impact New Venture Challenge", "High School New Venture Challenge"],
+      "amounts": ["$325,000", "$5,000"],
+      "dates": ["April 23, 6-9 p.m."],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-programs-resources-founder-institute": {
+    "summary": "The Founder Institute, founded in 2009, takes talented individuals from idea stage to successful company through mentorship and community. The organization is evolving to become an AI-native company builder, supporting solo and team founders building unicorn companies.",
+    "entities": {
+      "people": ["Adeo Ressi", "Maor Shlomo", "Peter Steinberger"],
+      "orgs": ["Founder Institute"],
+      "programs": ["Founder Institute"],
+      "amounts": ["$80,000,000"],
+      "dates": ["July 2026", "January 2025", "June 2025", "November 2025", "April 2026"],
+      "eligibility": ["top talent with entrepreneurial potential"]
+    }
+  },
+  "colorado-edu-innovate-2017-11-02-how-speak-venture-capital-ari-newman-amy-baglan": {
+    "summary": "A fireside chat breaking down venture capital fundamentals, myths, and terminology for entrepreneurs. Speakers Ari Newman and Amy Baglan discuss the importance of finding the right investor fit and building community relationships for fundraising success.",
+    "entities": {
+      "people": ["Ari Newman", "Amy Baglan"],
+      "orgs": ["Techstar Ventures", "Meetmindful", "Innovation & Entrepreneurship Initiative"],
+      "programs": ["fireside chat"],
+      "amounts": [],
+      "dates": ["2017-11-02"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2018-01-18-welcoming-kyle-and-sally-our-new-entrepreneuria": {
+    "summary": "Kyle Judah and Sally Hatcher joined CU Boulder to encourage entrepreneurial spirit in academics and research. Sally is a serial entrepreneur with experience in laser/opto-electronics and medical diagnostics startups, bringing business and law expertise from McKinsey.",
+    "entities": {
+      "people": ["Kyle Judah", "Sally Hatcher"],
+      "orgs": ["Research & Innovation Office", "Precision Photonics", "MBio Diagnostics", "Kindara", "McKinsey & Co."],
+      "programs": ["Commercialization Academy"],
+      "amounts": [],
+      "dates": ["2018-01-18"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2018-03-01-student-venture-story-sweat-points": {
+    "summary": "Sweat Points is a student-founded fitness app created by CU Boulder senior Chad Piatek that rewards users for maintaining healthy lifestyle habits rather than just weight loss. The app integrates with Fitbits to track biometric data and maintain healthy habits.",
+    "entities": {
+      "people": ["Chad Piatek", "Tanner Quigley"],
+      "orgs": ["CU Boulder Club Lacrosse", "AngelList"],
+      "programs": ["Sweat Points"],
+      "amounts": [],
+      "dates": ["2018-03-01"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-programs-resources-startup-variety-show": {
+    "summary": "The Startup Variety Show is an event series by Silicon Flatirons showcasing startups, research ideas, incumbent company projects, and investor perspectives. It reconnects the startup community through in-person and Zoom participation with networking opportunities.",
+    "entities": {
+      "people": ["Ingrid Alongi", "Tim Morrissey", "Julie Penner", "Natesh Ganesh", "Brian Schucker"],
+      "orgs": ["Silicon Flatirons", "Colorado Law School"],
+      "programs": ["Startup Variety Show"],
+      "amounts": [],
+      "dates": ["May 18", "June 15", "July 13, 2022"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2019-11-02-2m-award-helps-cu-startup-suvica-build-new-tech": {
+    "summary": "SuviCa, a CU Boulder startup, received a $2M award to develop new technology for discovering better cancer drugs. The award supports advancement of innovative cancer research commercialization.",
+    "entities": {
+      "people": [],
+      "orgs": ["SuviCa", "CU Boulder"],
+      "programs": ["SuviCa"],
+      "amounts": ["$2,000,000"],
+      "dates": ["2019-11-02"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2021-04-08-cu-spinout-inscripta-announces-first-commercial": {
+    "summary": "Inscripta, a CU Boulder spinout, announced its first commercial shipment of the Onyx digital genome engineering platform and closed $150M in new financing. The company develops advanced genome engineering technology.",
+    "entities": {
+      "people": [],
+      "orgs": ["Inscripta", "CU Boulder"],
+      "programs": ["Inscripta"],
+      "amounts": ["$150,000,000"],
+      "dates": ["2021-04-08"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2019-12-13-125-million-cu-boulder-spinout-inscripta-may-us": {
+    "summary": "Inscripta, a CU Boulder spinout, raised $125M in funding for its genetic engineering technology platform. The company is advancing the next wave of genetic engineering applications.",
+    "entities": {
+      "people": [],
+      "orgs": ["Inscripta", "CU Boulder"],
+      "programs": ["Inscripta"],
+      "amounts": ["$125,000,000"],
+      "dates": ["2019-12-13"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2020-05-11-carla-cruz-wins-cu-boulders-inaugural-map-syste": {
+    "summary": "Carla Cruz, a CU Boulder junior, won the inaugural Map the System competition for research on improving diabetes management in Latinx populations. The competition, organized by Oxford University's Skoll Centre, challenges students to apply systems thinking to complex social problems.",
+    "entities": {
+      "people": ["Carla Cruz"],
+      "orgs": ["Skoll Centre for Social Entrepreneurship", "Oxford University"],
+      "programs": ["Map the System"],
+      "amounts": [],
+      "dates": ["2020-05-11"],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-innovate-2020-09-30-phet-founder-and-nobel-laureate-carl-wieman-awa": {
+    "summary": "Carl Wieman, founder of PhET and Nobel laureate, was awarded a $4 million Yidan Prize for Education Research. The award recognizes his contributions to educational innovation through interactive simulations.",
+    "entities": {
+      "people": ["Carl Wieman"],
+      "orgs": [],
+      "programs": ["PhET"],
+      "amounts": ["$4,000,000"],
+      "dates": ["2020-09-30"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2021-03-04-cu-spinout-onkure-inc-raises-55-million-series-": {
+    "summary": "OnKure, Inc., a CU spinout company, raised $55M in Series B financing for its therapeutic development platform. The company represents successful university spinout commercialization.",
+    "entities": {
+      "people": [],
+      "orgs": ["OnKure, Inc.", "CU Boulder"],
+      "programs": ["OnKure, Inc."],
+      "amounts": ["$55,000,000"],
+      "dates": ["2021-03-04"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-deming-center-deming-center-news-2020-01-15-alumni-spotlig": {
+    "summary": "Max Horwitz, a 2012 CU Boulder graduate in political science, applies entrepreneurial thinking to international diplomacy through his role at the Business Council for International Understanding. His career shows how entrepreneurial mindset extends beyond business to government and international development.",
+    "entities": {
+      "people": ["Max Horwitz", "Erick Mueller"],
+      "orgs": ["Business Council for International Understanding (BCIU)", "U.S. Export Assistant Center (USEAC)"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2020-01-15", "2012"],
+      "eligibility": ["CU Boulder alumni"]
+    }
+  },
+  "colorado-edu-innovate-2021-07-15-expect-fungi-based-steak-your-plate-2022-cu-bou": {
+    "summary": "Meati, a CU Boulder spinout company, raised $50M in funding for its fungi-based steak alternative product. The company is commercializing novel food technology developed at CU Boulder.",
+    "entities": {
+      "people": [],
+      "orgs": ["Meati", "CU Boulder"],
+      "programs": ["Meati"],
+      "amounts": ["$50,000,000"],
+      "dates": ["2021-07-15"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2022-11-28-external-news-cu-boulder-commercialization-driv": {
+    "summary": "CU Boulder's research commercialization efforts have driven $8 billion in economic impact nationwide. This reflects the university's role in translating research into successful businesses and innovations.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Venture Partners"],
+      "programs": [],
+      "amounts": ["$8,000,000,000"],
+      "dates": ["2022-11-28"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-deming-news-2023-02-16-katie-morton-and-entrepreneurship-c": {
+    "summary": "The Certificate in Entrepreneurship Studies at the Deming Center teaches creative problem-solving and entrepreneurial mindset to CU Boulder students. Success stories like Ethan Lickey, who launched Reach Climbing, demonstrate the program's effectiveness in connecting entrepreneurs.",
+    "entities": {
+      "people": ["Katie Morton", "Ethan Lickey", "Lauren Gwyn"],
+      "orgs": ["Deming Center for Entrepreneurship", "Leeds School of Business", "Reach Climbing"],
+      "programs": ["Certificate in Entrepreneurship Studies"],
+      "amounts": [],
+      "dates": ["2023-02-16"],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-nvc-2016-10-12-mallinda-awarded-750k-grant-reusable-carbon-fiber-co": {
+    "summary": "Mallinda, a Denver startup co-founded by CU Boulder alumni, received a $750K NSF Small Business Innovation Research Phase II grant for its reusable carbon-fiber composite material. The technology reduces vehicle weight and improves fuel efficiency while being fully recyclable.",
+    "entities": {
+      "people": ["Chris Kaffer", "Philip Taynton", "Wei Zhang"],
+      "orgs": ["Mallinda", "NSF", "CU Boulder"],
+      "programs": ["NSF SBIR Program"],
+      "amounts": ["$750,000"],
+      "dates": ["2016-10-12"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2019-02-19-stateless-cu-boulder-spinoff-and-nvc-alum-secures-11": {
+    "summary": "Stateless, a CU Boulder spinout and New Venture Challenge alumni, raised $11.33M in Series A funding for its data center connectivity solutions. The company represents successful NVC participation leading to venture capital funding.",
+    "entities": {
+      "people": [],
+      "orgs": ["Stateless", "CU Boulder"],
+      "programs": ["Stateless", "New Venture Challenge"],
+      "amounts": ["$11,330,000"],
+      "dates": ["2019-02-19"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-deming-news-2023-10-05-fromrammsteintolingdiscoevanbaltman": {
+    "summary": "Evan Baltman founded LingDisco, a language-learning app that uses music to make language acquisition enjoyable and effective. The venture emerged from Evan's personal experience learning German through music and was developed with co-founder Pooria Poorsarvi.",
+    "entities": {
+      "people": ["Evan Baltman", "Pooria Poorsarvi", "Lauren Gwyn"],
+      "orgs": ["LingDisco", "Leeds School of Business"],
+      "programs": ["LingDisco"],
+      "amounts": [],
+      "dates": ["2023-10-05"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-nvc-2026-new-venture-challenge-finals-event-program": {
+    "summary": "The 2026 New Venture Challenge Finals at Boulder Theater features pitches from finalists across Open and Deep Tech categories competing for prizes totaling $325,000. The event includes awards for entrepreneurial mentorship, faculty/staff innovation, and student achievement.",
+    "entities": {
+      "people": ["Justin Schwartz", "Stan Hickory", "Kristin Salada", "Maria Goergen", "Sam Benton", "Melanie Lo"],
+      "orgs": ["CU Boulder", "Boulder Venture Club", "Base 44"],
+      "programs": ["New Venture Challenge", "Women Founders Competition", "Social Impact New Venture Challenge", "High School New Venture Challenge"],
+      "amounts": ["$325,000", "$5,000"],
+      "dates": ["April 22, 2026"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-deming-news-2024-11-07-story-mesa-quantum-and-entrepreneur": {
+    "summary": "Sristy Agrawal, a quantum physicist with a PhD from CU Boulder's renowned AMO physics program, founded Mesa Quantum as an entrepreneurial venture. Her journey from academic research to startup founder demonstrates how CU Boulder's entrepreneurial community enables research-to-commercialization transitions.",
+    "entities": {
+      "people": ["Sristy Agrawal", "Emily Iliff"],
+      "orgs": ["Mesa Quantum", "CU Boulder", "Leeds School of Business"],
+      "programs": ["Mesa Quantum", "New Venture Challenge"],
+      "amounts": [],
+      "dates": ["2024-11-07"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-deming-news-2024-08-01-marc-herzberger-leading-innovation-": {
+    "summary": "Marc Herzberger, a CU Boulder graduate and 11-year veteran of Crocs, became leader of The Hype Company where he transformed the custom footwear business through rebranding and strategic positioning. His career path illustrates how entrepreneurial skills apply to both founding and leading innovation.",
+    "entities": {
+      "people": ["Marc Herzberger", "Emily Iliff"],
+      "orgs": ["The Hype Company", "Crocs", "Leeds School of Business"],
+      "programs": ["The Hype Company"],
+      "amounts": [],
+      "dates": ["2024-08-01"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-redirecting-cu-innovations": {
+    "summary": "Redirect page for CU Innovations, the innovation and entrepreneurship initiative at the CU Anschutz Medical Campus.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Innovations", "CU Anschutz Medical Campus"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-hie": {
+    "summary": "The HIE Initiative at CU Anschutz provides learning resources, expert guidance, venture mentoring, and funding for healthcare innovation. Resources include the Business of Science training platform, Entrepreneurs-in-Residence (EIRs), and various grant programs.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz Medical Campus", "MIT"],
+      "programs": ["Healthcare Innovation & Entrepreneurship (HIE)", "Business of Science", "Entrepreneurs-in-Residence (EIRs)", "Toolbox grants", "SPARK grants", "HIE Venture Mentoring Service"],
+      "amounts": [],
+      "dates": ["Fall 2026"],
+      "eligibility": ["faculty", "researchers", "students"]
+    }
+  },
+  "colorado-edu-venturepartners-newsroom-cu-startups-news": {
+    "summary": "The CU Startups News section provides updates on CU Boulder startup developments and entrepreneurship opportunities. Venture Partners publishes a monthly newsletter called The Insider with entrepreneurship news and programming.",
+    "entities": {
+      "people": ["Daniel Leonard"],
+      "orgs": ["Venture Partners at CU Boulder"],
+      "programs": ["The Insider newsletter"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "innosphereventures-org-accelerators": {
+    "summary": "Innosphere operates startup incubation and commercialization programs for science and technology entrepreneurs. Specialized programs include the SHIELD accelerator for soil health technology and ASCEND Earth & Space Systems accelerator, with investment consideration up to $80K in prize funding.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innosphere"],
+      "programs": ["Innosphere incubation program", "SHIELD accelerator", "ASCEND Earth & Space Systems accelerator"],
+      "amounts": ["up to $80,000"],
+      "dates": [],
+      "eligibility": ["science and technology startups"]
+    }
+  },
+  "cuanschutz-edu-innovations-campus-innovator-funding-cu-healthcare-innovation-fun": {
+    "summary": "CU Healthcare Innovation Fund is a funding opportunity at CU Anschutz for campus innovators developing healthcare solutions.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Innovations", "CU Anschutz"],
+      "programs": ["CU Healthcare Innovation Fund"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Anschutz innovators"]
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-data-metrics": {
+    "summary": "CU Innovations publishes data and metrics about its impact and programs. Reference page for innovation statistics at the medical campus.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Innovations", "CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2019-01-24-cu-boulder-brings-together-top-spinoffs-": {
+    "summary": "Venture Partners at CU Boulder organized Destination Startup to bring together top spinoffs from Colorado research institutions. The event showcases successful commercialization from research universities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Venture Partners at CU Boulder", "Colorado research institutions"],
+      "programs": ["Destination Startup"],
+      "amounts": [],
+      "dates": ["2019-01-24"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-contact": {
+    "summary": "Contact page for CU Innovations at the CU Anschutz Medical Campus.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Innovations", "CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-protect-ip": {
+    "summary": "CU Innovations provides guidance to faculty and researchers on intellectual property protection including patents, copyrights, and trademarks. The resource helps innovators understand and utilize IP tools to protect discoveries and retain exclusive rights.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Innovations", "CU Anschutz", "USPTO"],
+      "programs": ["IP protection guidance"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU faculty", "CU researchers"]
+    }
+  },
+  "innosphereventures-org-strategic-plan": {
+    "summary": "The ASCEND Engine is an NSF-funded initiative (2026-2029) connecting researchers, entrepreneurs, communities and policymakers to develop environmental solutions across the Colorado-Wyoming I-25 Innovation Corridor. The engine focuses on ecosystem building and large-scale programs.",
+    "entities": {
+      "people": [],
+      "orgs": ["NSF", "Colorado-Wyoming I-25 Innovation Corridor stakeholders"],
+      "programs": ["ASCEND Engine"],
+      "amounts": [],
+      "dates": ["2026-2029"],
+      "eligibility": []
+    }
+  },
+  "innosphereventures-org-impacts-hackathon-turned-bottlenecks-into-breakthroughs": {
+    "summary": "The NSF ASCEND Engine's first hackathon (January 28-30) brought together seven peer-reviewed research teams with NVIDIA expertise and University of Wyoming's compute resources. Teams achieved rapid progress on high-performance computing problems through targeted technical mentorship.",
+    "entities": {
+      "people": ["Sepideh Khajehei"],
+      "orgs": ["NSF ASCEND Engine", "NVIDIA", "University of Wyoming Advanced Research Computing Center"],
+      "programs": ["ASCEND-NVIDIA Hackathon"],
+      "amounts": [],
+      "dates": ["January 28-30, 2026"],
+      "eligibility": []
+    }
+  },
+  "siliconflatirons-org-initiatives-content-and-ip-initiative": {
+    "summary": "Silicon Flatirons' Intellectual Property Initiative, established in 2014, convenes law students, faculty, policymakers, and creators to address emerging IP and copyright issues. The initiative distinguishes itself by including artist perspectives on IP law.",
+    "entities": {
+      "people": [],
+      "orgs": ["Silicon Flatirons", "University of Colorado Law School"],
+      "programs": ["Intellectual Property Initiative"],
+      "amounts": [],
+      "dates": ["2014"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026": {
+    "summary": "The Research & Innovation Office bulletin lists upcoming funding opportunities from government agencies, foundations, and corporations with various deadlines throughout 2026. Includes programs from NIH, NSF, NASA, Google, and others supporting research and innovation.",
+    "entities": {
+      "people": ["Sarah Hughes", "Andrew Chiacchierini"],
+      "orgs": ["Research & Innovation Office", "NIH", "NSF", "NASA", "Google", "Samsung", "Medtronic", "NEH", "CRDDS", "CTR"],
+      "programs": ["various funding opportunities"],
+      "amounts": [],
+      "dates": ["multiple 2026 deadlines"],
+      "eligibility": ["researchers", "faculty"]
+    }
+  },
+  "cuanschutz-edu-innovations-spark-about-spark-funding-sources": {
+    "summary": "SPARK is funded through Colorado's Office of Economic Development and International Trade (OEDIT) Advanced Industries Accelerator Program. SPARK Proof of Concept grants fund up to $150,000 with required 3:1 matching funds.",
+    "entities": {
+      "people": [],
+      "orgs": ["OEDIT", "CU Anschutz"],
+      "programs": ["SPARK", "AIA Proof of Concept"],
+      "amounts": ["up to $150,000 per project", "$50,000 match requirement"],
+      "dates": [],
+      "eligibility": ["biotechnology companies"]
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-goldberg-elizabeth-extb537e5": {
+    "summary": "Dr. Elizabeth Goldberg is Associate Professor of Emergency Medicine at CU Anschutz leading the HIE Impact Initiative. Her patient-centered, data-driven approach addresses digital health, fall prevention, and medication safety for aging populations.",
+    "entities": {
+      "people": ["Elizabeth Goldberg"],
+      "orgs": ["CU Anschutz School of Medicine"],
+      "programs": ["HIE Impact Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-kramer-dan-exttf719i": {
+    "summary": "Dr. Daniel R. Kramer is Assistant Professor of Neurosurgery and Director of the Brain-Computer Interface Program at CU Anschutz. He serves as HIE Impact Champion for Neurosurgery, bridging translational neurotechnology research with entrepreneurial commercialization.",
+    "entities": {
+      "people": ["Daniel Kramer"],
+      "orgs": ["CU Anschutz School of Medicine", "Brain-Computer Interface Program"],
+      "programs": ["HIE Impact Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-joy-melanie-extfdo3ym": {
+    "summary": "Dr. Melanie Joy is Professor and Director of Innovation & Commercialization at the Skaggs School of Pharmacy, leading the SPARK/REACH Program. Her expertise in translational innovation and entrepreneurship education drives the health innovation ecosystem.",
+    "entities": {
+      "people": ["Melanie Joy"],
+      "orgs": ["Skaggs School of Pharmacy", "CU Anschutz", "Katharos Inc"],
+      "programs": ["SPARK/REACH Program", "HIE Impact Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-bruce-kim-ext6dvd8h": {
+    "summary": "Dr. Kim Bruce is Associate Professor of Endocrinology at CU Anschutz who brings translational research expertise to the HIE Impact Initiative. Her mentorship and cross-disciplinary engagement support the initiative's mission of healthcare transformation.",
+    "entities": {
+      "people": ["Kim Bruce"],
+      "orgs": ["CU Anschutz School of Medicine"],
+      "programs": ["HIE Impact Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-manage-ip-heal": {
+    "summary": "Resource page for healthcare advisors and Entrepreneurs-in-Residence (EIRs) at CU Innovations. EIRs provide expert consultation on product development and innovation management.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Innovations"],
+      "programs": ["Entrepreneurs-in-Residence (EIRs)", "Healthcare Advisors"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-nagaraj-ram-extdl2xyj": {
+    "summary": "Dr. Ram Nagaraj is Professor of Ophthalmology at CU Anschutz and Department Champion for the HIE Initiative. His leadership in translational eye research and clinical innovation positions him as a key contributor to advancing healthcare solutions.",
+    "entities": {
+      "people": ["Ram Nagaraj"],
+      "orgs": ["CU Anschutz School of Medicine"],
+      "programs": ["HIE Impact Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-lu-shi-long-extnncntp": {
+    "summary": "Dr. Shi-Long Lu is Professor of Otolaryngology at CU Anschutz bringing translational research expertise in head and neck cancer and salivary gland tumors. His bench-to-bedside approach integrating cancer genetics and immunotherapy exemplifies the HIE Innovation mission.",
+    "entities": {
+      "people": ["Shi-Long Lu"],
+      "orgs": ["CU Anschutz School of Medicine"],
+      "programs": ["HIE Impact Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-lampe-jed-extzc7uy4": {
+    "summary": "Dr. Jed Lampe is Associate Professor in Pharmaceutical Sciences at CU Anschutz, bringing expertise in drug metabolism and translational pharmacology to the HIE Initiative. His collaborative approach advances therapeutic development and healthcare innovation.",
+    "entities": {
+      "people": ["Jed Lampe"],
+      "orgs": ["Skaggs School of Pharmacy", "CU Anschutz"],
+      "programs": ["HIE Impact Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "coloradostartups-org-gift-guide": {
+    "summary": "The Colorado Startups Gift Guide showcases products from Colorado-based startup companies. Curated in collaboration with New Tech Colorado and Exponential Impact, it serves as a resource for discovering and supporting local innovators.",
+    "entities": {
+      "people": [],
+      "orgs": ["Colorado Startups Community", "New Tech Colorado", "Exponential Impact"],
+      "programs": ["Colorado Startups Gift Guide"],
+      "amounts": [],
+      "dates": ["December 2025"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-yang-heiko-extzrsl9m": {
+    "summary": "Dr. Heiko Yang is Assistant Professor of Urologic Surgery at CU Anschutz and founder of RetroNephrix Surgery and Bach Medical Innovations. His translational research in kidney surgery and innovation exemplifies the HIE Initiative's healthcare solution mission.",
+    "entities": {
+      "people": ["Heiko Yang"],
+      "orgs": ["CU Anschutz School of Medicine", "RetroNephrix Surgery", "Bach Medical Innovations"],
+      "programs": ["HIE Impact Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-zuscik-michael-extumgt6i": {
+    "summary": "Dr. Michael Zuscik is Professor of Orthopedics and Mack Clayton Professor at CU Anschutz leading the Colorado Program for Musculoskeletal Research. His translational research exemplifies bench-to-bedside innovation in orthopedic and regenerative medicine.",
+    "entities": {
+      "people": ["Michael Zuscik"],
+      "orgs": ["CU Anschutz School of Medicine"],
+      "programs": ["Colorado Program for Musculoskeletal Research", "HIE Impact Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-wang-richard-extd5za0f": {
+    "summary": "Dr. Richard Wang is Professor and Vice Chair of Research in Dermatology at CU Anschutz, bringing expertise in translational skin biology and clinical innovation. His leadership advances interdisciplinary collaborations for health equity and precision care.",
+    "entities": {
+      "people": ["Richard Wang"],
+      "orgs": ["CU Anschutz School of Medicine"],
+      "programs": ["HIE Impact Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-sperry-taylor-ucd6004345246": {
+    "summary": "Taylor Sperry is Venture Operations Program Director at CU Anschutz Innovations. She brings experience from tech and publishing industries, most recently leading AI coding assistant development at Sourcegraph.",
+    "entities": {
+      "people": ["Taylor Sperry"],
+      "orgs": ["CU Innovations", "Sourcegraph"],
+      "programs": ["Venture Operations"],
+      "amounts": [],
+      "dates": ["November 2024"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-tapolsky-mary-extpztj5f": {
+    "summary": "Dr. Mary Tapolsky is Managing Director of Innovation & Commercialization at CU Innovations overseeing technology transfer, patent prosecution, and license negotiations. She brings a decade of technology transfer experience and entrepreneurship teaching expertise.",
+    "entities": {
+      "people": ["Mary Tapolsky"],
+      "orgs": ["CU Innovations", "University of Louisville"],
+      "programs": ["Lean LaunchPad program"],
+      "amounts": [],
+      "dates": ["2017"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-holers-michael-exth58kar": {
+    "summary": "Dr. Michael Holers is Smyth Professor of Rheumatology and Director of Faculty Ventures at CU Anschutz Innovations. With two decades of technology transfer experience, he has co-founded four companies advancing therapeutic discoveries from lab to clinical trials.",
+    "entities": {
+      "people": ["Michael Holers"],
+      "orgs": ["CU Anschutz School of Medicine", "CU Innovations"],
+      "programs": ["Faculty Ventures", "SERA"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-utley-tom-extwoq5ba": {
+    "summary": "Tom Utley is Assistant Director of Licensing at CU Innovations, evaluating commercial potential and negotiating licenses for healthcare innovations. With a decade of technology transfer experience including pharma collaborations, he brings biotechnology commercialization expertise.",
+    "entities": {
+      "people": ["Tom Utley"],
+      "orgs": ["CU Innovations", "Vanderbilt University"],
+      "programs": ["Licensing"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-ross-jordan-extou6bf6": {
+    "summary": "Jordan Ross is Senior Assistant Counsel at University of Colorado Denver│Anschutz Medical Campus working with CU Innovations on intellectual property protection. Her litigation background spans healthcare and contributes to the legal framework supporting university innovation.",
+    "entities": {
+      "people": ["Jordan Ross"],
+      "orgs": ["University Counsel", "CU Innovations", "Messner Reeves", "Colorado Women's Bar Association"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2024"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-goodwin-colleen-exts7dhs2": {
+    "summary": "Colleen Goodwin is Senior Business Administration & Partnerships Coordinator for CU Innovations, supporting business operations and managing key partnership initiatives. She brings experience from investor relations and conference management.",
+    "entities": {
+      "people": ["Colleen Goodwin"],
+      "orgs": ["CU Innovations", "Ascent Equity Group", "Passive Income MD"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["January 2026"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-ferachi-harrison-exts0qruj": {
+    "summary": "Harrison Ferachi is Contract Review Associate at CU Innovations supporting contract management between CU Anschutz and external partners. His background spans health law, regulatory compliance, and legislative affairs.",
+    "entities": {
+      "people": ["Harrison Ferachi"],
+      "orgs": ["CU Innovations", "EPA", "Johnson & Johnson", "U.S. House of Representatives", "D.C. Health"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-allard-emma-extgttq05": {
+    "summary": "Emma Allard is Operations Project Manager at CU Innovations providing operational support and marketing coordination. She joined in 2022 and was promoted in 2023, now coordinating special projects and managing social media.",
+    "entities": {
+      "people": ["Emma Allard"],
+      "orgs": ["CU Innovations"],
+      "programs": ["Stories of Women-Led Innovation"],
+      "amounts": [],
+      "dates": ["September 2022", "June 2023"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-adnan-alison-ext3vysy6": {
+    "summary": "Alison Adnan is Patent Agent at University Counsel supporting CU Innovations in intellectual property protection. She brings specialized expertise in patent prosecution and is registered to practice before the U.S. Patent & Trademark Office.",
+    "entities": {
+      "people": ["Alison Adnan"],
+      "orgs": ["University Counsel", "CU Innovations", "U.S. Patent & Trademark Office"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["January 2024"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-harrison-brad-ext80dkyg": {
+    "summary": "Brad Harrison is Senior Staff Accountant at CU Innovations overseeing financial management of license agreements and distributing incoming finances to principal investigators. His 20+ years of experience spans for-profit and nonprofit sectors.",
+    "entities": {
+      "people": ["Brad Harrison"],
+      "orgs": ["CU Innovations"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-harrison-shawna-ucd6004490779": {
+    "summary": "Shawna Harrison is Contract Review Associate at CU Innovations supporting contract management with campus and external partners. Her background spans litigation, nonprofit legal services, and government agencies.",
+    "entities": {
+      "people": ["Shawna Harrison"],
+      "orgs": ["CU Innovations", "Miami-Dade State Attorney's Office", "Dallas County District Attorney's Office"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-hegel-angie-extgucl4b": {
+    "summary": "Angie Hegel is Graphic Designer & Communications Program Manager at CU Innovations managing marketing and social media. Her 20+ years in art direction and advertising brings strategic brand messaging expertise.",
+    "entities": {
+      "people": ["Angie Hegel"],
+      "orgs": ["CU Innovations"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["September 2021"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-morie-don-ext5eugdn": {
+    "summary": "Don Morie is Assistant Director of Finance at CU Innovations managing grant and contract finances with experience across federal agencies including NIH, DoD, DARPA, and NSF.",
+    "entities": {
+      "people": ["Don Morie"],
+      "orgs": ["CU Innovations", "North Carolina State University"],
+      "programs": ["Grant management programs"],
+      "amounts": [],
+      "dates": ["December 2016"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-mccaffery-addie-ucd6004482316": {
+    "summary": "Addie McCaffery is Associate Director of Innovation Strategy at CU Innovations researching emerging technologies and advancing commercialization strategies. Her five years at Boston Consulting Group bring biopharma commercial strategy expertise.",
+    "entities": {
+      "people": ["Addie McCaffery"],
+      "orgs": ["CU Innovations", "Boston Consulting Group", "The Dedham Group"],
+      "programs": ["Innovation Strategy"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-johnston-jane-ext7a6f8p": {
+    "summary": "Jane Johnston is Patent Docket Specialist at CU Innovations tracking invention patent prosecution and portfolio management. She brings 20+ years of IP docketing experience.",
+    "entities": {
+      "people": ["Jane Johnston"],
+      "orgs": ["CU Innovations"],
+      "programs": ["Patent Docketing"],
+      "amounts": [],
+      "dates": ["November 2025"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-molk-doreen-ext1asn8s": {
+    "summary": "Doreen Molk is Senior Licensing Manager at CU Innovations leading licensing strategy for cell and gene therapy portfolio. She has advanced biomedical discoveries toward commercialization and led major innovation events.",
+    "entities": {
+      "people": ["Doreen Molk"],
+      "orgs": ["CU Innovations", "National Renewable Energy Laboratory"],
+      "programs": ["Cell and gene therapy licensing"],
+      "amounts": [],
+      "dates": ["2017"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-smith-clay-extxkj950": {
+    "summary": "Dr. Clay Smith is Medical Director of CU Innovations and Professor of Hematology at CU Anschutz. He is co-founder and Chief Medical Officer of OncoVerity and co-founder and Chief Innovation Officer of RefinedScience.",
+    "entities": {
+      "people": ["Clay Smith"],
+      "orgs": ["CU Anschutz School of Medicine", "CU Innovations", "OncoVerity", "RefinedScience"],
+      "programs": ["Medical Direction"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-parker-morgan-ext9wufds": {
+    "summary": "Morgan Parker is Innovation Partnerships Program Director at CU Innovations driving business development and strategic initiatives. Her decade-plus experience spans corporate and agency settings with expertise in scalable system building.",
+    "entities": {
+      "people": ["Morgan Parker"],
+      "orgs": ["CU Innovations"],
+      "programs": ["Innovation Partnerships"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-stanker-chad-ext3qyr3t": {
+    "summary": "Chad Stanker is Senior Data Analyst at CU Innovations managing the innovations database and conducting departmental analysis. His economics background supports data-driven decision making.",
+    "entities": {
+      "people": ["Chad Stanker"],
+      "orgs": ["CU Innovations", "Colorado State University"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-pagels-lindley-exty80pv3": {
+    "summary": "Lindley Pagels is Assistant Director of HR & Operations at CU Innovations supporting human resources and operational functions.",
+    "entities": {
+      "people": ["Lindley Pagels"],
+      "orgs": ["CU Innovations"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-taylor-kimberly-extqz9lro": {
+    "summary": "Kimberly Taylor is Patent Manager at CU Innovations supporting intellectual property management and patent strategy.",
+    "entities": {
+      "people": ["Kimberly Taylor"],
+      "orgs": ["CU Innovations"],
+      "programs": ["Patent Management"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-wang-david-ext7kbvu1": {
+    "summary": "David Wang is Assistant Director of Business Development & Licensing at CU Innovations supporting commercialization and licensing activities.",
+    "entities": {
+      "people": ["David Wang"],
+      "orgs": ["CU Innovations"],
+      "programs": ["Business Development & Licensing"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "siliconflatirons-org-events-space-tech-variety-show-amp-3butm-medium-email": {
+    "summary": "The Space Tech Startup Variety Show on February 17, 2026 showcases early-stage aerospace startups pitching to industry leaders. A student-led event inspired by CU Law's Space Law Society, it explores the intersection of technical innovation, legal frameworks, and entrepreneurship.",
+    "entities": {
+      "people": ["Matt Schmit", "Hailey Nichols"],
+      "orgs": ["Silicon Flatirons", "University of Colorado Law School", "Space Law Society"],
+      "programs": ["Space Tech Startup Variety Show"],
+      "amounts": [],
+      "dates": ["February 17, 2026"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-troemner-aaron-extx5me2q": {
+    "summary": "Aaron Troemner is Licensing Manager at CU Innovations bringing five years of biopharma experience in GMP manufacturing and fermentation process development.",
+    "entities": {
+      "people": ["Aaron Troemner"],
+      "orgs": ["CU Innovations", "Colorado State University"],
+      "programs": ["Licensing"],
+      "amounts": [],
+      "dates": ["2018"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-zane-gabriella-exte5vns9": {
+    "summary": "Gabriella Zane is Junior Contracts Analyst at CU Innovations assisting the legal team with contract review and research. She brings government experience from internships in Senator Bennet's office.",
+    "entities": {
+      "people": ["Gabriella Zane"],
+      "orgs": ["CU Innovations", "Elliott School of International Affairs", "Senator Michael Bennet's office"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-student-ip-undergraduate-innovators": {
+    "summary": "Resource page for undergraduate innovators at CU Innovations supporting student-driven innovation and intellectual property development.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Innovations"],
+      "programs": ["Undergraduate Innovators"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["undergraduate students"]
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-11T17:26:01.045Z",
+ "updatedAt": "2026-08-11T18:09:22.172Z",
  "startedAt": "2026-08-11T16:50:27.591Z",
  "batches": 19,
  "pagesFetched": 4767,
@@ -221,5 +221,6 @@
   "boulderstartupweek.com": 1,
   "itll.colorado.edu": 1
  },
- "duplicatesCollapsed": 604
+ "duplicatesCollapsed": 604,
+ "enrichedCount": 1746
 }

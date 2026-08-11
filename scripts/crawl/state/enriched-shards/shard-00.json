@@ -1,0 +1,992 @@
+{
+  "colorado-edu-venturepartners-2025-08-11-internal-news-wanted-entrepreneurs-launc": {
+    "summary": "Embark Deep Tech Startup Creator matches entrepreneurs with breakthrough CU Boulder technologies, providing salary support, startup training, and funding access. Applications open for 2026 cohort with up to seven founder positions available.",
+    "entities": {
+      "people": ["Bryn Rees (associate vice chancellor for innovation and partnerships)"],
+      "orgs": ["Venture Partners at CU Boulder", "CU Boulder"],
+      "programs": ["Embark Deep Tech Startup Creator"],
+      "amounts": [],
+      "dates": ["Sept. 12 (2025 application deadline)"],
+      "eligibility": ["Entrepreneurs seeking to commercialize CU Boulder technologies"]
+    }
+  },
+  "colorado-edu-researchinnovation-whiting-public-engagement-programs-fellowship-an": {
+    "summary": "The Whiting Foundation Public Engagement Programs fund ambitious projects by early-career humanities faculty that bring scholarly work to public audiences. Offers fellowship ($50,000) and seed grant (up to $10,000) options.",
+    "entities": {
+      "people": [],
+      "orgs": ["Whiting Foundation", "Research & Innovation Office"],
+      "programs": ["Whiting Public Engagement Fellowship", "Whiting Public Engagement Seed Grant"],
+      "amounts": ["$50,000 (Fellowship)", "$10,000 (Seed Grant max)"],
+      "dates": [],
+      "eligibility": ["Early-career faculty with developed public engagement projects"]
+    }
+  },
+  "colorado-edu-researchinnovation-nuclear-regulatory-commission-fellowship-educati": {
+    "summary": "NRC Fellowship Education Grants support fellowships in nuclear science and engineering to develop workforce capability for design, construction, and regulation of nuclear facilities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Nuclear Regulatory Commission", "Research & Innovation Office"],
+      "programs": ["NRC Fellowship Education Grants"],
+      "amounts": ["$400,000"],
+      "dates": ["October 16, 2018 (internal deadline)", "November 30, 2018 (sponsor deadline)"],
+      "eligibility": ["No special eligibility requirements stated"]
+    }
+  },
+  "colorado-edu-researchinnovation-nuclear-regulatory-commission-scholarship-grants": {
+    "summary": "NRC Scholarship Grants support scholarships for nuclear science and engineering students to develop workforce capability for nuclear sector design, construction, and safety.",
+    "entities": {
+      "people": [],
+      "orgs": ["Nuclear Regulatory Commission", "Research & Innovation Office"],
+      "programs": ["NRC Scholarship Grants"],
+      "amounts": ["$200,000"],
+      "dates": ["October 16, 2018 (internal deadline)", "November 30, 2018 (sponsor deadline)"],
+      "eligibility": ["No special eligibility requirements stated"]
+    }
+  },
+  "colorado-edu-researchinnovation-venturewell-faculty-grants": {
+    "summary": "VentureWell Course & Program Grants fund curriculum development for science and technology innovation and entrepreneurship education. Supports course creation, programs, and experiential learning initiatives.",
+    "entities": {
+      "people": [],
+      "orgs": ["VentureWell", "Research & Innovation Office"],
+      "programs": ["VentureWell Course & Program Grants"],
+      "amounts": [],
+      "dates": ["October 2, 2023 (internal deadline)", "November 8, 2023 (sponsor deadline)"],
+      "eligibility": ["Higher education institutions"]
+    }
+  },
+  "colorado-edu-researchinnovation-brain-research-foundation-fayfrank-seed-grants": {
+    "summary": "Brain Research Foundation Seed Grants provide startup funding for new neuroscience research projects, especially for junior faculty, with intent to generate pilot data for larger NIH grants.",
+    "entities": {
+      "people": [],
+      "orgs": ["Brain Research Foundation", "Research & Innovation Office"],
+      "programs": ["Brain Research Foundation Annual Seed Grant Program"],
+      "amounts": [],
+      "dates": ["September 28, 2026 (internal deadline)", "November 3, 2026 (sponsor LOI deadline)", "March 4, 2027 (application deadline)"],
+      "eligibility": ["Assistant and Associate Professors with new research directions"]
+    }
+  },
+  "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-starting-blocks": {
+    "summary": "Starting Blocks Customer Discovery Workshop offers three-week training on commercialization, customer testing, and market validation for researchers, entrepreneurs, and innovators. Offered as part of NSF I-Corps Hub West.",
+    "entities": {
+      "people": ["Emily Vogt (Director of Venture Development)"],
+      "orgs": ["Venture Partners at CU Boulder", "NSF I-Corps Hub West"],
+      "programs": ["Starting Blocks Customer Discovery Workshop", "NSF I-Corps Hub West"],
+      "amounts": ["$50,000 (subsequent I-Corps Teams grant potential)"],
+      "dates": [],
+      "eligibility": ["Researchers, entrepreneurs, inventors from research or community institutions"]
+    }
+  },
+  "colorado-edu-today-2025-01-15-new-quantum-incubator-boulder-propel-innovations-r": {
+    "summary": "A new 13,000-square-foot quantum incubator in Boulder, funded by Colorado state tax incentive and led by CU Boulder with Colorado State University and Colorado School of Mines, supports quantum technology commercialization.",
+    "entities": {
+      "people": ["Gov. Jared Polis", "U.S. Rep. Joe Neguse"],
+      "orgs": ["CU Boulder", "Colorado State University", "Colorado School of Mines", "Elevate Quantum"],
+      "programs": ["Quantum Incubator"],
+      "amounts": [],
+      "dates": ["2025 (International Year of Quantum Science and Technology)"],
+      "eligibility": ["Quantum technology entrepreneurs and companies"]
+    }
+  },
+  "colorado-edu-venturepartners-investors-and-partners-licensing-industry-partners-": {
+    "summary": "Licensing with EASE provides startup-friendly, pre-negotiated licensing terms for university technologies with favorable financial conditions compared to national averages. Offers choice between Aligned, Blended, or Equity-Free deal options.",
+    "entities": {
+      "people": ["Marta Zgagacz (Senior Director)"],
+      "orgs": ["Venture Partners at CU Boulder", "startup investors and law firms"],
+      "programs": ["Licensing with EASE (Express Agreement for Startup Entrepreneurs)"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder startup companies"]
+    }
+  },
+  "colorado-edu-venturepartners-2025-11-20-external-news-colorado-office-economic-d": {
+    "summary": "OEDIT announced grants to CU-based startups and researchers in advanced industries through Proof of Concept and Early-Stage Capital and Retention grants supporting innovation commercialization.",
+    "entities": {
+      "people": [],
+      "orgs": ["Colorado Office of Economic Development and International Trade (OEDIT)", "Venture Partners at CU Boulder"],
+      "programs": ["OEDIT Advanced Industries Accelerator Program", "Proof of Concept and Early-Stage Capital grants"],
+      "amounts": [],
+      "dates": ["November 20, 2025"],
+      "eligibility": ["University-based startups and researchers in advanced industries"]
+    }
+  },
+  "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke": {
+    "summary": "Research-to-Market (R2M) Customer Discovery Program is a four-week program using Lean LaunchPad methodology to help teams validate markets and customer needs for innovations. Part of NSF I-Corps Hub West.",
+    "entities": {
+      "people": ["Emily Vogt (Director of Venture Development)"],
+      "orgs": ["Venture Partners at CU Boulder", "NSF I-Corps Hub West"],
+      "programs": ["Research-to-Market (R2M) Customer Discovery Program"],
+      "amounts": ["$50,000 (potential through National I-Corps Teams Program)"],
+      "dates": [],
+      "eligibility": ["Researchers, entrepreneurs, inventors commercializing innovations"]
+    }
+  },
+  "colorado-edu-innovate-2025-01-28-feb-8-deadline-nvc-and-sinvc-registration": {
+    "summary": "The New Venture Challenge (NVC) is CU Boulder's signature entrepreneurial competition with $320,000 in prize money available across multiple categories and specialty competitions for students, faculty, and staff.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": ["New Venture Challenge (NVC)", "Social Impact New Venture Challenge (SINVC)", "Women Founders Competition"],
+      "amounts": ["$320,000 (total competition prizes)"],
+      "dates": ["February 8, 2025 (application deadline)"],
+      "eligibility": ["Current CU Boulder students, faculty, staff, recent graduates"]
+    }
+  },
+  "colorado-edu-nvc-social-impact-new-venture-challenge": {
+    "summary": "Social Impact New Venture Challenge offers up to $5,000 in prizes for ventures addressing social, environmental, or community issues. Winners gain automatic acceptance to SEA Change Social Enterprise Accelerator.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": ["Social Impact New Venture Challenge (SINVC)", "SEA Change Social Enterprise Accelerator"],
+      "amounts": ["$5,000 (max prize)"],
+      "dates": ["February 8, 2025 (registration deadline)", "April 7 (winner announcement)"],
+      "eligibility": ["CU Boulder students, faculty, staff, recent graduates with social enterprise ventures"]
+    }
+  },
+  "colorado-edu-innovate-2026-02-05-deadline-extended-hsnvc-opens-doors-colorados-h": {
+    "summary": "High School New Venture Challenge (HSNVC) powered by FirstBank is an entrepreneurship competition for Colorado high school students with $25,000 in scholarships and skill-building focus on creativity, teamwork, and pitching.",
+    "entities": {
+      "people": ["Leah Jean Shafer (program manager)"],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder", "FirstBank"],
+      "programs": ["High School New Venture Challenge (HSNVC)"],
+      "amounts": ["$25,000 (scholarship pool)"],
+      "dates": ["February 14, 2026 (extended initial registration deadline)", "March 25 (final submissions)"],
+      "eligibility": ["Colorado high school students, including homeschooled students"]
+    }
+  },
+  "colorado-edu-innovate-programs-resources-research-innovation-seed-grants": {
+    "summary": "Research & Innovation Seed Grants support bold, interdisciplinary research projects with up to $60,000 over 18 months to catalyze innovation and position teams for larger external funding.",
+    "entities": {
+      "people": [],
+      "orgs": ["Research & Innovation Office", "CU Boulder"],
+      "programs": ["Research & Innovation Seed Grant Program"],
+      "amounts": ["Up to $60,000"],
+      "dates": [],
+      "eligibility": ["Team-based proposals from CU Boulder faculty; single PI not allowed"]
+    }
+  },
+  "colorado-edu-innovate-2026-03-11-get-ready-hsnvc": {
+    "summary": "The 2026 High School New Venture Challenge involves 84+ teams of Colorado high school students developing entrepreneurial solutions through customer discovery and pitch preparation for March 25 deadline.",
+    "entities": {
+      "people": ["Leah Jean Shafer"],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "FirstBank"],
+      "programs": ["High School New Venture Challenge (HSNVC)"],
+      "amounts": ["$25,000 (scholarship pool for top six teams)"],
+      "dates": ["March 25, 2026 (final materials deadline)"],
+      "eligibility": ["Colorado high school students from all backgrounds"]
+    }
+  },
+  "colorado-edu-service-workforce-workforce-development-seed-grant-program": {
+    "summary": "Workforce Development Seed Grants fund pilot programs testing novel skill development and learning models beyond traditional education, with up to $50K total for early-stage initiatives.",
+    "entities": {
+      "people": [],
+      "orgs": ["Workforce Development Hub", "Research & Innovation Office", "CU Boulder"],
+      "programs": ["Workforce Development Seed Grant Program"],
+      "amounts": ["$5-50K"],
+      "dates": [],
+      "eligibility": ["CU Boulder with ecosystem partnerships; external partners encouraged"]
+    }
+  },
+  "colorado-edu-innovate-2020-03-16-six-startup-teams-compete-new-venture-challenge": {
+    "summary": "Six startups competed in NVC 12 Championships vying for up to $100,000 in prizes. Notable ventures included Darwin Biosciences, DocForge, EdBoard, Frenz, Mycobacteria Therapeutics, and Soulutions.",
+    "entities": {
+      "people": ["Jackson Roberts (DocForge co-founder and CEO)"],
+      "orgs": ["Innovation & Entrepreneurship Initiative"],
+      "programs": ["New Venture Challenge 12 Championships"],
+      "amounts": ["Up to $100,000"],
+      "dates": ["March 2020", "February 2020 (Round 1)", "September 2019 (competition start)"],
+      "eligibility": ["Faculty, students from CU Boulder"]
+    }
+  },
+  "colorado-edu-researchinnovation-2026-05-14-nineteen-arts-humanities-projects-rec": {
+    "summary": "Research & Innovation Office awarded $107,000 to 19 arts and humanities projects across CU Boulder supporting creative research in diverse disciplines including art, cinema, ethnic studies, and music.",
+    "entities": {
+      "people": ["Massimo Ruzzene (senior vice chancellor for research and innovation)", "John-Michael Rivera (Dean of Arts and Humanities)"],
+      "orgs": ["Research & Innovation Office", "Division of Arts and Humanities", "College of Arts and Sciences"],
+      "programs": ["Arts & Humanities Grant Program"],
+      "amounts": ["$107,000 (total)", "$5,000-$7,500 per project (implied)"],
+      "dates": ["April 13 (application deadline)", "May 14, 2026 (announcement)"],
+      "eligibility": ["CU Boulder arts and humanities faculty"]
+    }
+  },
+  "colorado-edu-research-abnexus-apply-funding": {
+    "summary": "AB Nexus seeks multidisciplinary research proposals addressing human health challenges through basic, translational, or clinical approaches with potential for federal funding sustainability.",
+    "entities": {
+      "people": [],
+      "orgs": ["AB Nexus", "Research & Innovation Office"],
+      "programs": ["AB Nexus Grant Program", "Exploratory/Broad Announcement", "Special Topic: AI and Brain Health"],
+      "amounts": ["$75,000 (Exploratory, 18 months)", "$150,000/year (Special Topic, up to 2 years)"],
+      "dates": ["May 11, 2026 (submission deadline)", "August 2026 (decisions)", "September 1, 2026 (project start)"],
+      "eligibility": ["Multidisciplinary collaborative research teams"]
+    }
+  },
+  "colorado-edu-innovate-2020-09-02-saas-platform-notice-wins-first-place-silicon-f": {
+    "summary": "Startup Summer program provides interns at Colorado Front Range companies with entrepreneurial training and allows them to build their own ventures, culminating in a pitch competition with cash prizes.",
+    "entities": {
+      "people": [],
+      "orgs": ["Silicon Flatirons Center at Colorado Law", "CU Boulder"],
+      "programs": ["Startup Summer", "Startup Summer Pitch Night"],
+      "amounts": ["$5,000 (1st place, 2020)", "Cash prizes (varying)"],
+      "dates": ["June-August (annual program)", "August 4, 2020 (virtual pitch night)"],
+      "eligibility": ["Undergraduate and graduate students with paid internships at Front Range startups"]
+    }
+  },
+  "colorado-edu-innovate-2021-03-31-30000-awarded-cus-top-startups-new-venture-chal": {
+    "summary": "NVC Specialty Prize Night competitions awarded $30,000 across three categories: Impact Prize, NVC Newcomer Prize, and Female Founder Prize for addressing social, environmental, and diversity-focused ventures.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "Deming Center for Entrepreneurship"],
+      "programs": ["New Venture Challenge Specialty Prize Nights"],
+      "amounts": ["$30,000"],
+      "dates": ["March 16-18, 2021"],
+      "eligibility": ["CU Boulder students, faculty, staff with startup ventures"]
+    }
+  },
+  "colorado-edu-nvc-promo-kits-nvc-female-founders-competition-registration": {
+    "summary": "Women Founders Competition is a specialty NVC category for teams with at least one female core member, offering up to $5,000 in prize funding and entrepreneurial support.",
+    "entities": {
+      "people": ["Daniel Leonard (senior marketing and communications specialist)"],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "Deming Center for Entrepreneurship"],
+      "programs": ["Women Founders Competition"],
+      "amounts": ["Up to $5,000"],
+      "dates": ["November 1, 2023 (application opens)", "March 13, 2024 (deadline)"],
+      "eligibility": ["CU Boulder students, faculty, staff, recent graduates with female team member"]
+    }
+  },
+  "colorado-edu-nvc-promo-kit-women-founders-competition-2025": {
+    "summary": "Women Founders Competition 2025 offers up to $5,000 for ventures led by women at CU Boulder, with finals at Silicon Flatirons Wolf Law Building Wittemyer Courtroom.",
+    "entities": {
+      "people": ["Karen Reid (marketing and communications specialist)"],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "Deming Center for Entrepreneurship"],
+      "programs": ["Women Founders Competition"],
+      "amounts": ["Up to $5,000"],
+      "dates": ["February 8, 2025 (application opens)", "February 22, 2025 (deadline)", "March 20, 2025 (finals)"],
+      "eligibility": ["CU Boulder students, faculty, staff, recent graduates"]
+    }
+  },
+  "colorado-edu-venturepartners-2024-10-02-cu-researchers-compete-share-125m-grant-": {
+    "summary": "Lab Venture Challenge Showcases pit 14 CU teams competing for $1.25M in startup grants across biosciences and physical sciences innovation categories.",
+    "entities": {
+      "people": ["Joshua Bennett (director of LVC, senior licensing manager)"],
+      "orgs": ["Venture Partners at CU Boulder", "OEDIT Advanced Industries Program"],
+      "programs": ["Lab Venture Challenge (LVC)"],
+      "amounts": ["$1.25M total", "Up to $125,000 per grant"],
+      "dates": ["October 23, 2024 (Physical Sciences)", "October 24, 2024 (Biosciences)"],
+      "eligibility": ["CU Boulder, Denver, Colorado Springs researchers and entrepreneurs"]
+    }
+  },
+  "colorado-edu-researchinnovation-nih-seed-instrumentation-support-sis-program": {
+    "summary": "NIH Seed Instrumentation Support Program funds acquisition of single biomedical research instruments to build new research capacity and enable collaborative research.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Institutes of Health", "Research & Innovation Office"],
+      "programs": ["NIH Seed Instrumentation Support (SIS) Program"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Research institutions seeking to build research capacity"]
+    }
+  },
+  "colorado-edu-venturepartners-2025-05-15-internal-news-oedit-announces-grants-cu-": {
+    "summary": "OEDIT announced Proof of Concept and Early-Stage Capital grants to 22 Colorado companies and 13 researchers, including 7 CU ventures, supporting advanced industries innovation and commercialization.",
+    "entities": {
+      "people": ["Michelle Hadwiger (Global Business Development Director)"],
+      "orgs": ["Colorado Office of Economic Development and International Trade (OEDIT)", "Center for Translational Research"],
+      "programs": ["OEDIT Advanced Industries Accelerator Program"],
+      "amounts": [],
+      "dates": ["May 29, 2025"],
+      "eligibility": ["CU-based startups and researchers using university technology"]
+    }
+  },
+  "colorado-edu-researchinnovation-wm-keck-foundation-research-grants": {
+    "summary": "W.M. Keck Foundation Research Program supports pioneering science and engineering projects with transformative potential in medical research and science/engineering that challenge prevailing paradigms.",
+    "entities": {
+      "people": [],
+      "orgs": ["W.M. Keck Foundation", "Research & Innovation Office"],
+      "programs": ["W.M. Keck Foundation Research Program"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Major universities, independent research institutions, medical schools"]
+    }
+  },
+  "colorado-edu-researchinnovation-william-t-grant-scholars-program": {
+    "summary": "William T. Grant Scholars Program funds five-year career development for early-career researchers expanding expertise in new disciplines, with focus on reducing inequality or improving use of research evidence.",
+    "entities": {
+      "people": [],
+      "orgs": ["William T. Grant Foundation", "Research & Innovation Office"],
+      "programs": ["William T. Grant Scholars Program"],
+      "amounts": [],
+      "dates": ["April 27, 2026 (internal deadline)", "June 10, 2026 (mentor letter deadline)", "June 30, 2026 (application deadline)"],
+      "eligibility": ["Early-career researchers with track record in high-quality research"]
+    }
+  },
+  "colorado-edu-venturepartners-events-and-opportunities-destination-startup": {
+    "summary": "Destination Startup showcases best startups from research universities and federal laboratories across the Intermountain West to active investors seeking deal flow from novel academic discoveries.",
+    "entities": {
+      "people": ["Amy Dodenhoff (Director of Venture Development)"],
+      "orgs": ["Venture Partners at CU Boulder", "multiple universities", "Elevate Quantum"],
+      "programs": ["Destination Startup"],
+      "amounts": ["$1.2B+ (collective venture and grant funding raised by presenting startups to date)"],
+      "dates": [],
+      "eligibility": ["Actively fundraising startups from partner institutions"]
+    }
+  },
+  "colorado-edu-researchinnovation-mathers-foundation-grant-program-spring-2025": {
+    "summary": "Mathers Foundation supports basic scientific research with potential translational applications in immunology, microbiome, structural biology, and neuroscience, excluding COVID-19 and plant biology.",
+    "entities": {
+      "people": [],
+      "orgs": ["G. Harold and Leila Y. Mathers Foundation", "Research & Innovation Office"],
+      "programs": ["Mathers Foundation Grant Program"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Research institutions; basic science with translational potential"]
+    }
+  },
+  "colorado-edu-researchinnovation-edward-mallinckrodt-jr-foundation-grants-0": {
+    "summary": "Edward Mallinckrodt Foundation Grants support early-career biomedical investigators in basic and translational research to establish projects toward NIH R01 and independent funding.",
+    "entities": {
+      "people": [],
+      "orgs": ["Edward Mallinckrodt Jr. Foundation", "Research & Innovation Office"],
+      "programs": ["Edward Mallinckrodt Jr. Foundation Grants"],
+      "amounts": ["$75,000 per year"],
+      "dates": ["May 18, 2026 (internal deadline)", "July 1, 2026 (application deadline)"],
+      "eligibility": ["Early-career faculty (1st-4th year tenure track) without substantial independent research awards"]
+    }
+  },
+  "colorado-edu-researchinnovation-nea-grants-arts-projects": {
+    "summary": "National Endowment for the Arts Grants for Arts Projects support arts activities enabling public experience with the arts, foster cultural heritage, and advance arts education and health programs.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Endowment for the Arts (NEA)", "Research & Innovation Office"],
+      "programs": ["Grants for Arts Projects (GAP)"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Arts organizations nationwide"]
+    }
+  },
+  "colorado-edu-researchinnovation-breast-cancer-alliance-research-grants": {
+    "summary": "Breast Cancer Alliance provides seed funding for innovative breast cancer research through Young Investigator Grants ($125,000 over 2 years) and Exceptional Project Grants ($100,000 over 1 year).",
+    "entities": {
+      "people": [],
+      "orgs": ["Breast Cancer Alliance", "Research & Innovation Office"],
+      "programs": ["Breast Cancer Alliance Young Investigator Grant", "Breast Cancer Alliance Exceptional Project Grant"],
+      "amounts": ["$125,000 (Young Investigator, 2 years)", "$100,000 (Exceptional Project, 1 year)"],
+      "dates": ["March 2, 2026 (internal deadline)", "March 31, 2026 (LOI deadline)"],
+      "eligibility": ["Clinical doctors and research scientists in early career stages"]
+    }
+  },
+  "colorado-edu-researchinnovation-nsf-cybercorpsr-scholarship-service-sfs": {
+    "summary": "NSF CyberAICorps Scholarship for Service program funds scholarships and innovation in AI and cybersecurity education, with scholars committed to government service post-graduation.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Science Foundation (NSF)", "Research & Innovation Office"],
+      "programs": ["NSF CyberAICorps Scholarship for Service (CyberAI SFS)"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["U.S. citizens or lawful permanent residents", "Students committing to government service"]
+    }
+  },
+  "colorado-edu-researchinnovation-american-diabetes-association-pathway-stop-diabe": {
+    "summary": "American Diabetes Association Pathway Accelerator Award supports flexible, long-term salary and research funding for early-career researchers proposing innovative, transformational diabetes research.",
+    "entities": {
+      "people": [],
+      "orgs": ["American Diabetes Association", "Research & Innovation Office"],
+      "programs": ["Pathway to Stop Diabetes - Accelerator Award"],
+      "amounts": [],
+      "dates": ["April 6, 2026 (internal deadline)", "May 19, 2026 (application deadline)"],
+      "eligibility": ["Early-career researchers in independent faculty positions with demonstrated productivity"]
+    }
+  },
+  "colorado-edu-innovate-sustainability-hackathon": {
+    "summary": "Colorado Sustainability Challenge is a two-week statewide event where participants solve sustainability problems through collaborative ideation and solution building, with $25,000 in prize money.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "Leeds School of Business", "Environmental Center"],
+      "programs": ["Colorado Sustainability Challenge (CSC)"],
+      "amounts": ["$25,000"],
+      "dates": ["September 28, 2025 (kickoff)", "2025 (event)"],
+      "eligibility": ["Participants from all academic disciplines, students and community members"]
+    }
+  },
+  "colorado-edu-researchinnovation-nsf-research-traineeship-nrt-program": {
+    "summary": "NSF Research Traineeship Program supports innovative graduate training in high-priority STEM interdisciplinary research areas to develop skills and competencies for diverse career paths.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Science Foundation (NSF)", "Research & Innovation Office"],
+      "programs": ["NSF Research Traineeship (NRT) Program"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Graduate programs in interdisciplinary or convergent research"]
+    }
+  },
+  "colorado-edu-researchinnovation-nsf-research-traineeship-institutional-partnersh": {
+    "summary": "NSF Research Traineeship Institutional Partnership Pilot supports collaboration between non-R1 lead institutions and R1 NRT programs with industry partners in high-relevance research areas.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Science Foundation (NSF)", "Research & Innovation Office"],
+      "programs": ["NSF Research Traineeship Institutional Partnership Pilot (NRT-IPP)"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Non-R1 lead institutions partnering with R1 NRT programs and 2-3 industry partners"]
+    }
+  },
+  "colorado-edu-researchinnovation-nih-collaborative-program-grant-multidisciplinar": {
+    "summary": "NIH Collaborative Program Grant for Multidisciplinary Teams (RM1) supports highly integrated 3-6 person research teams addressing ambitious, challenging questions requiring considerable synergy.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Institutes of Health (NIH)", "Research & Innovation Office"],
+      "programs": ["NIH Collaborative Program Grant for Multidisciplinary Teams (RM1)"],
+      "amounts": [],
+      "dates": ["February 20, 2020 (internal deadline)", "April 25, 2020 (LOI deadline)", "May 25, 2020 (application deadline)"],
+      "eligibility": ["Multidisciplinary research teams (3-6 PD/PIs)"]
+    }
+  },
+  "colorado-edu-researchinnovation-doe-accelerated-research-quantum-computing": {
+    "summary": "DOE Accelerated Research in Quantum Computing funds large crossdisciplinary teams developing end-to-end software infrastructures and quantum utility demonstrations for quantum computing.",
+    "entities": {
+      "people": [],
+      "orgs": ["Department of Energy (DOE)", "Research & Innovation Office"],
+      "programs": ["DOE Accelerated Research in Quantum Computing"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Large crossdisciplinary research teams"]
+    }
+  },
+  "colorado-edu-researchinnovation-doe-critical-materials-accelerator": {
+    "summary": "DOE Critical Materials Accelerator validates and prototypes technologies addressing critical materials challenges through innovation in alternatives, supply diversification, and sustainable manufacturing.",
+    "entities": {
+      "people": [],
+      "orgs": ["Department of Energy (DOE)", "Research & Innovation Office"],
+      "programs": ["DOE Critical Materials Accelerator"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Researchers and industry partners working on critical materials innovation"]
+    }
+  },
+  "colorado-edu-researchinnovation-nsf-general-social-survey-gss-competition": {
+    "summary": "NSF General Social Survey Competition supports participation in GSS, a nationally representative survey tracking American attitudes, behaviors, and social trends since 1972.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Science Foundation (NSF)", "Research & Innovation Office"],
+      "programs": ["General Social Survey (GSS)"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Researchers analyzing GSS data"]
+    }
+  },
+  "colorado-edu-researchinnovation-nsf-cyberinfrastructure-technology-acceleration-": {
+    "summary": "NSF Cyberinfrastructure Technology Acceleration Pathway (CITAP) translates innovative research CI software into production-quality services across NSF's advanced cyberinfrastructure ecosystem.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Science Foundation (NSF)", "Research & Innovation Office"],
+      "programs": ["NSF Cyberinfrastructure Technology Acceleration Pathway (CITAP)"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Interdisciplinary CI research teams"]
+    }
+  },
+  "colorado-edu-researchinnovation-doe-circular-supply-chains-accelerator": {
+    "summary": "DOE Circular Supply Chains Accelerator advances circular economy innovations through analysis, stakeholder collaboration, and industry socialization to reduce technology commercialization risks.",
+    "entities": {
+      "people": [],
+      "orgs": ["Department of Energy (DOE)", "Research & Innovation Office"],
+      "programs": ["DOE Circular Supply Chains Accelerator"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Teams with government, academic, and industry expertise"]
+    }
+  },
+  "colorado-edu-researchinnovation-nsf-national-artificial-intelligence-ai-research": {
+    "summary": "NSF National Artificial Intelligence Research Institutes support long-term investments in AI research with potential for societal transformation, economic impact, and workforce development.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Science Foundation (NSF)", "Research & Innovation Office"],
+      "programs": ["NSF National Artificial Intelligence (AI) Research Institutes"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Research institutions pursuing AI research in national priority areas"]
+    }
+  },
+  "colorado-edu-researchinnovation-nea-grants-arts-projects-media-arts": {
+    "summary": "NEA Grants for Arts Projects - Media Arts supports arts organizations developing capacity to serve broader publics through digital technology and emergent creative practices.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Endowment for the Arts (NEA)", "Research & Innovation Office"],
+      "programs": ["NEA Grants for Arts Projects - Media Arts"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Arts organizations with media arts focus"]
+    }
+  },
+  "colorado-edu-researchinnovation-nsf-building-prototype-open-knowledge-network-pr": {
+    "summary": "NSF Building Prototype Open Knowledge Network (Proto-OKN) develops knowledge graphs, technical infrastructure, and educational materials for interconnected data and AI-powered solutions.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Science Foundation (NSF)", "Research & Innovation Office"],
+      "programs": ["NSF Building the Prototype Open Knowledge Network (Proto-OKN)"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Multidisciplinary research teams working on knowledge graphs and data infrastructure"]
+    }
+  },
+  "colorado-edu-researchinnovation-doe-inertial-fusion-energy-science-technology-ac": {
+    "summary": "DOE Inertial Fusion Energy Science & Technology Accelerated Research funds integrated IFE research across academia, national labs, and industry on target physics and driver technologies.",
+    "entities": {
+      "people": [],
+      "orgs": ["Department of Energy (DOE)", "Research & Innovation Office"],
+      "programs": ["DOE Inertial Fusion Energy Science & Technology Accelerated Research (IFE-STAR)"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["National laboratories, academic institutions, industry partners"]
+    }
+  },
+  "colorado-edu-researchinnovation-neh-infrastructure-and-capacity-building-challen": {
+    "summary": "NEH Infrastructure and Capacity Building Challenge Grants strengthen humanities infrastructure through matching federal funds for capital projects and preservation of humanities collections.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Endowment for the Humanities (NEH)", "Research & Innovation Office"],
+      "programs": ["NEH Infrastructure and Capacity Building Challenge Grants"],
+      "amounts": [],
+      "dates": ["April 10, 2023 (internal deadline)", "May 17, 2023 (application deadline)"],
+      "eligibility": ["Small and mid-sized institutions with humanities programs and collections"]
+    }
+  },
+  "colorado-edu-researchinnovation-nea-american-rescue-plan-grants-organizations": {
+    "summary": "NEA American Rescue Plan Grants support arts organization operations including salaries, artist fees, facilities costs, and health/safety expenses without requiring cost-sharing.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Endowment for the Arts (NEA)", "Research & Innovation Office"],
+      "programs": ["NEA American Rescue Plan Grants to Organizations"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Arts organizations"]
+    }
+  },
+  "colorado-edu-researchinnovation-nsf-mps-ascend-external-mentoring-mps-ascend-em": {
+    "summary": "NSF MPS-Ascend External Mentoring funds institutions providing career development programs for early-career MPS researchers with professional development and mentoring support.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Science Foundation (NSF)", "Research & Innovation Office"],
+      "programs": ["NSF MPS-Ascend External Mentoring (MPS-Ascend EM)"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Institutions supporting 30-50 MPS-Ascend Fellows per cohort"]
+    }
+  },
+  "colorado-edu-researchinnovation-sba-federal-and-state-technology-partnership-pro": {
+    "summary": "SBA Federal and State Technology Partnership Program provides funding to increase SBIR/STTR proposals from women, disadvantaged individuals, and rural/underrepresented business areas.",
+    "entities": {
+      "people": [],
+      "orgs": ["Small Business Administration (SBA)", "Research & Innovation Office"],
+      "programs": ["SBA Federal and State Technology (FAST) Partnership Program"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["State/regional programs building SBIR/STTR ecosystem in underrepresented areas"]
+    }
+  },
+  "colorado-edu-researchinnovation-epa-source-reduction-assistance-grant-program": {
+    "summary": "EPA Source Reduction Assistance Grants fund two-year research, education, and training on pollution prevention and sustainable resource use in targeted national emphasis areas.",
+    "entities": {
+      "people": [],
+      "orgs": ["Environmental Protection Agency (EPA)", "Research & Innovation Office"],
+      "programs": ["EPA Source Reduction Assistance (SRA) Grants"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Research institutions and organizations"]
+    }
+  },
+  "colorado-edu-researchinnovation-nih-shared-instrumentation-animal-research-sifar": {
+    "summary": "NIH Shared Instrumentation for Animal Research Grants support high-cost, state-of-the-art scientific instruments for shared use by NIH-funded investigators in biomedical animal research.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Institutes of Health (NIH)", "Research & Innovation Office"],
+      "programs": ["NIH Shared Instrumentation for Animal Research (SIFAR) Grant Program"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["NIH-funded researchers using animals in biomedical research"]
+    }
+  },
+  "colorado-edu-researchinnovation-oak-ridge-association-universities-orau-events-s": {
+    "summary": "ORAU Events Sponsorship Program provides up to $4,000 to support events involving multiple ORAU member institutions, including conferences, workshops, and speaker series.",
+    "entities": {
+      "people": [],
+      "orgs": ["Oak Ridge Association of Universities (ORAU)", "Research & Innovation Office"],
+      "programs": ["ORAU Events Sponsorship Program"],
+      "amounts": ["Up to $4,000"],
+      "dates": ["January 27, 2020 (internal deadline)", "March 1, 2020 (sponsor deadline)"],
+      "eligibility": ["ORAU member institutions in good standing"]
+    }
+  },
+  "colorado-edu-researchinnovation-dr-scholl-foundation-grants": {
+    "summary": "Dr. Scholl Foundation provides financial assistance to organizations in education, social service, healthcare, civic, cultural, and environmental fields, with grants typically ranging from $5,000-$25,000.",
+    "entities": {
+      "people": [],
+      "orgs": ["Dr. Scholl Foundation", "Research & Innovation Office"],
+      "programs": ["Dr. Scholl Foundation Grants"],
+      "amounts": ["$5,000-$25,000 (typical range)"],
+      "dates": ["January 13, 2020 (internal deadline)", "March 1, 2020 (application deadline)"],
+      "eligibility": ["Organizations in education, social service, healthcare, civic, cultural, environmental sectors"]
+    }
+  },
+  "colorado-edu-researchinnovation-american-scandinavian-foundation-asf-public-proj": {
+    "summary": "American-Scandinavian Foundation Public Project Grants promote Nordic cultures in the U.S. and American culture in Nordic countries through programs enhancing public appreciation of culture and art.",
+    "entities": {
+      "people": [],
+      "orgs": ["American-Scandinavian Foundation (ASF)", "Research & Innovation Office"],
+      "programs": ["American-Scandinavian Foundation Public Project Grants"],
+      "amounts": [],
+      "dates": ["July 18, 2019 (internal deadline)", "September 15, 2019 (sponsor deadline)"],
+      "eligibility": ["Organizations promoting Nordic-American cultural exchange"]
+    }
+  },
+  "colorado-edu-researchinnovation-nih-science-education-partnership-award-sepa-0": {
+    "summary": "NIH Science Education Partnership Award supports innovative educational activities for P-12, teachers, and underserved students in biomedical, behavioral, and clinical research.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Institutes of Health (NIH)", "Research & Innovation Office"],
+      "programs": ["NIH Science Education Partnership Award (SEPA)"],
+      "amounts": [],
+      "dates": ["May 1, 2019 (internal deadline)", "June 9, 2019 (LOI deadline)", "July 9, 2019 (application deadline)"],
+      "eligibility": ["Educational institutions supporting STEM education and underserved communities"]
+    }
+  },
+  "colorado-edu-researchinnovation-nps-japanese-american-confinement-sites-grant-pr": {
+    "summary": "NPS Japanese American Confinement Sites Grant Program provides funds for preservation, research, interpretation, and education related to historic Japanese American confinement sites.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Park Service (NPS)", "Research & Innovation Office"],
+      "programs": ["NPS Japanese American Confinement Sites Grant Program"],
+      "amounts": [],
+      "dates": ["October 22, 2018 (internal deadline)", "December 3, 2018 (sponsor deadline)"],
+      "eligibility": ["Organizations and entities preserving historic confinement sites"]
+    }
+  },
+  "colorado-edu-researchinnovation-bonfils-stanton-foundation-project-support-grant": {
+    "summary": "Bonfils Stanton Foundation Project Support Grants fund exceptional arts projects in Denver demonstrating artistic merit, innovation, and collaboration with focus on accessibility and diversity.",
+    "entities": {
+      "people": [],
+      "orgs": ["Bonfils Stanton Foundation", "Research & Innovation Office"],
+      "programs": ["Bonfils Stanton Foundation Project Support Grants"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Arts organizations in Denver metro area"]
+    }
+  },
+  "colorado-edu-researchinnovation-nist-public-safety-innovation-accelerator-progra": {
+    "summary": "NIST Public Safety Innovation Accelerator Program develops test equipment and code for mission critical push-to-talk (MCPTT) technology and related public safety communications features.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Institute of Standards and Technology (NIST)", "Research & Innovation Office"],
+      "programs": ["NIST Public Safety Innovation Accelerator Program"],
+      "amounts": [],
+      "dates": ["June 5, 2019 (internal deadline)", "July 19, 2019 (sponsor deadline)"],
+      "eligibility": ["Technology development organizations working on mission critical communications"]
+    }
+  },
+  "colorado-edu-researchinnovation-halliburton-foundation-grants": {
+    "summary": "Halliburton Foundation Grants support STEM and business programs emphasizing workforce preparation, student interest in energy sector careers, and underrepresented minority participation.",
+    "entities": {
+      "people": [],
+      "orgs": ["Halliburton Foundation", "Research & Innovation Office"],
+      "programs": ["Halliburton Foundation Grants"],
+      "amounts": [],
+      "dates": ["April 23, 2019 (internal deadline)", "May 23, 2019 (sponsor deadline)"],
+      "eligibility": ["STEM and business education programs focusing on energy industry career pathways"]
+    }
+  },
+  "colorado-edu-researchinnovation-marion-e-kenworthy-sarah-h-swift-foundation-gran": {
+    "summary": "Marion E. Kenworthy - Sarah H. Swift Foundation Grants support seed funding and research for innovative programs advancing mental and emotional health of youth under 21.",
+    "entities": {
+      "people": [],
+      "orgs": ["Marion E. Kenworthy - Sarah H. Swift Foundation", "Research & Innovation Office"],
+      "programs": ["Marion E. Kenworthy - Sarah H. Swift Foundation Grants"],
+      "amounts": [],
+      "dates": ["February 7, 2019 (internal deadline)", "March 31, 2019 (sponsor deadline)"],
+      "eligibility": ["Programs advancing youth mental health through social work and community mental health"]
+    }
+  },
+  "colorado-edu-researchinnovation-john-g-duncan-charitable-trust-arts-culture-and-": {
+    "summary": "John G. Duncan Charitable Trust supports charitable, educational projects in Colorado in arts, culture, humanities, and education sectors, with typical grants around $5,000.",
+    "entities": {
+      "people": [],
+      "orgs": ["John G. Duncan Charitable Trust", "Research & Innovation Office"],
+      "programs": ["John G. Duncan Charitable Trust Grants"],
+      "amounts": ["$5,000 (typical)"],
+      "dates": ["February 7, 2019 (internal deadline)", "March 31, 2019 (sponsor deadline)"],
+      "eligibility": ["Colorado-based organizations in arts, culture, humanities, education"]
+    }
+  },
+  "colorado-edu-researchinnovation-nih-research-evaluation-and-commercialization-hu": {
+    "summary": "NIH Research Evaluation and Commercialization Hub (REACH) Awards accelerate translation of academic biomedical discoveries into products by funding entrepreneurship hubs with proof-of-concept support.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Institutes of Health (NIH)", "Research & Innovation Office"],
+      "programs": ["NIH Research Evaluation and Commercialization Hub (REACH) Awards"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Qualifying research institutions establishing entrepreneurship hubs"]
+    }
+  },
+  "colorado-edu-researchinnovation-nuclear-regulatory-commission-faculty-developmen": {
+    "summary": "NRC Faculty Development Grants support faculty in nuclear science and engineering to develop workforce capability in design, construction, and regulation of nuclear facilities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Nuclear Regulatory Commission", "Research & Innovation Office"],
+      "programs": ["NRC Faculty Development Grants"],
+      "amounts": [],
+      "dates": ["October 16, 2018 (internal deadline)", "November 30, 2018 (sponsor deadline)"],
+      "eligibility": ["Probationary tenure-track faculty (first 4 years) in nuclear and related engineering"]
+    }
+  },
+  "colorado-edu-researchinnovation-parker-b-francis-fellowship-pulmonary-research": {
+    "summary": "Parker B. Francis Fellowship supports postdocs and new assistant professors transitioning to independent careers in pulmonary, critical care, and sleep medicine research.",
+    "entities": {
+      "people": [],
+      "orgs": ["Parker B. Francis Foundation", "Research & Innovation Office"],
+      "programs": ["Parker B. Francis Fellowship in Pulmonary Research"],
+      "amounts": [],
+      "dates": ["October 15, 2018 (sponsor deadline)"],
+      "eligibility": ["Postdoctoral fellows and newly appointed assistant professors in pulmonary research"]
+    }
+  },
+  "colorado-edu-researchinnovation-us-consulate-fukuoka-public-diplomacy-small-gran": {
+    "summary": "U.S. Consulate Fukuoka Public Diplomacy Small Grants support cultural and exchange programs strengthening U.S.-Japan bilateral relationship and promoting mutual understanding.",
+    "entities": {
+      "people": [],
+      "orgs": ["U.S. Department of State", "US Consulate Fukuoka"],
+      "programs": ["US Consulate Fukuoka Public Diplomacy Small Grants Program"],
+      "amounts": [],
+      "dates": ["September 4, 2018 (internal deadline)", "November 1, 2018 (sponsor deadline)"],
+      "eligibility": ["Projects with American cultural elements targeting Japanese audiences"]
+    }
+  },
+  "colorado-edu-researchinnovation-nsf-q-amase-i-enabling-quantum-leap-convergent-a": {
+    "summary": "NSF Q-AMASE-i establishes Foundries with mid-scale infrastructure for rapid quantum materials design, synthesis, characterization, and device development with industry technology transfer.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Science Foundation (NSF)", "Research & Innovation Office"],
+      "programs": ["NSF Q-AMASE-i (Quantum-AMASE-i)"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Transdisciplinary quantum research teams with industry partnerships"]
+    }
+  },
+  "colorado-edu-researchinnovation-doris-duke-foundation-building-bridges-grants": {
+    "summary": "Doris Duke Foundation Building Bridges Grants support arts and media projects engaging U.S. Muslim and non-Muslim populations to advance relationships, understanding, and mutual well-being.",
+    "entities": {
+      "people": [],
+      "orgs": ["Doris Duke Foundation", "Research & Innovation Office"],
+      "programs": ["Doris Duke Foundation Building Bridges Grants"],
+      "amounts": [],
+      "dates": ["August 1, 2018 (internal deadline)", "August 23, 2018 (LOI deadline)", "January 4, 2019 (proposal deadline)"],
+      "eligibility": ["Organizations undertaking arts and media programs promoting interfaith understanding"]
+    }
+  },
+  "colorado-edu-graduateschool-funding-national-fellowship-opportunities": {
+    "summary": "National Fellowship Opportunities page lists major fellowships available for graduate study including dissertation fellowships from foundations supporting graduate education.",
+    "entities": {
+      "people": [],
+      "orgs": ["Graduate School", "various foundations"],
+      "programs": ["American Anthropological Association Minority Dissertation Fellowship", "American Educational Research Association Dissertation Grants", "Jack Kent Cooke Foundation Graduate Scholarship"],
+      "amounts": ["Up to $25,000 (Jack Kent Cooke)"],
+      "dates": [],
+      "eligibility": ["Graduate students pursuing dissertation work"]
+    }
+  },
+  "colorado-edu-researchinnovation-usaid-accelerating-local-potential-under-existin": {
+    "summary": "USAID Accelerating Local Potential STIP APS solicits joint U.S. HEI and LMIC HEI partnerships to bolster developing country university capacity in science, technology, and innovation.",
+    "entities": {
+      "people": [],
+      "orgs": ["USAID Global Development Lab", "Research & Innovation Office"],
+      "programs": ["USAID Accelerating Local Potential Under Existing STIP APS"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["U.S. higher education institutions partnering with low/middle-income country HEIs"]
+    }
+  },
+  "colorado-edu-researchinnovation-neh-preservation-assistance-grants": {
+    "summary": "NEH Preservation Assistance Grants help small and mid-sized institutions improve ability to preserve and care for humanities collections through consulting and capacity building.",
+    "entities": {
+      "people": [],
+      "orgs": ["National Endowment for the Humanities (NEH)", "Research & Innovation Office"],
+      "programs": ["NEH Preservation Assistance Grants"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Small and mid-sized libraries, museums, historical societies, archives with humanities collections"]
+    }
+  },
+  "colorado-edu-nvc-promo-kit-2025-new-venture-challenge": {
+    "summary": "2025 New Venture Challenge promotional materials for CU Boulder's premier entrepreneurship competition offering $320,000 in funding across multiple categories and specialty competitions.",
+    "entities": {
+      "people": ["Karen Reid (marketing and communications specialist)"],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": ["New Venture Challenge (NVC)"],
+      "amounts": ["$320,000"],
+      "dates": [],
+      "eligibility": ["CU Boulder students, faculty, staff, recent graduates"]
+    }
+  },
+  "colorado-edu-researchinnovation-cystic-fibrosis-foundation-research-grants": {
+    "summary": "Cystic Fibrosis Foundation Research Grants encourage development of new information on CF etiology and pathogenesis or potential therapies through hypothesis-driven research.",
+    "entities": {
+      "people": [],
+      "orgs": ["Cystic Fibrosis Foundation", "Research & Innovation Office"],
+      "programs": ["Cystic Fibrosis Foundation Research Grants"],
+      "amounts": ["Up to $125,000 per year plus 8% indirect costs"],
+      "dates": ["April 12, 2018 (internal deadline)", "May 7, 2018 (sponsor deadline)"],
+      "eligibility": ["Basic science research on cystic fibrosis"]
+    }
+  },
+  "colorado-edu-venturepartners-startup-portfolio-mana-battery-inc": {
+    "summary": "Mana Battery Inc. is a CU Boulder spinout commercializing sodium-based battery technology that rivals lithium-ion at 35-75% lower cost, founded from Chunmei Ban's laboratory.",
+    "entities": {
+      "people": ["Chunmei Ban (CU Boulder Paul M. Rady Mechanical Engineering)", "Tyler Evans (CEO)"],
+      "orgs": ["Mana Battery Inc.", "CU Boulder Paul M. Rady Mechanical Engineering", "Saft"],
+      "programs": [],
+      "amounts": ["$275,000 (SBIR Phase I, 2025)"],
+      "dates": ["October 2023 (founding)", "2025 (SBIR award)", "2026 (recent news)"],
+      "eligibility": ["Cleantech and advanced materials startup"]
+    }
+  },
+  "colorado-edu-nvc-schedule": {
+    "summary": "NVC Events and Opportunities page lists CU Boulder's signature competitive events including NVC Finals at Boulder Theater, High School New Venture Challenge, and other entrepreneurship programming.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": ["New Venture Challenge (NVC) Finals", "High School New Venture Challenge (HSNVC)"],
+      "amounts": ["$336,000 (NVC prize pool)", "$25,000 (HSNVC scholarships)"],
+      "dates": [],
+      "eligibility": ["Students, faculty, staff, community members"]
+    }
+  },
+  "colorado-edu-innovate-sustainability-hackathon-test": {
+    "summary": "Sustainability Hackathon brings together CU Boulder students and staff to solve sustainability problems through collaborative ideation and rapid solution building with prize money.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": ["CU Boulder Sustainability Hackathon"],
+      "amounts": ["Prize money (amount unspecified)"],
+      "dates": [],
+      "eligibility": ["CU Boulder students, staff, faculty; students from other Colorado universities invited"]
+    }
+  },
+  "colorado-edu-initiative-cubit-oedit-translational-quantum-research-seed-grants": {
+    "summary": "OEDIT Translational Quantum Research Seed Grants provide $50,000 over 6 months for quantum research commercialization through academia-industry partnerships or use-inspired technology development.",
+    "entities": {
+      "people": [],
+      "orgs": ["Colorado Office of Economic Development and International Trade (OEDIT)", "CU Boulder Research & Innovation Office", "CUbit Quantum Initiative"],
+      "programs": ["OEDIT Translational Quantum Research Seed Grants"],
+      "amounts": ["$50,000"],
+      "dates": ["August 1, 2026 (next cycle opens)"],
+      "eligibility": ["Colorado research institutions and industry partners in quantum technology"]
+    }
+  },
+  "colorado-edu-nvc-promo-kits-nvc-deep-tech-competition-registration": {
+    "summary": "NVC Deep Tech Competition promo kit for multi-round entrepreneurship competition offering up to $50,000 for ventures built on scientific or technological innovations.",
+    "entities": {
+      "people": ["Daniel Leonard (senior marketing and communications specialist)"],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "Venture Partners at CU Boulder"],
+      "programs": ["Deep Tech Competition"],
+      "amounts": ["Up to $50,000"],
+      "dates": ["January 31, 2024 (application opens)", "March 14, 2024 (deadline)"],
+      "eligibility": ["CU Boulder students, faculty, staff, recent graduates, 2024 Embark Deep Tech Startup Creator members"]
+    }
+  },
+  "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-tier-2": {
+    "summary": "Public and Community-Engaged Scholarship Grants Tier 2 provides up to $5,000 for faculty and students to establish public and community-engaged scholarship projects.",
+    "entities": {
+      "people": [],
+      "orgs": ["Office for Outreach and Community Engagement", "CU Boulder"],
+      "programs": ["Public and Community-Engaged Scholarship Grants Tier 2"],
+      "amounts": ["Up to $5,000"],
+      "dates": [],
+      "eligibility": ["CU Boulder faculty, staff, graduate students with faculty advisor"]
+    }
+  },
+  "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-tier-3": {
+    "summary": "Public and Community-Engaged Scholarship Grants Tier 3 provides up to $11,000 for individual faculty members leading community-engaged scholarship projects.",
+    "entities": {
+      "people": [],
+      "orgs": ["Office for Outreach and Community Engagement", "CU Boulder"],
+      "programs": ["Public and Community-Engaged Scholarship Grants Tier 3"],
+      "amounts": ["Up to $11,000"],
+      "dates": [],
+      "eligibility": ["CU Boulder faculty (all ranks) leading community-engaged scholarship"]
+    }
+  },
+  "colorado-edu-nvc-promo-kit-nvc-general-competition-registration": {
+    "summary": "NVC General Competition promo kit for CU Boulder's multi-round entrepreneurship competition offering up to $50,000 for developing impactful startups and projects.",
+    "entities": {
+      "people": ["Daniel Leonard (senior marketing and communications specialist)"],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": ["New Venture Challenge General Competition"],
+      "amounts": ["Up to $50,000"],
+      "dates": ["November 1, 2023 (application opens)", "February 8 (deadline)"],
+      "eligibility": ["CU Boulder students, faculty, staff, recent graduates"]
+    }
+  },
+  "colorado-edu-nvc-compete": {
+    "summary": "NVC Compete page details CU Boulder's New Venture Challenge with $336,000 available through multi-round competition in Deep Tech and Open categories with mentorship and networking opportunities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder"],
+      "programs": ["New Venture Challenge (NVC)", "Deep Tech Category", "Open Category"],
+      "amounts": ["$336,000"],
+      "dates": [],
+      "eligibility": ["CU Boulder students, faculty, staff, alums (graduated after Nov 1, 2025)"]
+    }
+  },
+  "colorado-edu-venturepartners-opportunities-and-events": {
+    "summary": "Venture Partners at CU Boulder offers signature programs including NSF I-Corps Hub West, Center for Translational Research, Embark Deep Tech Startup Creator, Lab Venture Challenge, and Ascent Deep Tech Accelerator.",
+    "entities": {
+      "people": [],
+      "orgs": ["Venture Partners at CU Boulder", "NSF I-Corps Hub West"],
+      "programs": ["NSF I-Corps Hub West", "Center for Translational Research", "Embark Deep Tech Startup Creator", "Lab Venture Challenge", "Ascent Deep Tech Accelerator", "Destination Startup", "Creative Futures Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Entrepreneurs, researchers, startups with university technology"]
+    }
+  },
+  "colorado-edu-nvc-compete-deep-tech-competition": {
+    "summary": "NVC Deep Tech Competition is a multi-round entrepreneurship competition for ventures built on scientific or technological innovations in fundamental disciplines, offering up to $50,000.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "Venture Partners at CU Boulder"],
+      "programs": ["Deep Tech Competition"],
+      "amounts": ["Up to $50,000"],
+      "dates": ["January 31 (application opens)", "February 8 (deadline)", "March 4-onward (workshops)"],
+      "eligibility": ["CU Boulder students, faculty, staff with deep tech ventures"]
+    }
+  },
+  "colorado-edu-nvc-promo-kit-social-impact-new-venture-challenge": {
+    "summary": "Social Impact New Venture Challenge promo kit for ventures committed to social responsibility and financial sustainability, offering up to $5,000 with automatic SEA Change Accelerator entry.",
+    "entities": {
+      "people": ["Karen Reid (marketing and communications specialist)"],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "Deming Center for Entrepreneurship"],
+      "programs": ["Social Impact New Venture Challenge (SINVC)"],
+      "amounts": ["Up to $5,000"],
+      "dates": ["November 1, 2023 (application opens)", "February 8 (deadline)"],
+      "eligibility": ["CU Boulder students, faculty, staff, recent graduates"]
+    }
+  },
+  "colorado-edu-nvc-high-school-nvc": {
+    "summary": "High School New Venture Challenge (HSNVC) powered by FirstBank empowers Colorado high school students to pitch innovative business ideas for scholarships, skill-building, and entrepreneurial mindset development.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innovation & Entrepreneurship Initiative", "CU Boulder", "FirstBank"],
+      "programs": ["High School New Venture Challenge (HSNVC)"],
+      "amounts": ["$25,000+ (scholarships to CU Boulder)"],
+      "dates": [],
+      "eligibility": ["Any Colorado high school student (traditional or homeschooled)"]
+    }
+  },
+  "colorado-edu-researchinnovation-research-innovation-arts-humanities-grant-progra": {
+    "summary": "Research & Innovation Arts & Humanities Grant Program fosters arts and humanities research and creative pursuits with awards up to $7,500 supporting disciplinary advancement and career development.",
+    "entities": {
+      "people": [],
+      "orgs": ["Research & Innovation Office", "CU Boulder"],
+      "programs": ["Research & Innovation Arts & Humanities Grant Program"],
+      "amounts": ["Up to $7,500", "$2,000-$3,000 (average)"],
+      "dates": ["February 17, 2026 (opens)", "April 13, 2026 (deadline)", "July 1, 2026 (project start)"],
+      "eligibility": ["CU Boulder full-time faculty in arts, humanities, humanistic social sciences"]
+    }
+  }
+}

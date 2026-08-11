@@ -1,0 +1,981 @@
+{
+  "colorado-edu-venturepartners-about-people-annalissa-philbin": {
+    "summary": "Profile of Senior Associate University Counsel Annalissa Philbin specializing in intellectual property and licensing at CU Boulder's Venture Partners.",
+    "entities": {
+      "people": [{"name": "Annalissa Philbin", "role": "Senior Associate University Counsel IP & Licensing"}],
+      "orgs": [{"name": "Venture Partners at CU Boulder"}, {"name": "CU Innovations"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-startup-portfolio-illumen-therapeutics-inc": {
+    "summary": "Illumen Therapeutics is pursuing cancer treatment via PARN Inhibitor drugs to boost p53 tumor-suppressing function; seeking seed funding from CU Boulder's research.",
+    "entities": {
+      "people": [{"name": "Roy Parker", "affiliation": "CU Boulder Biochemistry, BioFrontiers Institute"}, {"name": "Bob Blomquist", "role": "CEO"}],
+      "orgs": [{"name": "Illumen Therapeutics"}],
+      "programs": [{"name": "Pre-Seed Investment"}, {"name": "Destination Startup"}, {"name": "Lab Venture Challenge"}],
+      "amounts": [],
+      "dates": [{"year": 2026, "context": "Pre-seed investment, recent news"}],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2025-09-04-external-news-new-single-dose-temperatur": {
+    "summary": "News brief on single-dose, temperature-stable rabies vaccines that could expand global access to treatment.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Venture Partners at CU Boulder"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2026-04-02-external-news-venture-capitalists-remain": {
+    "summary": "News brief on venture capitalists' sustained confidence in vaccine investments and returns.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Venture Partners at CU Boulder"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-grantpledger-77": {
+    "summary": "University of Colorado Boulder calendar portal for grant and funding-related activities.",
+    "entities": {
+      "people": [],
+      "orgs": [],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2026-03-26-external-news-two-cu-boulder-innovators-": {
+    "summary": "Announces CU Boulder innovators admitted to Equalize 2026 cohort supporting women academic inventors in STEM launching startups from research.",
+    "entities": {
+      "people": [{"name": "Jeanne Barthold", "affiliation": "Alum Biomedical Engineering, Paul M. Rady Mechanical Engineering"}, {"name": "Marwa Yacouti", "affiliation": "PhD candidate Ann and H.J. Smead Aerospace Engineering Sciences"}],
+      "orgs": [{"name": "Equalize Startups"}],
+      "programs": [{"name": "Equalize 2026 Cohort"}],
+      "amounts": [],
+      "dates": [{"year": 2020, "context": "Equalize Startups established"}, {"year": 2026, "context": "Cohort year"}],
+      "eligibility": [{"description": "Faculty, postdocs, graduate students in STEM; women academic inventors"}]
+    }
+  },
+  "colorado-edu-venturepartners-startup-portfolio-vitawave-tech-inc": {
+    "summary": "VitaWave Tech commercializes cuffless in-ear blood pressure monitoring; founded from Embark Deep Tech program; seeking pre-seed investment.",
+    "entities": {
+      "people": [{"name": "Jason McGowin", "role": "Founder"}, {"name": "T. Hingba", "role": "Founder"}, {"name": "Nam Bui", "affiliation": "CU Denver Electrical Engineering, alum CU Boulder Computer Science"}, {"name": "Tam Vu", "affiliation": "former CU Boulder Computer Science"}, {"name": "Robin Deterding", "affiliation": "CU Anschutz Medical Campus"}],
+      "orgs": [{"name": "VitaWave Tech"}],
+      "programs": [{"name": "Embark Deep Tech Startup Creator"}, {"name": "Destination Startup"}],
+      "amounts": [],
+      "dates": [{"year": 2023, "context": "Company founded"}],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-oce-paces-funding-and-resources-tools-communication-resources": {
+    "summary": "CU Boulder's Strategic Relations team provides communications support helping translate scholarship into public-facing language and amplify community-engaged projects.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office for Outreach and Community Engagement"}, {"name": "Strategic Relations and Communications"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2025-07-28-internal-news-solving-dilemma-space-dust-lasp-researchers-win-prestigious-nasa-prize-dust-mitigation": {
+    "summary": "News about LASP researchers at CU Boulder winning a prestigious NASA prize for dust mitigation instrument development.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "LASP (Laboratory for Atmospheric and Space Physics)"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [{"date": "July 28, 2025", "context": "Award announcement"}],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-oce-funding-and-resources-professional-development-opportunities": {
+    "summary": "PACES at CU Boulder offers professional development workshops and networking for scholars engaged in public and community-engaged scholarship.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office for Public and Community-Engaged Scholarship"}],
+      "programs": [{"name": "PACES Initiatives and Programs"}, {"name": "Community Perspectives Program"}, {"name": "Engaged Arts and Humanities Scholars Program"}, {"name": "Lunch & Learn Series"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Campus faculty, staff, students"}]
+    }
+  },
+  "colorado-edu-business-current-students-career-mentoring": {
+    "summary": "Leeds School of Business offers integrated four-year mentoring spanning freshmen through seniors with 1,500+ students and 1,050+ professional mentors.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Leeds School of Business"}],
+      "programs": [{"name": "Peer2Peer Mentorship Program"}, {"name": "Young Alumni Mentorship Program"}, {"name": "Professional Mentorship Program"}],
+      "amounts": [],
+      "dates": [{"date": "November 5, 2025", "context": "Fall Kickoff"}, {"date": "October 22, 2025", "context": "Women's Networking Night"}],
+      "eligibility": [{"description": "First-year students (P2P), sophomores (YAMs), juniors and seniors (PMP)"}]
+    }
+  },
+  "colorado-edu-business-cesr-student-opportunities-graduate-programs-leeds-sustain": {
+    "summary": "Leeds Sustainability Case Competition is a premiere MBA business competition on sustainable business practices offering up to $10,000 and global networking.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Leeds School of Business"}, {"name": "Arrow Electronics"}, {"name": "Deloitte Consulting"}, {"name": "Navigant Consulting"}, {"name": "CH2M Hill"}, {"name": "NREL"}, {"name": "Xcel Energy"}, {"name": "Chipotle"}],
+      "programs": [{"name": "Leeds Sustainability Case Competition"}, {"name": "Clean Energy MBA Pathway"}, {"name": "Sustainability MBA Pathway"}],
+      "amounts": [{"amount": "$10,000", "context": "Potential prize"}],
+      "dates": [{"year": 2001, "context": "Competition founded"}],
+      "eligibility": [{"description": "Top-rated business schools, MBA students globally"}]
+    }
+  },
+  "colorado-edu-aerospaceventures-industry-government-collaboration": {
+    "summary": "AeroSpace Ventures connects CU Boulder with aerospace industry and government for research collaborations, education, workforce development, and sponsorships.",
+    "entities": {
+      "people": [{"name": "Ryan Nalty", "contact": "ryan.nalty@colorado.edu"}],
+      "orgs": [{"name": "AeroSpace Ventures"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-06": {
+    "summary": "Four-week virtual workshop for prospective food truck/cart owners covering acquisition, regulations, menu planning, and financials; $95 fee.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Colorado SBDC"}],
+      "programs": [{"name": "How to Start a Mobile Food Business"}],
+      "amounts": [{"amount": "$95", "context": "Workshop cost"}],
+      "dates": [{"date": "April 6, 2026", "context": "Session start"}],
+      "eligibility": [{"description": "Prospective mobile food business owners"}]
+    }
+  },
+  "startupcolorado-org-event-melty-bead-creations-how-to-make-homemade-products-tha": {
+    "summary": "Free hands-on workshop for grades 4-12 teaching homemade product creation while learning business practices and competitive differentiation.",
+    "entities": {
+      "people": [{"name": "MacKenzie King", "contact": "(303) 321.5085"}],
+      "orgs": [{"name": "Young Americans Center"}],
+      "programs": [{"name": "YouthBiz"}],
+      "amounts": [],
+      "dates": [{"date": "July 24, 2026", "context": "Workshop date"}],
+      "eligibility": [{"description": "4th through 12th grade students"}]
+    }
+  },
+  "online-colorado-edu-teacher-leadership-certificates-cultivating-compassion-digni": {
+    "summary": "Graduate certificate for educators on cultivating compassion and dignity practices to support wellness and equity in schools and classrooms.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "CU Boulder Online"}, {"name": "Crown Institute"}, {"name": "Compassion Institute"}],
+      "programs": [{"name": "Teacher Leadership Certificates"}, {"name": "Cultivating Compassion and Dignity Certificate"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Educators, teachers"}]
+    }
+  },
+  "online-colorado-edu-teacher-leadership-certificates-teacher-social-emotional-lea": {
+    "summary": "Graduate certificate for educators on social-emotional learning pedagogy to develop students' emotional awareness, well-being, and self-understanding.",
+    "entities": {
+      "people": [{"name": "Brianny Morrison", "role": "Admissions Specialist Teacher Leadership"}],
+      "orgs": [{"name": "CU Boulder Online"}],
+      "programs": [{"name": "Teacher and Social and Emotional Learning Certificate"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Educators, teachers"}]
+    }
+  },
+  "calendar-colorado-edu-event-starting-blocks-amp-3butm-medium-widget-amp-3butm-so": {
+    "summary": "Free three-week Starting Blocks workshop part of NSF I-Corps Hub for researchers and entrepreneurs to test customer validation and accelerate commercialization.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Venture Partners at CU Boulder"}, {"name": "National Science Foundation"}],
+      "programs": [{"name": "Starting Blocks Customer Discovery Workshop"}, {"name": "NSF I-Corps Hub: West Region"}],
+      "amounts": [],
+      "dates": [{"date": "October 29, 2026", "context": "Session 1"}, {"date": "November 5, 2026", "context": "Session 2"}, {"date": "November 12, 2026", "context": "Session 3"}, {"date": "November 19, 2026", "context": "Session 4"}],
+      "eligibility": [{"description": "Researchers, entrepreneurs, inventors, problem solvers from research or community institutions"}]
+    }
+  },
+  "calendar-colorado-edu-grantvertin-230": {
+    "summary": "Calendar page for grant and funding activities.",
+    "entities": {
+      "people": [],
+      "orgs": [],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "online-colorado-edu-teacher-leadership-certificates-teaching-culturally-linguist": {
+    "summary": "Graduate certificate for teachers on supporting emerging bilingual students; meets Colorado's 45-hour state requirement for bilingual preparation.",
+    "entities": {
+      "people": [{"name": "Brianny Morrison", "role": "Admissions Specialist"}],
+      "orgs": [{"name": "CU Boulder Online"}],
+      "programs": [{"name": "Teaching Culturally and Linguistically Diverse Students Certificate"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Teachers; fulfills Colorado state bilingual education requirements"}]
+    }
+  },
+  "online-colorado-edu-teacher-leadership-certificates-leading-change-in-science-as": {
+    "summary": "Graduate certificate for science teachers on assessing and developing integrated student understanding of disciplinary concepts and crosscutting concepts.",
+    "entities": {
+      "people": [{"name": "Brianny Morrison", "role": "Admissions Specialist"}],
+      "orgs": [{"name": "CU Boulder Online"}],
+      "programs": [{"name": "Leading for Change in Science Assessment Practice Certificate"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Teachers of all age ranges"}]
+    }
+  },
+  "calendar-colorado-edu-grantvertin-230-calendar": {
+    "summary": "Calendar view of grant and funding activities.",
+    "entities": {
+      "people": [],
+      "orgs": [],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-event-professional-sales-mentor-program-annual-meetup-444": {
+    "summary": "Annual Professional Sales Mentor Program event bringing together industry volunteer mentors and celebrating their impact on business students.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Leeds School of Business"}],
+      "programs": [{"name": "Professional Sales Mentor Program"}, {"name": "Fundamentals of Professional Selling"}],
+      "amounts": [],
+      "dates": [{"date": "September 18, 2026", "context": "Event"}],
+      "eligibility": [{"description": "Industry professional mentors, business professionals"}]
+    }
+  },
+  "online-colorado-edu-teacher-leadership-certificates-designing-for-learning": {
+    "summary": "Graduate certificate for K-12 educators on organizing curriculum around student-generated problems and inquiry-based learning experiences.",
+    "entities": {
+      "people": [{"name": "Gloria Ladson-Billings"}, {"name": "Brianny Morrison", "role": "Admissions Specialist"}],
+      "orgs": [{"name": "CU Boulder Online"}],
+      "programs": [{"name": "Designing for Learning: Inquiry-Based Pedagogy Certificate"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "K-12 educators"}]
+    }
+  },
+  "online-colorado-edu-teacher-leadership-certificates-teachers-leading-change": {
+    "summary": "Graduate certificate for educators on developing authentic leadership skills for shared leadership and influence in schools and districts.",
+    "entities": {
+      "people": [{"name": "Brianny Morrison", "role": "Admissions Specialist"}],
+      "orgs": [{"name": "CU Boulder Online"}],
+      "programs": [{"name": "Teachers Leading Change Certificate"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Educators"}]
+    }
+  },
+  "calendar-colorado-edu-event-hackcu-11": {
+    "summary": "CU Boulder's largest 24-hour hackathon with 200+ students coding and building hardware projects; includes free food, workshops, and community events.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "College of Engineering and Applied Science"}, {"name": "Computer Science Department"}],
+      "programs": [{"name": "HackCU"}],
+      "amounts": [],
+      "dates": [{"date": "March 2, 2025", "context": "Event"}],
+      "eligibility": [{"description": "Any CU student"}]
+    }
+  },
+  "calendar-colorado-edu-event-public-and-engaged-scholarship-faculty-meetup": {
+    "summary": "Faculty networking and learning event on public and community-engaged scholarship with resources on funding and professional development.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office for Public and Community-Engaged Scholarship"}, {"name": "Outreach and Community Engagement"}],
+      "programs": [{"name": "Public and Community-Engaged Scholarship"}],
+      "amounts": [],
+      "dates": [{"date": "August 12, 2026", "context": "Meetup"}],
+      "eligibility": [{"description": "Faculty members"}]
+    }
+  },
+  "campusgroups-colorado-edu-ecenter-rsvp-boot-id-381098": {
+    "summary": "Free interactive workshop on design thinking and sustainability innovation tools; ideas eligible for cash prizes at Sustainability Summit.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Environmental Center"}],
+      "programs": [{"name": "Design Thinking for Sustainable Innovation Workshop"}, {"name": "Student Ideas Showcase"}],
+      "amounts": [],
+      "dates": [{"date": "February 11, 2025", "context": "Workshop"}],
+      "eligibility": [{"description": "Students"}]
+    }
+  },
+  "calendar-colorado-edu-event-sustainability-on-tap-with-eve-hinckley-and-danielle": {
+    "summary": "Monthly conversation series bringing sustainability research to community through accessible dialogue with researchers and practitioners.",
+    "entities": {
+      "people": [{"name": "Eve Hinckley", "role": "Biogeochemist"}, {"name": "Danielle Beatty"}],
+      "orgs": [{"name": "Sustainability Research Initiative"}],
+      "programs": [{"name": "Sustainability on Tap"}],
+      "amounts": [],
+      "dates": [{"date": "May 20, 2026", "context": "Event"}],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-one-year-of-the-rural-creative-collective": {
+    "summary": "Annual report from Rural Creative Collective highlighting rural founder success stories in scaling businesses with AI.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Startup Colorado"}],
+      "programs": [{"name": "Rural Creative Collective"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-event-now-what-office-hours-with-alex-schwarzkopf-amp-3but": {
+    "summary": "Office hours with venture partner from 1517 Fund offering guidance on entrepreneurship, venture ideas, and networking for CU students.",
+    "entities": {
+      "people": [{"name": "Alex Schwarzkopf", "role": "Venture Partner at 1517 Fund"}],
+      "orgs": [{"name": "Deming Center for Entrepreneurship"}, {"name": "1517 Fund"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [{"date": "February 24, 2026", "context": "Office hours"}],
+      "eligibility": [{"description": "CU students seeking entrepreneurship guidance"}]
+    }
+  },
+  "calendar-colorado-edu-event-first-gen-scholarship-program-orientation": {
+    "summary": "Required orientation for incoming First-Generation Scholarship recipients introducing program curriculum, expectations, and campus resources.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Center for Cultural Connections and Community"}, {"name": "Division of Student Life"}],
+      "programs": [{"name": "First-Generation Scholarship Program"}],
+      "amounts": [],
+      "dates": [{"date": "August 16, 2026", "context": "Orientation"}],
+      "eligibility": [{"description": "First-generation scholarship recipients"}]
+    }
+  },
+  "oit-colorado-edu-services-software-licensing": {
+    "summary": "OIT software licensing program managing campus software contracts, compliance, and vendor relationships for cost-effective access.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office of Information Technology"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "oit-colorado-edu-services-software-licensing-acquiring-software": {
+    "summary": "OIT Software Asset Management facilitates campus software procurement and distribution; manages multi-unit and single-unit license agreements.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office of Information Technology"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "oit-colorado-edu-services-software-licensing-software-asset-management-program": {
+    "summary": "OIT Software Asset Management program oversees campus software lifecycle, compliance, cost efficiency, and risk reduction across all campus software.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office of Information Technology"}],
+      "programs": [{"name": "Software Asset Management"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "oit-colorado-edu-services-software-licensing-software-audit-information": {
+    "summary": "OIT guide for software compliance audits with procedures for audit response, vendor communication, and compliance management.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office of Information Technology"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "oit-colorado-edu-about-oit-projects-microsoft-365-licensing-automation-project": {
+    "summary": "Multi-phase OIT project automating Microsoft 365 license assignment by campus role ensuring compliance and cost management.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office of Information Technology"}],
+      "programs": [{"name": "Microsoft Licensing Automation Project"}],
+      "amounts": [],
+      "dates": [{"date": "June 16, 2026", "context": "Latest phase went live"}],
+      "eligibility": [{"description": "CU Boulder faculty, students, staff, affiliates"}]
+    }
+  },
+  "oit-colorado-edu-services-network-internet-services-ip-address-hostname-manageme": {
+    "summary": "OIT service providing static IP address assignment for devices requiring permanent IPs (servers, printers); DHCP is campus standard.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office of Information Technology"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "CU Boulder faculty and staff; requests from IT Practitioners only"}]
+    }
+  },
+  "oit-colorado-edu-tutorial-static-ip-configuration-macintosh": {
+    "summary": "Step-by-step tutorial for configuring static IP addresses on Macintosh systems at CU Boulder.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office of Information Technology"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "oit-colorado-edu-services-software-licensing-appropriate-use-and-compliance": {
+    "summary": "Guide to CU policies on legal and ethical software use, compliance, and affordable licensing alternatives including site licenses.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office of Information Technology"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "oit-colorado-edu-services-software-licensing-faq": {
+    "summary": "FAQ on software purchasing, academic pricing options, procurement card use, and campus software acquisition policies.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "OnTheHub"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "oit-colorado-edu-tutorial-static-ip-configuration-windows": {
+    "summary": "Step-by-step tutorial for configuring static IP addresses on Windows systems at CU Boulder.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office of Information Technology"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-jennagrant-563": {
+    "summary": "Calendar page for grant and funding-related activities.",
+    "entities": {
+      "people": [],
+      "orgs": [],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-event-on-campus-student-job-fair-fall26": {
+    "summary": "Campus job fair connecting students with departments offering on-campus positions, internships, research, mentorship, and entrepreneurship opportunities.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Career Services"}, {"name": "Division of Student Life"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [{"date": "August 25, 2026", "context": "Fair"}],
+      "eligibility": [{"description": "Current undergraduate and graduate students"}]
+    }
+  },
+  "cuanschutz-edu-student-finances-financial-aid-types-grants": {
+    "summary": "Types of need-based financial aid grants available to CU Anschutz students including federal, state, and institutional grants.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "University of Colorado Anschutz"}],
+      "programs": [{"name": "Federal Pell Grant"}, {"name": "Iraq and Afghanistan Service Grant"}, {"name": "Federal Supplemental Educational Opportunity Grant"}, {"name": "Colorado Graduate Grant"}, {"name": "Colorado Student Grant"}, {"name": "Institutional Grants"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Students enrolled at least half-time; Colorado residents for state grants; documented financial need"}]
+    }
+  },
+  "watson-is-truist-foundation-fellowship-jessica-lewis-mobu-enterprises": {
+    "summary": "2023 Truist Foundation Fellowship alum Jessica Lewis launched Container Life Real Estate Masterclass app for real estate investment education.",
+    "entities": {
+      "people": [{"name": "Jessica Lewis", "role": "CEO of Mobu Enterprises"}],
+      "orgs": [{"name": "Watson Institute"}, {"name": "Mobu Enterprises"}],
+      "programs": [{"name": "Truist Foundation Fellowship"}],
+      "amounts": [],
+      "dates": [{"year": 2023, "context": "Fellowship year"}],
+      "eligibility": []
+    }
+  },
+  "watson-is-enlight-fellows-flagship-fall-2024-fellowship": {
+    "summary": "Enlight Fellows program featuring China cohort entrepreneurs; companies include education, health foods, and women's leadership with $200K+ in funding.",
+    "entities": {
+      "people": [{"name": "Da Fan"}, {"name": "Cathy Luo"}, {"name": "Dantong Zhang"}],
+      "orgs": [{"name": "Watson Institute"}, {"name": "Edupros"}, {"name": "Pure by Nature"}, {"name": "EmpowerfulHer"}, {"name": "Enlight Foundation"}, {"name": "Shanghai Science and Technology Foundation"}],
+      "programs": [{"name": "2024 Enlight China Fellows"}, {"name": "Flagship Fellowship"}],
+      "amounts": [{"amount": "$127,000", "context": "Edupros first-year revenue"}, {"amount": "$214,000", "context": "Pure by Nature capital raised"}],
+      "dates": [{"year": 2024, "context": "Cohort"}],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-group-office-of-contracts-and-grants": {
+    "summary": "Research & Innovation Office of Contracts and Grants provides guidance on research administration through regular Tuesday Talks events.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Research & Innovation Office of Contracts and Grants"}, {"name": "Campus Controller's Office"}],
+      "programs": [{"name": "Tuesday Talks"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-grantpledger-77-calendar": {
+    "summary": "Calendar view of grant and funding activities.",
+    "entities": {
+      "people": [],
+      "orgs": [],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-event-workshop-series-securing-external-funding-for-public": {
+    "summary": "Interactive PACES workshop on securing external funding for public and community-engaged scholarship including private gifts and in-kind donations.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office for Public and Community-Engaged Scholarship"}],
+      "programs": [{"name": "PACES Lunch & Learn Series"}],
+      "amounts": [],
+      "dates": [{"date": "April 14, 2026", "context": "Workshop"}],
+      "eligibility": [{"description": "CU faculty, staff, students"}]
+    }
+  },
+  "calendar-colorado-edu-event-tuesday-talks-5733": {
+    "summary": "Regular discussion series with research administration leaders on grants, contracts, and compliance; open to faculty, staff, and postdocs.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Research & Innovation Office of Contracts and Grants"}, {"name": "Campus Controller's Office"}],
+      "programs": [{"name": "Tuesday Talks"}],
+      "amounts": [],
+      "dates": [{"date": "September 8, 2026", "context": ""}, {"date": "October 13, 2026", "context": ""}, {"date": "November 10, 2026", "context": ""}, {"date": "December 8, 2026", "context": ""}],
+      "eligibility": [{"description": "Faculty, staff, postdocs"}]
+    }
+  },
+  "ibs-colorado-edu-research": {
+    "summary": "Institute of Behavioral Science conducts research with external funding from NIH, NSF, CDC, and foundations addressing societal challenges.",
+    "entities": {
+      "people": [{"name": "Amanda Lain"}, {"name": "Lori Peek"}, {"name": "Beverly Kingston"}, {"name": "Amanda Stevenson"}],
+      "orgs": [{"name": "Institute of Behavioral Science"}, {"name": "National Institutes of Health"}, {"name": "National Science Foundation"}, {"name": "Centers for Disease Control and Prevention"}, {"name": "William and Flora Hewlett Foundation"}, {"name": "Arnold Ventures"}, {"name": "Save the Children"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "ibs-colorado-edu-about-grant-support-services": {
+    "summary": "IBS provides comprehensive grant management services including proposal preparation, budget development, human subjects approval, and compliance support.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Institute of Behavioral Science"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Faculty, research associates, postdoctoral scholars, graduate students"}]
+    }
+  },
+  "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses": {
+    "summary": "Overview of Microsoft 365 license types available by campus role with details on included services and eligibility criteria.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Office of Information Technology"}],
+      "programs": [{"name": "Microsoft 365 for Education"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Employees, students, affiliates, retirees, alumni per specific criteria"}]
+    }
+  },
+  "colorado-edu-business-current-students-career-mentoring-young-alumni-mentors-pro": {
+    "summary": "Young Alumni Mentors program connects sophomore Leeds students with recent alumni (1-5 years experience) for professional development and career guidance.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Leeds School of Business"}],
+      "programs": [{"name": "Young Alumni Mentors Program"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Leeds sophomore students"}]
+    }
+  },
+  "colorado-edu-business-current-students-career-mentoring-peer-2-peer-mentoring": {
+    "summary": "Peer2Peer matches first-year Leeds students with trained upper-class mentors from summer arrival through freshman year for academic and career support.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Leeds School of Business"}],
+      "programs": [{"name": "Peer2Peer Mentoring Program"}, {"name": "Leeds RAP"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Leeds first-year students; specialized mentors for Kittredge residents, pre-business, transfer, IUT students"}]
+    }
+  },
+  "colorado-edu-venturepartners-2025-01-07-external-news-vaccine-against-weight-gai": {
+    "summary": "News brief on vaccine development research as treatment approach for weight gain.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Venture Partners at CU Boulder"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-west-slope-startup-week-draws-record-attendance-in-d": {
+    "summary": "Story on West Slope Startup Week in Durango achieving record attendance.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Startup Colorado"}],
+      "programs": [{"name": "West Slope Startup Week"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-west-slope-startup-week-comes-to-durango-4": {
+    "summary": "Event announcement for West Slope Startup Week in Durango connecting entrepreneurs and stakeholders.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Startup Colorado"}],
+      "programs": [{"name": "West Slope Startup Week"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-on-campus-resources": {
+    "summary": "Portal connecting students and entrepreneurs to on-campus and off-campus resources and programs supporting innovation and real-world impact.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Innovation & Entrepreneurship Initiative"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-west-slope-startup-week-is-powered-by-startup-colora": {
+    "summary": "Story on Startup Colorado's role powering West Slope Startup Week in Durango.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Startup Colorado"}],
+      "programs": [{"name": "West Slope Startup Week"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-startup-colorado-announces-nonprofit-status": {
+    "summary": "Announcement of Startup Colorado achieving nonprofit status.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Startup Colorado"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-law-academics-clinics-entrepreneurial-law-clinic": {
+    "summary": "CU Law clinic providing law students practical transactional experience while offering pro bono legal services to underserved entrepreneurs and startups.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Colorado Law School"}],
+      "programs": [{"name": "Entrepreneurial Law Clinic"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "CU students/professors, local entrepreneurs, startups, small businesses"}]
+    }
+  },
+  "colorado-edu-venturepartners-form-subscribe-for-updates-program-destination-20st": {
+    "summary": "Newsletter subscription form for Destination Startup Application and Venture Partners updates.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Venture Partners at CU Boulder"}],
+      "programs": [{"name": "Destination Startup"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "CU employees/students with .edu email, community partners, industry partners, investors, media"}]
+    }
+  },
+  "colorado-edu-innovate-2017-11-02-get-seed-funding-micro-grants-students-ideas": {
+    "summary": "Micro-grant program providing $500 or less to CU students with ideas; includes mentoring and pitch presentation opportunity.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Innovation & Entrepreneurship Initiative"}],
+      "programs": [{"name": "Get Seed Funding"}],
+      "amounts": [{"amount": "$500", "context": "Maximum micro-grant"}],
+      "dates": [{"date": "November 29, 2017", "context": "Live Crowdvoting Event"}],
+      "eligibility": [{"description": "CU Boulder students with ideas"}]
+    }
+  },
+  "colorado-edu-venturepartners-2024-03-20-external-news-pitch-competition-celebrat": {
+    "summary": "News on pitch competition celebrating and funding new ventures founded by women at CU Boulder.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Leeds School of Business"}, {"name": "Deming Center"}],
+      "programs": [{"name": "Pitch competition"}],
+      "amounts": [],
+      "dates": [{"date": "April 3, 2024", "context": "News"}],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-deming-news-2025-03-05-skateboards-startups-lilah-greenber": {
+    "summary": "Profile of freshman Lilah Greenberg leveraging skateboarding passion and Tel Aviv startup exposure as Deming Center Ambassador.",
+    "entities": {
+      "people": [{"name": "Lilah Greenberg", "affiliation": "Freshman, Leeds School of Business"}],
+      "orgs": [{"name": "Deming Center for Entrepreneurship"}, {"name": "Idea Forge"}],
+      "programs": [{"name": "Deming Ambassador Program"}],
+      "amounts": [],
+      "dates": [{"date": "March 7, 2025", "context": "Article"}],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-programs-resources-startups-sandwiches": {
+    "summary": "Free entrepreneurship events including Innovation Workshop Series and Startups & Sandwiches connecting students with entrepreneurs and VCs.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Deming Center for Entrepreneurship"}, {"name": "Leeds School of Business"}, {"name": "College of Arts and Sciences"}, {"name": "Idea Forge"}],
+      "programs": [{"name": "Innovation Workshop Series"}, {"name": "Startups & Sandwiches"}, {"name": "ETA Conference"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Leeds students and broader CU community"}]
+    }
+  },
+  "startupcolorado-org-event-we-gather-with-creative-pivots": {
+    "summary": "Free business accelerator workshop on innovation and sales growth for small businesses; includes workshop sessions and small business fair.",
+    "entities": {
+      "people": [{"name": "Jamie Billesbach", "role": "Executive Director"}, {"name": "Benny Samuels", "role": "Marketing Strategist"}, {"name": "Eve Lieberman", "role": "Executive Director"}, {"name": "Lois Todd", "role": "Leadership Coach"}],
+      "orgs": [{"name": "Central Mountain Colorado SBDC"}],
+      "programs": [{"name": "WE Gather with Creative Pivots"}],
+      "amounts": [],
+      "dates": [{"date": "September 25, 2026", "context": "Workshop"}],
+      "eligibility": [{"description": "Small business owners"}]
+    }
+  },
+  "colorado-edu-venturepartners-destination-startup-request": {
+    "summary": "Investor inquiry form for Destination Startup program seeking investments in pre-seed through series B+ stage companies.",
+    "entities": {
+      "people": [],
+      "orgs": [],
+      "programs": [{"name": "Destination Startup"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": [{"description": "Venture capitalists, angel investors, family offices; SEC-accredited investors"}]
+    }
+  },
+  "colorado-edu-business-deming-community-demystifying-entrepreneurship-rural-color": {
+    "summary": "Multi-year rural entrepreneurship workshop series (2015-2024) across five Colorado regions impacting 400+ entrepreneurs.",
+    "entities": {
+      "people": [{"name": "Wendell Pryor"}],
+      "orgs": [{"name": "Leeds School of Business"}, {"name": "Chaffee County Economic Development Corporation"}, {"name": "Northwest Colorado Small Business Development Center"}, {"name": "Logan County Economic Development Corporation"}, {"name": "Telluride Venture Network"}],
+      "programs": [{"name": "Demystifying Entrepreneurship: Rural Colorado Workshop Series"}],
+      "amounts": [],
+      "dates": [{"years": "2015-2019", "context": "Central Mountain Region"}, {"years": "2017-2021", "context": "Central Colorado"}, {"years": "2019-2023", "context": "Northeast and Southwest Colorado"}, {"years": "2020-2024", "context": "Northwest Colorado"}],
+      "eligibility": [{"description": "Rural entrepreneurs"}]
+    }
+  },
+  "startupcolorado-org-stories-startup-colorados-mid-year-highlights": {
+    "summary": "Startup Colorado mid-year report highlights and achievements.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Startup Colorado"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2025-01-13-make-impact-and-win-5000-sinvc": {
+    "summary": "Social Impact New Venture Challenge allowing teams to win up to $5,000 for ventures addressing social impact.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Innovation & Entrepreneurship Initiative"}],
+      "programs": [{"name": "Social Impact New Venture Challenge"}],
+      "amounts": [{"amount": "$5,000", "context": "Prize"}],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2025-01-27-firstbank-powers-hsnvc": {
+    "summary": "High School New Venture Challenge for Colorado high school students offering $25,000 in tuition scholarships; focused on rural and underserved communities.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "FirstBank"}, {"name": "Innovation & Entrepreneurship Initiative"}],
+      "programs": [{"name": "High School New Venture Challenge"}],
+      "amounts": [{"amount": "$25,000", "context": "Scholarship tuition funding"}],
+      "dates": [],
+      "eligibility": [{"description": "Colorado high school students; emphasis on rural and underserved communities"}]
+    }
+  },
+  "colorado-edu-innovate-programs-resources-entrepreneurship-empowerment-south-afri": {
+    "summary": "Six-week summer course transforming business, engineering, arts students into consultants helping low-income South African entrepreneurs solve real problems.",
+    "entities": {
+      "people": [{"name": "Erick Mueller", "role": "Executive Director of Deming Center"}],
+      "orgs": [{"name": "Leeds School of Business"}, {"name": "Deming Center for Entrepreneurship"}, {"name": "University of Notre Dame"}, {"name": "University of Florida"}],
+      "programs": [{"name": "Entrepreneurship and Empowerment in South Africa"}],
+      "amounts": [],
+      "dates": [{"season": "Summer 2023", "context": "Program year"}],
+      "eligibility": [{"description": "Business, engineering, and arts & sciences students from CU, Notre Dame, UF"}]
+    }
+  },
+  "colorado-edu-innovate-2025-09-18-infleqtion-go-public-18b-valuation-making-it-cu": {
+    "summary": "Infleqtion achieves IPO at $1.8B valuation, becoming CU Boulder's 10th unicorn spinout company.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Infleqtion"}],
+      "programs": [],
+      "amounts": [{"amount": "$1.8B", "context": "Valuation"}],
+      "dates": [{"year": 2025, "context": "IPO"}],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2025-03-31-job-searching-connect-innovative-colorado-compa": {
+    "summary": "Startups2Students is a recruiting event connecting students with 10-15 Colorado startups for jobs and internships; includes company pitches and networking.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Innovation & Entrepreneurship Initiative"}],
+      "programs": [{"name": "Startups2Students"}],
+      "amounts": [],
+      "dates": [{"date": "April 8, 2025", "context": "Event"}],
+      "eligibility": [{"description": "CU Boulder students"}]
+    }
+  },
+  "siliconflatirons-org-initiatives-entrepreneurship-initiative": {
+    "summary": "Silicon Flatirons serves as hub connecting CU Boulder campus and Colorado Front Range entrepreneurs through events, programs, and community convening.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Silicon Flatirons"}],
+      "programs": [{"name": "Startup Variety Show"}],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-deming-news-2025-04-15-how-ben-scarbeary-channeling-creati": {
+    "summary": "Profile of freshman Ben Scarbeary leveraging YouTube gaming channel experience as Deming Center Ambassador supporting entrepreneurship.",
+    "entities": {
+      "people": [{"name": "Benjamin Scarbeary", "affiliation": "Freshman, CU Boulder"}],
+      "orgs": [{"name": "Deming Center for Entrepreneurship"}],
+      "programs": [{"name": "Deming Center Ambassador Program"}],
+      "amounts": [],
+      "dates": [{"date": "April 17, 2025", "context": "Article"}],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-welcome-mark-madic-startup-colorados-new-director-of": {
+    "summary": "Announcement of Mark Madic joining Startup Colorado as Director of Ecosystem Development & Partnerships.",
+    "entities": {
+      "people": [{"name": "Mark Madic", "role": "Director of Ecosystem Development & Partnerships"}],
+      "orgs": [{"name": "Startup Colorado"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2025-12-08-cu-boulder-leading-45m-arpa-h-grants-self-heali": {
+    "summary": "CU Boulder leads $45M in ARPA-H grants for self-healing joints and wound care research.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "CU Boulder Engineering"}],
+      "programs": [],
+      "amounts": [{"amount": "$45M", "context": "ARPA-H grants"}],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-deming-undergraduates-certificate-entrepreneurial-studies": {
+    "summary": "Undergraduate certificate combining academic coursework, startup internship, and ecosystem exposure; ranked #14 for best programs by U.S. News.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Leeds School of Business"}, {"name": "Deming Center"}, {"name": "U.S. News & World Report"}],
+      "programs": [{"name": "Certificate in Entrepreneurial Studies"}, {"name": "SPARK"}, {"name": "New Venture Launch"}, {"name": "Boulder Climate Ventures"}, {"name": "High Growth Venture Fellowship"}],
+      "amounts": [],
+      "dates": [{"year": 2024, "context": "Ranking"}],
+      "eligibility": [{"description": "Undergraduate business majors/minors; 3.0+ GPA required"}]
+    }
+  },
+  "colorado-edu-catalyzecu-introtoentrepreneurship": {
+    "summary": "One-credit introductory entrepreneurship course for any CU student taught by Techstars co-founder David Brown covering ideation through fundraising.",
+    "entities": {
+      "people": [{"name": "David Brown", "role": "Co-Founder of Techstars"}],
+      "orgs": [{"name": "Engineering College"}, {"name": "Techstars"}],
+      "programs": [{"name": "Intro to Entrepreneurship"}, {"name": "ESCEND program"}],
+      "amounts": [{"amount": "$29B", "context": "Funding raised by 3,700 Techstars companies"}],
+      "dates": [],
+      "eligibility": [{"description": "Any CU student, any major, any year"}]
+    }
+  },
+  "colorado-edu-innovate-2025-10-07-find-startups-cu-boulders-career-fairs": {
+    "summary": "Four consecutive career fairs (Oct 14-17) with hundreds of companies including startups like Lunar Outpost, Solidigm, and Falcomm.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Lunar Outpost"}, {"name": "Solidigm"}, {"name": "Falcomm"}],
+      "programs": [{"name": "Career Fairs"}, {"name": "Technology, Innovation & Mathematics Career Fair"}, {"name": "Roam Anywhere Industry Networking Night"}, {"name": "From Earth to Space Career Fair"}, {"name": "Physics and Quantum Career Fair"}],
+      "amounts": [],
+      "dates": [{"dates": "October 14-17, 2025", "context": "Career Fairs"}],
+      "eligibility": [{"description": "CU Boulder students"}]
+    }
+  },
+  "startupcolorado-org-stories-2023-annual-report": {
+    "summary": "Startup Colorado 2023 annual report.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Startup Colorado"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [{"year": 2023, "context": "Report year"}],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2018-03-20-top-quality-pitches-new-venture-challenge-track": {
+    "summary": "Report on New Venture Challenge track finals with 125+ competing teams showing exceptionally high-quality pitches and entrepreneurial ideas.",
+    "entities": {
+      "people": [{"name": "Sally Hatcher"}],
+      "orgs": [{"name": "Techstars"}, {"name": "Boomtown"}, {"name": "Mergelane"}],
+      "programs": [{"name": "New Venture Challenge"}, {"name": "NVC 10"}],
+      "amounts": [],
+      "dates": [{"year": 2018, "context": "Report"}, {"date": "April 4, 2018", "context": "Championship at Boulder Theater"}],
+      "eligibility": [{"description": "Anyone with CU Buffcard"}]
+    }
+  },
+  "colorado-edu-engineering-2020-10-23-investor-karen-crofton-joins-college-entrepr": {
+    "summary": "Karen Crofton joins College of Engineering as Entrepreneur-in-Residence providing mentoring and investment insights to engineering entrepreneurs.",
+    "entities": {
+      "people": [{"name": "Karen Crofton", "role": "Entrepreneur-in-Residence"}, {"name": "Doug Smith", "role": "Associate Dean"}],
+      "orgs": [{"name": "College of Engineering and Applied Science"}, {"name": "Rocky Mountain Institute"}, {"name": "Air Products & Chemicals"}, {"name": "Leeds School of Business"}],
+      "programs": [],
+      "amounts": [],
+      "dates": [{"month": "September", "year": 2020, "context": "Joined"}],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-innovate-2018-10-04-justins-inspires-first-innovation-entrepreneurs": {
+    "summary": "First Innovation & Entrepreneurship Campus Kickoff featuring Justin Gold (Justin's founder) sharing entrepreneurial journey; 400+ attendees.",
+    "entities": {
+      "people": [{"name": "Justin Gold", "role": "Founder of Justin's"}, {"name": "Brad Bernthal", "role": "Professor, Law School"}, {"name": "David Lopez"}, {"name": "Cale McLellan"}, {"name": "Farah Akhtar"}],
+      "orgs": [{"name": "Justin's"}, {"name": "Innovation & Entrepreneurship Initiative"}],
+      "programs": [{"name": "Innovation & Entrepreneurship Campus Kickoff"}],
+      "amounts": [],
+      "dates": [{"date": "October 4, 2018", "context": "Event"}],
+      "eligibility": [{"description": "Students, faculty, campus and community members"}]
+    }
+  },
+  "colorado-edu-innovate-2019-11-21-lab-venture-challenge-awards-900000-promising-b": {
+    "summary": "Lab Venture Challenge awards $900,000 to promising bioscience, physical science, and engineering ventures from CU Boulder.",
+    "entities": {
+      "people": [],
+      "orgs": [{"name": "Innovation & Entrepreneurship Initiative"}],
+      "programs": [{"name": "Lab Venture Challenge"}],
+      "amounts": [{"amount": "$900,000", "context": "Awards"}],
+      "dates": [{"date": "November 19, 2019", "context": "Awards announced"}],
+      "eligibility": []
+    }
+  }
+}

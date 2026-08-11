@@ -104,7 +104,8 @@ function renderRows() {
   $('rescount').textContent = `(${rows.length})`
   $('rows').innerHTML = rows.slice(0, 200).map(r => `<tr>
     <td><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a><br>
-      <span style="color:var(--dim);font-size:.72rem">${esc(r.org)}</span></td>
+      <span style="color:var(--dim);font-size:.72rem">${esc(r.org)}</span>
+      ${r.summary ? `<div style="font-size:.76rem;color:var(--dim);max-width:420px">${esc(r.summary)}</div>` : ''}</td>
     <td><span class="pill">${r.type}</span></td>
     <td class="spec">${r.specificity}/10</td><td class="spec">${r.depth}</td>
     <td>${(r.funding||[]).slice(0,2).map(f=>`<span class="pill hot">${esc(f)}</span>`).join('')}

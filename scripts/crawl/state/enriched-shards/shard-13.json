@@ -1,0 +1,992 @@
+{
+  "startupcolorado-org-stories-founder-co-opetition-2nd-cohort": {
+    "summary": "Highlights the second cohort of rural founders in Startup Colorado's CO-OPetition program, focusing on how these entrepreneurs are using AI to grow their businesses responsibly and efficiently.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Founder CO-OPetition"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["rural founders"]
+    }
+  },
+  "startupcolorado-org-stories-february-founder-coopetition-cohort": {
+    "summary": "Introduces the February cohort of the Founder Coopetition program, showcasing rural entrepreneurs implementing AI-driven growth strategies.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Founder Coopetition"],
+      "amounts": [],
+      "dates": ["February"],
+      "eligibility": ["rural founders"]
+    }
+  },
+  "startupcolorado-org-about": {
+    "summary": "Overview of Startup Colorado, a 501(c)(3) nonprofit supporting rural entrepreneurs across 53 Colorado counties by providing access to capital, mentorship, and community resources tailored to rural startup challenges.",
+    "entities": {
+      "people": ["Margaret (margaret@startupcolorado.org)"],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Roadtrip series", "West Slope Startup Week", "Rural Startup Days"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["rural entrepreneurs", "ecosystem builders"]
+    }
+  },
+  "startupcolorado-org-advisor-program": {
+    "summary": "Invites experienced professionals, investors, and community leaders to join Startup Colorado's Advisor Network, offering two engagement paths: Strategic Advisors providing one-on-one coaching and Community Advisors reviewing founder videos to support rural startups.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Advisor Network", "Strategic Advisors", "Community Advisors"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["experienced entrepreneurs", "investors", "business professionals", "community leaders"]
+    }
+  },
+  "startupcolorado-org-resource-center-workforce-development-resource-hub": {
+    "summary": "Resource hub helping rural business owners navigate hiring and workforce development by connecting them with Colorado's state-funded hiring incentives, tax credits, and training grants to manage the high stakes of scaling employees.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Workforce Development Resource Hub"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["founders", "business owners"]
+    }
+  },
+  "startupcolorado-org-stories-meet-our-founder-coopetition-spring-2023-cohort": {
+    "summary": "Presents the Spring 2023 cohort of the Founder Coopetition program, featuring rural founders scaling their businesses through AI and responsible growth practices.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Founder Coopetition"],
+      "amounts": [],
+      "dates": ["Spring 2023"],
+      "eligibility": ["rural founders"]
+    }
+  },
+  "startupcolorado-org-how-wssw-has-evolved-to-serve-more-rural-entrepreneurs": {
+    "summary": "Documents the evolution of West Slope Startup Week, showing how the event has grown to better serve rural entrepreneurs with expanded programming and community engagement.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["West Slope Startup Week"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["rural entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-stories-rural-startup-days-debuts": {
+    "summary": "Reports on the launch and initial success of Rural Startup Days, a free multi-day event bringing educational sessions, networking, and pitch competitions to rural entrepreneurial communities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Rural Startup Days"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["rural entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss": {
+    "summary": "Panel discussion during West Slope Startup Week (October 8) exploring Colorado-specific funding programs available to businesses, led by moderator Kiki Hooton and featuring lenders and state economic development officials.",
+    "entities": {
+      "people": ["Kiki Hooton", "Jamie Finney"],
+      "orgs": ["Startup Colorado", "Howdy"],
+      "programs": ["West Slope Startup Week", "Colorado Capital funding panel"],
+      "amounts": [],
+      "dates": ["October 8"],
+      "eligibility": ["founders", "business owners at idea/launch/growth stage"]
+    }
+  },
+  "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado": {
+    "summary": "Workshop (August 5) led by Mark Madic teaching founders how to prepare compelling pitches, covering business introduction, problem definition, solution explanation, market opportunity, milestones, team composition, and pitch delivery.",
+    "entities": {
+      "people": ["Mark Madic"],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Pitch Readiness Workshop", "Pitch Series"],
+      "amounts": [],
+      "dates": ["August 5"],
+      "eligibility": ["founders", "entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-ready-to-reach-further-a-brand-first-plan-for-expandin": {
+    "summary": "Workshop (August 20) with brand strategist Amber Andrews teaching growth-stage creative entrepreneurs how to expand regionally by clarifying brand identity, selecting marketing channels strategically, and building a repeatable 90-day marketing plan.",
+    "entities": {
+      "people": ["Amber Andrews"],
+      "orgs": ["Startup Colorado", "Andrews Artistry"],
+      "programs": ["Ready to Reach Further", "Rural Creative Collective"],
+      "amounts": [],
+      "dates": ["August 20"],
+      "eligibility": ["creative entrepreneurs", "rural creatives"]
+    }
+  },
+  "watson-is-google-data-center-community-ai-fellowship-application": {
+    "summary": "Application portal for Watson Institute's Google Data Center Community AI Fellowship, a rolling-basis fellowship equipping impact-driven leaders and entrepreneurs using AI to solve challenges in their local communities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute", "Google"],
+      "programs": ["Google Data Center Community AI Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["impact-driven leaders", "entrepreneurs", "AI practitioners"]
+    }
+  },
+  "watson-is-bmo-fellowship-application": {
+    "summary": "Application for Watson Institute's BMO Fellowship, a rolling-basis program supporting impact-focused leaders and entrepreneurs with training, mentorship, and resources.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute", "BMO"],
+      "programs": ["BMO Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["impact-focused leaders", "entrepreneurs"]
+    }
+  },
+  "watson-is-ford-philanthropy-fellowship-application": {
+    "summary": "Application for The Ford Philanthropy Fellowship through Watson Institute, a rolling-basis program for impact-focused entrepreneurs with emphasis on diversity and inclusive processes.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute", "Ford Philanthropy"],
+      "programs": ["Ford Philanthropy Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["impact-focused leaders", "entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-rural-creative-collective": {
+    "summary": "Statewide network connecting artists, makers, and creative entrepreneurs across rural Colorado, offering funding, mentorship, and community to support creatives working in visual arts, crafts, performing arts, digital media, and food arts.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Rural Creative Collective"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["artists", "makers", "creative entrepreneurs", "visual artists", "craft creators", "performing artists", "digital creators", "food artisans"]
+    }
+  },
+  "startupcolorado-org-stories-listen-how-entrepreneurs-can-tap-into-podcasting": {
+    "summary": "Story exploring how entrepreneurs can leverage podcasting as a business tool and marketing channel to reach audiences and build authority.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-stories-listen-how-one-carniceria-is-building-for-family-com": {
+    "summary": "Profile of a Latino-owned meat market business building community while serving family and cultural values through entrepreneurship.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Latino entrepreneurs", "family business owners"]
+    }
+  },
+  "startupcolorado-org-join-the-community": {
+    "summary": "Portal to join Startup Colorado's online community of over 2,000 members including founders, ecosystem builders, mentors, and funders, with access to networking events, resources, and founder stories.",
+    "entities": {
+      "people": ["Roy Pfaltzgraff", "Emily Kamala", "Emilie Odeile", "Ken Chapin"],
+      "orgs": ["Startup Colorado", "PFZ Farms", "Haxtun Heritage Mills", "Seeding Circles", "Dundee & Lee", "AnywhereCam"],
+      "programs": ["Founder Coopetition", "Pitch competitions"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["founders", "ecosystem builders", "mentors", "funders"]
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-data-metrics-2023": {
+    "summary": "Annual report from CU Anschutz Innovations for 2023 containing metrics and impact data (content not provided in crawl).",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz", "CU Innovations"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2023"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-data-metrics-2022": {
+    "summary": "Annual report from CU Anschutz Innovations for 2022 documenting program metrics and outcomes (content not provided in crawl).",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz", "CU Innovations"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2022"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-data-metrics-2020": {
+    "summary": "Annual report from CU Innovations for 2020 with program metrics (content not provided in crawl).",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz", "CU Innovations"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2020"],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-colorados-rural-accelerators-drive-innovation-and-op": {
+    "summary": "Feature on rural accelerators across Colorado and how they drive entrepreneurial innovation and economic opportunity in their regions.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Rural accelerators"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["rural entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-stories-why-every-founder-should-pitch": {
+    "summary": "Article arguing the value of pitch practice for founders regardless of fundraising stage, discussing how pitching refines messaging and builds confidence.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["founders"]
+    }
+  },
+  "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-5": {
+    "summary": "Free webinar (August 19) covering the logistical and legal requirements for launching a business in Colorado, including registration, licensing, business planning, and human resources setup.",
+    "entities": {
+      "people": ["Callie Koch"],
+      "orgs": ["Startup Colorado", "Colorado SBDC"],
+      "programs": ["Startup Track", "How to Launch Your Business"],
+      "amounts": [],
+      "dates": ["August 19"],
+      "eligibility": ["idea-stage businesses", "pre-venture founders", "early startups"]
+    }
+  },
+  "startupcolorado-org-how-camp-v-is-putting-colorados-rural-west-end-on-the-map": {
+    "summary": "Story about a Colorado startup putting Colorado's remote western region on the entrepreneurship map through innovation and community engagement.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Camp V"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-soco-startup-week-soco-startup-week-kick-off-party": {
+    "summary": "Opening celebration (August 24) of Southern Colorado Startup Week in Colorado Springs featuring founders, entrepreneurs, investors, and community builders with networking, live music, and food.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Exponential Impact"],
+      "programs": ["Southern Colorado Startup Week (SoCo Startup Week)"],
+      "amounts": [],
+      "dates": ["August 24"],
+      "eligibility": ["founders", "entrepreneurs", "investors", "community builders"]
+    }
+  },
+  "startupcolorado-org-event-soco-startup-week-oedit-and-office-of-supplier-diversi": {
+    "summary": "Workshop (August 25) in Canon City connecting rural entrepreneurs with state funding and contracting opportunities through Colorado's Office of Supplier Diversity Program and OEDIT.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "OEDIT", "Office of Supplier Diversity"],
+      "programs": ["Southern Colorado Startup Week"],
+      "amounts": [],
+      "dates": ["August 25"],
+      "eligibility": ["rural entrepreneurs", "business owners", "startup founders"]
+    }
+  },
+  "startupcolorado-org-event-soco-startup-week-breaking-rural-stereotypes-with-emer": {
+    "summary": "Keynote breakfast event (August 25) at Emergent Campus in Florence featuring mayors and satellite tech leaders discussing rural innovation, followed by campus tour highlighting how rural communities attract entrepreneurs.",
+    "entities": {
+      "people": ["Phil Lund"],
+      "orgs": ["Startup Colorado", "Emergent Campus"],
+      "programs": ["Southern Colorado Startup Week"],
+      "amounts": [],
+      "dates": ["August 25"],
+      "eligibility": ["entrepreneurs", "founders", "innovators"]
+    }
+  },
+  "startupcolorado-org-stories-how-durango-became-an-outdoor-industry-hub": {
+    "summary": "Profile of Durango's development as a regional hub for outdoor industry businesses and entrepreneurship.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-call-for-aiq-concomai-2026-papers-speakers-sponsors-2": {
+    "summary": "Call for speakers, papers, and sponsors for the AIQ Conference on Communications (ConComAI) Symposium (August 14-15) in Boulder exploring agentic AI, AI infrastructure, and communications implications.",
+    "entities": {
+      "people": ["George Dyson"],
+      "orgs": ["Startup Colorado", "AIQ", "Limelight Hotel Boulder"],
+      "programs": ["ConComAI 2026", "AIQ Awards"],
+      "amounts": [],
+      "dates": ["August 14-15"],
+      "eligibility": ["speakers", "researchers", "sponsors"]
+    }
+  },
+  "colorado-edu-researchinnovation-inclusion": {
+    "summary": "CU Boulder Research & Innovation Office outlines multi-year inclusion goals focused on employee development, community building, and equitable hiring practices with accountability measures.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Research & Innovation Office"],
+      "programs": ["Inclusion goals", "Shared Equity Leadership"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-ideaforge-facilities-rapid-prototyping-lab": {
+    "summary": "CU Boulder Idea Forge facility offering tiered 3D printing (FDM and SLA/SLS) and laser cutting equipment for students to rapidly prototype and iterate designs with staff support.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Idea Forge"],
+      "programs": ["Rapid Prototyping Lab"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["students"]
+    }
+  },
+  "colorado-edu-ideaforge-facilities-welding-shop": {
+    "summary": "CU Boulder Idea Forge welding facility with MIG and TIG welding machines and fabrication equipment for students after workshop completion, managed by Greg Potts and Chase Logsdon.",
+    "entities": {
+      "people": ["Greg Potts", "Chase Logsdon"],
+      "orgs": ["CU Boulder", "Idea Forge"],
+      "programs": ["Welding Shop"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["students with welding workshop completion"]
+    }
+  },
+  "startupcolorado-org-event-rural-creative-connections-the-mountain-and-valley-fib": {
+    "summary": "Webinar (September 16) introducing the Mountain and Valley Fiber Arts Festival coming to Durango for the first time, hosted by organizers Jill Knuckles and Lise Poulsen, featuring artists, animals, workshops, and yarn bombing.",
+    "entities": {
+      "people": ["Jill Knuckles", "Lise Poulsen"],
+      "orgs": ["Startup Colorado", "Mountain and Valley Fiber Arts Festival"],
+      "programs": ["Rural Creative Connections", "Mountain and Valley Fiber Arts Festival"],
+      "amounts": [],
+      "dates": ["September 16", "October 3-4"],
+      "eligibility": ["fiber artists", "rural creatives"]
+    }
+  },
+  "startupcolorado-org-event-rural-creative-collective-night-market-west-slope-star": {
+    "summary": "Evening marketplace event (October 7) during West Slope Startup Week at The Powerhouse in Durango celebrating rural artists and creative entrepreneurs with handmade goods, networking, and holiday shopping.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Rural Creative Collective Night Market", "West Slope Startup Week"],
+      "amounts": [],
+      "dates": ["October 7"],
+      "eligibility": ["rural artists", "creative entrepreneurs", "community members"]
+    }
+  },
+  "startupcolorado-org-our-work-in-action-anywhere-cams-journey": {
+    "summary": "Case study following AnywhereCam's growth trajectory within Startup Colorado's ecosystem from early-stage idea to nationally-recognized company through competitions and support programs.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "AnywhereCam"],
+      "programs": ["Founder Coopetition", "Pitch competitions"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-reviving-old-tires-and-rural-economies-in-eastern-co": {
+    "summary": "Feature on an Eastern Colorado startup addressing tire waste while creating economic opportunity in rural communities through innovative reuse and recycling.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["rural entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-roadtrip": {
+    "summary": "Multi-city roadshow program bringing business resources, mentorship, and funding access directly to rural Colorado communities via West Slope Startup Week, Rural Startup Days, and regional roadtrips.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Roadtrip", "West Slope Startup Week", "Rural Startup Days", "Weld County Roadtrip"],
+      "amounts": [],
+      "dates": ["October 5-9", "February 25-27", "March 3-5"],
+      "eligibility": ["early-stage founders", "rural entrepreneurs", "ecosystem builders"]
+    }
+  },
+  "startupcolorado-org-financing-a-small-business": {
+    "summary": "Resource explaining financing options and strategies for small business owners seeking capital to launch or scale operations.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["small business owners", "founders"]
+    }
+  },
+  "startupcolorado-org-event-soco-startup-week-community-hackathon-workshop-naturec": {
+    "summary": "Workshop (August 25) in Canon City teaching founders to use Rural Pattern Language for community problem-solving, followed by NatureChase app adventure where participants play a capture-the-flag style outdoor game.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Emergent Campus"],
+      "programs": ["Community Hackathon Workshop", "NatureChase", "Southern Colorado Startup Week"],
+      "amounts": [],
+      "dates": ["August 25"],
+      "eligibility": ["entrepreneurs", "community builders"]
+    }
+  },
+  "startupcolorado-org-stories-ready-to-scale": {
+    "summary": "Article on how strategic partnerships can accelerate business growth and expansion for emerging companies.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-the-skys-the-limit": {
+    "summary": "Profile of a Buena Vista tent manufacturer demonstrating how rural manufacturing businesses can achieve significant growth and success.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-mighty-mikes-second-act": {
+    "summary": "Story about a business owner starting a new venture after their initial success, showing entrepreneurship as an ongoing journey.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-the-latine-program": {
+    "summary": "Feature on Startup Colorado's Latine-focused programming at West Slope Startup Week emphasizing diversity and cultural inclusion in rural entrepreneurship.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Latine Program", "West Slope Startup Week"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Latine entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-scaling-your-business-requires-scaling-your-mind": {
+    "summary": "Workshop (June 26) with Stephanie Kwong on the subconscious patterns limiting founder growth, using the Rapid Rewire Method to address emotional blocks affecting business decisions and leadership.",
+    "entities": {
+      "people": ["Stephanie Kwong"],
+      "orgs": ["Startup Colorado", "Unbound"],
+      "programs": ["Rapid Rewire Method"],
+      "amounts": [],
+      "dates": ["June 26"],
+      "eligibility": ["founders", "entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-rural-creative-connections-meet-the-verra-app": {
+    "summary": "Webinar (July 30) featuring Paul Spitzer discussing Verra, a social marketplace app for handmade goods, exploring trust-based design and opportunities for rural creatives to sell work.",
+    "entities": {
+      "people": ["Paul Spitzer"],
+      "orgs": ["Startup Colorado", "Verra", "Andrews Artistry"],
+      "programs": ["Rural Creative Connections"],
+      "amounts": [],
+      "dates": ["July 30"],
+      "eligibility": ["artists", "makers", "creative entrepreneurs"]
+    }
+  },
+  "lasp-colorado-edu-2024-07-29-lasp-team-advances-in-nasa-dynamic-mission-concept-": {
+    "summary": "CU Boulder's Laboratory for Atmospheric and Space Physics received a $2 million NASA award to develop a concept study for the DYNAMIC mission investigating how Earth's atmosphere influences space weather.",
+    "entities": {
+      "people": ["Aimee Merkel"],
+      "orgs": ["CU Boulder", "LASP", "NASA"],
+      "programs": ["DYNAMIC mission", "NASA DYNAMIC mission concept competition"],
+      "amounts": ["$2 million"],
+      "dates": ["July 29, 2024"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-ideaforge-people-victoria-lanaghan": {
+    "summary": "Profile of Victoria Lanaghan, Assistant Director of Operations at CU Boulder's Idea Forge, who supports hands-on learning spaces and student technical development.",
+    "entities": {
+      "people": ["Victoria Lanaghan"],
+      "orgs": ["CU Boulder", "Idea Forge", "College of Engineering and Applied Science"],
+      "programs": ["Idea Forge"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-cesr-ethical-leadership-leeds": {
+    "summary": "CU Boulder Leeds School of Business runs ethical leadership programming through CESR, with student teams competing in the Daniels Fund National Ethics Case Competition achieving recognition.",
+    "entities": {
+      "people": ["Joshua Nunziato"],
+      "orgs": ["CU Boulder", "Leeds School of Business", "Daniels Fund"],
+      "programs": ["Ethical Leadership", "Business Ethics Case Competition", "Daniels Fund National Case Competition", "CESR"],
+      "amounts": [],
+      "dates": ["2024", "2023", "2022"],
+      "eligibility": ["undergraduate students", "graduate students"]
+    }
+  },
+  "startupcolorado-org-event-passing-the-torch-navigating-business-transition-and-g": {
+    "summary": "Webinar (July 16) with Minsun Ji on using employee ownership models for business succession planning and sustainable growth, covering financing, governance structures, and conversion processes.",
+    "entities": {
+      "people": ["Minsun Ji"],
+      "orgs": ["Startup Colorado", "Rocky Mountain Employee Ownership Colorado (RMEOC)"],
+      "programs": ["Employee Ownership"],
+      "amounts": [],
+      "dates": ["July 16"],
+      "eligibility": ["business owners", "entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-whats-next-a-roadmap-for-bringing-your-creative-busine": {
+    "summary": "Workshop (June 24) with creative business coach Chereen Leong Schwarz helping idea-stage creatives move from concept to action with practical steps and momentum-building strategies.",
+    "entities": {
+      "people": ["Chereen Leong Schwarz"],
+      "orgs": ["Startup Colorado", "Smeeny Made Wild"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["June 24"],
+      "eligibility": ["idea-stage creatives", "artists"]
+    }
+  },
+  "startupcolorado-org-event-rural-startup-days": {
+    "summary": "Free multi-day event (February 25-27) in La Junta featuring educational sessions, local business showcases, networking, and a pitch competition to activate Southeast Colorado's entrepreneurial community.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Rural Startup Days"],
+      "amounts": [],
+      "dates": ["February 25-27"],
+      "eligibility": ["entrepreneurs", "small business owners"]
+    }
+  },
+  "startupcolorado-org-event-fswcf-open-house-steamboat-springs": {
+    "summary": "Informal networking event (April 27) in Steamboat Springs introducing small business financing through First Southwest Community Fund loans and connecting owners with local technical advisors.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "First Southwest Community Fund (FSWCF)"],
+      "programs": ["FSWCF loan programs"],
+      "amounts": [],
+      "dates": ["April 27"],
+      "eligibility": ["entrepreneurs", "small business owners"]
+    }
+  },
+  "colorado-edu-researchinnovation-research-operations-administration-program-manag": {
+    "summary": "CU Boulder's Program Management Office provides project management expertise and support to research programs across campus, offering monthly office hours and strategic guidance on research initiatives.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "Research & Innovation Office"],
+      "programs": ["Program Management Office"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["researchers", "faculty"]
+    }
+  },
+  "colorado-edu-ideaforge-patrick-mcspadden": {
+    "summary": "Profile of Patrick McSpadden, Manufacturing Engineer at CU Boulder's Idea Forge machine shop, supporting student projects from design review through manufacturing with industry experience from Sierra Space.",
+    "entities": {
+      "people": ["Patrick McSpadden"],
+      "orgs": ["CU Boulder", "Idea Forge", "Sierra Space"],
+      "programs": ["Idea Forge"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-how-one-colorado-startup-is-making-the-outdoors-more": {
+    "summary": "Story about a Colorado startup working to make outdoor recreation more accessible and inclusive for underrepresented populations.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-conquering-the-financial-emotional-rollercoaster-of-": {
+    "summary": "Article on managing the financial and emotional ups and downs of freelance work while building an independent business.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-ideaforge-people-patrick-maguire": {
+    "summary": "Profile of Patrick Maguire, Electronics and Fabrication Engineer at CU Boulder's Idea Forge, managing electronics labs and 3D printing while supporting student prototyping and electronics design.",
+    "entities": {
+      "people": ["Patrick Maguire"],
+      "orgs": ["CU Boulder", "Idea Forge"],
+      "programs": ["Idea Forge"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-quikrstuff-becomes-company-to-watch": {
+    "summary": "Feature on QuikrStuff, a startup launched during COVID that has grown into an industry-recognized company through innovation and market strategy.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "QuikrStuff"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-spring-food-ag-idea-factory": {
+    "summary": "Announcement of founders selected for the Spring Food & Agriculture Idea Factory program supporting food and agriculture entrepreneurs.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Food & Ag Idea Factory"],
+      "amounts": [],
+      "dates": ["Spring"],
+      "eligibility": ["food entrepreneurs", "agriculture entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-financing-manufacturing-growth-capital-equipment-and-e": {
+    "summary": "Workshop (August 5) for manufacturers covering financing options including SBA loans, equipment financing, and working capital solutions with experts from B:Side University and U.S. Bank.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "B:Side Capital", "U.S. Bank", "Manufacturer's Edge"],
+      "programs": ["Financing Manufacturing Growth"],
+      "amounts": [],
+      "dates": ["August 5"],
+      "eligibility": ["manufacturers", "business owners"]
+    }
+  },
+  "startupcolorado-org-event-soco-startup-week-startup-arcade-build-price-play": {
+    "summary": "Interactive competition (August 26) presented by El Pomar Institute where teams design and price games from scratch within budget constraints, then sell to other teams in a marketplace simulation.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "El Pomar Institute for Innovation and Commercialization (EPIIC)", "UCCS"],
+      "programs": ["Startup Arcade", "Southern Colorado Startup Week"],
+      "amounts": [],
+      "dates": ["August 26"],
+      "eligibility": ["entrepreneurs", "students"]
+    }
+  },
+  "startupcolorado-org-event-soco-startup-week-pivot-through-pain-bouncing-back-fro": {
+    "summary": "Workshop (August 26) led by Larry Plummer examining how founders can reframe failure as learning opportunity, using historical case studies to explore definitions of success and resilience.",
+    "entities": {
+      "people": ["Larry Plummer"],
+      "orgs": ["Startup Colorado", "UCCS", "El Pomar Institute for Innovation and Commercialization"],
+      "programs": ["Pivot Through Pain", "Southern Colorado Startup Week"],
+      "amounts": [],
+      "dates": ["August 26"],
+      "eligibility": ["founders", "entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-soco-startup-week-afternoon-tour-of-emergent-campus": {
+    "summary": "Campus tour (August 25) of Emergent Campus in Florence showcasing rural innovation hub with restored historic facilities, startup companies, and remote work infrastructure.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Emergent Campus"],
+      "programs": ["Southern Colorado Startup Week"],
+      "amounts": [],
+      "dates": ["August 25"],
+      "eligibility": ["founders", "entrepreneurs", "investors"]
+    }
+  },
+  "startupcolorado-org-event-leverage-bside-assist-your-ai-powered-financial-assist": {
+    "summary": "Webinar (July 8) introducing B:Side Assist, an AI-powered financial management tool for small businesses providing real-time cash flow tracking, trend analysis, and financial intelligence.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "B:Side Capital"],
+      "programs": ["B:Side Assist"],
+      "amounts": [],
+      "dates": ["July 8"],
+      "eligibility": ["small businesses", "entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-soco-startup-week-soco-startup-showcase": {
+    "summary": "Interactive showcase event (August 26) featuring approximately 20 Colorado startups demonstrating live demos, products, services, and interactive experiences in a non-traditional pitch format.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "UCCS", "El Pomar Institute for Innovation and Commercialization"],
+      "programs": ["SoCo Startup Showcase", "Southern Colorado Startup Week"],
+      "amounts": [],
+      "dates": ["August 26"],
+      "eligibility": ["entrepreneurs", "founders", "investors"]
+    }
+  },
+  "startupcolorado-org-event-soco-startup-week-after-party-at-observer-ranch": {
+    "summary": "Casual networking event (August 25) at Observer Ranch in Penrose providing informal venue for entrepreneurs and community leaders to continue conversations and build relationships in scenic surroundings.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Observer Ranch"],
+      "programs": ["Southern Colorado Startup Week"],
+      "amounts": [],
+      "dates": ["August 25"],
+      "eligibility": ["entrepreneurs", "founders", "investors"]
+    }
+  },
+  "startupcolorado-org-event-ascent-deep-tech-community-showcase": {
+    "summary": "Showcase event (June 24) highlighting deep tech startups from CU Boulder with pitches from the Ascent 2025 cohort followed by networking with researchers and investors.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "CU Boulder", "Venture Partners at CU Boulder"],
+      "programs": ["Ascent Deep Tech", "Ascent 2025"],
+      "amounts": [],
+      "dates": ["June 24"],
+      "eligibility": ["researchers", "entrepreneurs", "investors"]
+    }
+  },
+  "startupcolorado-org-event-from-trash-to-treasure-how-to-start-an-upcycling-busin": {
+    "summary": "Workshop (July 17) for ages 10-18 teaching participants to create marketable products from recycled materials while learning business principles of upcycling and sustainability.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Young Americans Center"],
+      "programs": ["From Trash to Treasure"],
+      "amounts": [],
+      "dates": ["July 17"],
+      "eligibility": ["ages 10-18"]
+    }
+  },
+  "startupcolorado-org-event-female-founders-funders-in-climate": {
+    "summary": "Exclusive evening event (March 31) at Forney Museum connecting female climate-tech founders and investors to address funding gaps and scale clean energy innovations in Colorado.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Women Who Charge"],
+      "programs": ["Female Founders & Funders in Climate"],
+      "amounts": [],
+      "dates": ["March 31"],
+      "eligibility": ["female founders", "female investors"]
+    }
+  },
+  "startupcolorado-org-event-outside-city-limits": {
+    "summary": "Fundraiser dinner (October 6) during West Slope Startup Week at Powerhouse Science Center in Durango celebrating Startup Colorado's mission and rural entrepreneurship ecosystem.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Powerhouse Science Center"],
+      "programs": ["Outside City Limits", "West Slope Startup Week"],
+      "amounts": [],
+      "dates": ["October 6"],
+      "eligibility": ["partners", "investors", "founders", "community leaders"]
+    }
+  },
+  "startupcolorado-org-event-strategic-organization-operations-for-rural-startups": {
+    "summary": "Free interactive workshop (July 20-21) teaching early-stage rural founders to clarify strategy, design organizational structure, and build operational systems for sustainable scaling, with English/Spanish options.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "First Southwest Community Fund"],
+      "programs": ["Strategic Organization & Operations for Rural Startups"],
+      "amounts": [],
+      "dates": ["July 20-21"],
+      "eligibility": ["early-stage founders", "rural entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-belonging-colorado-startup-colorado-demo-day": {
+    "summary": "Virtual demo day (May 19) showcasing the inaugural Belonging @ Startup Colorado cohort of companies focused on community impact and belonging, with judging for advancement to a growth challenge program.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Belonging Colorado"],
+      "programs": ["Belonging @ Startup Colorado", "Belonging @ Startup Colorado Growth Challenge"],
+      "amounts": [],
+      "dates": ["May 19"],
+      "eligibility": ["companies", "founders"]
+    }
+  },
+  "startupcolorado-org-roadtrip-weld-county-roadtrip": {
+    "summary": "Multi-day event (March 4-5) in Weld County featuring tracks on funding, toolbox skills, people/mentorship, youth entrepreneurship, and community impact, with sessions across UNC, Aims Community College, and local libraries.",
+    "entities": {
+      "people": ["Jeff Carlson", "Kevin Kudra", "Hunter Railey", "Sam Taylor", "Sarah Croshwaite"],
+      "orgs": ["Startup Colorado", "The Weld Trust", "CHFA", "University of Northern Colorado (UNC)", "Aims Community College", "LINC Library"],
+      "programs": ["Weld County Roadtrip"],
+      "amounts": [],
+      "dates": ["March 4-5"],
+      "eligibility": ["students", "founders", "community leaders"]
+    }
+  },
+  "startupcolorado-org-event-startup-colorado-lean-coffee-2": {
+    "summary": "Monthly virtual networking series (September 3) featuring funding representatives discussing loan programs, followed by Q&A and breakout discussions on entrepreneurial topics chosen by participants.",
+    "entities": {
+      "people": ["Rosy Aburto McDonough", "Naya Rodriguez"],
+      "orgs": ["Startup Colorado", "First Southwest Community Fund"],
+      "programs": ["Lean Coffee", "CLIMBER Loan Fund"],
+      "amounts": [],
+      "dates": ["September 3"],
+      "eligibility": ["entrepreneurs", "founders"]
+    }
+  },
+  "startupcolorado-org-event-advanced-industries-rural-roadshow": {
+    "summary": "Informational session (July 23) in Grand Junction by Colorado's Office of Economic Development and International Trade discussing state support for commercialization and export in advanced industries.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "OEDIT", "Oak Star Bank"],
+      "programs": ["Advanced Industries Accelerator (AIA) Program"],
+      "amounts": [],
+      "dates": ["July 23"],
+      "eligibility": ["advanced industry businesses"]
+    }
+  },
+  "startupcolorado-org-event-credit-builder-first-southwest-community-fund": {
+    "summary": "Free workshop (April 21) with simultaneous English/Spanish interpretation teaching credit building and financial decision-making, followed by relationship building with trusted financial partners.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "First Southwest Community Fund"],
+      "programs": ["Credit Builder"],
+      "amounts": [],
+      "dates": ["April 21"],
+      "eligibility": ["entrepreneurs", "small business owners"]
+    }
+  },
+  "watson-is-about": {
+    "summary": "Watson Institute partners with corporations and foundations to support impact-driven entrepreneurs and leaders, offering fellowships that combine financial support, mentorship, and training to accelerate social and economic change.",
+    "entities": {
+      "people": ["Sherrell Byrd"],
+      "orgs": ["Watson Institute", "Western Union Foundation", "Truist Foundation"],
+      "programs": ["Western Union Foundation Fellowship", "Truist Foundation Fellowship", "Basecamp"],
+      "amounts": ["67% average income growth", "83% annual recurring revenue growth"],
+      "dates": [],
+      "eligibility": ["impact-driven leaders", "entrepreneurs", "local leaders"]
+    }
+  },
+  "colorado-edu-research-research-institutes": {
+    "summary": "CU Boulder operates 12 major research institutes employing over 3,000 faculty, researchers, and students, accounting for half of all university sponsored research and generating significant economic impact.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder", "ATLAS Institute", "BioFrontiers Institute", "CIRES", "IBG", "INSTAAR", "IBS", "ICS", "JILA", "LASP", "Renée Crown Wellness Institute", "RASEI"],
+      "programs": ["Research institutes"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "watson-is-team": {
+    "summary": "Watson Institute's leadership team manages fellow recruitment, program implementation, event coordination, and community partnerships to support emerging entrepreneurs and leaders worldwide.",
+    "entities": {
+      "people": ["Saarika Anand", "Brandon Briscoe", "Mary Campbell", "Cinthia Campos", "Lallas Chen"],
+      "orgs": ["Watson Institute"],
+      "programs": ["Impact Fellowship programs", "Enlight Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "watson-is-career-accelerator": {
+    "summary": "Watson Institute's Career Accelerator Fellowship provides job placement and career development support to promising job seekers in Colorado, offering matching to leadership-track roles with salary growth and long-term coaching.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute"],
+      "programs": ["Career Accelerator Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["job seekers", "ambitious talent"]
+    }
+  },
+  "watson-is-career-accelerator-how-it-works": {
+    "summary": "Career Accelerator Fellowship process includes assessment, resume and interview preparation, job matching to leadership roles, and 8-month coaching support post-placement with ongoing access to professional development resources.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute"],
+      "programs": ["Career Accelerator Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["job seekers"]
+    }
+  },
+  "watson-is-alumni": {
+    "summary": "Watson Institute's 6,000+ alumni across 81 countries have raised $190 million, created 2,300+ jobs, and impacted 11 million people, with 90% continuing ventures, working at Fortune 500 companies, or pursuing advanced degrees.",
+    "entities": {
+      "people": ["Tessa Zimmerman", "Ricardo Rocha"],
+      "orgs": ["Watson Institute", "Upstream Education", "Bondadosa", "Y Combinator", "Echoing Green Fellowship", "Harvard University", "Princeton University", "Oxford Saïd Business School"],
+      "programs": ["Watson Institute programs"],
+      "amounts": ["$190M funds raised", "2,300+ jobs created", "11M+ people impacted"],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "watson-is-nominate": {
+    "summary": "Nomination form allowing program partners to recommend entrepreneurs for Watson Institute fellowships, with direct follow-up by institute staff to guide nominees through application process.",
+    "entities": {
+      "people": ["Ni Zhang", "Jeff Hoffman"],
+      "orgs": ["Watson Institute"],
+      "programs": ["Watson Institute programs"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["nominated entrepreneurs"]
+    }
+  },
+  "watson-is-summits": {
+    "summary": "Summit events are the culminating program experiences where fellows pitch ventures, tell impact stories, receive feedback from experts and peers, and gain professional pitch recordings for future fundraising.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute"],
+      "programs": ["Summit", "Truist Foundation Fellowship Summit"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["fellows"]
+    }
+  },
+  "watson-is-employer-network": {
+    "summary": "Watson Institute maintains a network of impact-driven companies and organizations actively recruiting scholars and alumni, including tech companies, nonprofits, and mission-driven enterprises.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute", "Align Impact", "Amazon", "Halycon", "Nepal Tea", "NREL", "Open Source Medical Supplies", "Power to the Polls"],
+      "programs": ["Employer Network"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["scholars", "alumni"]
+    }
+  },
+  "watson-is-contact-watson-institute": {
+    "summary": "Contact form for Watson Institute inquiries allowing prospective fellows, partners, and interested parties to reach the team with questions about programs and opportunities.",
+    "entities": {
+      "people": ["Uche Ogbonna"],
+      "orgs": ["Watson Institute"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "grad-apply-colorado-edu-register-researchgrantsay2526": {
+    "summary": "Graduate Student Research Grants AY25/26 application portal (registration deadline passed as of time of crawl).",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Boulder"],
+      "programs": ["Graduate Student Research Grants"],
+      "amounts": [],
+      "dates": ["AY25/26"],
+      "eligibility": ["graduate students"]
+    }
+  },
+  "watson-is-privacy-policy": {
+    "summary": "Watson Institute's privacy policy outlines data collection, usage, and protection practices for website users and program participants.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["March 13, 2026"],
+      "eligibility": []
+    }
+  },
+  "watson-is-basecamps": {
+    "summary": "Watson Institute Basecamps are fellow-led local events providing community engagement, networking, and skill-building opportunities for entrepreneurs and small business owners in their regions.",
+    "entities": {
+      "people": ["Ashley Ranking", "Abayomi Moses Epega", "Berenice EL Gharamti"],
+      "orgs": ["Watson Institute"],
+      "programs": ["Basecamps"],
+      "amounts": ["25,000+ participants reached", "340+ basecamps hosted"],
+      "dates": [],
+      "eligibility": ["fellows", "entrepreneurs", "community members"]
+    }
+  }
+}

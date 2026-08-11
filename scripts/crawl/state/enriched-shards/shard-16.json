@@ -1,0 +1,1134 @@
+{
+  "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher": {
+    "summary": "A landing page offering frequently asked questions and support resources for CU Anschutz faculty members exploring innovation and commercialization pathways.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Innovations", "University of Colorado Anschutz Medical Campus"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Anschutz faculty and researchers"]
+    }
+  },
+  "innosphereventures-org-team": {
+    "summary": "Leadership team profiles for Innosphere and ASCEND Engine, showing executives with deep expertise in venture capital, operations, life sciences, and workforce development.",
+    "entities": {
+      "people": [
+        {"name": "Mike Freeman", "role": "CEO"},
+        {"name": "Rachel Gallegos", "role": "Finance Director"},
+        {"name": "Tim Jones", "role": "COO & Translation Director"},
+        {"name": "Sam Malloy", "role": "R&D Director"},
+        {"name": "Kevin Noble", "role": "Life Sciences Program Director"}
+      ],
+      "orgs": ["Innosphere", "ASCEND Engine"],
+      "programs": ["Climate resilience programs", "Life Sciences Incubator", "Smart Cities programs"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "innosphereventures-org-events": {
+    "summary": "Calendar and listing of upcoming educational sessions offered free to the entrepreneurial community, including entrepreneurs, investors, and advisors.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innosphere"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Entrepreneurs", "Investors", "Advisors"]
+    }
+  },
+  "innosphereventures-org-impacts-workforce-training-is-strengthening-rural-wyoming": {
+    "summary": "Case study documenting how NSF ASCEND Engine's gener8tor Skills training initiative delivers free online vocational courses in rural Wyoming, enabling skill advancement and workforce participation.",
+    "entities": {
+      "people": [
+        {"name": "Shiloh Meeks", "role": "Program Graduate, File Clerk"}
+      ],
+      "orgs": ["NSF ASCEND Engine", "gener8tor Skills"],
+      "programs": ["gener8tor Skills Accelerator", "Customer Service course", "Project Management course", "IT Foundations course"],
+      "amounts": [],
+      "dates": ["2021", "2022", "2025"],
+      "eligibility": ["Rural Wyoming residents"]
+    }
+  },
+  "innosphereventures-org-impacts-before-the-haze-arrives": {
+    "summary": "Research partnership between Colorado State University and NSF ASCEND Engine developing AI-powered systems to forecast wildfire smoke patterns, protecting public health during fire season.",
+    "entities": {
+      "people": [
+        {"name": "John Volckels", "role": "Professor of Mechanical Engineering, Director"},
+        {"name": "Shantanu Jathar", "role": "Associate Professor of Mechanical Engineering"},
+        {"name": "Julian Probsdorfer", "role": "PhD Candidate in Mechanical Engineering"}
+      ],
+      "orgs": ["Colorado State University", "NSF ASCEND Engine", "Center for Energy Development and Health"],
+      "programs": ["RADSENSE Project"],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-team-profile-feldman-lily-elizabeth-extjptic": {
+    "summary": "Profile of a faculty innovations program manager at CU Anschutz who mentors researchers and clinicians in translating discoveries into healthcare ventures and patient-facing solutions.",
+    "entities": {
+      "people": [
+        {"name": "Lily Elizabeth Feldman", "role": "PhD, Faculty Innovations Program Manager"}
+      ],
+      "orgs": ["CU Innovations", "University of Colorado Anschutz Medical Campus"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2021"],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-category-funding-capital-access-page-2": {
+    "summary": "Brief reference to a funding-focused article about rural founders succeeding in pitch competitions and accessing capital.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Startup Colorado Pitch Competition"],
+      "amounts": ["$380000"],
+      "dates": [],
+      "eligibility": ["Rural founders"]
+    }
+  },
+  "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-discovery": {
+    "summary": "Overview of CU Innovations' technology transfer services, detailing how the university commercializes research through startups, licensing, and partnerships with patent protection and market assessment.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Innovations", "University of Colorado Anschutz Medical Campus"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["4 months"],
+      "eligibility": ["CU Anschutz researchers and inventors"]
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-news-events-2024-cu-innovation-forum": {
+    "summary": "Announcement of an innovation forum event held by CU Anschutz with industry sponsor support.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz"],
+      "programs": ["CU Innovation Forum"],
+      "amounts": [],
+      "dates": ["2024"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-about-us-news-events-2023-women-led-innovation-showcase": {
+    "summary": "Event celebrating women entrepreneurs and innovators in healthcare and research, featuring speakers from academic and startup backgrounds.",
+    "entities": {
+      "people": [
+        {"name": "Neill Epperson", "role": "MD, Professor & Chair of Psychiatry"},
+        {"name": "Leslie Leinwand", "role": "PhD, Chief Scientific Officer"},
+        {"name": "Heather Underwood", "role": "PhD, Entrepreneur"},
+        {"name": "Sheila Violette", "role": "PhD, Co-founder and CSO of Q32Bio"},
+        {"name": "Rhonda Wallen", "role": "MBA, Entrepreneur-in-Residence and CEO"}
+      ],
+      "orgs": ["CU Anschutz", "BioFrontiers Institute", "Q32Bio"],
+      "programs": ["Women-Led Innovation Showcase"],
+      "amounts": [],
+      "dates": ["2023-04-10"],
+      "eligibility": ["CU Anschutz students, faculty, staff"]
+    }
+  },
+  "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-manage-ip": {
+    "summary": "Resource hub for managing intellectual property and moving research discoveries toward commercialization, including mentorship from experienced entrepreneurs, IP guidance, and a database of service providers.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Innovations"],
+      "programs": ["Healthcare Advisors", "Entrepreneurs in Residence program"],
+      "amounts": [],
+      "dates": ["2003"],
+      "eligibility": ["CU Anschutz researchers"]
+    }
+  },
+  "cuanschutz-edu-innovations-spark-events-recordings": {
+    "summary": "Archive page for recorded SPARK program sessions and events.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz"],
+      "programs": ["SPARK"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-cedrone-lena-extmo": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Lena Cedrone", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-andani-sameer-extr": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Sameer Andani", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-buchta-bill-ext0m9": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Bill Buchta", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-bortot-maria-ext04": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Maria Bortot", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-tag-entrepreneur-profiles": {
+    "summary": "Collection of entrepreneur resources and workshop announcements covering business fundamentals, advisory services, and financing strategies for starting and growing ventures.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Luvira Consulting", "B:Side University", "U.S. Bank"],
+      "programs": ["Venture Studio Office Hours", "B:Side Assist", "Manufacturing Growth workshops", "Business Launch Checklist"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Entrepreneurs", "Small business owners"]
+    }
+  },
+  "startupcolorado-org-all-events-photo-featured-shortcode-fdcdb04f": {
+    "summary": "Listing of featured events during summer 2025, highlighting women-focused entrepreneurship programming.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Rural Women in Entrepreneurship"],
+      "amounts": [],
+      "dates": ["2025-08-14"],
+      "eligibility": ["Rural women entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-all-events": {
+    "summary": "Calendar of upcoming Startup Colorado events during late summer 2025, featuring mentorship and strategy sessions for early-stage founders.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Luvira Consulting"],
+      "programs": ["Venture Studio Office Hours"],
+      "amounts": ["Free"],
+      "dates": ["2025-08-10 to 2025-08-11"],
+      "eligibility": ["Founders", "Entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-all-events-community-add": {
+    "summary": "Form page for community members to submit and list their own events.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-all-events-photo-shortcode-fbfaa9c3": {
+    "summary": "Photo gallery of events from summer 2025.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2025-08-06 to 2025-09-24"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-researchinnovation-research-strategy-development": {
+    "summary": "Team within CU Boulder's research office that helps faculty identify funding opportunities, develop grant proposals, and build research collaborations.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Research & Innovation Office"],
+      "programs": ["Research Institutes", "Research Centers", "CUbit Quantum Initiative", "Sustainability Research Initiative"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder faculty"]
+    }
+  },
+  "colorado-edu-researchinnovation-research-operations-administration": {
+    "summary": "Administrative and operations teams providing contract management, grant support, and program administration for CU Boulder's research enterprise.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Research & Innovation Office"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-researchinnovation-innovation-partnerships": {
+    "summary": "CU Boulder's hub connecting researchers with entrepreneurs, industry, and government partners to commercialize discoveries and accelerate innovation.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Research & Innovation Office"],
+      "programs": ["Venture Partners at CU Boulder", "Innovation & Entrepreneurship Initiative", "Workforce Development Hub"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-researchinnovation-research-security-integrity": {
+    "summary": "Office ensuring research compliance, institutional oversight, and responsible conduct across animal care, conflicts of interest, export controls, and human subjects research.",
+    "entities": {
+      "people": [
+        {"name": "Jon Reuter", "role": "Associate Vice Chancellor"}
+      ],
+      "orgs": ["University of Colorado Boulder", "Research & Innovation Office"],
+      "programs": ["IACUC", "Human Research & IRB", "Research Misconduct office"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder faculty, staff, and students"]
+    }
+  },
+  "colorado-edu-researchinnovation-news-events-0": {
+    "summary": "News and events calendar for CU Boulder's research and innovation community.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Research & Innovation Office"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-researchinnovation-research-institutes-centers": {
+    "summary": "Directory of CU Boulder's research institutes (12 units conducting over half of sponsored research) and research centers (75+ covering diverse topics).",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-ideaforge-facilities-machine-shop": {
+    "summary": "Open-access fabrication lab at CU Boulder offering CNC equipment, welding tools, and waterjet services for student engineering projects and entrepreneurial ventures.",
+    "entities": {
+      "people": [
+        {"name": "Greg Potts", "role": "Contact"},
+        {"name": "Chase Logsdon", "role": "Contact"},
+        {"name": "Patrick McSpadden", "role": "Contact"},
+        {"name": "Victoria Lanaghan", "role": "Student groups contact"}
+      ],
+      "orgs": ["Idea Forge", "CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder engineering students"]
+    }
+  },
+  "colorado-edu-researchinnovation-research-innovation-office-rio-directory": {
+    "summary": "Comprehensive contact directory for CU Boulder's Research & Innovation Office and its constituent units supporting research strategy, operations, and compliance.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Research & Innovation Office"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-researchinnovation-newsletter": {
+    "summary": "Email newsletter from CU Boulder's research office.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Research & Innovation Office"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-ideaforge-sewing-resources": {
+    "summary": "Equipment and instruction for sewing projects at CU Boulder's makerspace, including industrial and standard machines available for coursework, prototyping, and entrepreneurial projects.",
+    "entities": {
+      "people": [
+        {"name": "Josh Colyer", "role": "Resource contact"}
+      ],
+      "orgs": ["Idea Forge", "CU Boulder"],
+      "programs": ["Packable Hammock Workshop"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "startupcolorado-org-stories-category-startup-communities": {
+    "summary": "Story about Rural Startup Days initiative bringing entrepreneurship education and support to underserved communities in Southeast Colorado.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Rural Startup Days"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Rural entrepreneurs"]
+    }
+  },
+  "cuanschutz-edu-innovations-spark-who-are-we-fellows": {
+    "summary": "Cohort 9 of SPARK program fellows—senior researchers and clinicians at CU Anschutz working on innovative therapeutics, medical devices, and digital health solutions for commercialization.",
+    "entities": {
+      "people": [
+        {"name": "Curtis Henry", "role": "PhD, Associate Professor"},
+        {"name": "Sujatha Jagannathan", "role": "PhD, Associate Professor"},
+        {"name": "Kristi Kuhn", "role": "MD PhD, Division Head"},
+        {"name": "Suzhao Li", "role": "PhD, Associate Research Professor"},
+        {"name": "Niranjan Manoharan", "role": "MD, Associate Professor"},
+        {"name": "Vikas Patel", "role": "MD, Professor"},
+        {"name": "Srinivas Ramachandran", "role": "PhD, Assistant Professor"},
+        {"name": "Olivia Rissland", "role": "PhD, Professor"},
+        {"name": "Sujatha Venkataraman", "role": "PhD, Founder"},
+        {"name": "Duncan Wilcox", "role": "MD, Professor"}
+      ],
+      "orgs": ["CU Anschutz", "SPARK"],
+      "programs": ["SPARK Fellowship - Cohort 9"],
+      "amounts": [],
+      "dates": ["2026"],
+      "eligibility": ["CU Anschutz faculty and researchers"]
+    }
+  },
+  "cuanschutz-edu-innovations-spark-resources-links": {
+    "summary": "Curated collection of external funding and training resources for SPARK applicants, including NIH opportunities, state grants, and entrepreneurship programs.",
+    "entities": {
+      "people": [],
+      "orgs": ["NIH", "Colorado OEDIT", "NHLBI", "CCTSI"],
+      "programs": ["I-Corps@CCTSI", "Microgrants", "NIH SEED", "NHLBI Catalyze"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["SPARK applicants"]
+    }
+  },
+  "startupcolorado-org-organizer-telluride-venture-network-eventdisplay-past": {
+    "summary": "Telluride Venture Network's strategy-focused bootcamp helping business owners clarify growth direction and optimize resource allocation through structured planning.",
+    "entities": {
+      "people": [],
+      "orgs": ["Telluride Venture Network", "Startup Colorado"],
+      "programs": ["Strategy & Growth Bootcamp"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Business owners"]
+    }
+  },
+  "cuanschutz-edu-innovations-spark-resources-applicantsupports": {
+    "summary": "Pre-recorded bootcamp sessions and office hours assisting SPARK applicants in developing proposals, covering topics from market analysis to regulatory pathways and financial planning.",
+    "entities": {
+      "people": [
+        {"name": "Rebecca Mao", "role": "Contact"}
+      ],
+      "orgs": ["CU Anschutz", "SPARK"],
+      "programs": ["SPARK Bootcamp"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["SPARK applicants"]
+    }
+  },
+  "cuanschutz-edu-innovations-spark-resources-cctsi-icorps": {
+    "summary": "NIH Innovation Corps training for biomedical researchers, using customer discovery methodology to test business models and translate lab discoveries into commercial applications.",
+    "entities": {
+      "people": [],
+      "orgs": ["NIH", "CU Anschutz", "CCTSI", "CU Innovations", "Children's Hospital Colorado"],
+      "programs": ["I-Corps@CCTSI", "Innovation Corps"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Biomedical researchers", "Faculty", "Staff", "Students"]
+    }
+  },
+  "cuanschutz-edu-innovations-spark-resources-spark-documents": {
+    "summary": "Resource repository for SPARK application materials and documentation.",
+    "entities": {
+      "people": [],
+      "orgs": ["CU Anschutz"],
+      "programs": ["SPARK"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-all-events-list-featured": {
+    "summary": "Featured monthly gathering for rural women entrepreneurs to connect virtually and share experiences.",
+    "entities": {
+      "people": [
+        {"name": "Heather Heacox", "role": "Co-host"}
+      ],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Rural Women in Entrepreneurship"],
+      "amounts": [],
+      "dates": ["2025-08"],
+      "eligibility": ["Rural women entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-stories-2026-04-02": {
+    "summary": "Announcement of inaugural cohort for Belonging @ Startup Colorado, a new accelerator program for founders focused on belonging and inclusive business practices.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Belonging Colorado"],
+      "programs": ["Belonging @ Startup Colorado"],
+      "amounts": [],
+      "dates": ["2026-04-02"],
+      "eligibility": ["Founders nationwide"]
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-elder-nina-exthhli": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Nina Elder", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-fetzer-jennifer-ex": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Jennifer Fetzer", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-laughter-melissa-e": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Melissa Laughter", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-lee-byoungin-extkz": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Byoungin Lee", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-madsen-henry-exts5": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Henry Madsen", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-mecca-andrew-extli": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Andrew Mecca", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-mohan-adithya-exte": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Adithya Mohan", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-hoff-katelyn-extl0": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Katelyn Hoff", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-kerr-jake-extnizzk": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Jake Kerr", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-kim-emmeline-extp3": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Emmeline Kim", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-king-benjamin-exte": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Benjamin King", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-neves-da-silva-hel": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Helio Neves da Silva", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-myers-tyler-extv90": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Tyler Myers", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-all-events-list-eventdisplay-past": {
+    "summary": "Free workshops for rural Colorado entrepreneurs covering startup operations, strategy, and business fundamentals.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Strategic Organization & Operations for Rural Startups"],
+      "amounts": ["Free"],
+      "dates": ["2026-07-20", "2026-07-21"],
+      "eligibility": ["Rural startup founders"]
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-ormsby-andrew-ext0": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Andrew Ormsby", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-palan-jordan-ext83": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Jordan Palan", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-parsana-juhi-extti": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Juhi Parsana", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-pradhan-sharvari-e": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Sharvari Pradhan", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-rothfuss-craig-ext": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Craig Rothfuss", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-organizer-startup-colorado-eventdisplay-past": {
+    "summary": "Virtual pitch coaching workshop helping entrepreneurs refine their business storytelling and presentation for competitions.",
+    "entities": {
+      "people": [
+        {"name": "Jolene Collins", "role": "Coach"}
+      ],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Pitch Readiness Session"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Business founders"]
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-sorrells-matt-exth": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Matt Sorrells", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-schuppan-oksana-ex": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Oksana Schuppan", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-templeton-john-ext": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "John Templeton", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-weiser-ari-extykki": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Ari Weiser", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-wang-xinjun-ext5zh": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Xinjun Wang", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-student-fellowships-fellow-profile-volpe-ross-ext3epj": {
+    "summary": "Student fellow profile page.",
+    "entities": {
+      "people": [
+        {"name": "Ross Volpe", "role": "Fellow"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-all-events-list-page-2": {
+    "summary": "Free community workshop and hackathon event promoting mainstreet revitalization and hands-on learning in rural Colorado.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Community Hackathon Workshop", "NatureChase Mainstreet Adventure"],
+      "amounts": ["Free"],
+      "dates": ["2025-08-25"],
+      "eligibility": []
+    }
+  },
+  "cires-colorado-edu-news-usgs-renews-funding-north-central-climate-adaptation-sci": {
+    "summary": "Five-year USGS funding renewal for North Central Climate Adaptation Science Center, supporting applied research to help regional land and resource managers implement climate-resilient practices.",
+    "entities": {
+      "people": [
+        {"name": "William Travis", "role": "Professor of Geography, Principal Investigator"}
+      ],
+      "orgs": ["USGS", "CIRES", "University of Colorado Boulder"],
+      "programs": ["North Central Climate Adaptation Science Center"],
+      "amounts": [],
+      "dates": ["2024-09-19"],
+      "eligibility": ["Federal, state, Tribal, and local government managers"]
+    }
+  },
+  "colorado-edu-business-deming-deming-center-news-stories": {
+    "summary": "News and stories from the Deming Center at CU Boulder's business school.",
+    "entities": {
+      "people": [],
+      "orgs": ["Deming Center", "Leeds School of Business", "University of Colorado Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-ideaforge-jenny-brown": {
+    "summary": "Staff profile of Program Assistant at Idea Forge who handles scheduling, room reservations, and general support for makers and entrepreneurs.",
+    "entities": {
+      "people": [
+        {"name": "Jenny Brown", "role": "Program Assistant"}
+      ],
+      "orgs": ["Idea Forge", "College of Engineering and Applied Science", "University of Colorado Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2026"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-henry-curtis-extiovt2e": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Curtis Henry", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-patel-vikas-ext1zl451": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Vikas Patel", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-venkataraman-sujatha-extcq5cic": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Sujatha Venkataraman", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-tag-online-event": {
+    "summary": "Archive of online workshops and webinars covering business basics, technology integration, credit building, and rural entrepreneurship support.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Business Launch Checklist", "Credit Builder Session", "AI Business System workshops", "AI Workflows workshops"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-organizer-ai-user-forum": {
+    "summary": "Community forum organizing submissions and sponsorships for AIQ Conference on Communications focused on agentic AI impact.",
+    "entities": {
+      "people": [],
+      "orgs": ["AI User Forum", "Startup Colorado"],
+      "programs": ["AIQ Conference on Communications (ConComAI)"],
+      "amounts": ["$99.00"],
+      "dates": ["2026-08-14 to 2026-08-15"],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-barker-alex-extfszvw5": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Alex Barker", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-borges-virginia-f-extxuetei": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Virginia Borges", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-coughlan-christina-extv8s0kl": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Christina Coughlan", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-burger-van-der-walt-evalina-extimo": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Evalina Burger", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-diaz-miron-jose-extpmfy2z": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Jose Diaz-Miron", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-diot-quentin-extfslgkm": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Quentin Diot", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-duncan-luke-extc3ce0s": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Luke Duncan", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-friedman-norman-extnl0hg2": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Norman Friedman", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-davila-eduardo-exti2wbcg": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Eduardo Davila", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-gottlieb-peter-extgzxiwj": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Peter Gottlieb", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-idrovo-juan-pablo-ext7lricp": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Juan Pablo Idrovo", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-herrmann-brian-extjbpqgj": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Brian Herrmann", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-green-adam-extjw3y56": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Adam Green", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-klug-achim-extmudiw1": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Achim Klug", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "cuanschutz-edu-innovations-who-we-are-profile-ma-ji-exta68ona": {
+    "summary": "Team member profile page.",
+    "entities": {
+      "people": [
+        {"name": "Ji Ma", "role": "Team member"}
+      ],
+      "orgs": ["CU Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  }
+}

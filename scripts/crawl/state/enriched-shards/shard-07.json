@@ -1,0 +1,981 @@
+{
+  "startupcolorado-org-fund-our-work": {
+    "summary": "Startup Colorado seeks donor support to continue its work connecting and strengthening rural entrepreneurship across 53 Colorado counties through mentorship, storytelling, and free accelerator programs at all business stages.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Idea Factory"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Rural entrepreneurs", "Founders at any business stage"]
+    }
+  },
+  "startupcolorado-org-stories-what-three-recent-investments-reveal-about-rural-col": {
+    "summary": "Article highlighting recent investments and what they reveal about the rural Colorado startup ecosystem.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-referral-disclaimer": {
+    "summary": "Legal disclaimer clarifying that Startup Colorado does not conduct due diligence on its referral network of mentors and service providers, and participants engage with them at their own risk.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-resource-center-workforce-development-resource-hub-technical": {
+    "summary": "Step-by-step technical guide covering the legal and financial setup required to hire an employee in Colorado, including tax registration, workers' compensation insurance, and payroll systems.",
+    "entities": {
+      "people": [],
+      "orgs": ["Colorado Department of Revenue", "Colorado Department of Labor and Employment", "Pinnacol Assurance", "Gusto", "QuickBooks Payroll", "ADP Run"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Colorado business owners", "First-time employers"]
+    }
+  },
+  "startupcolorado-org-resource-center-explained-how-colorados-rural-jump-start-pro": {
+    "summary": "Explanation of Colorado's Rural Jump-Start Program, which provides tax incentives, grants, and job creation benefits to help rural entrepreneurs establish or relocate businesses to economically distressed rural areas.",
+    "entities": {
+      "people": ["Elizabeth Marsh"],
+      "orgs": ["Colorado Office of Economic Development and International Trade", "SCAPE"],
+      "programs": ["Rural Jump-Start Program"],
+      "amounts": ["$334,500 in 2023", "$155,047 in tax credits"],
+      "dates": ["2023"],
+      "eligibility": ["Rural Colorado entrepreneurs", "Businesses locating in designated Rural Jump-Start areas"]
+    }
+  },
+  "startupcolorado-org-state-of-startup-communities-in-rural-colorado-inside-the-te": {
+    "summary": "Analysis of the thriving tech startup ecosystem emerging in rural Colorado communities, highlighting how tech founders and workers are successfully establishing companies outside the Denver/Boulder metro area.",
+    "entities": {
+      "people": ["Elizabeth Marsh"],
+      "orgs": ["SCAPE", "IBM", "AT&T", "Amazon", "Apple", "Google"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2020", "2022"],
+      "eligibility": ["Tech entrepreneurs", "Rural Colorado communities"]
+    }
+  },
+  "startupcolorado-org-event-capital-bootcamp-a-step-by-step-technical-guide-to-pre": {
+    "summary": "First session of a five-week Capital Bootcamp on September 1, 2026, focusing on financial foundations and what lenders examine when evaluating loan applications.",
+    "entities": {
+      "people": ["Jamie Finney", "Olivia Reed"],
+      "orgs": ["Startup Colorado", "Howdy Partners"],
+      "programs": ["Capital Bootcamp", "Capital Ready certification"],
+      "amounts": ["$45M raised by Howdy Partners", "$50 high-growth rural Colorado startups invested in"],
+      "dates": ["September 1, 2026"],
+      "eligibility": ["Colorado business owners", "Entrepreneurs seeking state funding"]
+    }
+  },
+  "startupcolorado-org-stories-startup-colorados-pop-event-series": {
+    "summary": "Story about Startup Colorado's POP Event Series.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["POP Event Series"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "coloradostartups-org-contact": {
+    "summary": "Contact page for Colorado Startups organization offering assistance to the startup community.",
+    "entities": {
+      "people": [],
+      "orgs": ["Colorado Startups"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "coloradostartups-org-event-calendar": {
+    "summary": "Curated calendar of startup and entrepreneurship events across Colorado, with options to subscribe to newsletters and submit new events.",
+    "entities": {
+      "people": [],
+      "orgs": ["Colorado Startups", "Natty Zola", "Matchstick Ventures"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Entrepreneurs and startup community members"]
+    }
+  },
+  "coloradostartups-org-startup-happy-hour": {
+    "summary": "Monthly free social events held in Boulder and Denver on the 2nd Thursday (Boulder) and 1st Tuesday (Denver) to connect entrepreneurs and founders in person.",
+    "entities": {
+      "people": ["Micah Mador", "Ryan Shuken"],
+      "orgs": ["Colorado Startups", "Wild Provisions by 4Noses Brewery", "ID345"],
+      "programs": ["Startup Socials", "Startup Happy Hours"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Entrepreneurs", "Startup community members"]
+    }
+  },
+  "coloradostartups-org-the-team": {
+    "summary": "Introduction to the Colorado Startups team and leadership, which manages community groups and coordinates monthly networking events for entrepreneurs.",
+    "entities": {
+      "people": ["Paul Foley", "Micah Mador", "Lindsey Rohde", "Ryan Shuken", "Annie Elliott"],
+      "orgs": ["Colorado Startups"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "coloradostartups-org-startup-hikes": {
+    "summary": "Monthly outdoor hike series for the startup community to connect with founders, investors, and ecosystem members during warmer months with scheduled dates at various Boulder-area trailheads.",
+    "entities": {
+      "people": ["Micah Mador", "Lindsey Rohde"],
+      "orgs": ["Colorado Startups", "Business Outside"],
+      "programs": ["Startup Hikes", "Startup Ski Days"],
+      "amounts": [],
+      "dates": ["May 8, 2026", "June 12, 2026", "July 31, 2026", "August 21, 2026", "September 18, 2026"],
+      "eligibility": ["Tech founders", "Investors", "Community members"]
+    }
+  },
+  "coloradostartups-org-ski-days": {
+    "summary": "Winter season ski days held monthly on Fridays at various Colorado resorts for startup founders, operators, and investors to network and connect.",
+    "entities": {
+      "people": ["Micah Mador", "Lindsey Rohde"],
+      "orgs": ["Colorado Startups", "Business Outside"],
+      "programs": ["Startup Ski Days"],
+      "amounts": [],
+      "dates": ["December 11, 2026", "January 15, 2027", "February 5, 2027", "February 19, 2027", "March 26, 2027", "April 16, 2027"],
+      "eligibility": ["Founders", "Operators", "Investors", "All skill levels welcome"]
+    }
+  },
+  "coloradostartups-org-privacy-policy": {
+    "summary": "Privacy policy detailing how Colorado Startups collects, uses, and protects member email information with opt-out options.",
+    "entities": {
+      "people": [],
+      "orgs": ["Colorado Startups"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "coloradostartups-org-newsletter": {
+    "summary": "Newsletter signup page for Colorado Startups monthly updates.",
+    "entities": {
+      "people": [],
+      "orgs": ["Colorado Startups"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-capital-bootcamp-collateral-credit-enhancements-and-br": {
+    "summary": "Second week of the Capital Bootcamp series on September 8, 2026, teaching business owners how to present collateral and identify credit enhancement options to strengthen loan applications.",
+    "entities": {
+      "people": ["Jamie Finney", "Olivia Reed"],
+      "orgs": ["Startup Colorado", "Howdy Partners"],
+      "programs": ["Capital Bootcamp", "Capital Ready certification"],
+      "amounts": [],
+      "dates": ["September 8, 2026"],
+      "eligibility": ["Colorado business owners"]
+    }
+  },
+  "calendar-colorado-edu-event-industry-pathways-workshop-turning-research-strength": {
+    "summary": "CU Boulder virtual workshop on October 1 and 8, 2026, teaching researchers how industry values R&D and how to position their research for industry partnerships and funding opportunities.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Industry Research Partnerships", "Research & Innovation Office"],
+      "programs": ["Industry Pathways Workshop"],
+      "amounts": [],
+      "dates": ["October 1, 2026", "October 8, 2026"],
+      "eligibility": ["CU Boulder faculty and researchers"]
+    }
+  },
+  "startupcolorado-org-event-soco-startup-week-ai-solutions-challenge-sprint": {
+    "summary": "Full-day hands-on AI innovation sprint on August 24, 2026, in Colorado Springs where teams tackle real community challenges across infrastructure, public safety, or community activation using leading AI tools.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Exponential Impact", "BoodleBox", "City of Colorado Springs"],
+      "programs": ["SoCo Startup Week", "AI Solutions Challenge Sprint"],
+      "amounts": [],
+      "dates": ["August 24, 2026"],
+      "eligibility": ["Entrepreneurs", "Community members"]
+    }
+  },
+  "colorado-edu-ideaforge-about-join-our-team": {
+    "summary": "Idea Forge at CU Boulder is hiring student staff called Smiths each semester at rates from $18.17 to $23.27 per hour across four different role types.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Idea Forge"],
+      "programs": [],
+      "amounts": ["$18.17-$23.27 per hour"],
+      "dates": ["Fall 2026"],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-researchinnovation-about": {
+    "summary": "Overview of CU Boulder's Research & Innovation Office, which supports university researchers, students, and entrepreneurs in translating discoveries into real-world impact through collaboration and innovation.",
+    "entities": {
+      "people": ["Massimo Ruzzene"],
+      "orgs": ["University of Colorado Boulder", "Research & Innovation Office"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-profile-emilie-odeile-and-ken-chapin": {
+    "summary": "Profile of Startup Colorado's first artist-in-residence Emilie Odeile and business partner Ken Chapin.",
+    "entities": {
+      "people": ["Emilie Odeile", "Ken Chapin"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-capital-bootcamp-building-your-business-financial-narr": {
+    "summary": "Third session of the Capital Bootcamp on September 15, 2026, helping business owners develop compelling financial narratives and complete loan package documentation.",
+    "entities": {
+      "people": ["Jamie Finney", "Olivia Reed"],
+      "orgs": ["Startup Colorado", "Howdy Partners"],
+      "programs": ["Capital Bootcamp", "Capital Ready certification"],
+      "amounts": [],
+      "dates": ["September 15, 2026"],
+      "eligibility": ["Colorado business owners"]
+    }
+  },
+  "startupcolorado-org-event-capital-bootcamp-application-submission-and-what-comes": {
+    "summary": "Fifth and final session of the Capital Bootcamp on September 29, 2026, focusing on application submission, lender meetings, and strategies for navigating post-approval or rejection scenarios.",
+    "entities": {
+      "people": ["Jamie Finney", "Olivia Reed"],
+      "orgs": ["Startup Colorado", "Howdy Partners"],
+      "programs": ["Capital Bootcamp", "Capital Ready certification"],
+      "amounts": [],
+      "dates": ["September 29, 2026"],
+      "eligibility": ["Colorado business owners"]
+    }
+  },
+  "startupcolorado-org-stories-announcing-startup-colorados-first-artist-in-residen": {
+    "summary": "Announcement of Startup Colorado's first artist-in-residence program.",
+    "entities": {
+      "people": ["Emilie Odeile"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-soco-startup-week-innovation-tour-with-pterodynamics": {
+    "summary": "Guided tour on August 26, 2026, at PteroDynamics in Colorado Springs featuring their groundbreaking vertical takeoff and landing aircraft platform with a conversation with CEO Matthew Graczyk.",
+    "entities": {
+      "people": ["Matthew Graczyk"],
+      "orgs": ["PteroDynamics", "Startup Colorado"],
+      "programs": ["SoCo Startup Week"],
+      "amounts": [],
+      "dates": ["August 26, 2026"],
+      "eligibility": ["Entrepreneurs", "Innovation enthusiasts"]
+    }
+  },
+  "startupcolorado-org-event-startup-entrepreneurship-emprendimiento-de-nuevos-nego": {
+    "summary": "Four free Zoom workshops offered in Spanish with simultaneous English interpretation from June 9-18, 2026, teaching business fundamentals with a $400 grant provided upon completion.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "First Southwest Community Fund"],
+      "programs": ["Startup Entrepreneurship Series", "Emprendimiento de Nuevos Negocios"],
+      "amounts": ["$400 grant"],
+      "dates": ["June 9, 2026", "June 11, 2026", "June 16, 2026", "June 18, 2026"],
+      "eligibility": ["Spanish-speaking entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-event-august-capital-bootcamp-info-session": {
+    "summary": "Information session on August 27, 2026, introducing the five-week Capital Bootcamp program and state funding opportunities for Colorado business owners.",
+    "entities": {
+      "people": ["Jamie Finney", "Kiki Hooton", "Olivia Reed"],
+      "orgs": ["Startup Colorado", "Howdy Partners", "Jackalope Events"],
+      "programs": ["Capital Bootcamp", "Capital Ready certification"],
+      "amounts": ["$45M raised by Howdy Partners", "$50 high-growth startups invested in"],
+      "dates": ["August 27, 2026"],
+      "eligibility": ["Colorado business owners at any stage"]
+    }
+  },
+  "cuanschutz-edu-homepage": {
+    "summary": "Homepage for University of Colorado Anschutz.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-weld-county-startup-colorado-roadtrip": {
+    "summary": "Multi-city roadtrip event on March 4-5, 2026, in Greeley bringing resources, education, and networking opportunities to rural entrepreneurs with focus on capital access and digital transformation.",
+    "entities": {
+      "people": ["Olivia Reed"],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Startup Colorado Roadtrip"],
+      "amounts": [],
+      "dates": ["March 4, 2026", "March 5, 2026"],
+      "eligibility": ["Founders at every stage", "Rural Colorado entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-stories-starting-up-with-ice-preneur-chris-bonds": {
+    "summary": "Story about Chris Bonds and his premium cocktail ice business in Colorado's Western Slope.",
+    "entities": {
+      "people": ["Chris Bonds"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-revolutionizing-womens-outdoor-apparel-how-shefly-is-changin": {
+    "summary": "Article about SheFly and their innovation in women's outdoor apparel.",
+    "entities": {
+      "people": [],
+      "orgs": ["SheFly", "Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-food-and-ag-idea-factory": {
+    "summary": "Story about partnership creating a specialized Idea Factory program for food and agriculture entrepreneurs.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Naturally Colorado", "Colorado State University"],
+      "programs": ["Food & Ag Idea Factory"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2021-09-12-tech-transfer-key-products-spun-cu-bould": {
+    "summary": "Article about tech transfer's importance in bringing university research innovations to market as commercial products.",
+    "entities": {
+      "people": ["Daniel Leonard"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-about-people-joshua-bennett": {
+    "summary": "Joshua Bennett is an Assistant Director of Licensing at Venture Partners managing physics and engineering technologies, including quantum and photonics specializations, and directs the Lab Venture Challenge.",
+    "entities": {
+      "people": ["Joshua Bennett"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder", "CU Boulder Technology Transfer Office"],
+      "programs": ["Lab Venture Challenge"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-about-people-amy-dodenhoff": {
+    "summary": "Amy Dodenhoff leads venture development initiatives at Venture Partners and directs Destination Startup and the Embark Deep Tech Startup Creator, bringing patent law and startup advisory experience.",
+    "entities": {
+      "people": ["Amy Dodenhoff", "Marta Zgagacz"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder", "Cooley", "Chadbourne & Parke", "Norton Rose Fulbright"],
+      "programs": ["Destination Startup", "Embark Deep Tech Startup Creator", "Lab Venture Challenge"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2025-07-07-external-news-activate-welcomes-cu-bould": {
+    "summary": "Three CU Boulder-based innovators have been selected for the Activate Fellowship Cohort 2025, including founders of PAGE Technologies and OsmoPure Technologies working on agricultural and environmental solutions.",
+    "entities": {
+      "people": ["Elliot Strand", "Payton Goodrich", "Nadia Jorgenson"],
+      "orgs": ["University of Colorado Boulder", "Activate", "PAGE Technologies", "OsmoPure Technologies"],
+      "programs": ["Activate Fellowship", "Lab Venture Challenge"],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": ["Scientists", "Engineers"]
+    }
+  },
+  "calendar-colorado-edu-group-nvc-calendar": {
+    "summary": "Calendar of New Venture Challenge events at CU Boulder with filtering options for event types, dates, and audience.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "New Venture Challenge"],
+      "programs": ["New Venture Challenge"],
+      "amounts": [],
+      "dates": ["August 11 - September 10, 2026"],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-how-to-organize-an-event-the-startup-colorado-way": {
+    "summary": "Story sharing insights on organizing events in the Startup Colorado community model.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-the-western-union-global-fellowship-powered-by-watson-": {
+    "summary": "Fully-funded 16-week global fellowship from August 11 to December 3, 2026, supporting entrepreneurs and leaders serving marginalized communities in the US and Latin America with training, mentorship, and capital access.",
+    "entities": {
+      "people": [],
+      "orgs": ["Western Union", "Watson Institute", "Startup Colorado"],
+      "programs": ["Western Union Global Fellowship"],
+      "amounts": [],
+      "dates": ["June 28, 2026 (priority deadline)", "August 11 - December 3, 2026"],
+      "eligibility": ["Leaders and entrepreneurs serving marginalized/refugee/displaced communities in US, Costa Rica, India, Philippines, Lithuania, Argentina, Italy, Brazil, Peru", "Established business models actively serving customers"]
+    }
+  },
+  "startupcolorado-org-stories-startup-colorados-response-to-the-quantum-industry-b": {
+    "summary": "Startup Colorado's perspective on quantum industry legislation in Colorado.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-event-2026-high-school-new-venture-challengepowered-by-fir": {
+    "summary": "High school entrepreneurship competition on April 19, 2026, where Colorado students pitch business ideas to judges with networking and learning opportunities.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "FirstBank", "New Venture Challenge"],
+      "programs": ["High School New Venture Challenge"],
+      "amounts": [],
+      "dates": ["April 19, 2026"],
+      "eligibility": ["Colorado high school students"]
+    }
+  },
+  "calendar-colorado-edu-event-ascent-deep-tech-community-showcase": {
+    "summary": "Community showcase on June 24, 2026, highlighting innovative deep tech startups from CU Boulder's Ascent cohort with pitches and networking.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder", "Research & Innovation Office"],
+      "programs": ["Ascent Deep Tech Accelerator"],
+      "amounts": [],
+      "dates": ["June 24, 2026"],
+      "eligibility": ["Researchers", "Investors", "Community members"]
+    }
+  },
+  "colorado-edu-venturepartners-technology-portfolio-biosciences": {
+    "summary": "Portfolio of bioscience technologies available for licensing from CU Boulder and UCCS, including drug development, molecular medicine, and regenerative therapy innovations.",
+    "entities": {
+      "people": ["Hannah Nelson", "Nausica Arnoult"],
+      "orgs": ["University of Colorado Boulder", "University of Colorado Colorado Springs", "Venture Partners at CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-june-demo-day-recap": {
+    "summary": "Recap of June Demo Day featuring rural Colorado founders pitching diverse businesses from consumer products to advanced robotics.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Demo Day"],
+      "amounts": [],
+      "dates": ["June 2026"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-about-people-jonathan-marenus": {
+    "summary": "Jonathan Marenus is a Licensing Manager for software and physical sciences at Venture Partners and Director of the Creative Futures Fellowship, combining music, law, and innovation expertise.",
+    "entities": {
+      "people": ["Jonathan Marenus"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder", "Project VOYCE"],
+      "programs": ["Creative Futures Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-ramsi-inc-prev-pricing-service-inc": {
+    "summary": "Ramsi Inc., co-founded by CU Boulder strategy researcher Dan Zhang, is an AI-driven hotel pricing platform helping independent hotels optimize rates through dynamic pricing algorithms.",
+    "entities": {
+      "people": ["Dan Zhang", "Matt Schwartz"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder", "Ramsi Inc."],
+      "programs": ["Destination Startup"],
+      "amounts": [],
+      "dates": ["Pre-Seed funding stage"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-2025-02-13-2025-destination-startup-announces-start": {
+    "summary": "Announcement of startups selected for 2025 Destination Startup program to present at annual showcase.",
+    "entities": {
+      "people": ["Daniel Leonard"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder"],
+      "programs": ["Destination Startup"],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-business-deming-about-deming": {
+    "summary": "The Deming Center for Entrepreneurship at Leeds School of Business develops entrepreneurial thinkers and leaders who create economic and social value through education and experiential learning.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Leeds School of Business", "Deming Center for Entrepreneurship"],
+      "programs": ["Deming Center programs"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Leeds students", "CU Boulder students"]
+    }
+  },
+  "startupcolorado-org-stories-2024-end-of-year-reflections": {
+    "summary": "Startup Colorado's reflections on accomplishments and lessons from 2024.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2024"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-space-dust-research-technologies-llc": {
+    "summary": "Space Dust Research & Technologies, founded by LASP scientists Xu Wang and Mihaly Horanyi, develops dust mitigation and lunar resource technologies for space exploration with NASA support.",
+    "entities": {
+      "people": ["Xu Wang", "Mihaly Horanyi"],
+      "orgs": ["University of Colorado Boulder", "LASP", "Space Dust Research & Technologies", "NASA", "Caltech JPL", "University of Iowa"],
+      "programs": ["NASA TechLeap Prize"],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": ["Aerospace industry"]
+    }
+  },
+  "colorado-edu-business-cesr-current-students-graduate-programs-leeds-sustainabili": {
+    "summary": "Leeds Sustainability Case Competition sponsorship opportunities at multiple investment levels to gain brand visibility among MBA and graduate students focused on sustainability and innovation.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Leeds School of Business"],
+      "programs": ["Leeds Sustainability Case Competition"],
+      "amounts": ["$20,000 Title Sponsor", "$10,000-$15,000 Supporting Partner", "$5,000 Impact Partner"],
+      "dates": [],
+      "eligibility": ["Corporate sponsors", "Partners"]
+    }
+  },
+  "colorado-edu-business-current-students-career-mentoring-professional": {
+    "summary": "Professional Mentorship Program at Leeds School of Business connecting undergraduate and MBA students with experienced business mentors across industries for guidance and career development.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Leeds School of Business"],
+      "programs": ["Professional Mentorship Program"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Leeds juniors, seniors, and business minors", "MBA candidates"]
+    }
+  },
+  "lasp-colorado-edu-2024-04-01-front-range-team-wins-nasa-entrepreneur-challenge": {
+    "summary": "A Front Range team of researchers from LASP and Colorado School of Mines won the 2023 NASA Entrepreneurs Challenge for developing a lunar service station concept for sustainable space operations.",
+    "entities": {
+      "people": ["Xu Wang", "Kenneth Liang", "Florence Tan", "Carolyn Mercer", "Jim Lovell"],
+      "orgs": ["University of Colorado Boulder", "LASP", "Colorado School of Mines", "NASA", "Orbital Mining Corp."],
+      "programs": ["NASA Entrepreneurs Challenge", "NASA Science Mission Directorate"],
+      "amounts": [],
+      "dates": ["April 1, 2024", "2023"],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-telluride-venture-network-2026-strategy-growth-bootcam": {
+    "summary": "Two-week in-person and online bootcamp from February 23 to March 6, 2026, in Telluride helping Colorado business owners evaluate strategy, identify growth opportunities, and align resources.",
+    "entities": {
+      "people": [],
+      "orgs": ["Telluride Venture Network", "Startup Colorado"],
+      "programs": ["Strategy & Growth Bootcamp"],
+      "amounts": [],
+      "dates": ["February 23 - March 6, 2026"],
+      "eligibility": ["Colorado-based companies with products/services in market", "Founders seeking strategic direction"]
+    }
+  },
+  "startupcolorado-org-stories-colorado-startups-are-fighting-climate-change-with-u": {
+    "summary": "Story about Colorado startups tackling climate change through upcycled food innovation.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-a-durango-startup-plans-to-curb-wildfires-and-provid": {
+    "summary": "Feature on a Durango startup addressing two critical issues: wildfire prevention and affordable housing.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-lead-the-conversation": {
+    "summary": "Encouragement for entrepreneurs to participate in West Slope Startup Week programming.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["West Slope Startup Week"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-starting-up-from-renovation-to-destination-at-the-do": {
+    "summary": "Story of the Dolores Bike Hostel's journey from renovation project to destination business.",
+    "entities": {
+      "people": [],
+      "orgs": ["Dolores Bike Hostel", "Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-eagle-county-business-funding-panel": {
+    "summary": "Panel discussion on December 1, 2025, featuring bankers, alternative lenders, and venture capitalists discussing funding opportunities and requirements for Eagle County entrepreneurs.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Eagle County Economic Resiliency", "Northwest SBDC"],
+      "programs": ["Eagle County Business Funding Panel"],
+      "amounts": [],
+      "dates": ["December 1, 2025"],
+      "eligibility": ["Eagle County business owners", "Entrepreneurs at any stage"]
+    }
+  },
+  "startupcolorado-org-event-starting-blocks-customer-discovery-workshop": {
+    "summary": "NSF I-Corps Starting Blocks Customer Discovery Workshop from July 24 to August 7, 2026, helping innovators and entrepreneurs validate ideas with real customers over three weeks.",
+    "entities": {
+      "people": [],
+      "orgs": ["Venture Partners at CU Boulder", "National Science Foundation", "NSF I-Corps Hub West"],
+      "programs": ["Starting Blocks Customer Discovery Workshop", "NSF I-Corps"],
+      "amounts": [],
+      "dates": ["July 24 - August 7, 2026"],
+      "eligibility": ["Researchers", "Entrepreneurs", "Inventors", "Problem solvers", "Non-CU affiliated welcome"]
+    }
+  },
+  "colorado-edu-research-abnexus-ab-nexus-grant-awardees": {
+    "summary": "Overview of the AB Nexus Collaborative Research Grant Program awarding over $4.95M to 59 interdisciplinary teams collaborating between CU Boulder and CU Anschutz Medical Campus since 2020.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "CU Anschutz Medical Campus"],
+      "programs": ["AB Nexus Grant Program"],
+      "amounts": ["$4.95M+ awarded to 59 teams"],
+      "dates": ["Fall 2020 - present"],
+      "eligibility": ["Faculty from CU Boulder and CU Anschutz", "Teams across 40+ departments in 7 colleges/schools"]
+    }
+  },
+  "startupcolorado-org-event-ai-for-business-ai-skilling-in-the-workplace": {
+    "summary": "Free two-hour workshop on July 23, 2026, for business leaders to discuss how AI solves real business problems and what AI skills employers need to develop in their workforce.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Center for Rural Innovation", "Fort Lewis College AI Institute", "Center for Rural Artificial Intelligence"],
+      "programs": ["AI for Business"],
+      "amounts": [],
+      "dates": ["July 23, 2026"],
+      "eligibility": ["Business owners", "Technical leaders", "HR leaders", "Entrepreneurs"]
+    }
+  },
+  "colorado-edu-research-abnexus-grant-awardees-2023-ab-nexus-grant-awards": {
+    "summary": "2023 AB Nexus grant awards highlighting five interdisciplinary research projects between CU Boulder and CU Anschutz focused on cancer biomarkers, antibiotic testing, and genetic disorders.",
+    "entities": {
+      "people": ["Todd Pitts", "Xuedong Liu", "Lakshmi Chauhan", "Anushree Chatterjee", "Darleen Sandoval", "Kayla Sprenger"],
+      "orgs": ["University of Colorado Boulder", "CU Anschutz Medical Campus"],
+      "programs": ["AB Nexus Grant Program"],
+      "amounts": ["$125,000", "$50,000"],
+      "dates": ["2023"],
+      "eligibility": ["CU faculty"]
+    }
+  },
+  "colorado-edu-research-abnexus-grant-awardees-2022-awardees": {
+    "summary": "2022 AB Nexus grant awardees featuring four collaborative research projects on AI for dementia diagnosis, cancer drug discovery, tuberculosis treatment, and biomechanical applications.",
+    "entities": {
+      "people": ["Peter S. Pressman", "Peter W. Foltz", "Dan LaBarbera", "Karolin Luger", "Martin Voskuil", "Corrie Detweiler"],
+      "orgs": ["University of Colorado Boulder", "CU Anschutz Medical Campus", "University of Colorado Cancer Center"],
+      "programs": ["AB Nexus Grant Program"],
+      "amounts": ["$50,000"],
+      "dates": ["2022"],
+      "eligibility": ["CU faculty"]
+    }
+  },
+  "colorado-edu-research-abnexus-grant-awardees-2021-ab-nexus-grant-awards": {
+    "summary": "2021 AB Nexus grant awardees featuring four collaborative research projects on spinal cord injury, cardiac fibrosis, neural pathways in eating disorders, and growth plate biology.",
+    "entities": {
+      "people": ["Andrew Smith", "Andrew Q Tan", "Timothy McKinsey", "Kristi Anseth", "Christopher Ford", "David Root"],
+      "orgs": ["University of Colorado Boulder", "CU Anschutz Medical Campus", "BioFrontiers Institute"],
+      "programs": ["AB Nexus Grant Program"],
+      "amounts": ["$50,000", "$125,000"],
+      "dates": ["2021"],
+      "eligibility": ["CU faculty"]
+    }
+  },
+  "colorado-edu-research-abnexus-grant-awardees-2020-ab-nexus-grant-awards": {
+    "summary": "2020 AB Nexus grant awardees highlighting four research projects on exposure therapy mechanisms, bone growth biology, pandemic control strategies, and infectious disease prevention.",
+    "entities": {
+      "people": ["Joel Stoddard", "Matt Jones", "Karin Payne", "Stephanie Bryant", "Andrea Buchwald", "Emiliano Dall'Anese"],
+      "orgs": ["University of Colorado Boulder", "CU Anschutz Medical Campus"],
+      "programs": ["AB Nexus Grant Program"],
+      "amounts": ["$50,000", "$125,000"],
+      "dates": ["2020"],
+      "eligibility": ["CU faculty"]
+    }
+  },
+  "cuanschutz-edu-chancellor": {
+    "summary": "Office of the Chancellor page for CU Anschutz.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Anschutz"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-rmmfi-business-idea-lab": {
+    "summary": "Six-week program from May 26 to June 18, 2026, for early-stage entrepreneurs outside Denver metro to develop and refine business ideas with mentorship and pitch competition at completion.",
+    "entities": {
+      "people": [],
+      "orgs": ["Rocky Mountain MicroFinance Institute", "Startup Colorado"],
+      "programs": ["Business Idea Lab"],
+      "amounts": [],
+      "dates": ["May 26 - June 18, 2026"],
+      "eligibility": ["Early-stage entrepreneurs outside Denver metro", "Those with business ideas"]
+    }
+  },
+  "watson-is-partners": {
+    "summary": "Watson Institute partners with corporations and foundations to provide transformative fellowships for entrepreneurs and leaders creating impact in communities, with measured outcomes including capital raised and jobs created.",
+    "entities": {
+      "people": ["Daniel Rosebud", "Anthony McGinty"],
+      "orgs": ["Watson Institute"],
+      "programs": ["Truist Foundation Fellowship"],
+      "amounts": ["$190M capital raised by Fellows", "11M+ lives impacted", "2,300+ jobs created"],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "watson-is-careers": {
+    "summary": "Watson Institute careers page listing open positions including Operations Coordinator and Preceptor roles to support transformative fellowship programs for rising entrepreneurs globally.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute", "Google", "JPMorganChase Foundation", "Walmart.org", "Wells Fargo", "Ford Philanthropy", "SAP", "Truist Foundation", "BMO", "Comcast", "Western Union"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["August 2026 start date for Preceptors"],
+      "eligibility": []
+    }
+  },
+  "online-colorado-edu-organizational-leadership-ms-people": {
+    "summary": "People directory for CU Boulder's online Organizational Leadership Master's program.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder"],
+      "programs": ["Organizational Leadership MS"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "watson-is-watson-institute-lynn-university": {
+    "summary": "Bachelor of Science in Social Impact and Entrepreneurship offered at Lynn University in partnership with Watson Institute, designed for students to major in their mission with internships and entrepreneurship training.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute", "Lynn University"],
+      "programs": ["Bachelor of Science in Social Impact and Entrepreneurship"],
+      "amounts": [],
+      "dates": ["January 2026", "August 2026 start dates", "Rolling admission"],
+      "eligibility": ["High school graduates interested in social impact and entrepreneurship"]
+    }
+  },
+  "watson-is-career-accelerator-application": {
+    "summary": "Career Accelerator Fellowship application with rolling review and 30-minute completion time, requiring age 18+, work authorization in US, Colorado driver's license, and full-time Colorado employment search.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute"],
+      "programs": ["Career Accelerator Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Age 18+", "Authorized to work in US", "Valid Colorado driver's license", "Seeking full-time role in Colorado"]
+    }
+  },
+  "watson-is-wells-fargo-small-business-fellowship-program": {
+    "summary": "Wells Fargo Small Business Fellowship (currently closed to applications) designed to equip small business owners uplifting ecosystems in Baltimore, Chicago, and Washington D.C.",
+    "entities": {
+      "people": ["Kiesha Halliburton"],
+      "orgs": ["Watson Institute", "Wells Fargo"],
+      "programs": ["Wells Fargo Small Business Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Small business owners in Baltimore, Chicago, Washington D.C."]
+    }
+  },
+  "watson-is-halloran-application": {
+    "summary": "Halloran Fellowship application for impact-focused leaders and entrepreneurs with priority deadline of August 3, 2026, supporting save-and-continue functionality.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute"],
+      "programs": ["Halloran Fellowship"],
+      "amounts": [],
+      "dates": ["August 3, 2026 (priority deadline)"],
+      "eligibility": ["Impact-focused leaders and entrepreneurs"]
+    }
+  },
+  "watson-is-watson-lynn-application": {
+    "summary": "Application for Watson Institute at Lynn University's Bachelor of Science in Social Impact and Entrepreneurship with multiple entry deadlines throughout the year.",
+    "entities": {
+      "people": ["Ana Lopez", "Javi Lopez"],
+      "orgs": ["Watson Institute", "Lynn University"],
+      "programs": ["Bachelor of Science in Social Impact and Entrepreneurship"],
+      "amounts": [],
+      "dates": ["November 1, 2025", "November 15, 2025", "January 15, 2026", "March 1, 2026", "January 2026", "August 2026"],
+      "eligibility": ["High school graduates and transfer students"]
+    }
+  },
+  "colorado-edu-venturepartners-2026-06-02-internal-news-powerhouse-battery-breakth": {
+    "summary": "Profile of Mana Battery, a CU Boulder startup led by CEO Tyler Evans developing sodium-based battery technology for energy storage with revolutionary approaches to affordability and safety.",
+    "entities": {
+      "people": ["Tyler Evans", "Se-Hee Lee", "Nick Singstock"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder", "National Renewable Energy Laboratory", "Mana Battery"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2026"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-about-people-sarah-hughes": {
+    "summary": "Sarah Hughes directs the Center for Translational Research at Venture Partners, supporting university-originated startups in securing non-dilutive funding, with prior experience at NIST and the SBA.",
+    "entities": {
+      "people": ["Sarah Hughes"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder", "NIST", "US Small Business Administration"],
+      "programs": ["Center for Translational Research"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-confessions-of-a-first-time-hemp-grower": {
+    "summary": "Personal account of a first-time hemp grower's experiences and lessons learned.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-event-application-deadline-flagship-fellowship-powered-by-wa": {
+    "summary": "Application deadline reminder for the Flagship Fellowship powered by Watson Institute, a fully-funded 16-week virtual program with training, mentorship, and pitch coaching.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute", "Startup Colorado"],
+      "programs": ["Flagship Fellowship"],
+      "amounts": [],
+      "dates": ["June 28, 2026"],
+      "eligibility": ["Entrepreneurs ready to grow and expand community impact"]
+    }
+  },
+  "colorado-edu-venturepartners-about-people-bryn-rees-page": {
+    "summary": "Bryn Rees is Senior Associate Vice Chancellor for Innovation and Partnerships at CU Boulder, leading commercialization, industry partnerships, and campus entrepreneurship initiatives across multiple centers.",
+    "entities": {
+      "people": ["Bryn Rees"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder"],
+      "programs": ["Ascent Deep Tech Accelerator", "Lab Venture Challenge", "Embark Deep Tech Startup Creator", "NSF I-Corps Hub West"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-about-people-hannah-nelson": {
+    "summary": "Hannah Nelson is Associate Director of Licensing for Biosciences at Venture Partners with over a decade of IP management experience and a PhD in microbiology.",
+    "entities": {
+      "people": ["Hannah Nelson"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder", "UTHealth Houston", "University of Texas at Austin"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-about-people-jim-booth": {
+    "summary": "Jim Booth directs operations at Venture Partners, managing finance and systems while bringing entrepreneurial and tech leadership experience from product development to venture funding.",
+    "entities": {
+      "people": ["Jim Booth"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder", "Techstars", "Patriot Bootcamp"],
+      "programs": ["Embark Deep Tech Startup Creator"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-about-people-joe-davidek": {
+    "summary": "Joe Davidek is Patent Manager at Venture Partners overseeing patent operations for CU Boulder and Colorado Springs portfolios and coordinating prosecution nationwide.",
+    "entities": {
+      "people": ["Joe Davidek"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["December 2011 (joined)"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-about-people-daniel-leonard": {
+    "summary": "Daniel Leonard is Senior Marketing and Communications Specialist at Venture Partners supporting multiple programs including Ascent, I-Corps Hub West, and Destination Startup.",
+    "entities": {
+      "people": ["Daniel Leonard"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder"],
+      "programs": ["Ascent Deep Tech Accelerator", "NSF I-Corps Hub West", "Destination Startup", "Lab Venture Challenge", "Embark Deep Tech Startup Creator", "Creative Futures Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-group-rio": {
+    "summary": "Research & Innovation Office calendar and group page at CU Boulder showcasing upcoming events and opportunities related to research and innovation.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Research & Innovation Office"],
+      "programs": ["Lab Venture Challenge"],
+      "amounts": [],
+      "dates": ["August 21, 2026"],
+      "eligibility": []
+    }
+  },
+  "calendar-colorado-edu-group-venture-partners": {
+    "summary": "Venture Partners at CU Boulder calendar and group page highlighting upcoming entrepreneurship programs, workshops, and competitions for students and researchers.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder"],
+      "programs": ["Lab Venture Challenge", "Starting Blocks Customer Discovery Workshop"],
+      "amounts": [],
+      "dates": ["August 21, 2026", "October 29, 2026", "November 5, 2026", "November 12, 2026"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-venturepartners-about-people-shreya-madhavarapu": {
+    "summary": "Shreya Madhavarapu is Licensing Manager for Physical Sciences and Engineering at Venture Partners, serving as first contact for researchers commercializing inventions with expertise in biomedical engineering.",
+    "entities": {
+      "people": ["Shreya Madhavarapu"],
+      "orgs": ["University of Colorado Boulder", "Venture Partners at CU Boulder", "Rutgers University"],
+      "programs": ["Lab Venture Challenge"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  }
+}

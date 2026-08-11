@@ -1,0 +1,992 @@
+{
+  "innosphereventures-org-impacts-wyomings-workforce-pathways": {
+    "summary": "Profile of a Wyoming workforce development initiative through NSF ASCEND Engine and gener8tor Skills Accelerator, highlighting a graduate named Bryan Badley who completed training in IT, data analytics, and program management in rural communities.",
+    "entities": {
+      "people": ["Bryan Badley", "Steven LeBlanc"],
+      "orgs": ["NSF ASCEND Engine", "gener8tor Skills Accelerator"],
+      "programs": ["Gener8tor Skills Accelerator", "NSF ASCEND Engine"],
+      "amounts": [],
+      "dates": ["October 2025"],
+      "eligibility": ["rural Wyoming communities"]
+    }
+  },
+  "innosphereventures-org-impacts-rapicure-internship-outcomes": {
+    "summary": "Internship success story from RapiCure Solutions highlighting three interns supported by Colorado's Opportunity Now Colorado program working in advanced manufacturing and systems engineering.",
+    "entities": {
+      "people": ["Jackson Staver", "Ashley Franklin", "Kayla Titus"],
+      "orgs": ["RapiCure Solutions", "Opportunity Now Colorado"],
+      "programs": ["Opportunity Now Colorado"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-listen-tech-founder-eva-helen-on-starting-up": {
+    "summary": "Audio story featuring tech founder Eva Helén discussing rural entrepreneurship and scaling with AI tools.",
+    "entities": {
+      "people": ["Eva Helén"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "innosphereventures-org-about": {
+    "summary": "Innosphere organizational landing page with hiring information and general organizational details.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innosphere"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "innosphereventures-org-news": {
+    "summary": "News and blog feed from Innosphere highlighting venture capital activity, workforce development, and innovation initiatives in Colorado and Wyoming.",
+    "entities": {
+      "people": [],
+      "orgs": ["NSF ASCEND Engine", "Milken Institute", "University of Wyoming", "NVIDIA"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["August 11, 2026", "August 6, 2026", "August 4, 2026", "July 28, 2026"],
+      "eligibility": []
+    }
+  },
+  "innosphereventures-org-partners": {
+    "summary": "Partner organization directory for Innosphere, facilitating connections with life science companies, workforce development specialists, and corporate innovation partners.",
+    "entities": {
+      "people": [],
+      "orgs": ["Innosphere"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["life science founders", "workforce development professionals", "corporate partners interested in environmental intelligence"]
+    }
+  },
+  "startupcolorado-org-stories-pitch-prep-quick-tips": {
+    "summary": "Pitch preparation guidance for entrepreneurs presenting their business concepts.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-events-outside-city-limits": {
+    "summary": "Signature event celebrating 15 years of Startup Colorado's rural entrepreneurship work, held in Durango featuring founder spotlights, networking, and strategic direction announcements.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "West Slope Startup Week"],
+      "programs": ["Idea Factory", "Growth Challenge"],
+      "amounts": [],
+      "dates": ["October 6, 2026", "6:00-9:00pm"],
+      "eligibility": ["founders", "small business owners"]
+    }
+  },
+  "startupcolorado-org-resource-center": {
+    "summary": "Comprehensive resource hub curating startup guides, funding information, and ecosystem building tools for entrepreneurs and business support professionals across Colorado.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Idea Factory", "Growth Challenge", "Rural Jump-Start Program"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["founders", "small business owners", "ecosystem builders"]
+    }
+  },
+  "startupcolorado-org-ecosystem-builders": {
+    "summary": "Resource guide for ecosystem builders and business support agents working to strengthen local entrepreneurial communities across Colorado's diverse regions.",
+    "entities": {
+      "people": ["Kirstie McPherson"],
+      "orgs": ["Startup Colorado", "Rockies Venture Group"],
+      "programs": ["West Slope Startup Week"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["business support agents", "SBDC representatives", "EDO staff", "coworking space operators"]
+    }
+  },
+  "startupcolorado-org-stories-how-to-build-a-belonging-business": {
+    "summary": "Guidance on building businesses centered on community belonging and inclusive practices.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-give-first-then-see-what-grows": {
+    "summary": "Story exploring the principle of giving first as a foundation for business growth and community impact.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-how-rural-founders-can-tap-into-the-circular-economy": {
+    "summary": "Exploration of circular economy opportunities for rural founders seeking sustainable business models.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-funding-your-rural-startup-how-to-choose-the-right-m": {
+    "summary": "Guidance on selecting appropriate funding mechanisms for rural startup growth.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-how-entrepreneurship-can-foster-belonging": {
+    "summary": "Examination of how entrepreneurial ventures can create belonging and strengthen community bonds.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-from-founder-to-thought-leader": {
+    "summary": "Resource on leveraging SEO and content marketing to establish founder authority and thought leadership.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-these-colorado-farmers-want-to-change-the-food-indus": {
+    "summary": "Profile of Colorado farmers launching ventures to innovate in food production and agriculture.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-is-a-small-business-loan-right-for-you": {
+    "summary": "Assessment framework for determining when small business loans are appropriate for startup financing.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-how-rural-startups-can-win-earned-media": {
+    "summary": "Strategies for rural entrepreneurs to secure media coverage and earn credibility through publicity.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-welcoming-olivia-reed": {
+    "summary": "Announcement of new team member Olivia Reed joining Startup Colorado in community engagement and program coordination.",
+    "entities": {
+      "people": ["Olivia Reed"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-why-everyone-is-talking-ecosystem-building": {
+    "summary": "Exploration of ecosystem building as a critical approach to developing vibrant regional startup communities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-listen-good-vibes-in-craig-colorados-economic-transi": {
+    "summary": "Audio story examining Craig, Colorado's economic transition and entrepreneurial opportunities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "lawinnovation-colorado-edu-account-login": {
+    "summary": "Login portal for CU Boulder Law Innovation's web applications requiring CU Boulder credentials.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Law Innovation"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder community members"]
+    }
+  },
+  "startupcolorado-org-stories-put-your-guerrilla-suit-on": {
+    "summary": "Guidance on guerrilla marketing and unconventional promotional strategies for startups.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-worksheet-podcasting-for-entrepreneurs": {
+    "summary": "Worksheet tool for entrepreneurs exploring podcasting as a content marketing and audience-building strategy.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-ideaforge-about-find-us": {
+    "summary": "Location and contact information for CU Boulder's Idea Forge makerspace and entrepreneurship facility.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "Idea Forge"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-ideaforge-facilities-chevron-design-studio": {
+    "summary": "Shared design and manufacturing workspace for mechanical and biomedical engineering senior design projects sponsored by Chevron.",
+    "entities": {
+      "people": ["Andy Kain"],
+      "orgs": ["Design Center Colorado", "Chevron", "University of Colorado Boulder"],
+      "programs": ["Mechanical Engineering Senior Design", "Biomedical Engineering Senior Design"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["ME and BME Senior Design students"]
+    }
+  },
+  "colorado-edu-ideaforge-facilities-drop-design-lab": {
+    "summary": "Open project workspace with CAD software and presentation capabilities for CU Boulder students to develop prototypes and design solutions.",
+    "entities": {
+      "people": ["Jenny Brown", "Victoria"],
+      "orgs": ["University of Colorado Boulder", "Idea Forge"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students who completed IF Tour"]
+    }
+  },
+  "colorado-edu-ideaforge-facilities-sheppard-electronics-lab": {
+    "summary": "Equipped electronics and circuit design laboratory providing tools for PCB manufacture, soldering, and electrical system development.",
+    "entities": {
+      "people": ["Patrick Maguire"],
+      "orgs": ["University of Colorado Boulder", "Idea Forge"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students who completed IF Tour"]
+    }
+  },
+  "colorado-edu-ideaforge-facilities-conference-rooms-northrop-grumman-think-tank": {
+    "summary": "Conference room available for campus and external users with presentation technology and seating for eight participants.",
+    "entities": {
+      "people": ["Jenny Brown", "Victoria Lanaghan"],
+      "orgs": ["Northrop Grumman", "University of Colorado Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Campus and external users"]
+    }
+  },
+  "colorado-edu-ideaforge-facilities-conference-rooms-mesab-teleconference-room": {
+    "summary": "Large conference facility with videoconferencing capabilities accommodating up to 16 people for project meetings and industry collaborations.",
+    "entities": {
+      "people": ["Jenny Brown", "Victoria Lanaghan"],
+      "orgs": ["University of Colorado Boulder", "Mechanical Engineering Strategic Advisory Board"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["Campus and external users"]
+    }
+  },
+  "colorado-edu-ideaforge-pretotyping-cabinet": {
+    "summary": "Rapid prototyping station stocked with low-cost materials for quick iteration and early-stage concept testing.",
+    "entities": {
+      "people": ["Victoria Lanaghan"],
+      "orgs": ["University of Colorado Boulder", "Idea Forge"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "startupcolorado-org-stories-listen-from-baker-to-business-owner-how-jessica-larr": {
+    "summary": "Profile of Jessica Larriva's entrepreneurial journey from baker to Tumbleweed Bread business founder.",
+    "entities": {
+      "people": ["Jessica Larriva"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-ideaforge-facilities-finishing-room": {
+    "summary": "Ventilated workshop space designed for finishing processes including painting, staining, sanding, and epoxy application.",
+    "entities": {
+      "people": ["Patrick Maguire"],
+      "orgs": ["University of Colorado Boulder", "Idea Forge"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students who completed IF Tour"]
+    }
+  },
+  "colorado-edu-ideaforge-checkout-office": {
+    "summary": "Resource checkout facility providing fasteners, hardware, components, and testing equipment for student projects, including access to precision testing instruments.",
+    "entities": {
+      "people": ["Andy Kain"],
+      "orgs": ["University of Colorado Boulder", "Idea Forge"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "startupcolorado-org-stories-3-essential-tips-for-startup-fundraising-from-angel-": {
+    "summary": "Fundraising guidance from angel investor Jeff Erickson on securing capital for early-stage ventures.",
+    "entities": {
+      "people": ["Jeff Erickson"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-these-outdoor-rec-entrepreneurs-are-tackling-steamboats-bigg": {
+    "summary": "Profile of outdoor recreation entrepreneurs in Steamboat addressing local challenges through ventures.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-state-of-startup-communities-in-rural-colorado-how-to-build-": {
+    "summary": "Analysis of how rural communities can develop vibrant startup ecosystems and entrepreneurial infrastructure, emphasizing the unique advantages and self-sufficiency ethos of small towns.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["rural communities"]
+    }
+  },
+  "startupcolorado-org-qa-jon-rosenberg-of-cold-case-gear": {
+    "summary": "Interview with Cold Case Gear founder Jon Rosenberg discussing entrepreneurship and outdoor gear innovation.",
+    "entities": {
+      "people": ["Jon Rosenberg"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-decembers-idea-factory-winners": {
+    "summary": "Announcement of winners from Startup Colorado's Idea Factory competition.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Idea Factory"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-march-momentum-in-the-idea-factory": {
+    "summary": "Spotlight on founders participating in Startup Colorado's Idea Factory and Founder Coopetition programs.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Idea Factory", "Founder Coopetition"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-how-carver-brewing-achieved-carbon-neutrality": {
+    "summary": "Case study of Carver Brewing's path to carbon neutrality and sustainable business practices.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Carver Brewing"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-small-town-big-impact": {
+    "summary": "Guide to experiential marketing tactics that rural startups can employ to build brand presence and community engagement.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-your-startup-community-wont-build": {
+    "summary": "Exploration of intentional community-building and ecosystem development as essential to startup success.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-scoutspaces-vc-deal": {
+    "summary": "Profile of ScoutSpace's venture capital funding demonstrating the potential of rural Colorado tech startups.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "ScoutSpace"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-storytelling-tips-for-your-startup-pitch-with-diane-": {
+    "summary": "Pitch presentation techniques from Diane Bailey focusing on narrative storytelling.",
+    "entities": {
+      "people": ["Diane Bailey"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-from-risk-to-resilience": {
+    "summary": "Framework for assessing climate risks to businesses and building resilience into operations.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-startup-legal-mistakes-3-fatal-fails-that-can-kill-y": {
+    "summary": "Legal guidance identifying common startup mistakes that can jeopardize company viability.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-listen-julia-taylor-and-the-rise-of-geekpack": {
+    "summary": "Audio interview with Julia Taylor about building GeekPack venture.",
+    "entities": {
+      "people": ["Julia Taylor"],
+      "orgs": ["Startup Colorado", "GeekPack"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-brittany-romano-startup-colorados-new-executive-dire": {
+    "summary": "Q&A introducing Brittany Romano as Startup Colorado's new executive director.",
+    "entities": {
+      "people": ["Brittany Romano"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-behind-wssws-new-climate-initiative": {
+    "summary": "Overview of West Slope Startup Week's climate-focused entrepreneurship initiative.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "West Slope Startup Week"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-colorados-emergent-communities": {
+    "summary": "Audio feature exploring emerging entrepreneurial communities across Colorado.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-yes-you-can-launch-a-climate-tech-startup-in-rural-colorado": {
+    "summary": "Encouragement and resources for launching climate technology ventures in rural Colorado settings.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-who-are-the-new-builders-an-interview-with-seth-levi": {
+    "summary": "Interview with Seth Levine discussing new generation of builders and entrepreneurs.",
+    "entities": {
+      "people": ["Seth Levine"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-listen-how-chereen-leong-schwarz-turned-a-hobby-into": {
+    "summary": "Audio profile of Chereen Leong Schwarz's transition from hobby to business entrepreneurship.",
+    "entities": {
+      "people": ["Chereen Leong Schwarz"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-how-beating-cancer-and-new-love-inspired-this-fly-fi": {
+    "summary": "Founder story of a fly-fishing startup inspired by personal experiences and life transformation.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-rural-is-rad-in-colorado": {
+    "summary": "Celebration of rural entrepreneurship culture and founder communities across Colorado.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-announcing-the-fremont-idea-factory": {
+    "summary": "Launch announcement of Fremont County Idea Factory program in partnership with Emergent Campus.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Emergent Campus"],
+      "programs": ["Fremont County Idea Factory"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-farm-to-summit-to-sprouts": {
+    "summary": "Story following a founder's journey through agriculture, outdoor ventures, and agricultural entrepreneurship.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-listen-becoming-a-business-owner-in-a-pandemic": {
+    "summary": "Audio interview documenting experiences of launching a business during pandemic constraints.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-starting-up-the-campers-hub-brings-camping-and-commu": {
+    "summary": "Profile of The Camper's Hub startup bringing recreational and community services to Montrose.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "The Camper's Hub"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-snapshot-how-one-coworking-space-is-building-communi": {
+    "summary": "Case study of coworking space impact on community building and entrepreneurial support in Montrose.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-startup-colorado-partners-with-colorado-state-university": {
+    "summary": "Partnership announcement between Startup Colorado and Colorado State University to develop rural tech hubs.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado", "Colorado State University"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-what-its-really-like-to-start-a-climbing-gym": {
+    "summary": "First-hand account of launching a climbing gym business covering challenges and operational insights.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-starting-up-with-skygoat": {
+    "summary": "Profile of Ram Mikulas' journey founding SkyGoat, a niche outdoor apparel brand.",
+    "entities": {
+      "people": ["Ram Mikulas"],
+      "orgs": ["Startup Colorado", "SkyGoat"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-ojt-spring-idea-factory": {
+    "summary": "Outcome report on 14 coal transition workers completing Idea Factory business development programming.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": ["Idea Factory"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["coal transition workers"]
+    }
+  },
+  "startupcolorado-org-stories-listen-rural-independent-publishing-in-the-west": {
+    "summary": "Audio conversation on independent publishing models and opportunities in rural western communities.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-how-to-leverage-remote-teams-as-a-rural-startup": {
+    "summary": "Strategies for rural founders building geographically distributed teams and accessing talent.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-develop-climate-resilience-strategies": {
+    "summary": "Guidance for rural founders integrating climate resilience planning into business strategy.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-to-rebrand-or-to-refresh": {
+    "summary": "Decision framework for determining whether a business requires full rebranding or incremental refresh.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-building-rural-into-your-brand-identity": {
+    "summary": "Strategies for incorporating rural identity and local character into brand positioning.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "watson-is-our-principles": {
+    "summary": "Statement of Watson Institute's vision, mission, and core values focused on developing impact-driven entrepreneurs and leaders.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "watson-is-bmo-fellowship-alumna-jannice-newson-scales-sustainable-beauty-venture": {
+    "summary": "Success story of BMO Fellowship alumna Jannice Newson growing her sustainable beauty business Lillian Augusta Beauty with plant-based hair products.",
+    "entities": {
+      "people": ["Jannice Newson"],
+      "orgs": ["Watson Institute", "BMO", "Lillian Augusta Beauty"],
+      "programs": ["BMO Fellowship"],
+      "amounts": [],
+      "dates": ["2024"],
+      "eligibility": ["underserved entrepreneurs"]
+    }
+  },
+  "startupcolorado-org-stories-listen-beyond-craft-brew": {
+    "summary": "Audio exploration of brewing and beverage entrepreneurship beyond traditional craft beer models.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-aerospaceventures-campus-events": {
+    "summary": "Events listing for CU Boulder's aerospace ventures and entrepreneurship programming.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder", "AeroSpace Ventures"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-brittany-romano-appointed-ceo-of-startup-colorado": {
+    "summary": "Announcement of Brittany Romano's appointment as CEO and Executive Director of Startup Colorado.",
+    "entities": {
+      "people": ["Brittany Romano"],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "scholar-law-colorado-edu-faculty-articles-1692": {
+    "summary": "Academic research article by Paige L. Wilson examining regional venture capital deal practices comparing Midwest to coastal startup ecosystems.",
+    "entities": {
+      "people": ["Paige L. Wilson"],
+      "orgs": ["University of Colorado Law School"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2023"],
+      "eligibility": []
+    }
+  },
+  "scholar-law-colorado-edu-faculty-articles-1661": {
+    "summary": "Legal scholarship by Andrew A. Schwartz analyzing international approaches to investment crowdfunding regulation between the United States and United Kingdom.",
+    "entities": {
+      "people": ["Andrew A. Schwartz"],
+      "orgs": ["University of Colorado Law School"],
+      "programs": [],
+      "amounts": [],
+      "dates": ["2024"],
+      "eligibility": []
+    }
+  },
+  "colorado-edu-academics": {
+    "summary": "Overview of CU Boulder's academic programs, colleges, and resources including undergraduate majors, minors, graduate programs, and certificates.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["CU Boulder students"]
+    }
+  },
+  "colorado-edu-academics-programs-majors": {
+    "summary": "Catalog of CU Boulder undergraduate degree programs organized by college and allowing customization through combined majors, minors, and certificates.",
+    "entities": {
+      "people": [],
+      "orgs": ["University of Colorado Boulder"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["prospective and current CU Boulder students"]
+    }
+  },
+  "watson-is-rlom-fellowship-2025-fellow-page": {
+    "summary": "Roster of 2025 Rising Leaders of Mexico Fellows supported through Watson Institute partnership.",
+    "entities": {
+      "people": ["Misraim de Jesus Macias Cervantes", "Adolfo Martin Vidal Ruiz", "Beatriz Miranda", "Daniel Reyes Flores", "Diana Berenice López Tavares", "Edgar Hernandez", "Gustavo Rodriguez", "Hugo Martínez Montalban", "Jeronimo Noriega", "Lucero Velasco", "Luis Arturo Cabrera Jiménez", "Luisa Fernanda Castro Becerril"],
+      "orgs": ["Watson Institute"],
+      "programs": ["Rising Leaders of Mexico Fellowship"],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": ["leaders from Mexico"]
+    }
+  },
+  "watson-is-ford-philanthropy-mobility-fellow-jamie-thurston-wyngaard-appointed-invest-cape-town-ambassador": {
+    "summary": "Achievement announcement of Ford Philanthropy Mobility Fellow Jamie Thurston Wyngaard as Invest Cape Town Ambassador.",
+    "entities": {
+      "people": ["Jamie Thurston Wyngaard"],
+      "orgs": ["Watson Institute", "Ford Philanthropy", "City of Cape Town"],
+      "programs": ["Ford Philanthropy Mobility Fellowship"],
+      "amounts": [],
+      "dates": ["2024-2025"],
+      "eligibility": []
+    }
+  },
+  "watson-is-samuel-lasitis-entrepreneurship-and-impact-journey": {
+    "summary": "Profile of Samuel Lasiti, Tapona Accelerator alumnus and founder of development initiatives addressing food security in Kenya.",
+    "entities": {
+      "people": ["Samuel Lasiti"],
+      "orgs": ["Watson Institute", "Tapona Accelerator", "Leap Empowerment Development Initiative", "Wakulima Ni Sisi Initiative"],
+      "programs": ["Watson Semester Accelerator Program"],
+      "amounts": [],
+      "dates": ["Fall 2021"],
+      "eligibility": []
+    }
+  },
+  "startupcolorado-org-stories-land-and-people-are-our-cultural-levers": {
+    "summary": "Audio discussion on how land and community relationships serve as cultural and entrepreneurial drivers in rural contexts.",
+    "entities": {
+      "people": [],
+      "orgs": ["Startup Colorado"],
+      "programs": [],
+      "amounts": [],
+      "dates": [],
+      "eligibility": []
+    }
+  },
+  "watson-is-wugfp-alumna-purva-parwani-earns-a-full-scholarship-to-harvard-university": {
+    "summary": "Announcement of Western Union Global Fellowship Program alumna Purva Parwani receiving full scholarship to Harvard University.",
+    "entities": {
+      "people": ["Purva Parwani"],
+      "orgs": ["Watson Institute", "Western Union", "Harvard University"],
+      "programs": ["Western Union Global Fellowship Program"],
+      "amounts": [],
+      "dates": ["2023-2024"],
+      "eligibility": []
+    }
+  },
+  "watson-is-wells-fargo-small-business-fellowship-featured-on-the-front-page-of-th": {
+    "summary": "Media coverage of Watson Institute's Wells Fargo Small Business Fellowship supporting entrepreneurs in Baltimore region.",
+    "entities": {
+      "people": [],
+      "orgs": ["Watson Institute", "Wells Fargo"],
+      "programs": ["Wells Fargo Small Business Fellowship"],
+      "amounts": [],
+      "dates": [],
+      "eligibility": ["entrepreneurs in Baltimore"]
+    }
+  },
+  "watson-is-enlight-fellowship-2025-fellow-page": {
+    "summary": "Listing of 2025 Enlight Fellowship cohort fellows supported by the Enlight Foundation through Watson Institute.",
+    "entities": {
+      "people": ["Xinyue Zhang", "Danni Shuai", "Elva Young", "Haixin Wang", "Jessica Lu", "Jingwen Huang", "Ni Zhang", "Mengwen Cao", "Luman Ouyang", "Shuang Zheng", "Shuyue Zhong", "Wen Chen Wu", "Xiao Hu", "Yan Bingrong", "Yiwen Ge", "Yuan Cao", "Zhefei Li", "Zixin Mu", "Ziyi Zhang", "Zhizhong Pang"],
+      "orgs": ["Watson Institute", "Enlight Foundation"],
+      "programs": ["Enlight Fellowship"],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": []
+    }
+  },
+  "watson-is-flagship-fellowship-2025-fellow-page": {
+    "summary": "Roster of 2025 Flagship Fellowship participants selected by Watson Institute and sponsored by various partner organizations.",
+    "entities": {
+      "people": ["Amanda Morrall", "Brianna Cook", "Chelsea Dade", "Kechonda Naissant", "Manuel Leon", "Neetal Parekh", "Page Hinerman", "Pam Adkins-Smith", "Rangel Garcia Barbosa", "Rivi Wijesekera", "Roberto Garcia", "Sarene Alsharif", "Sharod Farmer", "Shawn Wall", "Shiela Bernardo", "Tenny-Ann Dandy", "Tess Falor", "Yujia Zhu"],
+      "orgs": ["Watson Institute"],
+      "programs": ["Flagship Fellowship"],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": []
+    }
+  },
+  "watson-is-halloran-fellowship-2025-fellow-page": {
+    "summary": "List of 2025 Halloran Fellowship participants in Bradford and surrounding Pennsylvania communities supported through Halloran Philanthropies partnership.",
+    "entities": {
+      "people": ["Shelley Steffey", "Andrii Varlamov", "Anthony Giordano", "Colleen Moore", "Kristen Ellenberger", "Karen Sees", "Marie Ober", "Mary Graffius", "Nastasia Mikhailova", "Nathan Biegel", "Sean Luce", "Tina Bulmer"],
+      "orgs": ["Watson Institute", "Halloran Philanthropies"],
+      "programs": ["Halloran Fellowship"],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": []
+    }
+  },
+  "watson-is-google-data-center-community-ai-fellowship-2025-fellow-page": {
+    "summary": "Cohort of 2025 Google Data Center Community AI Fellowship fellows selected from international locations supported through Watson Institute and Google partnership.",
+    "entities": {
+      "people": ["Goksel Gursel", "Andrieka Austin", "Asaad Mohamedtaha", "Ashlee Tolbert", "Abayomi Moses Epega", "Ahmed Ismail", "Alexandra Murphy", "Ayanna Carrington", "Benita Davis", "Blanca Ramirez", "Briar Harvey", "Christopher Dungate", "Denise Smith", "Derek Gardels", "Elizabeth Donovan", "Emily Devonald", "Emin Soguktas", "Fereste Naseh", "Erica Heiden", "Georgina Dukes-Harris", "Harsh Daiya", "Harshvardhan Manek", "Ishan Jha", "Jenny Amperla", "Joel Murchison", "Josh Streets", "Juho Suikkanen", "Jyri Warkki", "Kathryn Stagliano"],
+      "orgs": ["Watson Institute", "Google"],
+      "programs": ["Google Data Center Community AI Fellowship"],
+      "amounts": [],
+      "dates": ["2025"],
+      "eligibility": []
+    }
+  }
+}
