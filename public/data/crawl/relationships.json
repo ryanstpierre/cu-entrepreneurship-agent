@@ -1,5 +1,11 @@
 [
  {
+  "from": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
+  "to": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
+  "kind": "links_to",
+  "weight": 5
+ },
+ {
   "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
   "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-starting-blocks",
   "kind": "mentions",
@@ -40,12 +46,6 @@
   "to": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
   "kind": "links_to",
   "weight": 4
- },
- {
-  "from": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
-  "to": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
-  "kind": "links_to",
-  "weight": 3
  },
  {
   "from": "colorado-edu-innovate",
@@ -453,6 +453,24 @@
   "from": "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-tier-4",
   "to": "colorado-edu-outreach-paces-funding-and-resources-engaged-scholarship-grants-tie",
   "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-graduate-students-high-growth-venture-fellowship-hi",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-student-opportunities-high-growth-venture-fellowshi",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-innovate-2022-04-25-translate-research-new-startup-company-center-t",
+  "to": "colorado-edu-researchinnovation-research-development-funding-center-translationa",
+  "kind": "links_to",
   "weight": 2
  },
  {
@@ -1509,6 +1527,282 @@
   "from": "colorado-edu-center-teaching-learning-programs-services-campus-teaching-and-lear",
   "to": "colorado-edu-center-teaching-learning-programs-services-innovation-incubator-mee",
   "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-center-teaching-learning-programs-services-faculty-learning-collabo",
+  "to": "colorado-edu-center-teaching-learning-programs-services-innovation-incubator-mee",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-center-teaching-learning-programs-services-faculty-learning-collabo",
+  "to": "colorado-edu-center-teaching-learning-programs-services-faculty-learning-collabo",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-center-teaching-learning-programs-services-innovation-incubator-inn",
+  "to": "colorado-edu-center-teaching-learning-programs-services-innovation-incubator-inn",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-entrepreneurial-law-clinic",
+  "to": "colorado-edu-law-academics-clinics-entrepreneurial-law-clinic",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-startups2students-s2s",
+  "to": "colorado-edu-innovate-programs-resources-startups2students-s2s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-sustainability-hackathon",
+  "to": "colorado-edu-innovate-programs-resources-sustainability-hackathon",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-2018-11-13-bloomberg-businessweek-ranks-leeds-business-sch",
+  "to": "colorado-edu-innovate-entrepreneurship-0",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-2019-01-12-cu-boulder-among-us-universities-offering-progr",
+  "to": "colorado-edu-innovate-entrepreneurship-0",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-business-partners-destination-startup",
+  "to": "colorado-edu-venturepartners-events-and-opportunities-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-business-partners-destination-startup",
+  "to": "colorado-edu-techtransfer-business-community-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-business-partners-destination-startup",
+  "to": "colorado-edu-venturepartners-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-business-partners-destination-startup",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-business-partners-destination-startup",
+  "to": "colorado-edu-innovate-programs-resources-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-news-2020-04-21-leeds-school-business-wins-innovation-prog",
+  "to": "colorado-edu-business-deming",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming",
+  "to": "colorado-edu-innovate-programs-resources-deming-center-entrepreneurship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming",
+  "to": "colorado-edu-venturepartners-deming-center-entrepreneurship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming",
+  "to": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming",
+  "to": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming",
+  "to": "colorado-edu-business-deming-entrepreneurship-events",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming",
+  "to": "colorado-edu-business-deming-graduate-students-hgv",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-entrepreneurship-events",
+  "to": "colorado-edu-innovate-programs-resources-startups-sandwiches",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-entrepreneurship-events",
+  "to": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-entrepreneurship-events",
+  "to": "colorado-edu-business-deming-entrepreneurship-events-conferences",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
+  "to": "colorado-edu-business-deming-undergraduates-certificate-entrepreneurial-studies",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
+  "to": "colorado-edu-business-deming-graduate-students-hgv",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
+  "to": "colorado-edu-business-deming-undergraduates-certificate-entrepreneurial-studies-",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
+  "to": "colorado-edu-business-deming-student-opportunities-new-venture-launch",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-innovate-programs-resources-high-growth-venture-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-graduate-students-hgv-2019-cohort",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-graduate-students-hgv-2020-cohort",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-graduate-students-hgv-2021-cohort",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-graduate-students-hgv-2022-cohort",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-graduate-students-hgv",
+  "to": "colorado-edu-business-deming-graduate-students-hgv-high-growth-venture-fellows-2",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-2020-07-16-founder-new-personal-stylist-app-describes-his-",
+  "to": "colorado-edu-innovate-entrepreneurship-0",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-04-20-internal-news-cu-boulder-spinout-solid-p",
+  "to": "colorado-edu-venturepartners-startup-portfolio-solid-power-inc-sldp",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-join-venture-or-find-partners",
+  "to": "colorado-edu-nvc-compete-join-venture-or-find-partners",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-events-opportunities-new-venture-challenge-final-showcase",
+  "to": "colorado-edu-nvc-events-opportunities-new-venture-challenge-finals",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-promo-kit-2025-new-venture-challenge",
+  "to": "colorado-edu-nvc-promo-kit-2025-new-venture-challenge-registration",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-promo-kit-social-impact-new-venture-challenge",
+  "to": "colorado-edu-nvc-social-impact-new-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-deadline-new-venture-challenge-deep-tech-competition",
+  "to": "calendar-colorado-edu-event-deadline-new-venture-challenge-deep-tech-competition",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-high-school-new-venture-challengepowered-by-firstban",
+  "to": "calendar-colorado-edu-event-high-school-new-venture-challengepowered-by-firstban",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-high-school-new-venture-challenge-finals",
+  "to": "colorado-edu-nvc-events-opportunities-new-venture-challenge-finals",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-high-school-new-venture-challenge-finals",
+  "to": "colorado-edu-nvc-events-opportunities-new-venture-challenge-final-showcase",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-2019-03-20-software-company-nimbly-alleviates-staffing-problem-",
+  "to": "colorado-edu-innovate-2019-03-20-software-company-nimbly-alleviates-staffing-pro",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-2019-03-21-fashion-focused-tech-startup-bright-wearables-seeks-",
+  "to": "colorado-edu-innovate-2019-03-21-fashion-focused-tech-startup-bright-wearables-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-2019-03-22-tissueform-developers-next-generation-dermal-fillers",
+  "to": "colorado-edu-innovate-2019-03-22-tissueform-developers-next-generation-dermal-fi",
+  "kind": "mentions",
   "weight": 1
  }
 ]
