@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Cascade Biocatalysts Inc.",
+    "founders": ["James Weltz (chief scientific officer)"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "Destination Startup", "detail": "Presented at the 2023 Destination Startup showcase", "evidence": "James Weltz, chief scientific officer of Cascade Biocatalysts Inc., which presented at the showcase"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-venturepartners-2023-02-28-internal-news-2023-destination-startup-d"]
+  },
+  {
+    "name": "Beryl Therapeutics",
+    "founders": ["Lisa Padilla (CEO and co-founder)"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "Destination Startup", "detail": "Lisa Padilla presented Beryl Therapeutics at the 2023 showcase", "evidence": "Lisa Padilla, CEO and co-founder of Beryl Therapeutics presents"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-venturepartners-2023-02-28-internal-news-2023-destination-startup-d"]
+  },
+  {
+    "name": "VitriVax",
+    "founders": [],
+    "sector": "biotech",
+    "programs": [
+      {"program": "Venture Partners", "detail": "CU Boulder spinout supported by Venture Partners commercialization arm", "evidence": "VitriVax, a CU Boulder spinout, receives $5M grant from Gates Foundation"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Received $5M grant from the Gates Foundation (2023)", "evidence": "VitriVax, a CU Boulder spinout, receives $5M grant from Gates Foundation"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2023-12-06-external-news-vitrivax-cu-boulder-spinou"]
+  },
+  {
+    "name": "Orbital Micro Systems",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {"program": "Venture Partners", "detail": "CU Boulder spinout supported by Venture Partners commercialization arm", "evidence": "Orbital Micro Systems, a CU Boulder spinout"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Awarded $1.25M SBIR Phase II contract with Black Swift Technologies for runway soil integrity testing (2023)", "evidence": "awarded $1.25M SBIR Phase II contract for runway soil integrity testing"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2023-11-27-external-news-orbital-micro-systems-cu-b"]
+  },
+  {
+    "name": "Black Swift Technologies",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {"program": "Venture Partners", "detail": "Co-awardee alongside CU Boulder spinout Orbital Micro Systems", "evidence": "Orbital Micro Systems...and Black Swift Technologies awarded $1.25M SBIR Phase II contract"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Awarded $1.25M SBIR Phase II contract for runway soil integrity testing (2023)", "evidence": "awarded $1.25M SBIR Phase II contract for runway soil integrity testing"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2023-11-27-external-news-orbital-micro-systems-cu-b"]
+  },
+  {
+    "name": "Manifest Technologies",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {"program": "Luminate New York Accelerator", "detail": "Selected as one of two CU Boulder startups for the 2026 Luminate NY cohort", "evidence": "Manifest Technologies is solving the problems holding advanced manufacturing back through Parallax Volumetric Additive Manufacturing"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Initial $100,000 investment from Luminate NY, eligible for up to $2M follow-on funding", "evidence": "utilizing an initial $100,000 investment to continue to scale their businesses"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2026-03-20-external-news-two-cu-boulder-startups-se"]
+  },
+  {
+    "name": "Modendo Inc.",
+    "founders": ["Antonio Miguel Caravaca Aguirre", "Rafael Piestun (CU Boulder professor, foundational research)"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "Luminate New York Accelerator", "detail": "Selected for the 2026 Luminate NY cohort", "evidence": "Modendo offers ultrathin microscopes that comprise a single optical fiber and provide high-resolution imaging"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Awarded a $3M SBIR Phase II Grant from NIH (2026)", "evidence": "Modendo awarded a $3M SBIR Phase II Grant (2026, NIH)"}
+    ],
+    "sources": [
+      "colorado-edu-venturepartners-2026-03-20-external-news-two-cu-boulder-startups-se",
+      "colorado-edu-venturepartners-startup-portfolio-modendo-inc"
+    ]
+  },
+  {
+    "name": "Flari Tech Inc.",
+    "founders": ["Eva Yao (CEO)"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "Embark Deep Tech Startup Creator", "detail": "Flari emerged through Embark, which matched Eva Yao with CU Boulder JILA researchers", "evidence": "Flari emerged through the Embark Deep Tech Startup Creator, which awards funding and pairs experienced entrepreneurs with high-potential technologies"},
+      {"program": "Lab Venture Challenge", "detail": "Won CU Boulder's 2024 Lab Venture Challenge for breath diagnostic technology", "evidence": "JILA-based innovation team Flari Tech wins CU Boulder's 2024 Lab Venture Challenge"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $400,000 in DARPA's Spark Tank / MTO Pitch Day competition (2025)", "evidence": "Flari Tech clinches $400,000 DARPA MTO Pitch Day award"}
+    ],
+    "sources": [
+      "colorado-edu-venturepartners-2025-10-09-external-news-flari-tech-clinches-400000",
+      "colorado-edu-venturepartners-investors-partners-startup-portfolio-flari-tech-inc"
+    ]
+  },
+  {
+    "name": "Tynt Technologies Inc.",
+    "founders": [
+      "Mike McGehee (CU Boulder Chemical and Biological Engineering)",
+      "Tyler Hernandez",
+      "Michael Strand",
+      "Ameen Saafir (later brought in to head the company)"
+    ],
+    "sector": "climate",
+    "programs": [
+      {"program": "Lab Venture Challenge", "detail": "Winner of the Lab Venture Challenge (LVC)", "evidence": "Lab Venture Challenge (LVC) (winner)"},
+      {"program": "Destination Startup", "detail": "Participated in multiple Destination Startup showcases", "evidence": "multiple Destination Startup ® showcases"},
+      {"program": "New Venture Challenge", "detail": "Presented at NVC Demo Day", "evidence": "Demo Day with the New Venture Challenge (NVC)"},
+      {"program": "Buff Venture Fund", "detail": "Received multiple investments from the Buff Venture Fund", "evidence": "has had multiple investments from the Buff Venture Fund"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Reached Series A funding stage", "evidence": "Funding Stage: Series A"}
+    ],
+    "sources": ["colorado-edu-venturepartners-startup-portfolio-tynt-technologies-inc"]
+  },
+  {
+    "name": "Otoro Energy Inc.",
+    "founders": ["Michael Marshak (CU Boulder Chemistry, founded 2020)"],
+    "sector": "climate",
+    "programs": [
+      {"program": "Innosphere Cleantech Incubator Program", "detail": "Participated in the Innosphere Cleantech Incubator Program", "evidence": "Otoro has also participated in the Innosphere Cleantech Incubator Program and Third Derivative Accelerator"},
+      {"program": "Third Derivative Accelerator", "detail": "Participated in Third Derivative Accelerator", "evidence": "Innosphere Cleantech Incubator Program and Third Derivative Accelerator"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Placed 2nd in the 2024 NREL Industry Growth Forum", "evidence": "placed 2 nd in the 2024 National Renewable Energy Laboratory (NREL) Industry Growth Forum"},
+      {"kind": "funding", "detail": "Secured seed investment from a major U.S. utility; DOE and NSF SBIR grants", "evidence": "Otoro has also secured seed investment from a major U.S. utility"}
+    ],
+    "sources": ["colorado-edu-venturepartners-startup-portfolio-otoro-energy-inc"]
+  },
+  {
+    "name": "Icarus Quantum Inc.",
+    "founders": ["Poolad Imany"],
+    "sector": "hardware",
+    "programs": [
+      {"program": "Venture Partners", "detail": "Poolad Imany began commercializing the technology with Venture Partners in 2022", "evidence": "Poolad Imany began commercializing this revolutionary quantum dot technology with Venture Partners at CU Boulder in 2022"},
+      {"program": "Activate", "detail": "Founders named in Activate's Cohort 2024 of CU Boulder spinouts", "evidence": "Activate announces founders of CU Boulder spinouts in Cohort 2024 (2024)"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "ARC Capital Management announced investment (2026); secured $400,000 SBIR Phase II Award (2026)", "evidence": "Icarus Quantum Secures $400,000 SBIR Phase II Award to Scalable Quantum Interconnects (2026)"}
+    ],
+    "sources": ["colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc"]
+  },
+  {
+    "name": "Nimb.ly",
+    "founders": ["Brandon Aguirre (CEO and co-founder)", "Devon Soto", "Ted Thayer"],
+    "sector": "software",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won 1st place ($3,500) in NVC 11 IT Track Finals (2019)", "evidence": "Nimb.ly took home the first place prize and $3,500 after pitching their business idea"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $3,500 in NVC 11 IT Track Finals (2019)", "evidence": "Nimb.ly took home the first place prize and $3,500"}
+    ],
+    "sources": ["colorado-edu-innovate-2019-03-20-software-company-nimbly-alleviates-staffing-pro"]
+  },
+  {
+    "name": "Drivewayz",
+    "founders": [],
+    "sector": "software",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "2nd place ($2,500) in NVC 11 IT Track Finals (2019)", "evidence": "2nd place: Drivewayz ($2,500) – Shared marketplace app that connects property owners"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $2,500 as 2nd place in NVC 11 IT Track Finals (2019)", "evidence": "2nd place: Drivewayz ($2,500)"}
+    ],
+    "sources": ["colorado-edu-innovate-2019-03-20-software-company-nimbly-alleviates-staffing-pro"]
+  },
+  {
+    "name": "Magneta",
+    "founders": [],
+    "sector": "software",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "3rd place ($1,000) in NVC 11 IT Track Finals (2019)", "evidence": "3rd place: Magneta ($1,000) – Creating relationships between companies and content creators"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $1,000 as 3rd place in NVC 11 IT Track Finals (2019)", "evidence": "3rd place: Magneta ($1,000)"}
+    ],
+    "sources": ["colorado-edu-innovate-2019-03-20-software-company-nimbly-alleviates-staffing-pro"]
+  },
+  {
+    "name": "KartWheel",
+    "founders": ["Nathan DePuy (co-founder)", "Nikki Minzenmayer (co-founder)"],
+    "sector": "consumer",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won 1st place ($20,000) in NVC 11 General Track Finals (2019)", "evidence": "KartWheel took home the first place prize and $20,000"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $20,000 in NVC 11 General Track Finals (2019)", "evidence": "KartWheel took home the first place prize and $20,000"}
+    ],
+    "sources": ["colorado-edu-innovate-2019-03-20-kartwheel-aims-transport-injured-students-acros"]
+  },
+  {
+    "name": "Thrift/ed",
+    "founders": [],
+    "sector": "consumer",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "2nd place ($7,000) in NVC 11 General Track Finals (2019)", "evidence": "2nd place: Thrift/ed ($7,000) – an e-commerce marketplace catered to individual college campuses"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $7,000 as 2nd place in NVC 11 General Track Finals (2019)", "evidence": "2nd place: Thrift/ed ($7,000)"}
+    ],
+    "sources": ["colorado-edu-innovate-2019-03-20-kartwheel-aims-transport-injured-students-acros"]
+  },
+  {
+    "name": "Snark",
+    "founders": [],
+    "sector": "software",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "3rd place ($3,000) in NVC 11 General Track Finals (2019)", "evidence": "3rd place: Snark ($3,000) – Analytics as a Service (AaaS) platform"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $3,000 as 3rd place in NVC 11 General Track Finals (2019)", "evidence": "3rd place: Snark ($3,000)"}
+    ],
+    "sources": ["colorado-edu-innovate-2019-03-20-kartwheel-aims-transport-injured-students-acros"]
+  },
+  {
+    "name": "Inductable",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Finalist in NVC 11 General Track Finals (2019)", "evidence": "Inductable – furniture company that incorporates wireless charging into functional design"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2019-03-20-kartwheel-aims-transport-injured-students-acros"]
+  },
+  {
+    "name": "Talisman",
+    "founders": [],
+    "sector": "consumer",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Finalist in NVC 11 General Track Finals (2019)", "evidence": "Talisman – mobile app for mental health that guides users as they name, manage and harness their emotions"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2019-03-20-kartwheel-aims-transport-injured-students-acros"]
+  },
+  {
+    "name": "Bright Wearables",
+    "founders": ["Robert Brazell (CEO, Leeds School of Business MBA candidate)"],
+    "sector": "hardware",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won 1st place ($3,000) in NVC 11 Creative Industries Track Finals (2019)", "evidence": "Bright Wearables took home the first place prize and $3,000"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $3,000 in NVC 11 Creative Industries Track Finals (2019)", "evidence": "Bright Wearables took home the first place prize and $3,000"}
+    ],
+    "sources": ["colorado-edu-innovate-2019-03-21-fashion-focused-tech-startup-bright-wearables-s"]
+  },
+  {
+    "name": "Gaia Glam",
+    "founders": [],
+    "sector": "consumer",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "2nd place ($2,000) in NVC 11 Creative Industries Track Finals (2019)", "evidence": "Gaia Glam – biodegradable and affordable glitter for the eco-conscious lover of sparkle and fashion"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $2,000 as 2nd place in NVC 11 Creative Industries Track Finals (2019)", "evidence": "2nd place ($2,000 awarded to each team)"}
+    ],
+    "sources": ["colorado-edu-innovate-2019-03-21-fashion-focused-tech-startup-bright-wearables-s"]
+  },
+  {
+    "name": "Speak",
+    "founders": [],
+    "sector": "consumer",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "2nd place ($2,000) in NVC 11 Creative Industries Track Finals (2019)", "evidence": "Speak – empoweri"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $2,000 as 2nd place in NVC 11 Creative Industries Track Finals (2019)", "evidence": "2nd place ($2,000 awarded to each team)"}
+    ],
+    "sources": ["colorado-edu-innovate-2019-03-21-fashion-focused-tech-startup-bright-wearables-s"]
+  },
+  {
+    "name": "TissueForm",
+    "founders": ["Jeanne Barthold (co-founder and director of research and development)"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won 1st place ($6,000) in NVC 11 R&D Track Finals (2019)", "evidence": "TissueForm took home the first place prize and $6,000"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $6,000 in NVC 11 R&D Track Finals (2019)", "evidence": "TissueForm took home the first place prize and $6,000"}
+    ],
+    "sources": ["colorado-edu-innovate-2019-03-22-tissueform-developers-next-generation-dermal-fi"]
+  },
+  {
+    "name": "Button Huggie",
+    "founders": [],
+    "sector": "biotech",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "2nd place ($4,000) in NVC 11 R&D Track Finals (2019)", "evidence": "2nd place: Button Huggie ($4,000) – a precision engineered medical device"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $4,000 as 2nd place in NVC 11 R&D Track Finals (2019)", "evidence": "2nd place: Button Huggie ($4,000)"}
+    ],
+    "sources": ["colorado-edu-innovate-2019-03-22-tissueform-developers-next-generation-dermal-fi"]
+  },
+  {
+    "name": "AJAX",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Finalist in NVC 11 R&D Track Finals (2019)", "evidence": "AJAX – mobile technology for GPS that enables operators to receive information at the edge"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2019-03-22-tissueform-developers-next-generation-dermal-fi"]
+  },
+  {
+    "name": "Chembotix",
+    "founders": ["Kailey Shara (CEO, ATLAS Institute PhD student)", "Carson Bruns (advisor)"],
+    "sector": "hardware",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Second-time NVC participant; reached semifinals the prior year, competing again in 2021", "evidence": "As a second-time NVC participant–last year she and her advisor, Carson Bruns , made it to the semifinals"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2021-01-25-student-startup-spotlight-kailey-shara-atlas-in"]
+  },
+  {
+    "name": "Agraaze",
+    "founders": ["Fynn Blake", "Dasha Prosolova", "Taylor Brooks-Murphy", "Christopher Haworth", "Asa Peterson"],
+    "sector": "climate",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won 1st place and Audience Choice ($10,000) at NVC 15 Climate Prize Night (2022)", "evidence": "Team Agraaze, first place winner and audience favorite, was awarded $10,000"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $10,000 for carbon-reducing seaweed cattle-feed concept (2022)", "evidence": "was awarded $10,000 for their carbon-reducing concept"}
+    ],
+    "sources": ["colorado-edu-today-2022-03-09-campus-teams-present-innovative-solutions-fight-cl"]
+  },
+  {
+    "name": "Next Use Composting and Recycling",
+    "founders": ["Steven Winterbach"],
+    "sector": "climate",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Pitched at NVC 15 Climate Prize Night (2022)", "evidence": "Steven Winterbach pitches Next Use Composting and Recycling to a packed room"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-today-2022-03-09-campus-teams-present-innovative-solutions-fight-cl"]
+  },
+  {
+    "name": "Specdrums",
+    "founders": ["Steven Dourmashkin"],
+    "sector": "consumer",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won the grand prize of $75,000 at NVC 10 championships (2018)", "evidence": "team Specdrums won the grand prize of $75,000 in the 10th annual New Venture Challenge"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $75,000 grand prize (2018); had not yet raised outside funding", "evidence": "We haven't raised any money yet. This is big"}
+    ],
+    "sources": ["colorado-edu-today-2018-04-06-musical-rings-win-75k-startup-contest-robotic-musc"]
+  },
+  {
+    "name": "HASEL artificial muscles",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "2nd place ($25,000) at NVC 10 championships (2018)", "evidence": "Second place went to HASEL artificial muscles, a group of CU Boulder researchers working on a prototype for soft-tissue robots"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $25,000 as 2nd place at NVC 10 (2018)", "evidence": "robotic muscles grab $25K"}
+    ],
+    "sources": ["colorado-edu-today-2018-04-06-musical-rings-win-75k-startup-contest-robotic-musc"]
+  },
+  {
+    "name": "BeautiBook",
+    "founders": [],
+    "sector": "consumer",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Top-five winner at NVC 10 championships (2018)", "evidence": "Other top-five winners include: BeautiBook, an app for creative makeup"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-today-2018-04-06-musical-rings-win-75k-startup-contest-robotic-musc"]
+  },
+  {
+    "name": "Veganarke",
+    "founders": [],
+    "sector": "consumer",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won the Social Impact Prize at NVC 10 (2018)", "evidence": "Social Impact Prize Winner: Veganarke"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won Social Impact Prize at NVC 10 (2018)", "evidence": "Social Impact Prize Winner: Veganarke"}
+    ],
+    "sources": ["colorado-edu-today-2018-04-06-musical-rings-win-75k-startup-contest-robotic-musc"]
+  },
+  {
+    "name": "Norma",
+    "founders": [],
+    "sector": "consumer",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won Women's Entrepreneurship Prize and Audience Choice at NVC 10 (2018)", "evidence": "Women's Entrepreneurship Prize Winner: Norma Audience Choice winner: Norma"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won Women's Entrepreneurship Prize and Audience Choice award at NVC 10 (2018)", "evidence": "Women's Entrepreneurship Prize Winner: Norma"}
+    ],
+    "sources": ["colorado-edu-today-2018-04-06-musical-rings-win-75k-startup-contest-robotic-musc"]
+  },
+  {
+    "name": "Forge Nano Inc.",
+    "founders": [
+      "Alan W. Weimer (CU Boulder Chemical and Biological Engineering, ALD NanoSolutions co-founder 2001)",
+      "Steven M. George (CU Boulder Chemistry, ALD NanoSolutions co-founder 2001)"
+    ],
+    "sector": "hardware",
+    "programs": [
+      {"program": "Lab Venture Challenge", "detail": "ALD NanoSolutions received early-stage funding through a CU/OEDIT partnership that later became LVC", "evidence": "This technology received early-stage funding through a partnership between CU Boulder and the Colorado Office of Economic Development and International Trade (OEDIT), which later became CU's Lab Venture Challenge"}
+    ],
+    "outcomes": [
+      {"kind": "ipo", "detail": "Announced going public via $1.6B SPAC, becoming CU Boulder's 11th unicorn (2026)", "evidence": "Forge Nano to go public via $1.6B SPAC, becoming CU Boulder's 11th unicorn (2026)"}
+    ],
+    "sources": ["colorado-edu-venturepartners-startup-portfolio-forge-nano-inc"]
+  },
+  {
+    "name": "LongPath Technologies Inc.",
+    "founders": ["Greg Rieker (CU Boulder Paul M. Rady Mechanical Engineering and NIST)"],
+    "sector": "climate",
+    "programs": [
+      {"program": "Venture Partners", "detail": "Active participation in various Venture Partners programs helped refine value proposition and secure funding", "evidence": "Through active participation in various Venture Partners programs, LongPath refined its value proposition and secured crucial funding"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Secured NSF and DOE support; reached Series A funding stage; expanded deployment across multiple states (2023)", "evidence": "In 2023, LongPath's innovative approach was recognized as they expanded their technology's deployment across multiple states"}
+    ],
+    "sources": ["colorado-edu-venturepartners-startup-portfolio-longpath-technologies-inc"]
+  }
+]

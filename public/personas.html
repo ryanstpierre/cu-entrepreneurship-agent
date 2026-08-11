@@ -22,6 +22,7 @@
   h2 { font-size:.95rem; margin-bottom:10px; color:var(--gold) }
   .pill { display:inline-block; padding:1px 7px; border-radius:99px; font-size:.7rem; border:1px solid var(--line); color:var(--dim); margin:1px 2px 1px 0 }
   .pill.ok { border-color:var(--ok); color:var(--ok) } .pill.bad { border-color:var(--bad); color:var(--bad) }
+  .pill.hot { border-color:var(--gold); color:var(--gold) }
   details { border-bottom:1px solid var(--line); padding:8px 0 }
   summary { cursor:pointer; font-size:.88rem } summary b { color:var(--gold) }
   .meta { color:var(--dim); font-size:.78rem; margin:4px 0 }
@@ -42,6 +43,12 @@
   <div id="err">Eval data not deployed yet — run eval-rag.mjs and redeploy.</div>
 
   <div class="grid" id="stats"></div>
+
+  <div class="card">
+    <h2>Golden Company Journeys <span id="gcount" style="color:var(--dim);font-weight:400"></span></h2>
+    <div class="meta" style="color:var(--dim);font-size:.78rem;margin-bottom:8px">Historical companies extracted from ecosystem pages — the programs they touched and observed outcomes. Ground truth for journey construction.</div>
+    <div id="companies"></div>
+  </div>
 
   <div class="card">
     <h2>Journey Sequencing (extracted pathway edges)</h2>
@@ -114,6 +121,18 @@ async function load() {
        <td><span class="pill">${esc(e.kind)}</span> ${e.confidence==='high'?'<span class="pill ok">high</span>':''}</td>
        <td style="font-size:.75rem;color:var(--dim)">${esc((e.evidence||'').slice(0,140))}</td></tr>`).join('')
   } catch { $('seq').innerHTML = '<tr><td colspan="5" class="meta">sequence edges not deployed yet</td></tr>' }
+  try {
+    const cj = await j('company-journeys.json')
+    $('gcount').textContent = `(${cj.companies.length} companies · ${cj.stats.withMultiplePrograms} multi-program)`
+    $('companies').innerHTML = cj.companies.slice(0, 80).map(c => `<details>
+      <summary><b>${esc(c.name)}</b> ${c.sector?`<span class="pill">${esc(c.sector)}</span>`:''}
+        <span class="pill ok">${c.programs.length} programs</span>
+        ${c.outcomes.some(o=>['funding','acquisition','ipo'].includes(o.kind))?'<span class="pill ok">funded/exit</span>':''}</summary>
+      ${c.founders.length?`<div class="meta"><b>Founders:</b> ${c.founders.map(esc).join(' · ')}</div>`:''}
+      ${c.programs.map(p=>`<div class="q"><b>${esc(p.program)}</b> — ${esc(p.detail)}<div class="top">“${esc(p.evidence)}”</div></div>`).join('')}
+      ${c.outcomes.map(o=>`<div class="q"><span class="pill hot">${esc(o.kind)}</span> ${esc(o.detail)}<div class="top">“${esc(o.evidence)}”</div></div>`).join('')}
+    </details>`).join('')
+  } catch { $('companies').innerHTML = '<div class="meta">company journeys not deployed yet</div>' }
 }
 $('frole').onchange = renderPersonas
 load()

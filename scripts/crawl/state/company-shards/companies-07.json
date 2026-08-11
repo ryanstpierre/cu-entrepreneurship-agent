@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Specdrums",
+    "founders": [
+      "Steven Dourmashkin (founder, aerospace engineering graduate student at CU Boulder)",
+      "Jenna Palensky (ethnomusicology, CU Boulder)",
+      "Jack FitzGerrell (marketing, CU Boulder)"
+    ],
+    "sector": "hardware",
+    "programs": [
+      {
+        "program": "New Venture Challenge",
+        "detail": "Won 2018 NVC championship after taking runner-up the prior year",
+        "evidence": "capped off by winning the New Venture Challenge competition this spring"
+      },
+      {
+        "program": "Catalyze CU",
+        "detail": "Part of the ecosystem stakeholders credited with contributing to Specdrums' journey",
+        "evidence": "the Entrepreneurial Law Clinic and the New Venture Challenge to Catalyze CU and mentor sessions"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "acquisition",
+        "detail": "Acquired by Boulder toy/robot maker Sphero, 2018",
+        "evidence": "Sphero today announced the acquisition of CU Boulder's 2018 New Venture Challenge champion Specdrums"
+      }
+    ],
+    "sources": ["colorado-edu-nvc-2018-06-22-leading-toy-maker-sphero-acquires-cu-boulder-bred-st"]
+  },
+  {
+    "name": "StrideTech",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {
+        "program": "New Venture Challenge",
+        "detail": "Champion of NVC 11",
+        "evidence": "New Venture Challenge 11 champion StrideTech"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "award",
+        "detail": "Named to Colorado Inno's 21 Startups to Watch list, 2021",
+        "evidence": "makes Colorado Inno's 21 Startups to Watch list"
+      }
+    ],
+    "sources": ["colorado-edu-nvc-2021-01-14-new-venture-challenge-11-champion-stridetech-makes-c"]
+  },
+  {
+    "name": "Thrift/ed",
+    "founders": [
+      "Marlee Durand (Phil'19, co-founder)",
+      "Julie Kinsella (co-founder, Marquette University graduate)"
+    ],
+    "sector": "consumer",
+    "programs": [
+      {
+        "program": "New Venture Challenge",
+        "detail": "Competed in CU Boulder's 11th annual New Venture Challenge",
+        "evidence": "competed in CU Boulder's 11th annual cross-campus entrepreneurial competition, New Venture Challenge"
+      },
+      {
+        "program": "Catalyze CU",
+        "detail": "Participated in the summer accelerator program",
+        "evidence": "participated in CU Boulder's summer accelerator program, Catalyze CU"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "launch",
+        "detail": "Launched website as a virtual thrift store for college students",
+        "evidence": "We just launched our website, where you can post pics of your clothes"
+      }
+    ],
+    "sources": ["colorado-edu-innovate-2019-09-23-thrifted-cu-startup-style"]
+  },
+  {
+    "name": "Trinidad Waffle Co.",
+    "founders": [
+      "James Fogerty (founder)"
+    ],
+    "sector": "consumer",
+    "programs": [
+      {
+        "program": "Startup to Scaleup workshop (Deming Center for Entrepreneurship)",
+        "detail": "Attended the traveling workshop when it came to Trinidad",
+        "evidence": "he attended the Startup to Scaleup workshop when it came to town last year"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "launch",
+        "detail": "Opened waffle shop in Trinidad, Colorado",
+        "evidence": "he opened his waffle shop two months ago in Trinidad"
+      },
+      {
+        "kind": "active",
+        "detail": "Repeat-customer driven business, planning expansion into catering and mobile stands",
+        "evidence": "much of his business is being driven by repeat customers"
+      }
+    ],
+    "sources": ["colorado-edu-business-bal22-2022-11-04-magazine-rural-entrepreneurship-trinidad-"]
+  },
+  {
+    "name": "Aspero Medical",
+    "founders": [],
+    "sector": "biotech",
+    "programs": [
+      {
+        "program": "Venture Partners",
+        "detail": "Faculty-research startup that tapped Venture Partners resources ahead of a 2019 Silicon Valley investor retreat",
+        "evidence": "tapped into university resources and Venture Partners at CU Boulder"
+      },
+      {
+        "program": "Lab Venture Challenge",
+        "detail": "Took advantage of pitch coaching, customer discovery, and competitions",
+        "evidence": "competitions like Lab Venture Challenge and New Venture Challenge to further"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "award",
+        "detail": "Selected among eight CU startups to present at Bay Area Buffs Silicon Valley investor retreat, 2019",
+        "evidence": "eight University of Colorado startups founded on faculty research traveled to Silicon Valley"
+      }
+    ],
+    "sources": ["colorado-edu-innovate-2019-08-20-boulder-bay-alumni-investors-connect-university"]
+  },
+  {
+    "name": "Big Blue Technologies",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {
+        "program": "Venture Partners",
+        "detail": "Faculty-research startup that tapped Venture Partners resources ahead of a 2019 Silicon Valley investor retreat",
+        "evidence": "tapped into university resources and Venture Partners at CU Boulder"
+      },
+      {
+        "program": "Lab Venture Challenge",
+        "detail": "Took advantage of pitch coaching, customer discovery, and competitions",
+        "evidence": "competitions like Lab Venture Challenge and New Venture Challenge to further"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "award",
+        "detail": "Selected among eight CU startups to present at Bay Area Buffs Silicon Valley investor retreat, 2019",
+        "evidence": "eight University of Colorado startups founded on faculty research traveled to Silicon Valley"
+      }
+    ],
+    "sources": ["colorado-edu-innovate-2019-08-20-boulder-bay-alumni-investors-connect-university"]
+  },
+  {
+    "name": "Double Helix Optics",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {
+        "program": "Venture Partners",
+        "detail": "Faculty-research startup that tapped Venture Partners resources ahead of a 2019 Silicon Valley investor retreat",
+        "evidence": "tapped into university resources and Venture Partners at CU Boulder"
+      },
+      {
+        "program": "Lab Venture Challenge",
+        "detail": "Took advantage of pitch coaching, customer discovery, and competitions",
+        "evidence": "competitions like Lab Venture Challenge and New Venture Challenge to further"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "award",
+        "detail": "Selected among eight CU startups to present at Bay Area Buffs Silicon Valley investor retreat, 2019",
+        "evidence": "eight University of Colorado startups founded on faculty research traveled to Silicon Valley"
+      }
+    ],
+    "sources": ["colorado-edu-innovate-2019-08-20-boulder-bay-alumni-investors-connect-university"]
+  },
+  {
+    "name": "New Iridium",
+    "founders": [],
+    "sector": "climate",
+    "programs": [
+      {
+        "program": "Venture Partners",
+        "detail": "Faculty-research startup that tapped Venture Partners resources ahead of a 2019 Silicon Valley investor retreat",
+        "evidence": "tapped into university resources and Venture Partners at CU Boulder"
+      },
+      {
+        "program": "Lab Venture Challenge",
+        "detail": "Took advantage of pitch coaching, customer discovery, and competitions",
+        "evidence": "competitions like Lab Venture Challenge and New Venture Challenge to further"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "award",
+        "detail": "Selected among eight CU startups to present at Bay Area Buffs Silicon Valley investor retreat, 2019",
+        "evidence": "eight University of Colorado startups founded on faculty research traveled to Silicon Valley"
+      }
+    ],
+    "sources": ["colorado-edu-innovate-2019-08-20-boulder-bay-alumni-investors-connect-university"]
+  },
+  {
+    "name": "Orbital Micro Systems",
+    "founders": [],
+    "sector": "aerospace",
+    "programs": [
+      {
+        "program": "Venture Partners",
+        "detail": "Faculty-research startup that tapped Venture Partners resources ahead of a 2019 Silicon Valley investor retreat",
+        "evidence": "tapped into university resources and Venture Partners at CU Boulder"
+      },
+      {
+        "program": "Lab Venture Challenge",
+        "detail": "Took advantage of pitch coaching, customer discovery, and competitions",
+        "evidence": "competitions like Lab Venture Challenge and New Venture Challenge to further"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "award",
+        "detail": "Selected among eight CU startups to present at Bay Area Buffs Silicon Valley investor retreat, 2019",
+        "evidence": "eight University of Colorado startups founded on faculty research traveled to Silicon Valley"
+      }
+    ],
+    "sources": ["colorado-edu-innovate-2019-08-20-boulder-bay-alumni-investors-connect-university"]
+  },
+  {
+    "name": "Respirogen",
+    "founders": [],
+    "sector": "biotech",
+    "programs": [
+      {
+        "program": "Venture Partners",
+        "detail": "Faculty-research startup that tapped Venture Partners resources ahead of a 2019 Silicon Valley investor retreat",
+        "evidence": "tapped into university resources and Venture Partners at CU Boulder"
+      },
+      {
+        "program": "Lab Venture Challenge",
+        "detail": "Took advantage of pitch coaching, customer discovery, and competitions",
+        "evidence": "competitions like Lab Venture Challenge and New Venture Challenge to further"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "award",
+        "detail": "Selected among eight CU startups to present at Bay Area Buffs Silicon Valley investor retreat, 2019",
+        "evidence": "eight University of Colorado startups founded on faculty research traveled to Silicon Valley"
+      }
+    ],
+    "sources": ["colorado-edu-innovate-2019-08-20-boulder-bay-alumni-investors-connect-university"]
+  },
+  {
+    "name": "Socialcontext.ai",
+    "founders": [],
+    "sector": "software",
+    "programs": [
+      {
+        "program": "Venture Partners",
+        "detail": "Faculty-research startup that tapped Venture Partners resources ahead of a 2019 Silicon Valley investor retreat",
+        "evidence": "tapped into university resources and Venture Partners at CU Boulder"
+      },
+      {
+        "program": "Lab Venture Challenge",
+        "detail": "Took advantage of pitch coaching, customer discovery, and competitions",
+        "evidence": "competitions like Lab Venture Challenge and New Venture Challenge to further"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "award",
+        "detail": "Selected among eight CU startups to present at Bay Area Buffs Silicon Valley investor retreat, 2019",
+        "evidence": "eight University of Colorado startups founded on faculty research traveled to Silicon Valley"
+      }
+    ],
+    "sources": ["colorado-edu-innovate-2019-08-20-boulder-bay-alumni-investors-connect-university"]
+  },
+  {
+    "name": "B Cell Solutions",
+    "founders": [],
+    "sector": "biotech",
+    "programs": [
+      {
+        "program": "Venture Partners",
+        "detail": "UC Colorado Springs faculty-research startup that presented alongside CU Boulder startups at 2019 Silicon Valley retreat",
+        "evidence": "University of Colorado Colorado Springs Startup in Attendance: B Cell Solutions"
+      },
+      {
+        "program": "Lab Venture Challenge",
+        "detail": "Took advantage of pitch coaching, customer discovery, and competitions",
+        "evidence": "competitions like Lab Venture Challenge and New Venture Challenge to further"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "award",
+        "detail": "Selected to present at Bay Area Buffs Silicon Valley investor retreat, 2019",
+        "evidence": "eight University of Colorado startups founded on faculty research traveled to Silicon Valley"
+      }
+    ],
+    "sources": ["colorado-edu-innovate-2019-08-20-boulder-bay-alumni-investors-connect-university"]
+  },
+  {
+    "name": "FloodID",
+    "founders": [],
+    "sector": "climate",
+    "programs": [
+      {
+        "program": "Earth & Space Systems Accelerator (Innosphere)",
+        "detail": "Member of Innosphere's inaugural Earth & Space Systems Accelerator cohort, started late 2025",
+        "evidence": "Product or Business FloodID, PrecisionTerra, Brint Tech Program Earth & Space Systems Accelerator"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "launch",
+        "detail": "Part of inaugural 14-company E&SS Accelerator cohort funded by Colorado OEDIT",
+        "evidence": "the inaugural accelerator cohort, which started in late 2025, included fourteen companies"
+      }
+    ],
+    "sources": ["innosphereventures-org-impacts-inside-the-earth-and-space-systems-accelerator"]
+  },
+  {
+    "name": "PrecisionTerra",
+    "founders": [],
+    "sector": "climate",
+    "programs": [
+      {
+        "program": "Earth & Space Systems Accelerator (Innosphere)",
+        "detail": "Member of Innosphere's inaugural Earth & Space Systems Accelerator cohort, started late 2025",
+        "evidence": "Product or Business FloodID, PrecisionTerra, Brint Tech Program Earth & Space Systems Accelerator"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "launch",
+        "detail": "Part of inaugural 14-company E&SS Accelerator cohort funded by Colorado OEDIT",
+        "evidence": "the inaugural accelerator cohort, which started in late 2025, included fourteen companies"
+      }
+    ],
+    "sources": ["innosphereventures-org-impacts-inside-the-earth-and-space-systems-accelerator"]
+  },
+  {
+    "name": "Brint Tech",
+    "founders": [],
+    "sector": "climate",
+    "programs": [
+      {
+        "program": "Earth & Space Systems Accelerator (Innosphere)",
+        "detail": "Member of Innosphere's inaugural Earth & Space Systems Accelerator cohort, started late 2025",
+        "evidence": "Product or Business FloodID, PrecisionTerra, Brint Tech Program Earth & Space Systems Accelerator"
+      }
+    ],
+    "outcomes": [
+      {
+        "kind": "launch",
+        "detail": "Part of inaugural 14-company E&SS Accelerator cohort funded by Colorado OEDIT",
+        "evidence": "the inaugural accelerator cohort, which started in late 2025, included fourteen companies"
+      }
+    ],
+    "sources": ["innosphereventures-org-impacts-inside-the-earth-and-space-systems-accelerator"]
+  }
+]

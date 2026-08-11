@@ -1,0 +1,174 @@
+[
+  {
+    "name": "Manifest Technologies Inc. (prev. Vitro3D Inc.)",
+    "founders": ["Camila Uzcategui (PhD student, Bob McLeod's lab, CU Boulder)", "Johnny Hergert (PhD student, Bob McLeod's lab, CU Boulder)"],
+    "sector": "hardware/advanced materials",
+    "programs": [
+      {"program": "NSF I-Corps Hub West Starting Blocks and Research-to-Market (R2M)", "detail": "Program used to develop the volumetric 3D printing technology venture", "evidence": "harnessed programs such as the NSF I-Corps: Hub West Starting Blocks and Research-to-Market"},
+      {"program": "Lab Venture Challenge (LVC)", "detail": "Participated in LVC as part of commercialization path", "evidence": "Lab Venture Challenge (LVC), Destination Startup and the New Venture Challenge"},
+      {"program": "Destination Startup", "detail": "Participated in Destination Startup showcase", "evidence": "Lab Venture Challenge (LVC), Destination Startup and the New Venture Challenge"},
+      {"program": "New Venture Challenge (NVC)", "detail": "Competed in NVC", "evidence": "Destination Startup and the New Venture Challenge (NVC)"},
+      {"program": "Innosphere Ventures", "detail": "Part of Innosphere Ventures' Colorado Life Sciences Incubator cohort", "evidence": "part of Innosphere Ventures' Colorado Life Sciences Incubator cohort, with backing from the Buff Venture Fund"}
+    ],
+    "outcomes": [
+      {"kind": "launch", "detail": "Rebranded from Vitro3D to Manifest Technologies in 2025, launched Parallax Volumetric Additive Manufacturing (P-VAM) Evaluation Kit", "evidence": "The company rebranded in 2025 and introduced their Parallax Volumetric Additive Manufacturing (P-VAM) Evaluation Kit"},
+      {"kind": "funding", "detail": "Funding stage: Seed Round", "evidence": "Funding Stage: Seed Round"}
+    ],
+    "sources": ["colorado-edu-venturepartners-startup-portfolio-vitro3d-inc"]
+  },
+  {
+    "name": "OsmoPure Technologies",
+    "founders": ["Kian Lopez (CU Boulder Chemical and Biological Engineering, co-founder)", "Nadia Jorgenson (co-founder and CTO)"],
+    "sector": "climate/water tech",
+    "programs": [
+      {"program": "West Gate Lab-Embedded Entrepreneurship Program (LEEP)", "detail": "Kian Lopez selected by U.S. DOE for LEEP cohort, embedded at NREL", "evidence": "Kian Lopez... of CU Boulder startup OsmoPure Technologies... will join the West Gate Lab-Embedded Entrepreneurship Program"},
+      {"program": "Lab Venture Challenge", "detail": "OsmoPure was recently part of CU Boulder's Lab Venture Challenge", "evidence": "recently part of CU Boulder's Lab Venture Challenge and A"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Selected as 1 of 27 innovators for DOE Lab-Embedded Entrepreneurship Program (2025)", "evidence": "The U.S. Department of Energy (DOE) selected 27 innovators and entrepreneurs to join the latest cohorts"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2025-07-14-external-news-us-energy-department-selec", "colorado-edu-venturepartners-2025-07-07-external-news-activate-welcomes-cu-bould"]
+  },
+  {
+    "name": "Latimer Controls Inc.",
+    "founders": ["Simon Julien (Applied Mathematics, '22)", "Zachary Jacobs (Chemical and Biological Engineering, '21)"],
+    "sector": "climate/energy hardware",
+    "programs": [
+      {"program": "Techstars Alabama EnergyTech Accelerator", "detail": "Graduated from Techstars Alabama EnergyTech Accelerator Class of 2022", "evidence": "graduated from the Techstars Alabama EnergyTech Accelerator Class of 2022"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won the American Made Solar Prize (2023)", "evidence": "won the American Made Solar Prize, signed its first pilot with Kaua'i Island Utility Cooperative"},
+      {"kind": "launch", "detail": "Signed first pilot with Kaua'i Island Utility Cooperative", "evidence": "signed its first pilot with Kaua'i Island Utility Cooperative"},
+      {"kind": "funding", "detail": "Funding stage: Seed Round", "evidence": "Funding Stage: Seed Round"}
+    ],
+    "sources": ["colorado-edu-venturepartners-startup-portfolio-latimer-controls-inc", "colorado-edu-venturepartners-technology-portfolio-licensing-opportunities-climat"]
+  },
+  {
+    "name": "PrecisionTerra Inc.",
+    "founders": ["Maithreyi Gopalakrishnan (CEO, alum, CU Boulder Physics)"],
+    "sector": "hardware/software (GPS navigation)",
+    "programs": [
+      {"program": "Embark Deep Tech Startup Creator", "detail": "Company formed through Embark Deep Tech Startup Creator", "evidence": "PrecisionTerra is commercializing a cutting-edge algorithm... in the Embark Deep Tech Startup Creator"},
+      {"program": "New Venture Challenge", "detail": "Won funding in CU Boulder's New Venture Challenge", "evidence": "PrecisionTerra also won funding in CU Boulder's New Venture Challenge"},
+      {"program": "Forum VC accelerator / NSIN Vector accelerator", "detail": "Grew through Forum VC's accelerator program and the NSIN Vector accelerator", "evidence": "grew through Forum VC's accelerator program and the NSIN Vector accelerator"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Awarded pre-seed funding by CU Boulder (2025)", "evidence": "University of Colorado Boulder awards pre-seed funding to alum's promising GPS spin-off"},
+      {"kind": "award", "detail": "Represented Boulder region for the Startup World Cup", "evidence": "represented the Boulder region for the Startup World Cup"},
+      {"kind": "funding", "detail": "Funding stage: Pre-Seed", "evidence": "Funding Stage: Pre-Seed"}
+    ],
+    "sources": ["colorado-edu-venturepartners-startup-portfolio-precisionterra-inc"]
+  },
+  {
+    "name": "Flari Tech",
+    "founders": ["Eva Yao (CEO)", "Jun Ye (Physics, JILA, technology source)", "Qizhong Liang (JILA, technology source)"],
+    "sector": "biotech (diagnostics)",
+    "programs": [
+      {"program": "Embark Deep Tech Startup Creator", "detail": "Flari emerged through the Embark Deep Tech Startup Creator, which paired Yao with the technology", "evidence": "Flari emerged through the Embark Deep Tech Startup Creator, which awards funding and pairs experienced entrepreneurs"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Named one of BizWest's inaugural 'Startups to Watch' (2026)", "evidence": "BizWest has named three CU Boulder startups: Flari Tech, Kioga and Renovare Therapeutics"},
+      {"kind": "award", "detail": "Named a startup to watch by Denver Business Journal (2026)", "evidence": "Flari Tech named a startup to watch by Denver Business Journal"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2026-07-08-bizwest-unveils-inaugural-startups-watch", "colorado-edu-venturepartners-2026-03-23-external-news-flari-tech-named-denver-bu"]
+  },
+  {
+    "name": "Kioga Inc.",
+    "founders": ["Justin Whiteley (CEO, cofounder of eat meati (Meati Inc.))"],
+    "sector": "biotech (dietary/food)",
+    "programs": [
+      {"program": "Embark Deep Tech Startup Creator", "detail": "Justin Whiteley joined Kioga as CEO through the Embark Deep Tech Startup Creator in 2024", "evidence": "joined Kioga as CEO through the Venture Partners Embark Deep Tech Startup Creator in 2024"},
+      {"program": "Innosphere's Life Sciences Incubator", "detail": "CU Boulder startups selected for Innosphere's 2025 Life Sciences Incubator", "evidence": "CU Boulder startups selected for Innosphere's 2025 Life Sciences Incubator (2025)"},
+      {"program": "New Venture Challenge", "detail": "Featured at the 2026 NVC Finals", "evidence": "Innovative ideas and founder spirit ride high at the 2026 NVC Finals"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Named one of BizWest's inaugural 'Startups to Watch' (2026)", "evidence": "BizWest has named three CU Boulder startups: Flari Tech, Kioga and Renovare Therapeutics"},
+      {"kind": "funding", "detail": "Kioga investor announcement from Boulder Angels (2025)", "evidence": "Kioga investor announcement from Boulder Angels (2025)"},
+      {"kind": "funding", "detail": "Funding stage: Seed", "evidence": "Funding Stage: Seed"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2026-07-08-bizwest-unveils-inaugural-startups-watch", "colorado-edu-venturepartners-startup-portfolio-kioga-inc"]
+  },
+  {
+    "name": "OMC Thermochemistry (OMC Hydrogen)",
+    "founders": ["Al W. Weimer (CU Boulder Chemical and Biological Engineering, technology source)", "Britt Boughey (CEO)"],
+    "sector": "climate/energy (green hydrogen)",
+    "programs": [
+      {"program": "Venture Partners Destination Startup / Ascent Deep Tech Accelerator / Research-to-Market / Path to Commercialization", "detail": "Listed among Venture Partners programs used by the company", "evidence": "Venture Partners Programs Destination Startup (2025) Ascent Deep Tech Accelerator Research-to-Market (R2M)"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "OMC Hydrogen won first place in DOE cleantech pitch competition (2023)", "evidence": "OMC Hydrogen wins first place in DOE competition"},
+      {"kind": "funding", "detail": "Funding stage: Series A Round", "evidence": "Funding Stage: Series A Round"}
+    ],
+    "sources": ["colorado-edu-venturepartners-startup-portfolio-omc-thermochemistry", "colorado-edu-venturepartners-2023-03-30-external-news-omc-hydrogen-wins-first-pl"]
+  },
+  {
+    "name": "LongPath Technologies Inc.",
+    "founders": [],
+    "sector": "climate (methane emissions monitoring)",
+    "programs": [
+      {"program": "Destination Startup", "detail": "Showcased at the third annual Destination Startup event (2021), a joint venture out of CU Boulder and NIST", "evidence": "LongPath Technologies, a joint venture out of CU Boulder and NIST, is based on Nobel Prize-winning dual comb laser technology"}
+    ],
+    "outcomes": [
+      {"kind": "launch", "detail": "Growing engineering and customer service teams to advance continuous methane monitoring technology", "evidence": "To continue advancing their technology and grow their engineering and customer service teams"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2021-01-27-third-annual-destination-startupr-event-", "colorado-edu-venturepartners-technology-portfolio-licensing-opportunities-climat"]
+  },
+  {
+    "name": "DopaMind",
+    "founders": ["Saul Drantch (CU Boulder B.S. Computer Science)", "Simone Drantch (CU Boulder undergraduate, neuroscience & psychology)"],
+    "sector": "software/consumer (digital wellness)",
+    "programs": [
+      {"program": "Catalyze CU", "detail": "Part of the Summer 2026 Catalyze CU cohort", "evidence": "DopaMind is a screen time app that helps people gradually reduce unhealthy phone use"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-catalyzecu-summers-cohort"]
+  },
+  {
+    "name": "Whaaat!?",
+    "founders": ["Danny Rankin (founder)", "Matt Bethancourt (founder)"],
+    "sector": "consumer/entertainment (experimental games events)",
+    "programs": [
+      {"program": "Catalyze CU", "detail": "Joined CatalyzeCU with the founders originally from ATLAS Institute faculty", "evidence": "Initially founded by ATLAS Institute faculty members, Whaaat!? has organized annual festivals since 2018"}
+    ],
+    "outcomes": [
+      {"kind": "active", "detail": "Has organized annual festivals since 2018", "evidence": "Whaaat!? has organized annual festivals since 2018, and joins CatalyzeCU"}
+    ],
+    "sources": ["colorado-edu-catalyzecu-summers-cohort"]
+  },
+  {
+    "name": "Wellvine (Octant Health)",
+    "founders": ["Sydney Weinberg (founder)"],
+    "sector": "healthtech",
+    "programs": [
+      {"program": "Catalyze CU", "detail": "Part of the Summer 2026 Catalyze CU cohort", "evidence": "Octant Health is a healthcare technology company. Our first product, Wellvine, is a mobile application"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-catalyzecu-summers-cohort"]
+  },
+  {
+    "name": "PAGE Technologies",
+    "founders": ["Elliot Strand (co-founder and CEO, CU Boulder PhD materials science and engineering)", "Payton Goodrich (co-founder and CTO)"],
+    "sector": "climate/agtech (sensors)",
+    "programs": [
+      {"program": "Activate Fellowship", "detail": "Strand and Goodrich joined the Activate Fellowship Cohort 2025", "evidence": "Elliot Strand is the co-founder and CEO of PAGE Technologies... Three CU Boulder-based innovators have joined Cohort 2025"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Strand earned MDPI Sensors journal's Best PhD Thesis Award (2023)", "evidence": "earning MDPI's journal, Sensors, Best PhD Thesis Award in 2023"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2025-07-07-external-news-activate-welcomes-cu-bould"]
+  },
+  {
+    "name": "Ramsi Inc. (prev. Pricing Service Inc.)",
+    "founders": ["Dan Zhang (CU Boulder Strategy, Entrepreneurship and Operations, co-founder)"],
+    "sector": "software (fintech/hospitality)",
+    "programs": [
+      {"program": "Destination Startup", "detail": "Presented at Destination Startup showcase (2026)", "evidence": "Venture Partners Programs Destination Startup (2026) Center for Translational Research (2023)"},
+      {"program": "Center for Translational Research", "detail": "Received support from the Center for Translational Research (2023)", "evidence": "Center for Translational Research (2023) Intellectual Property Management (2023)"},
+      {"program": "New Venture Challenge", "detail": "Referenced among NVC-funded ventures in company news list", "evidence": "Groundbreaking innovations win big at the 17th New Venture Challenge Finals (2024)"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Funding stage: Pre-Seed", "evidence": "Funding Stage: Pre-Seed"}
+    ],
+    "sources": ["colorado-edu-venturepartners-ramsi-inc-prev-pricing-service-inc"]
+  }
+]

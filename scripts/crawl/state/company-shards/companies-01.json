@@ -1,0 +1,436 @@
+[
+  {
+    "name": "Arkana Therapeutics",
+    "founders": ["Jack Gugel (co-founder)"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won Deep Tech category first prize, $150,000, at 2026 NVC Finals", "evidence": "hands Arkana Therapeutics co-founder Jack Gugel (right) his $150,000 first prize check"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "$150,000 first prize, 2026 NVC Deep Tech category", "evidence": "hands Arkana Therapeutics co-founder Jack Gugel (right) his $150,000 first prize check"}
+    ],
+    "sources": ["colorado-edu-nvc-2026-05-04-innovative-ideas-and-founder-spirit-ride-high-2026-n"]
+  },
+  {
+    "name": "PrecisionTerra",
+    "founders": ["Maithreyi Gopalakrishnan (CEO, alum, CU Boulder Physics)"],
+    "sector": "hardware",
+    "programs": [
+      {"program": "Venture Partners", "detail": "Awarded $100,000 in pre-seed funding as a deep tech startup", "evidence": "awarding $100,000 in pre-seed funding to PrecisionTerra , founded by CEO Maithreyi Gopalakrishnan"},
+      {"program": "New Venture Challenge", "detail": "Went on to win $144,000 in additional funding in 2025 NVC", "evidence": "Gopalakrishnan went on to win $144,000 in additional funding for the company in the 2025 New Venture Challenge"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "$100,000 pre-seed funding from Venture Partners", "evidence": "awarding $100,000 in pre-seed funding to PrecisionTerra"},
+      {"kind": "award", "detail": "$144,000 won at 2025 New Venture Challenge", "evidence": "win $144,000 in additional funding for the company in the 2025 New Venture Challenge"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2025-05-06-internal-news-university-colorado-boulde"]
+  },
+  {
+    "name": "Forge Nano",
+    "founders": ["Alan W. Weimer (CU Boulder Chemical and Biological Engineering)", "Steven M. George (CU Boulder Chemistry)"],
+    "sector": "hardware",
+    "programs": [
+      {"program": "Lab Venture Challenge", "detail": "Predecessor tech (ALD NanoSolutions) received early-stage funding via CU/OEDIT partnership that became LVC", "evidence": "which later became CU's Lab Venture Challenge (LVC)"}
+    ],
+    "outcomes": [
+      {"kind": "ipo", "detail": "Going public via $1.6B SPAC deal, CU Boulder's 11th unicorn", "evidence": "Forge Nano to go public via $1.6B SPAC, becoming CU Boulder's 11th unicorn"},
+      {"kind": "acquisition", "detail": "Merged with ALD NanoSolutions in 2020", "evidence": "The company merged with ALD NanoSolutions in 2020, an earlier spinout founded in 2001"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2026-04-28-internal-news-forge-nano-list-16-billion"]
+  },
+  {
+    "name": "ALD NanoSolutions",
+    "founders": ["Alan W. Weimer (CU Boulder Chemical and Biological Engineering)", "Steven M. George (CU Boulder Chemistry)"],
+    "sector": "materials",
+    "programs": [
+      {"program": "Lab Venture Challenge", "detail": "Received early-stage funding via CU/Colorado OEDIT partnership that later became LVC", "evidence": "This technology received early-stage funding through a partnership between CU Boulder and the Colorado Office of Economic Development"}
+    ],
+    "outcomes": [
+      {"kind": "acquisition", "detail": "Merged with Forge Nano in 2020", "evidence": "The company merged with ALD NanoSolutions in 2020, an earlier spinout founded in 2001"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2026-04-28-internal-news-forge-nano-list-16-billion"]
+  },
+  {
+    "name": "Mesa Quantum Systems Inc.",
+    "founders": ["Sristy Agrawal (co-founder and CEO, NIST, JILA, CU Boulder Physics)"],
+    "sector": "hardware",
+    "programs": [
+      {"program": "Venture Partners", "detail": "Venture Partners matched grad student Sristy Agrawal with an atomic clock invented in Svenja Knappe's lab", "evidence": "Venture Partners helped match a motivated grad student, Sristy Agrawal ... with a novel atomic clock"},
+      {"program": "I-Corps", "detail": "First conceived in the NSF I-Corps Hub West customer discovery programming at Venture Partners", "evidence": "Mesa Quantum was first conceived in the NSF I-Corps™ Hub West customer discovery programming"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "$1.2 million fuels Mesa Quantum growth (2026)", "evidence": "$1.2 million fuels Mesa Quantum driven quantum sector growth in New Mexico"},
+      {"kind": "award", "detail": "$100K inaugural state grant for quantum sensor development (2025)", "evidence": "Mesa Quantum scores $100K inaugural state grant for quantum sensor development"},
+      {"kind": "funding", "detail": "Raised $3.7M for a precise clock (2024)", "evidence": "Quantum timekeepers raise $3.7M for a precise clock"}
+    ],
+    "sources": ["colorado-edu-venturepartners-startup-portfolio-mesa-quantum-inc"]
+  },
+  {
+    "name": "Nanoplasmonics, LLC",
+    "founders": ["Anatoliy Pinchuk (University of Colorado Colorado Springs)"],
+    "sector": "hardware",
+    "programs": [
+      {"program": "Lab Venture Challenge", "detail": "Competed in the 2022 LVC from UCCS", "evidence": "Anatoliy Pinchuk of Nanoplasmonics, LLC joined the competition from the University of Colorado Colorado Springs"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-venturepartners-2022-11-07-internal-news-cu-boulder-innovators-awar"]
+  },
+  {
+    "name": "LongPath Technologies",
+    "founders": ["Greg Rieker (co-founder and CTO, Paul M. Rady Mechanical Engineering)"],
+    "sector": "climate",
+    "programs": [
+      {"program": "Destination Startup", "detail": "Rieker presented the lunchtime keynote at 2024 Destination Startup Investor Showcase", "evidence": "co-founder and CTO of LongPath Technologies presented the lunchtime keynote about his path from researcher to startup success"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Won $5M in DOE funding for continuous methane leak detection (2021)", "evidence": "CU spinout LongPath wins $5M in DOE funding for continuous methane leak detection"},
+      {"kind": "funding", "detail": "Raised $22M Series A (2023) for methane monitoring network", "evidence": "LongPath Technologies raises $22M Series A to meet accelerating demand for its patented methane monitoring network"}
+    ],
+    "sources": [
+      "colorado-edu-venturepartners-2024-03-22-internal-news-2024-destination-startup-c",
+      "colorado-edu-venturepartners-2021-03-12-cu-spinout-longpath-wins-5m-doe-funding-",
+      "colorado-edu-venturepartners-2023-01-02-external-news-longpath-technologies-rais"
+    ]
+  },
+  {
+    "name": "WHISPER Energy",
+    "founders": ["Galen Williams (leads WHISPER Energy)"],
+    "sector": "climate",
+    "programs": [
+      {"program": "Embark Deep Tech", "detail": "Williams was formerly an Embark Entrepreneur-in-Residence at Venture Partners", "evidence": "Williams, formerly an Embark Entrepreneur-in-Residence at Venture Partners, was at Destination Startup"},
+      {"program": "Destination Startup", "detail": "Presented at 2024 Destination Startup to pair with climate-focused investors", "evidence": "was at Destination Startup to pair up with climate-focused investors who gel with his company's unique team and technology"}
+    ],
+    "outcomes": [
+      {"kind": "launch", "detail": "Bringing wireless, battery-free sensor platform to market for energy waste reduction", "evidence": "Their battery-free sensors optimize energy consumption in homes and businesses by detecting human presence"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2024-03-22-internal-news-2024-destination-startup-c"]
+  },
+  {
+    "name": "Stateless",
+    "founders": ["Murad Kablan (PhD student)", "Eric Keller (Assistant Professor, Electrical and Computer Engineering)"],
+    "sector": "software",
+    "programs": [
+      {"program": "Catalyze CU", "detail": "Alum of the 2016 Catalyze CU class, CU Boulder's summer startup accelerator", "evidence": "Stateless is an alum of the 2016 Catalyze CU class, a CU Boulder summer startup accelerator"},
+      {"program": "New Venture Challenge", "detail": "Also went through CU Boulder's cross-campus venture competition", "evidence": "as well as the New Venture Challenge , CU Boulder's cross-campus venture competition"},
+      {"program": "I-Corps", "detail": "Moved on to the NSF I-Corps program after Catalyze CU and NVC", "evidence": "After completing those programs, they moved on to the NSF I-Corps program"},
+      {"program": "Techstars", "detail": "Accepted into the 2017 Techstars Boulder class", "evidence": "were then accepted into the 2017 Techstars Boulder class"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Awarded a $225,000 NSF SBIR grant (2017)", "evidence": "they were awarded a $225,000 NSF SBIR grant"},
+      {"kind": "funding", "detail": "Completed first seed funding round at $1.4 million", "evidence": "completed their first seed funding round at $1.4 million"},
+      {"kind": "funding", "detail": "Raised $11.33M in Series A funding (Jan 2019), largest Catalyze CU round", "evidence": "raised $11.33 million in Series A funding in late January 2019"}
+    ],
+    "sources": ["colorado-edu-researchinnovation-2019-02-19-stateless-cu-boulder-spinoff-and-cata"]
+  },
+  {
+    "name": "ColdQuanta",
+    "founders": ["Dana Anderson (Physics Professor, co-founder)"],
+    "sector": "hardware",
+    "programs": [
+      {"program": "Venture Partners", "detail": "Co-founded in 2007 with licensing support from Venture Partners at CU Boulder", "evidence": "he co-founded the company in 2007 to further his ultracold atom research ... with licensing support from Venture Partners"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Closed additional $10M in seed round financing (2019), total ~$24M", "evidence": "recently closed $10M in additional seed round equity financing from its current investors"},
+      {"kind": "funding", "detail": "Added $20M to speed commercialization (2021)", "evidence": "CU spinout ColdQuanta adds $20M to speed up commercialization"}
+    ],
+    "sources": [
+      "colorado-edu-venturepartners-2019-12-12-coldquanta-cu-boulder-startup-closes-add",
+      "colorado-edu-venturepartners-2021-05-13-cu-spinout-coldquanta-adds-20m-speed-com"
+    ]
+  },
+  {
+    "name": "Stride Tech",
+    "founders": ["Tim Visos-Ely (CEO)", "Humsini Acharya (co-founder)"],
+    "sector": "hardware",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Nabbed first place at NVC 11 Hardware Track Finals, advanced to NVC Championships", "evidence": "nabs first place at New Venture Challenge 11 Hardware Track Finals competition"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "First place, NVC 11 Hardware Track Finals", "evidence": "The StrideTech team poses for the camera after their New Venture Challenge 11 Hardware Track Finals win"}
+    ],
+    "sources": ["colorado-edu-innovate-2019-03-22-engineering-startup-stride-tech-innovates-safer"]
+  },
+  {
+    "name": "Aspero Medical",
+    "founders": ["Mark Rentschler (CEO, Associate Mechanical Engineering Professor)"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "Research-to-Market", "detail": "Completed R2M and refined product design based on customer discovery", "evidence": "is bringing an innovative endoscopy technology to market after completing R2M"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Awarded NSF SBIR funding on a second product solution", "evidence": "was recently awarded NSF SBIR funding on a second product solution identified during customer interviewing"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2020-08-19-venture-partners-flagship-research-marke"]
+  },
+  {
+    "name": "Shine On",
+    "founders": ["Alex Mulvaney", "Katherine Vega", "Taylor Brooks-Murphy"],
+    "sector": "consumer",
+    "programs": [
+      {"program": "Research-to-Market", "detail": "Recent R2M program graduate, making the world's safest bike light", "evidence": "Recent R2M program graduate Shine On is a CU Boulder startup founded by students"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Launched a Kickstarter and raised over $30,000", "evidence": "the company launched a Kickstarter and raised over $30,000"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2020-08-19-venture-partners-flagship-research-marke"]
+  },
+  {
+    "name": "TissueForm",
+    "founders": ["Jeanne Barthold, PhD", "Corey Neu (CU Boulder Mechanical Engineering Associate Professor)"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "Lab Venture Challenge", "detail": "Won $125,000 in Venture Partners' 2018 Lab Venture Challenge", "evidence": "TissueForm won $125,000 in Venture Partners' 2018 Lab Venture Challenge"},
+      {"program": "New Venture Challenge", "detail": "Won Women's Entrepreneurship Prize, R&D Track winner, third runner-up at NVC 11", "evidence": "Research & Development (R&D) Track winner and third runner-up in CU Boulder's New Venture Challenge 11"},
+      {"program": "Venture Partners", "detail": "Worked with Venture Partners for 5 years on commercialization strategies, IP, mentors, R2M", "evidence": "TissueForm has been working with Venture Partners for the last five years on commercialization strategies"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won $20,000 at UNC Monfort Entrepreneurial Challenge (2021)", "evidence": "CU Boulder spinout TissueForm won $20,000 at UNC Monfort Entrepreneurial Challenge"}
+    ],
+    "sources": [
+      "colorado-edu-venturepartners-2021-03-23-cu-boulder-spinout-tissueform-wins-20000",
+      "colorado-edu-techtransfer-2018-11-20-lab-venture-challenge-awards-900000-promisi"
+    ]
+  },
+  {
+    "name": "HUG Solutions",
+    "founders": [],
+    "sector": "climate",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "NVC 14 Championships finalist, Impact Prize Night second place winner", "evidence": "HUG Solutions —mRNA vaccine cold chain transportation for rural communities ( Impact Prize Night second place winner)"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Impact Prize Night second place winner, NVC 14", "evidence": "Impact Prize Night second place winner"}
+    ],
+    "sources": ["colorado-edu-innovate-2021-04-09-six-cu-boulder-startup-teams-advance-new-ventur"]
+  },
+  {
+    "name": "LGBT50",
+    "founders": [],
+    "sector": "consumer",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "NVC 14 Championships finalist, NVC Newcomer Prize Night second place winner", "evidence": "LGBT50 —agency that manages LGBTQ+ influencers on TikTok and Instagram ... ( NVC Newcomer Prize Night second place winner)"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "NVC Newcomer Prize Night second place winner", "evidence": "NVC Newcomer Prize Night second place winner"}
+    ],
+    "sources": ["colorado-edu-innovate-2021-04-09-six-cu-boulder-startup-teams-advance-new-ventur"]
+  },
+  {
+    "name": "Orbital Biodesign",
+    "founders": [],
+    "sector": "biotech",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "NVC 14 Championships finalist with synthetic muscle sleeve for venous insufficiency", "evidence": "Orbital Biodesign —a synthetic muscle sleeve intended to prevent and treat lower extremity venous insufficiency"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2021-04-09-six-cu-boulder-startup-teams-advance-new-ventur"]
+  },
+  {
+    "name": "Sarus",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "NVC 14 Championships finalist, smarter heavy equipment control systems", "evidence": "Sarus —Increasing safety and efficiency through smarter heavy equipment control systems"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2021-04-09-six-cu-boulder-startup-teams-advance-new-ventur"]
+  },
+  {
+    "name": "Seedling Biosystems",
+    "founders": [],
+    "sector": "biotech",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "NVC 14 Championships finalist, producing valuable small molecules and proteins in plants", "evidence": "Seedling Biosystems —Producing valuable small molecules and proteins in plants"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2021-04-09-six-cu-boulder-startup-teams-advance-new-ventur"]
+  },
+  {
+    "name": "ToobTek",
+    "founders": [],
+    "sector": "biotech",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "NVC 14 Championships finalist, Female Founder Prize Night fourth place winner", "evidence": "ToobTek —creating a fiberoptic intubation training device ... ( Female Founder Prize Night fourth place winner)"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Female Founder Prize Night fourth place winner", "evidence": "Female Founder Prize Night fourth place winner"}
+    ],
+    "sources": ["colorado-edu-innovate-2021-04-09-six-cu-boulder-startup-teams-advance-new-ventur"]
+  },
+  {
+    "name": "Vitro3D",
+    "founders": ["Camila Uzcategui (CEO and co-founder)"],
+    "sector": "hardware",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Appeared at the 2022 in-person NVC championship event", "evidence": "Brad Bernthal helps Vitro3D CEO and co-founder Camila Uzcategui hit a tennis ball into the crowd"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-today-2022-04-13-person-once-more-startup-competition-brings-capita"]
+  },
+  {
+    "name": "Chembotix",
+    "founders": ["Kailey Shara", "Aditya Rengaswamy"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won first place at the 2022 NVC championship", "evidence": "Chembotix's Kailey Shara and Aditya Rengaswamy pose with their first place check"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "First place check at 2022 NVC championship", "evidence": "pose with their first place check"}
+    ],
+    "sources": ["colorado-edu-today-2022-04-13-person-once-more-startup-competition-brings-capita"]
+  },
+  {
+    "name": "AtomTCAD Inc.",
+    "founders": ["Sanghamitra Neogi (Associate Professor, Ann and H.J. Smead Aerospace Engineering Sciences)"],
+    "sector": "software",
+    "programs": [
+      {"program": "Ascent Deep Tech Accelerator", "detail": "Neogi spoke about AtomTCAD Inc. at the 2025 Ascent Deep Tech Community Showcase", "evidence": "Sanghamitra Neogi speaks about her startup, AtomTCAD Inc., at CU Boulder's Ascent Deep Tech Community Showcase"}
+    ],
+    "outcomes": [
+      {"kind": "launch", "detail": "Launched startup to bring AtomThermCAD software to market for semiconductor manufacturers", "evidence": "Neogi launched a startup to bring the software to market for semiconductor manufacturers and other customers"}
+    ],
+    "sources": ["colorado-edu-today-2025-07-23-new-quantum-physics-and-ai-powered-microchip-desig"]
+  },
+  {
+    "name": "OsmoPure Technologies",
+    "founders": ["Kian Lopez (NASA graduate research fellow, Chemical and Biological Engineering)"],
+    "sector": "climate",
+    "programs": [
+      {"program": "Lab Venture Challenge", "detail": "Recognized by LVC for its distillation-driven membrane-separation water treatment process, one of four funded grad students", "evidence": "OsmoPure Technologies was recognized by the Lab Venture Challenge for its innovative distillation-driven process"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Funded as one of four grad students in Lab Venture Challenge", "evidence": "As one of only four graduate students funded"}
+    ],
+    "sources": ["colorado-edu-graduateschool-2025-02-07-grad-student-innovators-among-winners-lab"]
+  },
+  {
+    "name": "Kitsune Bio",
+    "founders": ["Makenna Morck (CEO, alum, CU Boulder Biochemistry)", "Alec Santiago, PhD", "Michael Stowell, PhD", "Thomas Fallon, PhD"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won first place, $10,000, in 2025 Women Founders New Venture Challenge; advanced to TiE U Colorado", "evidence": "Kitsune Bio took first place in the Women Founders New Venture Challenge, earning $10,000"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "$10,000 first place, 2025 WFNVC", "evidence": "received a $10,000 check as the winner of the Women Founders Competition"}
+    ],
+    "sources": ["colorado-edu-innovate-2025-04-29-congratulations-our-2025-nvc-specialty-competit"]
+  },
+  {
+    "name": "EPI+",
+    "founders": ["Sutton Lindau", "Mackenzie Bonebrake", "Brenton Yu", "Charlie Misraje"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "2025 WFNVC finalist team, next-generation epinephrine-administering device", "evidence": "EPI+ Solution: A Next-generation epinephrine-administering device"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2025-04-29-congratulations-our-2025-nvc-specialty-competit"]
+  },
+  {
+    "name": "VerEState",
+    "founders": ["Alec Hyde (Leeds School of Business)", "Nicholas Soza (Leeds School of Business)", "Camden Dempsey (Leeds School of Business)"],
+    "sector": "software",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won Open category first prize, $144,000, at 2025 NVC Finals", "evidence": "Kickstart principal Matt Smith hands the VerEState team the $144,000 Open category first prize check"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "$144,000 Open category first prize, 2025 NVC", "evidence": "hands the VerEState team the $144,000 Open category first prize check"}
+    ],
+    "sources": ["colorado-edu-nvc-2025-04-24-trailblazing-ideas-and-entrepreneurial-spirit-reap-r"]
+  },
+  {
+    "name": "Illumen Therapeutics",
+    "founders": ["Roy Parker (startup co-founder, CU Boulder lab)"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "Venture Partners", "detail": "Awarded pre-seed investment through CU Boulder License Equity Holdings for cancer treatment discoveries", "evidence": "the University of Colorado Boulder has awarded pre-seed funding to Illumen Therapeutics , developing cancer treatments"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Received CU Boulder pre-seed investment for cancer 'moonshot' spinout", "evidence": "CU Boulder pre-seed investment fuels cancer 'moonshot' spinout Illumen Therapeutics"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2026-01-06-internal-news-cu-boulder-pre-seed-invest"]
+  },
+  {
+    "name": "Foodwise",
+    "founders": ["Jennifer Bundrant (Leeds School of Business, '23 alum)", "Hashirr Lukmahn (College of Engineering and Applied Science)", "Emma Bonerb (Leeds School of Business)", "Byron Patten (Leeds School of Business)"],
+    "sector": "software",
+    "programs": [
+      {"program": "New Venture Challenge", "detail": "Won the 17th NVC Finals with $100,000 prize (2024)", "evidence": "The Foodwise startup team ... pose with friends and family and their $100,000 prize check"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "$100,000 prize at 2024 NVC Finals", "evidence": "pose with friends and family and their $100,000 prize check"}
+    ],
+    "sources": ["colorado-edu-nvc-2024-04-18-interal-news-groundbreaking-innovations-win-big-17th"]
+  },
+  {
+    "name": "Courageous Growth Co",
+    "founders": [],
+    "sector": "software",
+    "programs": [
+      {"program": "Startups2Students", "detail": "Pitched at Startups2Students, a fast growing marketing company recruiting interns", "evidence": "Courageous Growth Co is a fast growing marketing company that is recruiting for a digital marketing intern"}
+    ],
+    "outcomes": [
+      {"kind": "active", "detail": "Growing marketing company actively hiring", "evidence": "is a fast growing marketing company"}
+    ],
+    "sources": ["colorado-edu-innovate-2025-04-14-missed-startups2students-dont-worry-you-can-sti"]
+  },
+  {
+    "name": "Anduba Art",
+    "founders": [],
+    "sector": "consumer",
+    "programs": [
+      {"program": "Startups2Students", "detail": "Pitched at Startups2Students; sells wall coverings made from recycled materials", "evidence": "Anduba Art sells wall coverings designed by indigenous people from across the Americas and made out of recycled materials"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2025-04-14-missed-startups2students-dont-worry-you-can-sti"]
+  },
+  {
+    "name": "Shredhead",
+    "founders": [],
+    "sector": "software",
+    "programs": [
+      {"program": "Startups2Students", "detail": "CU Boulder student-designed app connecting skiers and snowboarders", "evidence": "Shredhead is a CU Boulder student designed app that connects skiers and snowboarders"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2025-04-14-missed-startups2students-dont-worry-you-can-sti"]
+  },
+  {
+    "name": "tkteats",
+    "founders": [],
+    "sector": "consumer",
+    "programs": [
+      {"program": "Startups2Students", "detail": "Connects people to in-home private chef services", "evidence": "https://www.tkteats.com/ connects people to in-home private chef services"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2025-04-14-missed-startups2students-dont-worry-you-can-sti"]
+  },
+  {
+    "name": "Sholder",
+    "founders": [],
+    "sector": "consumer",
+    "programs": [
+      {"program": "Startups2Students", "detail": "Connects users to trained practitioners for mental health support and resources", "evidence": "Sholder connects users to trained practitioners for mental health support and resources"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2025-04-14-missed-startups2students-dont-worry-you-can-sti"]
+  },
+  {
+    "name": "Amplified Space",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {"program": "Startups2Students", "detail": "Satellite power system startup bringing on new team members", "evidence": "Amplified Space is a satellite power system startup bringing on new team members"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2025-04-14-missed-startups2students-dont-worry-you-can-sti"]
+  },
+  {
+    "name": "Material",
+    "founders": [],
+    "sector": "climate",
+    "programs": [
+      {"program": "Startups2Students", "detail": "Decarbonizing and detoxifying the chemicals supply chain", "evidence": "Material is decarbonizing and detoxifying the chemicals supply chain with innovative technology"}
+    ],
+    "outcomes": [],
+    "sources": ["colorado-edu-innovate-2025-04-14-missed-startups2students-dont-worry-you-can-sti"]
+  }
+]

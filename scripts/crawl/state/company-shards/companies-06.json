@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Space Dust Research & Technologies LLC",
+    "founders": ["Xu Wang (LASP)", "Mihaly Horanyi (CU Boulder Physics, LASP)"],
+    "sector": "aerospace",
+    "programs": [
+      {"program": "Research-to-Market (R2M) Customer Discovery Program", "detail": "R2M Customer Discovery Program (2025)", "evidence": "Research-to-Market (R2M) Customer Discovery Program (2025)"},
+      {"program": "Starting Blocks Customer Discovery Workshop", "detail": "Starting Blocks Customer Discovery Workshop (2023)", "evidence": "Starting Blocks Customer Discovery Workshop (2023)"},
+      {"program": "Intellectual Property Management", "detail": "Intellectual Property Management (2021)", "evidence": "Intellectual Property Management (2021)"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Awarded NASA TechLeap Prize (2025) to build flight-ready EBDM lunar dust mitigation tech", "evidence": "the company was awarded the prestigious NASA TechLeap Prize to build a flight-ready model"},
+      {"kind": "award", "detail": "Front Range team wins NASA Entrepreneurs Challenge (2024)", "evidence": "Front Range team wins NASA Entrepreneurs Challenge with innovative idea for lunar 'service station'"}
+    ],
+    "sources": ["colorado-edu-venturepartners-space-dust-research-technologies-llc"]
+  },
+  {
+    "name": "Illumen Therapeutics Inc.",
+    "founders": ["Roy Parker (CU Boulder Biochemistry, BioFrontiers Institute) - discovered the PARN target", "Bob Blomquist (CEO)"],
+    "sector": "biotech",
+    "programs": [
+      {"program": "Pre-Seed Investment", "detail": "Pre-Seed Investment (2026)", "evidence": "Pre-Seed Investment (2026)"},
+      {"program": "Destination Startup", "detail": "Destination Startup (2025)", "evidence": "Destination Startup (2025)"},
+      {"program": "Starting Blocks Customer Discovery Workshop", "detail": "Starting Blocks Customer Discovery Workshop (2024)", "evidence": "Starting Blocks Customer Discovery Workshop (2024)"},
+      {"program": "Lab Venture Challenge", "detail": "Lab Venture Challenge (2019)", "evidence": "Lab Venture Challenge (2019)"},
+      {"program": "Intellectual Property Management", "detail": "Intellectual Property Management (2023)", "evidence": "Intellectual Property Management (2023)"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "CU Boulder pre-seed investment fuels cancer 'moonshot' spinout (2026)", "evidence": "CU Boulder pre-seed investment fuels cancer 'moonshot' spinout Illumen Therapeutics"},
+      {"kind": "award", "detail": "Selected to present at 2026 Rocky Mountain Life Sciences Investor & Partnering Conference", "evidence": "eight CU Boulder companies will present at 2026 Rocky Mountain Life Sciences Investor & Partnering Conference"}
+    ],
+    "sources": ["colorado-edu-venturepartners-startup-portfolio-illumen-therapeutics-inc"]
+  },
+  {
+    "name": "VitaWave Tech Inc.",
+    "founders": ["Jason McGowin", "T. Hingba", "Nam Bui (CU Denver Electrical Engineering; alum CU Boulder Computer Science) - underlying research", "Tam Vu (fmr. CU Boulder Computer Science) - underlying research", "Robin Deterding (CU Anschutz Medical Campus) - underlying research"],
+    "sector": "medtech",
+    "programs": [
+      {"program": "Destination Startup", "detail": "Destination Startup (2024)", "evidence": "Destination Startup (2024)"},
+      {"program": "Research-to-Market (R2M) Customer Discovery Program", "detail": "R2M Customer Discovery Program (2023)", "evidence": "Research-to-Market (R2M) Customer Discovery Program (2023)"},
+      {"program": "Embark Deep Tech Startup Creator", "detail": "Founded 2023 from the inaugural Embark cohort", "evidence": "VitaWave Tech was founded in 2023 from the inaugural Embark Deep Tech Startup Creator program"},
+      {"program": "Intellectual Property Management", "detail": "Intellectual Property Management (2019)", "evidence": "Intellectual Property Management (2019)"}
+    ],
+    "outcomes": [
+      {"kind": "launch", "detail": "First cohort of Embark Deep Tech Startup Creator launches groundbreaking innovations (2024)", "evidence": "First cohort of CU Boulder's Embark Deep Tech Startup Creator launches groundbreaking innovations"},
+      {"kind": "award", "detail": "Selected to present at 2026 Rocky Mountain Life Sciences Investor & Partnering Conference", "evidence": "eight CU Boulder companies will present at 2026 Rocky Mountain Life Sciences Investor & Partnering Conference"}
+    ],
+    "sources": ["colorado-edu-venturepartners-startup-portfolio-vitawave-tech-inc"]
+  },
+  {
+    "name": "TissueForm",
+    "founders": ["Jeanne Barthold (Alum, Biomedical Engineering, Paul M. Rady Mechanical Engineering)"],
+    "sector": "medtech",
+    "programs": [
+      {"program": "Equalize Startups", "detail": "Co-founder Jeanne Barthold admitted to Equalize 2026 Cohort", "evidence": "Innovators with ties to the University of Colorado Boulder will participate in the 2026 cohort"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Co-founder admitted to the Equalize 2026 Cohort", "evidence": "CU Boulder innovators admitted to the Equalize 2026 Cohort"}
+    ],
+    "sources": ["colorado-edu-venturepartners-2026-03-26-external-news-two-cu-boulder-innovators-"]
+  },
+  {
+    "name": "Stateless",
+    "founders": [],
+    "sector": "software",
+    "programs": [
+      {"program": "New Venture Challenge (NVC)", "detail": "NVC alum", "evidence": "CU Boulder spinoff and NVC alum, secures $11.33M in Series A funding"}
+    ],
+    "outcomes": [
+      {"kind": "funding", "detail": "Secured $11.33M in Series A funding (2019) to reinvent data center connectivity", "evidence": "secures $11.33M in Series A funding to reinvent data center connectivity"}
+    ],
+    "sources": ["colorado-edu-nvc-2019-02-19-stateless-cu-boulder-spinoff-and-nvc-alum-secures-11"]
+  },
+  {
+    "name": "Cnidarion",
+    "founders": ["Bhargav Shadilya", "Tyler Hollenbach", "Henry Coote"],
+    "sector": "software",
+    "programs": [
+      {"program": "New Venture Leadership (NVL)", "detail": "Team in the Deming Center's NVL program", "evidence": "Cnidarion, founded by Bhargav Shadilya along with his team members Tyler Hollenbach, and Henry Coote"}
+    ],
+    "outcomes": [
+      {"kind": "launch", "detail": "Developing AI agents to automate software development processes for companies", "evidence": "innovative startup focused on developing advanced artificial intelligence agents"}
+    ],
+    "sources": ["colorado-edu-business-deming-news-2024-02-14-empowering-innovators-path-entrepre"]
+  },
+  {
+    "name": "NoteWriter",
+    "founders": ["Boston Gu"],
+    "sector": "healthtech",
+    "programs": [
+      {"program": "New Venture Leadership (NVL)", "detail": "Team in the Deming Center's NVL program", "evidence": "NoteWriter uses Artificial Intelligence to write clinical notes for healthcare providers automatically"}
+    ],
+    "outcomes": [
+      {"kind": "launch", "detail": "AI tool that writes clinical notes for healthcare providers automatically", "evidence": "NoteWriter uses Artificial Intelligence to write clinical notes for healthcare providers automatically"}
+    ],
+    "sources": ["colorado-edu-business-deming-news-2024-02-14-empowering-innovators-path-entrepre"]
+  },
+  {
+    "name": "Reach Climbing",
+    "founders": ["Ethan Lickey"],
+    "sector": "consumer",
+    "programs": [
+      {"program": "Certificate in Entrepreneurial Studies", "detail": "Met future co-founders and launched Reach Climbing during the certificate program", "evidence": "Ethan met his future co-founders and launched Reach Climbing"}
+    ],
+    "outcomes": [
+      {"kind": "launch", "detail": "Launched Reach Climbing", "evidence": "met his future co-founders and launched Reach Climbing"}
+    ],
+    "sources": ["colorado-edu-business-deming-news-2023-02-16-katie-morton-and-entrepreneurship-c"]
+  },
+  {
+    "name": "Mesa Quantum",
+    "founders": ["Sristy Agrawal"],
+    "sector": "hardware",
+    "programs": [
+      {"program": "New Venture Challenge (NVC)", "detail": "Entered entrepreneurship through NVC as a physics PhD", "evidence": "CU Boulder's New Venture Challenge (NVC) provided the perfect gateway"}
+    ],
+    "outcomes": [
+      {"kind": "launch", "detail": "Founded quantum-research startup Mesa Quantum after entering NVC", "evidence": "Her foray into entrepreneurial space...led her into"}
+    ],
+    "sources": ["colorado-edu-business-deming-news-2024-11-07-story-mesa-quantum-and-entrepreneur"]
+  },
+  {
+    "name": "AquaPuck",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {"program": "High School New Venture Challenge", "detail": "2026 Winning Venture", "evidence": "2026 Winning Venture: AquaPuck"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Won the 2026 High School New Venture Challenge", "evidence": "2026 Winning Venture: AquaPuck"}
+    ],
+    "sources": ["colorado-edu-nvc-2026-new-venture-challenge-finals-event-program"]
+  },
+  {
+    "name": "Aspect",
+    "founders": [],
+    "sector": "unknown",
+    "programs": [
+      {"program": "New Venture Challenge (NVC)", "detail": "2026 NVC Open Category finalist", "evidence": "Finalist Ventures: Aspect, Pantile and Watch Post"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "2026 NVC Open Category finalist", "evidence": "Open Category Finalist Pitches Finalist Ventures: Aspect, Pantile and Watch Post"}
+    ],
+    "sources": ["colorado-edu-nvc-2026-new-venture-challenge-finals-event-program"]
+  },
+  {
+    "name": "Pantile",
+    "founders": [],
+    "sector": "unknown",
+    "programs": [
+      {"program": "New Venture Challenge (NVC)", "detail": "2026 NVC Open Category finalist", "evidence": "Finalist Ventures: Aspect, Pantile and Watch Post"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "2026 NVC Open Category finalist", "evidence": "Open Category Finalist Pitches Finalist Ventures: Aspect, Pantile and Watch Post"}
+    ],
+    "sources": ["colorado-edu-nvc-2026-new-venture-challenge-finals-event-program"]
+  },
+  {
+    "name": "Watch Post",
+    "founders": [],
+    "sector": "unknown",
+    "programs": [
+      {"program": "New Venture Challenge (NVC)", "detail": "2026 NVC Open Category finalist", "evidence": "Finalist Ventures: Aspect, Pantile and Watch Post"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "2026 NVC Open Category finalist", "evidence": "Open Category Finalist Pitches Finalist Ventures: Aspect, Pantile and Watch Post"}
+    ],
+    "sources": ["colorado-edu-nvc-2026-new-venture-challenge-finals-event-program"]
+  },
+  {
+    "name": "Ptarmigan Clockworks",
+    "founders": [],
+    "sector": "hardware",
+    "programs": [
+      {"program": "New Venture Challenge (NVC)", "detail": "2026 NVC Deep Tech Category finalist", "evidence": "Finalist Ventures: Ptarmigan Clockworks, Arkana Theraputics, Kioga"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "2026 NVC Deep Tech Category finalist", "evidence": "Deep Tech Category Finalist Pitches Finalist Ventures: Ptarmigan Clockworks, Arkana Theraputics, Kioga"}
+    ],
+    "sources": ["colorado-edu-nvc-2026-new-venture-challenge-finals-event-program"]
+  },
+  {
+    "name": "Arkana Theraputics",
+    "founders": [],
+    "sector": "biotech",
+    "programs": [
+      {"program": "New Venture Challenge (NVC)", "detail": "2026 NVC Deep Tech Category finalist", "evidence": "Finalist Ventures: Ptarmigan Clockworks, Arkana Theraputics, Kioga"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "2026 NVC Deep Tech Category finalist", "evidence": "Deep Tech Category Finalist Pitches Finalist Ventures: Ptarmigan Clockworks, Arkana Theraputics, Kioga"}
+    ],
+    "sources": ["colorado-edu-nvc-2026-new-venture-challenge-finals-event-program"]
+  },
+  {
+    "name": "Kioga",
+    "founders": [],
+    "sector": "unknown",
+    "programs": [
+      {"program": "New Venture Challenge (NVC)", "detail": "2026 NVC Deep Tech Category finalist", "evidence": "Finalist Ventures: Ptarmigan Clockworks, Arkana Theraputics, Kioga"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "2026 NVC Deep Tech Category finalist", "evidence": "Deep Tech Category Finalist Pitches Finalist Ventures: Ptarmigan Clockworks, Arkana Theraputics, Kioga"}
+    ],
+    "sources": ["colorado-edu-nvc-2026-new-venture-challenge-finals-event-program"]
+  },
+  {
+    "name": "Food Wise",
+    "founders": [],
+    "sector": "food",
+    "programs": [
+      {"program": "New Venture Challenge (NVC)", "detail": "Won 2024 University of Colorado NVC pitch competition", "evidence": "food-wise-wins-university-of-colorado-nvc"}
+    ],
+    "outcomes": [
+      {"kind": "award", "detail": "Colorado students win pitch competition (2024)", "evidence": "Colorado students win pitch competition. Here's what's next for their startup"}
+    ],
+    "sources": ["colorado-edu-innovate-2024-05-17-external-news-colorado-students-win-pitch-compe"]
+  }
+]
