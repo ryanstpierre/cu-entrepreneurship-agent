@@ -12,6 +12,12 @@
   "depth": 1
  },
  {
+  "url": "https://www.colorado.edu/innovate/2026/01/08/cu-boulder-pre-seed-investment-fuels-cancer-moonshot-spinout-illumen-therapeutics",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 8,
+  "depth": 1
+ },
+ {
   "url": "https://www.colorado.edu/innovate/2019/08/27/catalyze-cu-demo-day-2019-showcases-startups",
   "reason": "high-relevance-low-extraction",
   "relevance": 7,
@@ -24,7 +30,67 @@
   "depth": 1
  },
  {
+  "url": "https://www.colorado.edu/innovate/2023/03/10/new-program-embark-pair-entrepreneurs-cu-boulder-technologies",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 7,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2023/05/26/external-news/second-year-deep-tech-accelerator-advances-cu-startups",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 7,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/05/27/lab-venture-challenge-info-session-set-june-10",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 7,
+  "depth": 1
+ },
+ {
   "url": "https://www.colorado.edu/innovate/2024/03/19/external-news/pitch-competition-celebrates-and-funds-new-cu-boulder-ventures-founded-scientific",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 6,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2019/08/13/road-entrepreneurship-classes-two-wheels",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 6,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2020/08/19/venture-partners-flagship-research-market-program-helps-innovators-create-go-market",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 6,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2021/08/09/venture-partners-featured-daily-camera-when-big-idea-needs-time-grant-programs-step",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 6,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2023/03/14/external-news/nvc-prize-nights-spotlight-and-fund-female-founders-and-climate-solutions",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 6,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2024/10/30/jila-based-innovation-team-flari-tech-wins-cu-boulders-2024-lab-venture-challenge",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 6,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/07/24/new-quantum-physics-and-ai-powered-microchip-design-software-awarded-grants",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 6,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/06/10/research-driven-cu-startups-pitch-folsom-field-june-24",
   "reason": "high-relevance-low-extraction",
   "relevance": 6,
   "depth": 1
@@ -84,6 +150,84 @@
   "depth": 2
  },
  {
+  "url": "https://www.colorado.edu/innovate/2026/03/03/bme-startup-brings-cancer-care-technology-lvc",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/03/12/garrett-boudinot-and-many-paths-entrepreneurship",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/05/04/big-ideas-and-bold-minds-take-stage-hsnvc-finals",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2019/12/12/glutton-knowledge-learnings-startup-founders-over-sandwiches",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2020/09/30/artimus-robotics-closes-series-seed-investment-round-heroic-ventures-and-hunt-technology",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2020/09/30/spinout-aspero-medical-further-develop-product-lines-new-hires-and-funding-nsf-and-nih",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2020/10/23/investor-karen-crofton-joins-college-entrepreneurship-team",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2020/12/15/new-venture-challenge-makes-top-20-list-university-sponsored-collegiate-entrepreneurship",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2022/04/18/person-once-more-startup-competition-brings-capital-creativity",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2023/03/21/external-news/new-buff-venture-fund-makes-landmark-investments-cu-boulder-startups",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2024/01/21/external-news/quantum-seed-grants-awarded-advance-industry-and-university-innovation-projects-colorado",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/05/04/innovative-ideas-and-founder-spirit-ride-high-2026-nvc-finals",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/entrepreneurial-mentors/david-reeder",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 1
+ },
+ {
   "url": "https://www.colorado.edu/innovate/2019/10/09/leeds-deming-center-wins-global-award-entrepreneurship-education",
   "reason": "high-relevance-low-extraction",
   "relevance": 4,
@@ -136,6 +280,210 @@
   "reason": "high-relevance-low-extraction",
   "relevance": 4,
   "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/05/13/fund-your-research-or-creative-work-through-commercialization",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/09/25/unlock-new-funding-opportunities-translational-funding-week-oct-27-30",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/01/26/cu-boulder-joins-medtronic-strategic-partnership-drive-breakthrough-health-innovations",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/03/12/behind-scenes-boulder-venture-club",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2017/11/20/new-venture-challenge-mentor-matching-night",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2019/06/24/cu-boulder-teach-entrepreneurship-workshops-each-region-state",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2020/08/18/demystifying-entrepreneurship-rural-colorado-workshop-series-2020",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2021/01/14/new-venture-challenge-11-champion-stridetech-makes-colorado-innos-21-startups-watch-list",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2021/01/06/authenticity-key-factor-founders-sustainable-startups",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2021/04/30/how-digital-platforms-can-orchestrate-innovation-and-entrepreneurship-through-access",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2022/03/23/multidisciplinary-teams-compete-venture-funding-cross-campus-collaboration-prize-night",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2022/12/21/external-news/cofounders-cu-boulder-startup-named-forbes-30-under-30",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2023/05/16/external-news/new-seed-grants-bring-quantum-out-lab-marketplace",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2023/10/06/external-news/entrepreneurship-and-empowerment-south-africa",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2023/11/16/now-hiring-innovation-entrepreneurship-program-manager",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2024/01/26/first-cohort-cu-boulders-embark-deep-tech-startup-creator-launches-groundbreaking",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2024/02/15/external-news/path-entrepreneurial-success-cu-boulder-through-new-venture-launch",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2024/03/22/external-news/2024-destination-startup-connects-investors-entrepreneurs-and-groundbreaking-innovations",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2024/09/23/venture-partners-update-startups-surge",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2024/09/30/2024-cohort-cu-boulders-embark-deep-tech-startup-creator-launches-new-startups",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/01/29/rising-startup-stars-sristy-agrawal-co-founder-and-ceo-mesa-quantum",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/02/20/how-erin-bateman-breaking-mold-and-redefining-entrepreneurship-and-career-growth-through",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/04/25/trailblazing-ideas-and-entrepreneurial-spirit-reap-rewards-2025-nvc-finals",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/05/19/university-colorado-ranks-among-top-20-us-universities-granted-patents",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/06/24/bruns-explores-nanotech-turns-plastic-fertilizer-rio-seed-grant",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/08/19/wanted-entrepreneurs-launch-startups-based-university-colorado-boulder-innovations",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/04/13/how-zoe-unsell-flexing-her-entrepreneurship-muscle",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/04/29/colorado-advances-quantum-innovation-third-round-translational-seed-grant-awards",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/07/01/venture-partners-advances-188-innovations-launches-23-cu-startups",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/seed-grants",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/entrepreneurial-mentors/ketan-bhalla",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/entrepreneurial-mentors/loren-bendele",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/entrepreneurial-mentors/susan-crouse",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/entrepreneurial-mentors/rich-kopcho",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
  },
  {
   "url": "https://www.colorado.edu/business/deming/news-stories/demystifying-entrepreneurship-rural-colorado-workshop-series-news",
@@ -232,6 +580,120 @@
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
   "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/04/22/how-ben-scarbeary-channeling-creativity-entrepreneurial-impact-cu-boulder",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/11/03/cu-boulder-delivers-impactful-research-and-creative-work-despite-federal-funding",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/02/23/cu-boulders-nathan-mertens-awarded-nea-gap-grant",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/04/29/driving-discovery-partnership-and-growth-across-cu-boulder",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/04/29/brian-seckels-full-spectrum-view-entrepreneurship",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/06/23/cu-boulder-joins-cu-spinout-infleqtion-other-innovators-americas-quantum-space",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2020/07/09/silicon-flatirons-startup-colorado-launch-policy-academy-rural-entrepreneurs",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2020/07/12/entrepreneurial-approaches-result-new-business-ventures-recent-graduates",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2020/11/25/singing-their-praises-entrepreneurship-center-music-and-director-jeffrey-nytch-win",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2021/02/20/jeffrey-nytch-named-yamaha-master-educator-new-music-business-and-entrepreneurship-group",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2022/12/15/external-news/entrepreneurship-experts-visited-israel-help-scientists-and-researchers",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2023/03/06/external-news/student-spotlight-using-entrepreneurship-spread-positivity",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2023/06/26/external-news/composition-professor-applies-entrepreneurship-arts",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2024/01/10/external-news/getting-know-marilyn-brock-interim-director-entrepreneurship-center-music",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://jila.colorado.edu/news-events/news/jila-based-innovation-team-flari-tech-wins-cu-boulders-2024-lab-venture-challenge",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/05/13/entrepreneurship-center-music-announces-leadership-transition",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2025/05/14/congratulations-our-2025-innovation-entrepreneurship-initiative-award-winners",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2026/04/29/entrepreneurship-australia-through-kaitlyn-mckees-lens",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/entrepreneurship-0",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
  },
  {
   "url": "https://www.colorado.edu/innovate/media/2175",

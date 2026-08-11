@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-08-11T16:52:28.592Z",
+ "updatedAt": "2026-08-11T16:53:02.067Z",
  "startedAt": "2026-08-11T16:50:27.591Z",
- "batches": 2,
- "pagesFetched": 298,
- "resourcesCatalogued": 227,
- "relationshipEdges": 53,
- "frontierSize": 2434,
- "analysisQueueSize": 40,
- "externalDomainsFound": 126,
+ "batches": 3,
+ "pagesFetched": 553,
+ "resourcesCatalogued": 439,
+ "relationshipEdges": 76,
+ "frontierSize": 2480,
+ "analysisQueueSize": 117,
+ "externalDomainsFound": 161,
  "errors": 0,
- "maxDepthReached": 3,
+ "maxDepthReached": 4,
  "depthHistogram": {
   "0": {
    "fetched": 12,
@@ -17,32 +17,32 @@
    "pending": 0
   },
   "1": {
-   "fetched": 134,
+   "fetched": 287,
    "discovered": 1672,
-   "pending": 1538
+   "pending": 1385
   },
   "2": {
-   "fetched": 124,
-   "discovered": 603,
-   "pending": 479
+   "fetched": 216,
+   "discovered": 808,
+   "pending": 592
   },
   "3": {
-   "fetched": 28,
-   "discovered": 436,
-   "pending": 408
+   "fetched": 34,
+   "discovered": 510,
+   "pending": 476
   },
   "4": {
-   "fetched": 0,
-   "discovered": 9,
-   "pending": 9
+   "fetched": 4,
+   "discovered": 31,
+   "pending": 27
   }
  },
  "saturation": {
   "0": 1,
-  "1": 0.08,
-  "2": 0.206,
-  "3": 0.064,
-  "4": 0
+  "1": 0.172,
+  "2": 0.267,
+  "3": 0.067,
+  "4": 0.129
  },
  "perOrgDepth": {
   "colorado.edu/venturepartners": 3,
@@ -50,44 +50,58 @@
   "colorado.edu/innovate": 3,
   "colorado.edu/nvc": 2,
   "colorado.edu/service": 2,
+  "colorado.edu/research": 2,
   "colorado.edu/techtransfer": 3,
   "colorado.edu/engineering": 2,
   "colorado.edu/event": 2,
   "colorado.edu/mechanical": 2,
-  "colorado.edu/business": 2,
+  "colorado.edu/business": 3,
+  "colorado.edu/law": 2,
   "colorado.edu/today": 2,
-  "colorado.edu/law": 0,
-  "siliconflatirons.org": 1,
+  "colorado.edu/initiative": 2,
+  "colorado.edu/graduateschool": 2,
+  "siliconflatirons.org": 4,
+  "colorado.edu/atlas": 2,
+  "colorado.edu/center/music-entrepreneurship": 2,
+  "colorado.edu/catalyzecu": 2,
   "colorado.edu/emp": 2,
-  "colorado.edu/music": 2
+  "colorado.edu/music": 2,
+  "colorado.edu/news-events": 2
  },
  "byType": {
-  "event": 16,
-  "funding": 58,
-  "program": 13,
-  "competition": 66,
-  "reference": 16,
-  "community": 14,
+  "event": 26,
+  "funding": 115,
+  "program": 14,
+  "competition": 125,
+  "reference": 27,
+  "community": 21,
   "service": 2,
-  "center": 34,
-  "course": 7,
-  "space": 1
+  "center": 94,
+  "course": 13,
+  "space": 2
  },
  "byOrg": {
-  "colorado.edu/venturepartners": 58,
-  "colorado.edu/researchinnovation": 24,
-  "colorado.edu/innovate": 83,
-  "colorado.edu/nvc": 20,
+  "colorado.edu/venturepartners": 63,
+  "colorado.edu/researchinnovation": 28,
+  "colorado.edu/innovate": 250,
+  "colorado.edu/nvc": 21,
   "colorado.edu/service": 1,
-  "colorado.edu/techtransfer": 1,
-  "colorado.edu/engineering": 4,
+  "colorado.edu/research": 1,
+  "colorado.edu/techtransfer": 2,
+  "colorado.edu/engineering": 6,
   "colorado.edu/event": 5,
   "colorado.edu/mechanical": 2,
-  "colorado.edu/business": 20,
-  "colorado.edu/today": 2,
-  "colorado.edu/law": 1,
-  "siliconflatirons.org": 1,
+  "colorado.edu/business": 34,
+  "colorado.edu/law": 2,
+  "colorado.edu/today": 5,
+  "colorado.edu/initiative": 2,
+  "colorado.edu/graduateschool": 1,
+  "siliconflatirons.org": 3,
+  "colorado.edu/atlas": 2,
+  "colorado.edu/center/music-entrepreneurship": 1,
+  "colorado.edu/catalyzecu": 1,
   "colorado.edu/emp": 4,
-  "colorado.edu/music": 1
+  "colorado.edu/music": 4,
+  "colorado.edu/news-events": 1
  }
 }

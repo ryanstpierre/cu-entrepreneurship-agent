@@ -1,33 +1,25 @@
 [
  {
   "host": "giving.cu.edu",
-  "count": 115,
+  "count": 315,
   "examples": [
    "https://giving.cu.edu/fund/innovation-entrepreneurship-and-impact-iei-initiative-support-fund",
-   "https://giving.cu.edu/fund/ucb-leeds-school-business-deming-center-venture-capital-fund-operations"
+   "https://giving.cu.edu/fund/ucb-leeds-school-business-deming-center-venture-capital-fund-operations",
+   "https://giving.cu.edu/fund/silicon-flatirons-entrepreneurship-initiative-fund"
   ]
  },
  {
-  "host": "nvc.startuptree.co",
-  "count": 42,
+  "host": "startupcolorado.org",
+  "count": 104,
   "examples": [
-   "https://nvc.startuptree.co/event/s/ktNwtfL3vPH3SH8k3ofS55/New-Venture-Challenge-Venture-Mentor-Matching-Mixer-",
-   "https://nvc.startuptree.co/event/s/Cpwnce8Y463c4o2p3E5Rgn/New-Venture-Challenge-Women-Founders-Competition-Finals",
-   "https://nvc.startuptree.co/event/s/UphVHqhxpehdTXqcZz9xrj/NVC-Intellectual-Property-Workshop-"
-  ]
- },
- {
-  "host": "nam10.safelinks.protection.outlook.com",
-  "count": 41,
-  "examples": [
-   "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fnotice-files%2FNOT-OD-25-068.html__%3B!!NCZxaNi9jForCP_SxBKJCA!XglWsxfK7uXncP1xA-MQo3IH3EgxP6hDbrc7Hda8uX2dUzGW-njcABt3qcaNKPpWyTLvZWCBLO0vmKhY2Q%24&amp;data=05%7C02%7Cnicole.jenkins%40colorado.edu%7C98fdb57dfb924f5451b508dd4b6e658d%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638749659698121313%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=mvVBtFs4Diw7bULO9%2F7EziN0WDX%2FWa2H%2Fj92beA3%2B%2Fg%3D&amp;reserved=0",
-   "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsubstack.com%2Fredirect%2Fbbca312a-68e0-408c-98d4-77c1b4d38772%3Fj%3DeyJ1IjoiNGN0NzdzIn0.sM7BM-ZenzfOlY9pzwG6aTXcRLCCjP6Ei7UacZBMHmE&amp;data=05%7C02%7Cinnovate%40colorado.edu%7C0a3ea4129ec64c3c8be708dd453e5612%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638742856236884079%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=1CQ3f1ZDfFbhGQJl%2FvxdwzxZipghA8aoo4G8bPfT2OY%3D&amp;reserved=0",
-   "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsubstack.com%2Fredirect%2F001442f7-931f-462f-918e-fff8a917bb8e%3Fj%3DeyJ1IjoiNGN0NzdzIn0.sM7BM-ZenzfOlY9pzwG6aTXcRLCCjP6Ei7UacZBMHmE&amp;data=05%7C02%7Cinnovate%40colorado.edu%7C0a3ea4129ec64c3c8be708dd453e5612%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638742856236919703%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=QWU579FlmBJf8MB4i8DAWpSlne5ylSwVt8PNCdHKwAU%3D&amp;reserved=0"
+   "https://startupcolorado.org/funding-opportunities",
+   "https://startupcolorado.org/event/idea-feasibility-methods-to-test-your-business-idea",
+   "https://startupcolorado.org/event/rural-women-in-entrepreneurship-3"
   ]
  },
  {
   "host": "www.eventbrite.com",
-  "count": 40,
+  "count": 79,
   "examples": [
    "https://www.eventbrite.com/e/get-seed-funding-live-crowd-voting-event-tickets-37814399888",
    "https://www.eventbrite.com/e/catalyze-cu-2019-demo-day-tickets-62268005280",
@@ -35,8 +27,26 @@
   ]
  },
  {
+  "host": "nam10.safelinks.protection.outlook.com",
+  "count": 73,
+  "examples": [
+   "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fnotice-files%2FNOT-OD-25-068.html__%3B!!NCZxaNi9jForCP_SxBKJCA!XglWsxfK7uXncP1xA-MQo3IH3EgxP6hDbrc7Hda8uX2dUzGW-njcABt3qcaNKPpWyTLvZWCBLO0vmKhY2Q%24&amp;data=05%7C02%7Cnicole.jenkins%40colorado.edu%7C98fdb57dfb924f5451b508dd4b6e658d%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638749659698121313%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=mvVBtFs4Diw7bULO9%2F7EziN0WDX%2FWa2H%2Fj92beA3%2B%2Fg%3D&amp;reserved=0",
+   "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsubstack.com%2Fredirect%2Fbbca312a-68e0-408c-98d4-77c1b4d38772%3Fj%3DeyJ1IjoiNGN0NzdzIn0.sM7BM-ZenzfOlY9pzwG6aTXcRLCCjP6Ei7UacZBMHmE&amp;data=05%7C02%7Cinnovate%40colorado.edu%7C0a3ea4129ec64c3c8be708dd453e5612%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638742856236884079%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=1CQ3f1ZDfFbhGQJl%2FvxdwzxZipghA8aoo4G8bPfT2OY%3D&amp;reserved=0",
+   "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsubstack.com%2Fredirect%2F001442f7-931f-462f-918e-fff8a917bb8e%3Fj%3DeyJ1IjoiNGN0NzdzIn0.sM7BM-ZenzfOlY9pzwG6aTXcRLCCjP6Ei7UacZBMHmE&amp;data=05%7C02%7Cinnovate%40colorado.edu%7C0a3ea4129ec64c3c8be708dd453e5612%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638742856236919703%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=QWU579FlmBJf8MB4i8DAWpSlne5ylSwVt8PNCdHKwAU%3D&amp;reserved=0"
+  ]
+ },
+ {
+  "host": "nvc.startuptree.co",
+  "count": 66,
+  "examples": [
+   "https://nvc.startuptree.co/event/s/ktNwtfL3vPH3SH8k3ofS55/New-Venture-Challenge-Venture-Mentor-Matching-Mixer-",
+   "https://nvc.startuptree.co/event/s/Cpwnce8Y463c4o2p3E5Rgn/New-Venture-Challenge-Women-Founders-Competition-Finals",
+   "https://nvc.startuptree.co/event/s/UphVHqhxpehdTXqcZz9xrj/NVC-Intellectual-Property-Workshop-"
+  ]
+ },
+ {
   "host": "oedit.colorado.gov",
-  "count": 31,
+  "count": 51,
   "examples": [
    "https://oedit.colorado.gov/advanced-industries-early-stage-capital-retention-grant",
    "https://oedit.colorado.gov/advanced-industries-accelerator-programs",
@@ -44,10 +54,66 @@
   ]
  },
  {
-  "host": "startupcolorado.org",
+  "host": "luma.com",
+  "count": 39,
+  "examples": [
+   "https://luma.com/coloradostartups?amp%3Butm_medium=email",
+   "https://luma.com/m4m33zie",
+   "https://luma.com/3uj101jx"
+  ]
+ },
+ {
+  "host": "www.meetup.com",
+  "count": 38,
+  "examples": [
+   "https://www.meetup.com/denver-entrepreneurship-through-acquisition-eta-meetup",
+   "https://www.meetup.com/startup-longmont/events/306144877/?eventOrigin=group_upcoming_events",
+   "https://www.meetup.com/startup-longmont"
+  ]
+ },
+ {
+  "host": "boulderstartupweek.com",
+  "count": 38,
+  "examples": [
+   "https://boulderstartupweek.com/",
+   "https://boulderstartupweek.com/volunteer/host-a-session/?amp%3Bmc_eid=92efe97997",
+   "https://boulderstartupweek.com/pitch-competition"
+  ]
+ },
+ {
+  "host": "watson.is",
+  "count": 30,
+  "examples": [
+   "https://watson.is/environmental-sustainability-entrepreneurship-program-form",
+   "https://watson.is/environmental-sustainability-entrepreneurship-program",
+   "https://watson.is/flagship-fellowship/?amp%3Butm_medium=email&amp%3Butm_campaign=flagship-2026-general&amp%3Butm_term=email-9-may-4"
+  ]
+ },
+ {
+  "host": "coloradostartups.org",
+  "count": 24,
+  "examples": [
+   "https://coloradostartups.org/ski-days?amp%3Butm_medium=email",
+   "https://coloradostartups.org/startup-happy-hour?amp%3Butm_medium=email",
+   "https://coloradostartups.org/"
+  ]
+ },
+ {
+  "host": "www.cuanschutz.edu",
+  "count": 20,
+  "examples": [
+   "https://www.cuanschutz.edu/cu-innovations",
+   "http://www.cuanschutz.edu/cu-innovations",
+   "https://www.cuanschutz.edu/cu-innovations/campus-innovator/faculty-or-researcher/form-a-company/startup-portfolio"
+  ]
+ },
+ {
+  "host": "docs.google.com",
   "count": 19,
   "examples": [
-   "https://startupcolorado.org/funding-opportunities"
+   "https://docs.google.com/document/d/1h2A7_1VG1slDxUE-NC8mRDB-C0fNZE8WQqGli8u2zA0/edit?tab=t.0",
+   "https://docs.google.com/forms/d/e/1FAIpQLSdwfNO1mFf5KuxU5M-bHGNSkilX2Xh5DUeKmwKjA10gVF3aLw/viewform?usp=header",
+   "https://docs.google.com/forms/d/e/1FAIpQLSdCbL4lfuJM5MpjPkWAbokDp5r2402GEteU0gRQdAqY3YjKPQ/viewform"
   ]
  },
  {
@@ -60,12 +126,12 @@
   ]
  },
  {
-  "host": "coloradostartups.org",
+  "host": "www.cleantechopen.org",
   "count": 17,
   "examples": [
-   "https://coloradostartups.org/ski-days?amp%3Butm_medium=email",
-   "https://coloradostartups.org/startup-happy-hour?amp%3Butm_medium=email",
-   "https://coloradostartups.org/"
+   "https://www.cleantechopen.org/en/page/2025-cto-accelerator-en?amp%3Butm_campaign=28cceb9e99-EMAIL_CAMPAIGN_2025_02_06_03_32&amp%3Butm_medium=email&amp%3Butm_term=0_-28cceb9e99-211195381&amp%3Bmc_cid=28cceb9e99&amp%3Bmc_eid=76f9e7c045",
+   "https://www.cleantechopen.org/en/page/2025-cto-accelerator-en?amp%3Butm_campaign=a3b461d66e-EMAIL_CAMPAIGN_2024_02_27_03_23_COPY_01&amp%3Butm_medium=email&amp%3Butm_term=0_-09f2dca575-211195381&amp%3Bmc_cid=a3b461d66e&amp%3Bmc_eid=76f9e7c045",
+   "https://www.cleantechopen.org/en/page/2026-cto-accelerator-en?amp%3Butm_campaign=56834b1d2d-EMAIL_CAMPAIGN_2025_02_06_03_32_COPY_01&amp%3Butm_medium=email&amp%3Butm_term=0_-28cceb9e99-211195381&amp%3Bmc_cid=56834b1d2d&amp%3Bmc_eid=76f9e7c045"
   ]
  },
  {
@@ -78,12 +144,12 @@
   ]
  },
  {
-  "host": "www.cuanschutz.edu",
+  "host": "events.blackthorn.io",
   "count": 14,
   "examples": [
-   "https://www.cuanschutz.edu/cu-innovations",
-   "http://www.cuanschutz.edu/cu-innovations",
-   "https://www.cuanschutz.edu/cu-innovations/campus-innovator/faculty-or-researcher/form-a-company/startup-portfolio"
+   "https://events.blackthorn.io/en/i0aWPX6/g/8t351xfv82?search=&amp;sortBy=date&amp;category=&amp;date=TODAY&amp;keywords=",
+   "https://events.blackthorn.io/en/i0aWPX6/g/6QaC9cFz1A?search=&amp;sortBy=date&amp;category=&amp;date=TODAY&amp;keywords=",
+   "https://events.blackthorn.io/en/i0aWPX6/g/6QaC9cFz1A/fall-2025-startups-and-sandwiches-lighttable-panel-4a5BWjF0u9/overview"
   ]
  },
  {
@@ -93,6 +159,49 @@
    "https://www.sbir.gov/about",
    "https://www.sbir.gov/fraud-waste-abuse",
    "https://www.sbir.gov/"
+  ]
+ },
+ {
+  "host": "innovationcrossroads.ornl.gov",
+  "count": 12,
+  "examples": [
+   "https://innovationcrossroads.ornl.gov/",
+   "https://innovationcrossroads.ornl.gov/apply",
+   "https://innovationcrossroads.ornl.gov/people/?alumni=true"
+  ]
+ },
+ {
+  "host": "rockiesventureclub.wildapricot.org",
+  "count": 11,
+  "examples": [
+   "https://rockiesventureclub.wildapricot.org/event-5978580?amp%3Butm_medium=email",
+   "https://rockiesventureclub.wildapricot.org/event-5993693",
+   "https://rockiesventureclub.wildapricot.org/event-6190692/Registration"
+  ]
+ },
+ {
+  "host": "boulder.joinhandshake.com",
+  "count": 11,
+  "examples": [
+   "https://boulder.joinhandshake.com/events/1661028/share_preview",
+   "https://boulder.joinhandshake.com/events/1836402/share_preview",
+   "https://boulder.joinhandshake.com/events/1836405/share_preview"
+  ]
+ },
+ {
+  "host": "tech.cornell.edu",
+  "count": 11,
+  "examples": [
+   "https://tech.cornell.edu/programs/phd/startup-postdocs"
+  ]
+ },
+ {
+  "host": "revelco.org",
+  "count": 11,
+  "examples": [
+   "https://revelco.org/bsw",
+   "https://revelco.org/events/bsw-2026?session=d049e1ba-e159-4e6e-81a7-6fd031fb1eb6",
+   "https://revelco.org/events/bsw-2026?session=7f9dd01c-e2bc-4948-a2f3-114d729b0cf2"
   ]
  },
  {
@@ -114,6 +223,50 @@
   ]
  },
  {
+  "host": "www.exponentialimpact.com",
+  "count": 10,
+  "examples": [
+   "https://www.exponentialimpact.com/cos-rising-2025-pitch-night-competition",
+   "https://www.exponentialimpact.com/accelerate-cos",
+   "https://www.exponentialimpact.com/xi-accelerator"
+  ]
+ },
+ {
+  "host": "events.cobioscience.com",
+  "count": 10,
+  "examples": [
+   "https://events.cobioscience.com/en/fk3ZBIM7/rvc-pitch-academy-february-2026-5a2HVujf5Re/overview",
+   "https://events.cobioscience.com/en/fk3ZBIM7/executive-leadership-energy-relationships-and-change-5a2HVuoP9Y2/overview",
+   "https://events.cobioscience.com/en/fk3ZBIM7/the-cu-anschutz-innovation-forum-pathways-to-impact-5a2HVusgyAL/overview"
+  ]
+ },
+ {
+  "host": "cuboulder.qualtrics.com",
+  "count": 9,
+  "examples": [
+   "https://cuboulder.qualtrics.com/jfe/form/SV_bsGMrM6Vjg4Z7Fj",
+   "https://cuboulder.qualtrics.com/jfe/form/SV_6rLsHHB377J8x9j"
+  ]
+ },
+ {
+  "host": "www.bizjournals.com",
+  "count": 9,
+  "examples": [
+   "https://www.bizjournals.com/denver/inno/stories/news/2024/05/17/food-wise-wins-university-of-colorado-nvc.html",
+   "https://www.bizjournals.com/denver/news/2025/07/16/colorado-venture-capital-deals-feel-market-wobbles.html",
+   "https://www.bizjournals.com/denver/event/172371/2026/2026-bizwomen-mentoring-monday-and-cocktail-reception?amp%3Butm_medium=email&amp%3B_hsenc=p2ANqtz-9EAaQyNegM6wDJ73zr4onfYHhLFzxTNXDdGa1S33uA_2kqqevJQQqeGgYd7zUF5wEqhymSMMLNiWr4-J6KRqfDdOxZUg&amp%3B_hsmi=395603650&amp%3Butm_content=395603650&amp%3Butm_source=hs_email"
+  ]
+ },
+ {
+  "host": "cobioscience.com",
+  "count": 9,
+  "examples": [
+   "https://cobioscience.com/robust-speaker-line-up-and-pitch-event-winner-at-cbsa-amgen-healthcare-innovation",
+   "https://cobioscience.com/event/cbsa-membership-engagement-education-networking-jan_23_2025",
+   "https://cobioscience.com/event/a-year-in-the-life-of-innovation"
+  ]
+ },
+ {
   "host": "o365coloradoedu-my.sharepoint.com",
   "count": 9,
   "examples": [
@@ -130,37 +283,19 @@
   ]
  },
  {
-  "host": "www.meetup.com",
+  "host": "www.coloradomesa.edu",
   "count": 8,
   "examples": [
-   "https://www.meetup.com/denver-entrepreneurship-through-acquisition-eta-meetup",
-   "https://www.meetup.com/startup-longmont/events/306144877/?eventOrigin=group_upcoming_events",
-   "https://www.meetup.com/startup-longmont"
+   "https://www.coloradomesa.edu/engineering/partnership-program/index.html"
   ]
  },
  {
-  "host": "docs.google.com",
+  "host": "lp.constantcontactpages.com",
   "count": 8,
   "examples": [
-   "https://docs.google.com/document/d/1h2A7_1VG1slDxUE-NC8mRDB-C0fNZE8WQqGli8u2zA0/edit?tab=t.0",
-   "https://docs.google.com/forms/d/e/1FAIpQLSdwfNO1mFf5KuxU5M-bHGNSkilX2Xh5DUeKmwKjA10gVF3aLw/viewform?usp=header",
-   "https://docs.google.com/forms/d/e/1FAIpQLSdCbL4lfuJM5MpjPkWAbokDp5r2402GEteU0gRQdAqY3YjKPQ/viewform"
-  ]
- },
- {
-  "host": "www.cleantechopen.org",
-  "count": 8,
-  "examples": [
-   "https://www.cleantechopen.org/en/page/2025-cto-accelerator-en?amp%3Butm_campaign=28cceb9e99-EMAIL_CAMPAIGN_2025_02_06_03_32&amp%3Butm_medium=email&amp%3Butm_term=0_-28cceb9e99-211195381&amp%3Bmc_cid=28cceb9e99&amp%3Bmc_eid=76f9e7c045",
-   "https://www.cleantechopen.org/en/page/2025-cto-accelerator-en?amp%3Butm_campaign=a3b461d66e-EMAIL_CAMPAIGN_2024_02_27_03_23_COPY_01&amp%3Butm_medium=email&amp%3Butm_term=0_-09f2dca575-211195381&amp%3Bmc_cid=a3b461d66e&amp%3Bmc_eid=76f9e7c045"
-  ]
- },
- {
-  "host": "cuboulder.qualtrics.com",
-  "count": 7,
-  "examples": [
-   "https://cuboulder.qualtrics.com/jfe/form/SV_bsGMrM6Vjg4Z7Fj",
-   "https://cuboulder.qualtrics.com/jfe/form/SV_6rLsHHB377J8x9j"
+   "https://lp.constantcontactpages.com/ev/reg/xuqpgtk/lp/2e2ded75-b326-487d-90b3-62b2c61d63e0?source_id=ab5795ff-07b4-46d7-a494-e527c53b4e10&amp;source_type=em&amp;c=igePDX_B45pHJ1-BMX3EEyWFlH_GD6DZrbibNdCpCIfHyKMlhRGp3g==",
+   "https://lp.constantcontactpages.com/ev/reg/y9xchu4/lp/3b2bcccc-1e10-44d2-a3da-5214b3d21c2d?source_id=e12c39f0-8c6a-43bb-bbd0-32504fabc102&amp;source_type=em&amp;c=NADgEbaWUaQ5MxubVLY0Www0gScPMNBeIySN48cmIMOWrll1T34eHg==",
+   "https://lp.constantcontactpages.com/ev/reg/8mqqp6r/lp/c5eed7bf-d9c9-4bbb-8b80-649178df6881?source_id=b5897bb9-a67e-40dd-a954-5ac2c7de601c&amp;source_type=em&amp;c=_6UPEz7lhe57dJSDOLnNJsTjONNDDhkHxnMwcgtZSrh_iSYD8fn2Ow=="
   ]
  },
  {
@@ -189,10 +324,18 @@
   ]
  },
  {
-  "host": "www.coloradomesa.edu",
-  "count": 6,
+  "host": "www.connectsworkspace.com",
+  "count": 7,
   "examples": [
-   "https://www.coloradomesa.edu/engineering/partnership-program/index.html"
+   "https://www.connectsworkspace.com/golden-startup-coffee"
+  ]
+ },
+ {
+  "host": "unitedwaydenver.org",
+  "count": 7,
+  "examples": [
+   "https://unitedwaydenver.org/small-business-accelerator-program-application/?amp%3Butm_source=primed-accelerator-flyer&amp%3Butm_campaign=25-primed-accelerator-fall-application&amp%3Butm_content=qr-code",
+   "https://unitedwaydenver.org/small-business-website-program-english/?amp%3Butm_source=website-build-initiative-flyer&amp%3Butm_campaign=25-website-build-initiative-fall-application&amp%3Butm_content=qr-code"
   ]
  },
  {
@@ -212,19 +355,26 @@
   ]
  },
  {
-  "host": "innovationcrossroads.ornl.gov",
+  "host": "daniels.du.edu",
   "count": 6,
   "examples": [
-   "https://innovationcrossroads.ornl.gov/",
-   "https://innovationcrossroads.ornl.gov/apply",
-   "https://innovationcrossroads.ornl.gov/people/?alumni=true"
+   "https://daniels.du.edu/entrepreneurship"
   ]
  },
  {
-  "host": "www.connectsworkspace.com",
+  "host": "startupprize.com",
   "count": 6,
   "examples": [
-   "https://www.connectsworkspace.com/golden-startup-coffee"
+   "https://startupprize.com/health"
+  ]
+ },
+ {
+  "host": "leeds.tfaforms.net",
+  "count": 5,
+  "examples": [
+   "https://leeds.tfaforms.net/f/demingsignupexternal",
+   "https://leeds.tfaforms.net/77",
+   "https://leeds.tfaforms.net/f/entrepreneurshipcertificateapplication"
   ]
  },
  {
@@ -237,29 +387,12 @@
   ]
  },
  {
-  "host": "cobioscience.com",
-  "count": 5,
-  "examples": [
-   "https://cobioscience.com/robust-speaker-line-up-and-pitch-event-winner-at-cbsa-amgen-healthcare-innovation",
-   "https://cobioscience.com/event/cbsa-membership-engagement-education-networking-jan_23_2025",
-   "https://cobioscience.com/event/a-year-in-the-life-of-innovation"
-  ]
- },
- {
   "host": "www.russellsage.org",
   "count": 5,
   "examples": [
    "http://www.russellsage.org/research/funding/behavioral-economics",
    "https://www.russellsage.org/research/funding/future-work",
    "https://www.russellsage.org/funding/immigration-and-immigrant-integration"
-  ]
- },
- {
-  "host": "rockiesventureclub.wildapricot.org",
-  "count": 5,
-  "examples": [
-   "https://rockiesventureclub.wildapricot.org/event-5978580?amp%3Butm_medium=email",
-   "https://rockiesventureclub.wildapricot.org/event-5993693"
   ]
  },
  {
@@ -270,12 +403,11 @@
   ]
  },
  {
-  "host": "leeds.tfaforms.net",
-  "count": 4,
+  "host": "ucdenverdata.formstack.com",
+  "count": 5,
   "examples": [
-   "https://leeds.tfaforms.net/f/demingsignupexternal",
-   "https://leeds.tfaforms.net/77",
-   "https://leeds.tfaforms.net/f/entrepreneurshipcertificateapplication"
+   "https://ucdenverdata.formstack.com/forms/theclimb2026_consulting",
+   "https://ucdenverdata.formstack.com/forms/theclimb2026_market"
   ]
  },
  {
@@ -283,6 +415,13 @@
   "count": 4,
   "examples": [
    "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx"
+  ]
+ },
+ {
+  "host": "sites.google.com",
+  "count": 4,
+  "examples": [
+   "https://sites.google.com/colorado.edu/boulderventureclub/home"
   ]
  },
  {
@@ -310,11 +449,39 @@
   ]
  },
  {
-  "host": "events.blackthorn.io",
-  "count": 3,
+  "host": "westslopestartupweek.com",
+  "count": 4,
   "examples": [
-   "https://events.blackthorn.io/en/i0aWPX6/g/8t351xfv82?search=&amp;sortBy=date&amp;category=&amp;date=TODAY&amp;keywords=",
-   "https://events.blackthorn.io/en/i0aWPX6/g/6QaC9cFz1A?search=&amp;sortBy=date&amp;category=&amp;date=TODAY&amp;keywords="
+   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39"
+  ]
+ },
+ {
+  "host": "davisgraham.com",
+  "count": 4,
+  "examples": [
+   "https://davisgraham.com/news-events/energy-innovators-network"
+  ]
+ },
+ {
+  "host": "nucleatehq.medium.com",
+  "count": 4,
+  "examples": [
+   "https://nucleatehq.medium.com/alnylam-renews-partnership-with-nucleate-to-support-young-biotech-entrepreneurs-36680745b861"
+  ]
+ },
+ {
+  "host": "startupspace.app",
+  "count": 4,
+  "examples": [
+   "https://startupspace.app/detail-normal-events/68663/2026_01_14/16_42?b_link=event_type%3Dupcoming%26search_group%3D404%26search_radius%3D50&amp;group_id=NDA0",
+   "https://startupspace.app/detail-normal-events/69266?b_link=event_type%3Dupcoming%26search_group%3D404%26search_radius%3D50&amp;group_id=NDA0"
+  ]
+ },
+ {
+  "host": "web.cvent.com",
+  "count": 4,
+  "examples": [
+   "https://web.cvent.com/event/13a589f6-bc94-4233-a8f8-d8339130264d/websitePage:21c88534-3dfe-46bb-990e-48a15749fa0e?session=f1acd7e0-fb26-4ccf-ae41-e2a35ce8634c&amp;shareLink=true"
   ]
  },
  {
@@ -343,13 +510,6 @@
   "count": 3,
   "examples": [
    "https://www.msudenver.edu/management/center-for-entrepreneurship"
-  ]
- },
- {
-  "host": "daniels.du.edu",
-  "count": 3,
-  "examples": [
-   "https://daniels.du.edu/entrepreneurship"
   ]
  },
  {
@@ -396,11 +556,17 @@
   ]
  },
  {
-  "host": "watson.is",
+  "host": "www.nrel.gov",
   "count": 3,
   "examples": [
-   "https://watson.is/environmental-sustainability-entrepreneurship-program-form",
-   "https://watson.is/environmental-sustainability-entrepreneurship-program"
+   "https://www.nrel.gov/west-gate/apply"
+  ]
+ },
+ {
+  "host": "events.bizzabo.com",
+  "count": 3,
+  "examples": [
+   "https://events.bizzabo.com/pitch-series-2026?amp%3Butm_medium=email&amp%3B_hsenc=p2ANqtz--A4Bq5ogUDAO-JPFSE3W6nuKYb1ALLAMCcw6fGvS8-BhJIXFEup3nkeAZl37NAqKFt7ewSIwZQHVyV2Cc_HjqG9HoTng&amp%3B_hsmi=414795460&amp%3Butm_content=414795459&amp%3Butm_source=hs_email"
   ]
  },
  {
@@ -419,10 +585,10 @@
   ]
  },
  {
-  "host": "sites.google.com",
+  "host": "maps.app.goo.gl",
   "count": 2,
   "examples": [
-   "https://sites.google.com/colorado.edu/boulderventureclub/home"
+   "https://maps.app.goo.gl/brSdQCFqMz7gjmqHA"
   ]
  },
  {
@@ -447,6 +613,14 @@
   ]
  },
  {
+  "host": "www.globalentrepreneurshipconsortium.org",
+  "count": 2,
+  "examples": [
+   "http://www.globalentrepreneurshipconsortium.org/home",
+   "http://www.globalentrepreneurshipconsortium.org/gcec-awards"
+  ]
+ },
+ {
   "host": "www.dailycamera.com",
   "count": 2,
   "examples": [
@@ -461,13 +635,6 @@
   ]
  },
  {
-  "host": "www.bizjournals.com",
-  "count": 2,
-  "examples": [
-   "https://www.bizjournals.com/denver/inno/stories/news/2024/05/17/food-wise-wins-university-of-colorado-nvc.html"
-  ]
- },
- {
   "host": "jakejabscenter.org",
   "count": 2,
   "examples": [
@@ -479,6 +646,20 @@
   "count": 2,
   "examples": [
    "https://business.uccs.edu/resources/entrepreneurship"
+  ]
+ },
+ {
+  "host": "www.artimusrobotics.com",
+  "count": 2,
+  "examples": [
+   "https://www.artimusrobotics.com/post/seed-round-funding-for-artimus-robotics"
+  ]
+ },
+ {
+  "host": "connections.cu.edu",
+  "count": 2,
+  "examples": [
+   "https://connections.cu.edu/stories/university-colorado-ranks-among-top-20-us-universities-granted-patents"
   ]
  },
  {
@@ -546,221 +727,68 @@
   ]
  },
  {
-  "host": "unitedwaydenver.org",
+  "host": "cu.tfaforms.net",
   "count": 2,
   "examples": [
-   "https://unitedwaydenver.org/small-business-accelerator-program-application/?amp%3Butm_source=primed-accelerator-flyer&amp%3Butm_campaign=25-primed-accelerator-fall-application&amp%3Butm_content=qr-code",
-   "https://unitedwaydenver.org/small-business-website-program-english/?amp%3Butm_source=website-build-initiative-flyer&amp%3Butm_campaign=25-website-build-initiative-fall-application&amp%3Butm_content=qr-code"
+   "https://cu.tfaforms.net/101"
   ]
  },
  {
-  "host": "business.pueblolatinochamber.com",
-  "count": 1,
+  "host": "innosphereventures.org",
+  "count": 2,
   "examples": [
-   "https://business.pueblolatinochamber.com/events/details/demystifying-entrepreneurship-program-721"
+   "https://innosphereventures.org/colorado-wyoming-engine-announces-second-round-of-grant-opportunities-to-accelerate-innovations-in-community-resilience",
+   "https://innosphereventures.org/innosphere-ventures-awarded-2-million-grant-from-the-u-s-economic-development-administration-to-advance-life-sciences-innovation-across-6-states"
   ]
  },
  {
-  "host": "tellurideventurenetwork.com",
-  "count": 1,
+  "host": "sbir.cancer.gov",
+  "count": 2,
   "examples": [
-   "https://tellurideventurenetwork.com/"
+   "https://sbir.cancer.gov/small-business-funding/application-process/step?cid=eb_govdel"
   ]
  },
  {
-  "host": "www.thebrf.org",
-  "count": 1,
+  "host": "app.joinhandshake.com",
+  "count": 2,
   "examples": [
-   "https://www.thebrf.org/seed-grants"
+   "https://app.joinhandshake.com/career_fairs/2b579abe-17de-43a7-b0f8-8b5b20134126/student_preview"
   ]
  },
  {
-  "host": "maps.app.goo.gl",
-  "count": 1,
+  "host": "www.boulderventureclub.org",
+  "count": 2,
   "examples": [
-   "https://maps.app.goo.gl/brSdQCFqMz7gjmqHA"
+   "https://www.boulderventureclub.org/"
   ]
  },
  {
-  "host": "www.sweaterventures.com",
-  "count": 1,
+  "host": "pitchboulder.co",
+  "count": 2,
   "examples": [
-   "https://www.sweaterventures.com/"
+   "https://pitchboulder.co/"
   ]
  },
  {
-  "host": "www.whiting.org",
-  "count": 1,
+  "host": "medtechinnovator.org",
+  "count": 2,
   "examples": [
-   "https://www.whiting.org/WPESG"
+   "https://medtechinnovator.org/program"
   ]
  },
  {
-  "host": "www.globalentrepreneurshipconsortium.org",
-  "count": 1,
+  "host": "www.pharmstars.com",
+  "count": 2,
   "examples": [
-   "http://www.globalentrepreneurshipconsortium.org/home"
+   "https://www.pharmstars.com/"
   ]
  },
  {
-  "host": "www.durangoherald.com",
-  "count": 1,
+  "host": "linktr.ee",
+  "count": 2,
   "examples": [
-   "https://www.durangoherald.com/articles/southwest-colorados-inaugural-native-entrepreneurship-workshop"
-  ]
- },
- {
-  "host": "www.moosejaw.com",
-  "count": 1,
-  "examples": [
-   "https://www.moosejaw.com/content/moosejaw-outdoor-accelerator"
-  ]
- },
- {
-  "host": "www.kairosventures.com",
-  "count": 1,
-  "examples": [
-   "https://www.kairosventures.com/"
-  ]
- },
- {
-  "host": "choosecolorado.com",
-  "count": 1,
-  "examples": [
-   "https://choosecolorado.com/doing-business/incentives-financing/advanced-industries"
-  ]
- },
- {
-  "host": "www.coldquanta.com",
-  "count": 1,
-  "examples": [
-   "https://www.coldquanta.com/news/coldquanta-raises-32m-in-series-a-funding-to-accelerate-development-of-quantum-systems"
-  ]
- },
- {
-  "host": "www.artimusrobotics.com",
-  "count": 1,
-  "examples": [
-   "https://www.artimusrobotics.com/post/seed-round-funding-for-artimus-robotics"
-  ]
- },
- {
-  "host": "connections.cu.edu",
-  "count": 1,
-  "examples": [
-   "https://connections.cu.edu/stories/university-colorado-ranks-among-top-20-us-universities-granted-patents"
-  ]
- },
- {
-  "host": "www.davidgcohen.com",
-  "count": 1,
-  "examples": [
-   "http://www.davidgcohen.com/2012/12/21/the-hitchhikers-guide-to-the-boulder-startup-community"
-  ]
- },
- {
-  "host": "obssr.od.nih.gov",
-  "count": 1,
-  "examples": [
-   "https://obssr.od.nih.gov/research-support/funding-announcements"
-  ]
- },
- {
-  "host": "www.apsanet.org",
-  "count": 1,
-  "examples": [
-   "https://www.apsanet.org/smallresearchgrant"
-  ]
- },
- {
-  "host": "www.apa.org",
-  "count": 1,
-  "examples": [
-   "https://www.apa.org/apf/funding/grants/index"
-  ]
- },
- {
-  "host": "gcgh.grandchallenges.org",
-  "count": 1,
-  "examples": [
-   "https://gcgh.grandchallenges.org/grant-opportunities"
-  ]
- },
- {
-  "host": "www.ineteconomics.org",
-  "count": 1,
-  "examples": [
-   "https://www.ineteconomics.org/research/grants"
-  ]
- },
- {
-  "host": "www.luminafoundation.org",
-  "count": 1,
-  "examples": [
-   "https://www.luminafoundation.org/resources/grants"
-  ]
- },
- {
-  "host": "www.aarweb.org",
-  "count": 1,
-  "examples": [
-   "https://www.aarweb.org/AARMBR/Who-We-Are-/Grant-Programs.aspx"
-  ]
- },
- {
-  "host": "www.aauw.org",
-  "count": 1,
-  "examples": [
-   "https://www.aauw.org/resources/programs/fellowships-grants"
-  ]
- },
- {
-  "host": "www.americanorientalsociety.org",
-  "count": 1,
-  "examples": [
-   "https://www.americanorientalsociety.org/news/the-louise-wallace-hackney-fellowship-for-the-study-of-chinese-art"
-  ]
- },
- {
-  "host": "www.archaeological.org",
-  "count": 1,
-  "examples": [
-   "https://www.archaeological.org/programs/professionals/grants-awards"
-  ]
- },
- {
-  "host": "www.asianstudies.org",
-  "count": 1,
-  "examples": [
-   "https://www.asianstudies.org/grants-awards/council-grants"
-  ]
- },
- {
-  "host": "www.cckf.org",
-  "count": 1,
-  "examples": [
-   "http://www.cckf.org/en/grants"
-  ]
- },
- {
-  "host": "www.gerda-henkel-stiftung.de",
-  "count": 1,
-  "examples": [
-   "https://www.gerda-henkel-stiftung.de/en/grants"
-  ]
- },
- {
-  "host": "www.hagley.org",
-  "count": 1,
-  "examples": [
-   "https://www.hagley.org/research/grants-fellowships"
-  ]
- },
- {
-  "host": "shorensteincenter.org",
-  "count": 1,
-  "examples": [
-   "https://shorensteincenter.org/programs/fellowships/fellowship-application"
+   "https://linktr.ee/boulderventureclub?amp%3Blor=1&amp%3Butm_medium=email&amp%3Butm_campaign=uni_targeted_emails",
+   "https://linktr.ee/boulderventureclub"
   ]
  }
 ]

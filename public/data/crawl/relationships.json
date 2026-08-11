@@ -6,6 +6,12 @@
   "weight": 3
  },
  {
+  "from": "colorado-edu-innovate-newsletter-newsletter-innovation-entrepreneurship-newslett",
+  "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
   "from": "colorado-edu-venturepartners-form-subscribe-for-updates-program-ascent-20deep-20",
   "to": "colorado-edu-venturepartners-form-subscribe-for-updates-program-embark-20deep-20",
   "kind": "mentions",
@@ -18,9 +24,21 @@
   "weight": 2
  },
  {
-  "from": "colorado-edu-innovate-newsletter-newsletter-innovation-entrepreneurship-newslett",
-  "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
-  "kind": "links_to",
+  "from": "colorado-edu-researchinnovation-fundingawards-innovative-seed-grant-program",
+  "to": "colorado-edu-innovate-fundingawards-innovative-seed-grant-program",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-researchinnovation-fundingawards-innovative-seed-grant-program",
+  "to": "colorado-edu-innovate-programs-resources-research-innovation-seed-grants",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-starting-blocks",
+  "kind": "mentions",
   "weight": 2
  },
  {
@@ -276,24 +294,6 @@
   "weight": 1
  },
  {
-  "from": "colorado-edu-researchinnovation-fundingawards-innovative-seed-grant-program",
-  "to": "colorado-edu-innovate-fundingawards-innovative-seed-grant-program",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-researchinnovation-fundingawards-innovative-seed-grant-program",
-  "to": "colorado-edu-innovate-programs-resources-research-innovation-seed-grants",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
-  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-starting-blocks",
-  "kind": "mentions",
-  "weight": 1
- },
- {
   "from": "calendar-colorado-edu-event-deadline-new-venture-challenge-competition-registrat",
   "to": "calendar-colorado-edu-event-deadline-new-venture-challenge-competition-registrat",
   "kind": "links_to",
@@ -315,6 +315,144 @@
   "from": "colorado-edu-innovate-newsletter-newsletter-innovation-entrepreneurship-newslett",
   "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
   "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-get-seed-funding-supports-student-ideas-and-innovation",
+  "to": "colorado-edu-innovate-getseedfunding",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-get-seed-funding-supports-student-ideas-and-innovation",
+  "to": "colorado-edu-innovate-pitch-your-idea-get-seed-funding",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-get-seed-funding-supports-student-ideas-and-innovation",
+  "to": "colorado-edu-innovate-programs-resources-get-seed-funding",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-01-12-internal-news-announcing-2026-cohort-emb",
+  "to": "colorado-edu-venturepartners-embark",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-01-12-internal-news-announcing-2026-cohort-emb",
+  "to": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-01-12-internal-news-announcing-2026-cohort-emb",
+  "to": "colorado-edu-innovate-programs-resources-embark-deep-tech-startup-creator",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-campuskickoff",
+  "to": "colorado-edu-innovate",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-news-2020-07-14-entrepreneurial-approaches-result-new-busi",
+  "to": "colorado-edu-innovate-getseedfunding",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-getseedfunding",
+  "to": "colorado-edu-innovate-programs-resources-get-seed-funding",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-undergraduates-certificate-entrepreneurial-studies",
+  "to": "colorado-edu-business-deming-student-opportunities-certificate-entrepreneurial-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-2020-11-25-singing-their-praises-entrepreneurship-center-m",
+  "to": "colorado-edu-innovate-music-entrepreneurship-certificate",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-2020-12-15-new-venture-challenge-makes-top-20-list-univers",
+  "to": "colorado-edu-nvc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-news-2023-10-06-entrepreneurship-empowerment-south-africa",
+  "to": "colorado-edu-innovate-programs-resources-entrepreneurship-empowerment-south-afri",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-04-02-internal-news-2024-destination-startup-c",
+  "to": "colorado-edu-venturepartners-2024-03-22-internal-news-2024-destination-startup-c",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-music-2024-01-10-getting-know-marilyn-brock-interim-director-entrep",
+  "to": "colorado-edu-music-academics-centers-and-programs-entrepreneurship-center-music",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-09-12-internal-news-venture-partners-update-st",
+  "to": "colorado-edu-venturepartners-2025-09-15-internal-news-cu-boulder-ranked-1-launch",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-09-12-internal-news-venture-partners-update-st",
+  "to": "colorado-edu-venturepartners-2025-01-09-internal-news-cu-boulder-shines-record-b",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-2025-02-28-get-seed-funding-provides-financial-backing-hel",
+  "to": "colorado-edu-innovate-get-seed-funding-provides-financial-backing-help-jumpstart",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-center-music-entrepreneurship-2025-05-13-entrepreneurship-center-mu",
+  "to": "colorado-edu-innovate-music-entrepreneurship-certificate",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-2025-12-08-oedit-announces-grants-university-colorado-star",
+  "to": "colorado-edu-innovate-2024-12-02-oedit-announces-grants-university-colorado-star",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-2025-12-12-projects-ai-and-quantum-water-and-wil",
+  "to": "colorado-edu-researchinnovation-fundingawards-innovative-seed-grant-program",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-fundingawards-innovative-seed-grant-program",
+  "to": "colorado-edu-researchinnovation",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-2026-07-13-congratulations-our-2026-innovation-entrepreneu",
+  "to": "colorado-edu-innovate-2026-06-08-congratulations-our-2026-innovation-entrepreneu",
+  "kind": "mentions",
   "weight": 1
  }
 ]
