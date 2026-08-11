@@ -492,6 +492,18 @@
   "depth": 1
  },
  {
+  "url": "https://www.colorado.edu/innovate/2025/09/15/how-find-startup-opportunities-handshake",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 3
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/2024/04/18/external-news/groundbreaking-innovations-win-big-17th-new-venture-challenge-finals",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 3
+ },
+ {
   "url": "https://www.colorado.edu/business/deming/news-stories/demystifying-entrepreneurship-rural-colorado-workshop-series-news",
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
@@ -709,6 +721,24 @@
  },
  {
   "url": "https://www.colorado.edu/venturepartners/deming-center-entrepreneurship",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/partnership-spotlight",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/techstars-startup-weekends",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/innovate/programs-resources/boulder-startup-week",
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
   "depth": 1

@@ -24,6 +24,18 @@
   "weight": 4
  },
  {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "kind": "mentions",
+  "weight": 4
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-research-to-mar",
+  "kind": "mentions",
+  "weight": 4
+ },
+ {
   "from": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
   "to": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
   "kind": "links_to",
@@ -36,6 +48,12 @@
   "weight": 3
  },
  {
+  "from": "colorado-edu-innovate",
+  "to": "colorado-edu-venturepartners-cu-boulder-innovation-entrepreneurship-initiative",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
   "from": "colorado-edu-innovate-newsletter-newsletter-innovation-entrepreneurship-newslett",
   "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
   "kind": "links_to",
@@ -44,18 +62,6 @@
  {
   "from": "colorado-edu-venturepartners-opportunities-and-events-mentorship-and-advising",
   "to": "colorado-edu-venturepartners-what-we-do-mentorship-advising",
-  "kind": "mentions",
-  "weight": 3
- },
- {
-  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
-  "to": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
-  "kind": "mentions",
-  "weight": 3
- },
- {
-  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
-  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-research-to-mar",
   "kind": "mentions",
   "weight": 3
  },
@@ -162,6 +168,12 @@
   "weight": 3
  },
  {
+  "from": "colorado-edu-initiative-cubit-industry-partners-oedit-translational-quantum-rese",
+  "to": "colorado-edu-initiative-cubit-industry-partners-oedit-translational-quantum-rese",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
   "from": "colorado-edu-venturepartners-form-subscribe-for-updates-program-ascent-20deep-20",
   "to": "colorado-edu-venturepartners-form-subscribe-for-updates-program-embark-20deep-20",
   "kind": "mentions",
@@ -171,12 +183,6 @@
   "from": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
   "to": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
   "kind": "links_to",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-innovate",
-  "to": "colorado-edu-venturepartners-cu-boulder-innovation-entrepreneurship-initiative",
-  "kind": "mentions",
   "weight": 2
  },
  {
@@ -279,6 +285,174 @@
   "from": "colorado-edu-venturepartners-opportunities-and-events-mentorship-and-advising",
   "to": "colorado-edu-venturepartners-university-innovators-licensing-university-innovato",
   "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators",
+  "to": "colorado-edu-venturepartners-2025-09-15-internal-news-cu-boulder-ranked-1-launch",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "to": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "to": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "to": "colorado-edu-venturepartners-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "to": "colorado-edu-venturepartners-events-and-opportunities-destination-startup",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "to": "colorado-edu-techtransfer-business-community-destination-startup",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "to": "colorado-edu-venturepartners-destination-startup",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio",
+  "to": "colorado-edu-venturepartners-startup-portfolio-darwin-biosciences-inc",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-investors-and-industry-licensing-industry",
+  "to": "colorado-edu-venturepartners-investors-and-partners-licensing-industry-partners",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-investors-and-industry-licensing-industry",
+  "to": "colorado-edu-venturepartners-newsroom-cu-innovators-news",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-darwin-biosciences-inc",
+  "to": "colorado-edu-venturepartners-startup-portfolio",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "to": "colorado-edu-venturepartners-startup-portfolio-vitro3d-inc",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "to": "colorado-edu-venturepartners-2026-03-20-external-news-two-cu-boulder-startups-se",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "to": "colorado-edu-venturepartners-2026-01-29-internal-news-destination-startup-announ",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
+  "to": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-inc",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
+  "to": "colorado-edu-venturepartners-investors-partners-startup-portfolio-mesa-quantum-i",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
+  "to": "colorado-edu-venturepartners-2025-04-16-external-news-mesa-quantum-scores-100k-i",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
+  "to": "colorado-edu-venturepartners-2025-05-15-internal-news-oedit-announces-grants-cu-",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
+  "to": "colorado-edu-venturepartners-2025-04-25-external-news-trailblazing-ideas-and-ent",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
+  "to": "colorado-edu-venturepartners-2025-03-18-internal-news-cu-boulder-hosts-showcases",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-latimer-controls-inc",
+  "to": "colorado-edu-venturepartners-2025-03-10-external-news-sustainable-spinouts-innov",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-page-technologies-inc",
+  "to": "colorado-edu-venturepartners-2026-07-08-external-news-cu-boulder-startup-page-te",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-get-started-path-commercialization",
+  "to": "colorado-edu-venturepartners-path-commercialization",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-precisionterra-inc",
+  "to": "colorado-edu-venturepartners-2025-05-06-internal-news-university-colorado-boulde",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-09-15-internal-news-cu-boulder-ranked-1-launch",
+  "to": "colorado-edu-venturepartners-2025-01-09-internal-news-cu-boulder-shines-record-b",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-09-15-internal-news-cu-boulder-ranked-1-launch",
+  "to": "colorado-edu-venturepartners-2024-09-12-internal-news-venture-partners-update-st",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-tier-4",
+  "to": "colorado-edu-outreach-paces-funding-and-resources-engaged-scholarship-grants-tie",
+  "kind": "mentions",
   "weight": 2
  },
  {
@@ -1107,6 +1281,234 @@
   "from": "colorado-edu-venturepartners-lab-venture-challenge",
   "to": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
   "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-oak-ridge-association-universities-events-sponso",
+  "to": "colorado-edu-researchinnovation-oak-ridge-association-universities-orau-events-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-initiative-cubit-2023-09-05-new-seed-grants-bring-quantum-out-lab-m",
+  "to": "colorado-edu-initiative-cubit-2023-05-09-new-seed-grants-bring-quantum-out-lab-m",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-group-innovate",
+  "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-music-academics-centers-programs-entrepreneurship-center-music",
+  "to": "colorado-edu-music-academics-centers-and-programs-entrepreneurship-center-music",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-techtransfer-investigators-commercialization-academy",
+  "to": "colorado-edu-venturepartners-innovators-commercialization-academy",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-techtransfer-investigators-commercialization-academy",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-techtransfer-investigators-commercialization-academy",
+  "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-2026-05-14-nineteen-arts-humanities-projects-rec",
+  "to": "colorado-edu-researchinnovation-find-funding-funding",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-investors-partners-startup-portfolio-flari-tech-inc",
+  "to": "colorado-edu-innovate-2024-10-30-jila-based-innovation-team-flari-tech-wins-cu-b",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-investors-partners-startup-portfolio-flari-tech-inc",
+  "to": "colorado-edu-venturepartners-2024-10-29-external-news-jila-based-innovation-team",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-2025-10-20-sustainability-entrepreneurs-shine-2025-csc-fin",
+  "to": "colorado-edu-innovate-2025-10-27-sustainability-entrepreneurs-shine-2025-csc-fin",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-initiative-cubit-2026-04-21-colorado-advances-quantum-innovation-th",
+  "to": "colorado-edu-initiative-cubit-2026-04-29-colorado-advances-quantum-innovation-th",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "to": "colorado-edu-venturepartners-startup-portfolio",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio",
+  "to": "colorado-edu-venturepartners-investors-and-industry-licensing-industry",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mana-battery-inc",
+  "to": "colorado-edu-venturepartners-2025-03-10-external-news-sustainable-spinouts-innov",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-2025-05-30-100000-seed-funding-will-support-twen",
+  "to": "colorado-edu-researchinnovation-research-innovation-arts-humanities-grant-progra",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-funding-opportunities-spinplus",
+  "to": "colorado-edu-innovate-funding-opportunities-spinplus",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-support-mentorship",
+  "to": "colorado-edu-innovate-mentorship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-startups-sandwiches",
+  "to": "colorado-edu-business-deming-entrepreneurship-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-venturepartners",
+  "to": "colorado-edu-venturepartners",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-destination-startup",
+  "to": "colorado-edu-venturepartners-events-and-opportunities-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-destination-startup",
+  "to": "colorado-edu-techtransfer-business-community-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-destination-startup",
+  "to": "colorado-edu-venturepartners-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-destination-startup",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-high-growth-venture-fellowship",
+  "to": "colorado-edu-business-deming-graduate-students-hgv",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-new-venture-launch-class",
+  "to": "colorado-edu-business-deming-student-opportunities-new-venture-launch",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-mentor-matching",
+  "to": "colorado-edu-innovate-mentorship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-mentor-matching",
+  "to": "colorado-edu-innovate-support-mentorship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-programs-resources-startup-summer",
+  "to": "siliconflatirons-org-initiatives-entrepreneurship-initiative-startup-summer",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-oce-paces-funding-and-resources-grant-recipients-current-grant-reci",
+  "to": "colorado-edu-oce-paces-funding-and-resources-current-grant-recipients",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-outreach-paces-funding-and-resources-grant-recipients-past-grant-re",
+  "to": "colorado-edu-oce-paces-funding-and-resources-current-grant-recipients",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-oce-paces-funding-and-resources-current-grant-recipients",
+  "to": "colorado-edu-oce-paces-funding-and-resources-grant-recipients-current-grant-reci",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-oce-paces-funding-and-resources-current-grant-recipients",
+  "to": "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-tier-4",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-oce-paces-funding-and-resources-current-grant-recipients",
+  "to": "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-tier-3",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-tier-4",
+  "to": "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-frequently-ask",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-center-teaching-learning-programs-services-campus-teaching-and-lear",
+  "to": "colorado-edu-innovate-programs-resources-assett-innovation-incubator",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-center-teaching-learning-programs-services-campus-teaching-and-lear",
+  "to": "colorado-edu-center-teaching-learning-programs-services-innovation-incubator-mee",
+  "kind": "links_to",
   "weight": 1
  }
 ]
