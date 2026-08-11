@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CU Ecosystem Crawl — Live Results</title>
+<style>
+  :root { --bg:#0e1116; --card:#161b22; --line:#2b3240; --tx:#e6edf3; --dim:#8b949e; --gold:#CFB87C; --ok:#3fb950; }
+  @media (prefers-color-scheme: light) {
+    :root { --bg:#f6f8fa; --card:#fff; --line:#d8dee4; --tx:#1f2328; --dim:#59636e; }
+  }
+  * { box-sizing:border-box; margin:0 }
+  body { background:var(--bg); color:var(--tx); font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; padding:16px; }
+  .wrap { max-width:1100px; margin:0 auto }
+  h1 { font-size:1.3rem; margin-bottom:2px } h1 b { color:var(--gold) }
+  .sub { color:var(--dim); font-size:.85rem; margin-bottom:16px }
+  .live { display:inline-block; width:8px; height:8px; border-radius:50%; background:var(--ok); margin-right:6px; animation:pulse 2s infinite }
+  @keyframes pulse { 50% { opacity:.3 } }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:10px; margin-bottom:16px }
+  .stat { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px }
+  .stat .n { font-size:1.5rem; font-weight:700; color:var(--gold) }
+  .stat .l { font-size:.72rem; color:var(--dim); text-transform:uppercase; letter-spacing:.05em }
+  .cols { display:grid; grid-template-columns:2fr 1fr; gap:14px } @media(max-width:820px){ .cols{grid-template-columns:1fr} }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px; margin-bottom:14px; overflow-x:auto }
+  h2 { font-size:.95rem; margin-bottom:10px; color:var(--gold) }
+  table { border-collapse:collapse; width:100%; font-size:.83rem }
+  th,td { text-align:left; padding:5px 8px; border-bottom:1px solid var(--line); vertical-align:top }
+  th { color:var(--dim); font-weight:600; font-size:.72rem; text-transform:uppercase }
+  a { color:#79b8ff; text-decoration:none } a:hover { text-decoration:underline }
+  .pill { display:inline-block; padding:1px 7px; border-radius:99px; font-size:.7rem; border:1px solid var(--line); color:var(--dim); margin:1px 2px 1px 0 }
+  .pill.hot { border-color:var(--gold); color:var(--gold) }
+  .bar { height:14px; background:var(--gold); border-radius:3px; min-width:2px; display:inline-block; vertical-align:middle }
+  .bar.pending { background:var(--line) }
+  .depthrow { display:flex; align-items:center; gap:8px; margin:4px 0; font-size:.8rem }
+  .depthrow .lab { width:64px; color:var(--dim) }
+  .feed { max-height:420px; overflow-y:auto }
+  .feed .item { padding:7px 0; border-bottom:1px solid var(--line); font-size:.83rem }
+  .feed .meta { color:var(--dim); font-size:.72rem }
+  select,input { background:var(--bg); color:var(--tx); border:1px solid var(--line); border-radius:6px; padding:4px 8px; font-size:.82rem; margin:0 6px 8px 0 }
+  .spec { font-variant-numeric:tabular-nums }
+  #err { color:#f85149; display:none; margin-bottom:12px }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1><span class="live"></span>CU Entrepreneurship Ecosystem — <b>Deep Crawl</b></h1>
+  <div class="sub">Progressive depth-aware crawl · updates as batches land · <span id="upd">loading…</span> · <a href="/">← back to navigator</a></div>
+  <div id="err">Couldn't load crawl data — the first batch may not be deployed yet. Retrying…</div>
+
+  <div class="grid" id="stats"></div>
+
+  <div class="cols">
+    <div>
+      <div class="card">
+        <h2>Catalogued Resources <span id="rescount" style="color:var(--dim);font-weight:400"></span></h2>
+        <div>
+          <select id="ftype"><option value="">all types</option></select>
+          <select id="forg"><option value="">all orgs</option></select>
+          <input id="fq" placeholder="search…" size="14">
+        </div>
+        <table><thead><tr><th>Resource</th><th>Type</th><th>Spec</th><th>Depth</th><th>Signals</th></tr></thead>
+        <tbody id="rows"></tbody></table>
+      </div>
+      <div class="card">
+        <h2>Relationship Edges</h2>
+        <table><thead><tr><th>From</th><th>Kind</th><th>To</th><th>W</th></tr></thead><tbody id="edges"></tbody></table>
+      </div>
+    </div>
+    <div>
+      <div class="card">
+        <h2>Crawl Depth (fetched ■ / pending □)</h2>
+        <div id="depth"></div>
+        <div class="sub" style="margin-top:8px" id="depthnote"></div>
+      </div>
+      <div class="card">
+        <h2>Live Feed — newest finds</h2>
+        <div class="feed" id="feed"></div>
+      </div>
+      <div class="card">
+        <h2>Open-Ended Discovery (external domains)</h2>
+        <table><tbody id="ext"></tbody></table>
+      </div>
+      <div class="card">
+        <h2>Deeper-Analysis Queue</h2>
+        <div class="sub" id="aqn"></div>
+        <table><tbody id="aq"></tbody></table>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+const $ = id => document.getElementById(id)
+let RES = [], filters = { type:'', org:'', q:'' }
+
+async function j(p) { const r = await fetch('/data/crawl/' + p + '?t=' + Date.now()); if (!r.ok) throw 0; return r.json() }
+
+function esc(s) { return (s||'').replace(/[<>&]/g, c => ({'<':'&lt;','>':'&gt;','&':'&amp;'}[c])) }
+
+function renderRows() {
+  const rows = RES.filter(r =>
+    (!filters.type || r.type === filters.type) &&
+    (!filters.org || r.org === filters.org) &&
+    (!filters.q || (r.title + r.description + r.org).toLowerCase().includes(filters.q)))
+  $('rescount').textContent = `(${rows.length})`
+  $('rows').innerHTML = rows.slice(0, 200).map(r => `<tr>
+    <td><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a><br>
+      <span style="color:var(--dim);font-size:.72rem">${esc(r.org)}</span></td>
+    <td><span class="pill">${r.type}</span></td>
+    <td class="spec">${r.specificity}/10</td><td class="spec">${r.depth}</td>
+    <td>${(r.funding||[]).slice(0,2).map(f=>`<span class="pill hot">${esc(f)}</span>`).join('')}
+        ${(r.contacts||[]).slice(0,1).map(c=>`<span class="pill">${esc(c)}</span>`).join('')}
+        ${(r.deadlines||[]).length?`<span class="pill hot">deadline</span>`:''}
+        ${(r.audience||[]).slice(0,3).map(a=>`<span class="pill">${esc(a)}</span>`).join('')}</td>
+  </tr>`).join('')
+}
+
+async function refresh() {
+  try {
+    const [sum, res, rel, ext, aq, recent] = await Promise.all([
+      j('summary.json'), j('resources.json'), j('relationships.json'),
+      j('discovery-queue.json'), j('analysis-queue.json'), j('recent.json')])
+    $('err').style.display = 'none'
+    $('upd').textContent = 'last update ' + new Date(sum.updatedAt).toLocaleTimeString()
+
+    $('stats').innerHTML = [
+      [sum.resourcesCatalogued, 'resources'], [sum.pagesFetched, 'pages crawled'],
+      [sum.relationshipEdges, 'relationships'], [sum.maxDepthReached, 'max depth'],
+      [sum.frontierSize, 'frontier'], [sum.externalDomainsFound, 'external domains'],
+      [sum.analysisQueueSize, 'analysis queue'], [sum.batches, 'batches'],
+    ].map(([n,l]) => `<div class="stat"><div class="n">${n}</div><div class="l">${l}</div></div>`).join('')
+
+    const maxD = Math.max(1, ...Object.values(sum.depthHistogram).map(h => h.discovered))
+    $('depth').innerHTML = Object.entries(sum.depthHistogram).sort((a,b)=>a[0]-b[0]).map(([d,h]) => `
+      <div class="depthrow"><span class="lab">depth ${d}</span>
+        <span class="bar" style="width:${Math.round(140*h.fetched/maxD)}px"></span>
+        <span class="bar pending" style="width:${Math.round(140*h.pending/maxD)}px"></span>
+        <span style="color:var(--dim)">${h.fetched}/${h.discovered} · ${(100*(sum.saturation[d]||0)).toFixed(0)}%</span>
+      </div>`).join('')
+    const deepOrgs = Object.entries(sum.perOrgDepth||{}).filter(([,d])=>d>=3).length
+    $('depthnote').textContent = `Saturation = fetched/discovered per depth. ${deepOrgs} orgs reached depth ≥3.`
+
+    RES = res
+    const opts = (sel, vals) => { const cur = sel.value; sel.innerHTML = sel.options[0].outerHTML + [...new Set(vals)].sort().map(v=>`<option>${esc(v)}</option>`).join(''); sel.value = cur }
+    opts($('ftype'), res.map(r=>r.type)); opts($('forg'), res.map(r=>r.org))
+    renderRows()
+
+    $('edges').innerHTML = rel.slice(0, 40).map(e =>
+      `<tr><td>${esc(e.from)}</td><td><span class="pill">${e.kind}</span></td><td>${esc(e.to)}</td><td class="spec">${e.weight}</td></tr>`).join('')
+
+    $('feed').innerHTML = recent.map(r => `<div class="item"><b>${esc(r.title)}</b>
+      <div class="meta">${r.type} · ${esc(r.org)} · depth ${r.depth} · spec ${r.specificity}/10 · ${new Date(r.at).toLocaleTimeString()}</div></div>`).join('')
+
+    $('ext').innerHTML = ext.slice(0, 25).map(e =>
+      `<tr><td>${esc(e.host)}</td><td class="spec">${e.count}×</td></tr>`).join('')
+
+    $('aqn').textContent = aq.length + ' queued for LLM / deeper extraction'
+    $('aq').innerHTML = aq.slice(0, 20).map(q =>
+      `<tr><td style="word-break:break-all"><a href="${esc(q.url)}" target="_blank" rel="noopener">${esc(q.url.replace(/^https?:\/\/(www\.)?/,''))}</a>
+       <div class="sub">${q.reason} · rel ${q.relevance} · d${q.depth}</div></td></tr>`).join('')
+  } catch { $('err').style.display = 'block' }
+}
+
+$('ftype').onchange = e => { filters.type = e.target.value; renderRows() }
+$('forg').onchange = e => { filters.org = e.target.value; renderRows() }
+$('fq').oninput = e => { filters.q = e.target.value.toLowerCase(); renderRows() }
+refresh(); setInterval(refresh, 30000)
+</script>
+</body>
+</html>

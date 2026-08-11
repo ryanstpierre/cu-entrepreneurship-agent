@@ -1,0 +1,1283 @@
+[
+ {
+  "id": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "url": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
+  "title": "Destination Startup | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "funding",
+  "description": "A collaboration among leading research institutions across the Intermountain West to showcase the best companies from our innovation ecosystem.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "bioscience",
+   "hardware",
+   "health",
+   "food",
+   "energy",
+   "cybersecurity",
+   "deep tech",
+   "arts"
+  ],
+  "contacts": [
+   "amir@genexgen.com",
+   "jteaford@greensteelenvironmental.com",
+   "deacon@kitsunebio.com",
+   "lidg3d@gmail.com",
+   "elizabeth.johnson37@montana.edu"
+  ],
+  "funding": [
+   "$1.2"
+  ],
+  "deadlines": [
+   "Deadlines 2025-26 Dates & Deadlines Presenter Eligibility Guidelines for Application Ben",
+   "Deadlines The 2026 application is closed",
+   "Deadlines Wednesday, Jan",
+   "Deadline Add to Calendar: Apple • Google • Office 365 • Outlook • Yahoo Monday, Jan"
+  ],
+  "specificity": 10,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/venturepartners",
+  "fetchedAt": "2026-08-11T16:50:31.439Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-researchinnovation-brain-research-foundation-fayfrank-seed-grants",
+  "url": "https://www.colorado.edu/researchinnovation/brain-research-foundation-fayfrank-seed-grants",
+  "title": "Brain Research Foundation Seed Grant | Research & Innovation Office",
+  "org": "colorado.edu/researchinnovation",
+  "type": "funding",
+  "description": "Brain Research Foundation Seed Grant Below is a summary assembled by the Research &amp; Innovation Office (RIO). Please see the full solicitation for complete information about the funding opportunity.",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "quantum",
+   "health"
+  ],
+  "contacts": [
+   "rio@colorado.edu"
+  ],
+  "funding": [
+   "$100,000"
+  ],
+  "deadlines": [
+   "Deadlines CU Internal Deadline: 11:59pm MT September 28, 2026 Sponsor Letter of Intent D",
+   "Deadline (invitation only): 3:00pm MT March 4, 2027 Internal Application Requirements (a"
+  ],
+  "specificity": 10,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/researchinnovation/fundingawards/limited-campus-competitions",
+  "fetchedAt": "2026-08-11T16:50:33.147Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners",
+  "url": "https://www.colorado.edu/venturepartners",
+  "title": "Home | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "Home | Venture Partners at CU Boulder | University of Colorado Boulder Skip to main content Venture Partners at CU Boulder Home About Us Get Started For University Innovators For University Innovators and Founders Intellectual Property (IP) Management Get Started: IP Disclose an Innovation Policies ",
+  "audience": [
+   "grad students",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "deep tech"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [
+   "$125,000"
+  ],
+  "deadlines": [
+   "Applications Open: Lab Venture Challenge and NSF I-Corps Hub West programs What Can We Do Togethe",
+   "Deadline Friday, Aug",
+   "Deadline Tuesday, Aug",
+   "Deadline Thursday, Oct"
+  ],
+  "specificity": 9,
+  "depth": 0,
+  "discoveredVia": "seed",
+  "parent": null,
+  "fetchedAt": "2026-08-11T16:50:30.766Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "url": "https://www.colorado.edu/venturepartners/university-innovators/entrepreneurial-training/nsf-i-corps-hub-west-region",
+  "title": "NSF I-Corps Hub West | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "A partnership with seven of the top research universities across the Western U.S. to reduce the time and risk of taking promising innovations to market.",
+  "audience": [
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [
+   "$50,000"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/venturepartners",
+  "fetchedAt": "2026-08-11T16:50:31.658Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "url": "https://www.colorado.edu/venturepartners/innovators/lab-venture-challenge",
+  "title": "Lab Venture Challenge | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "competition",
+  "description": "Funding top innovations with grants of up to $125,000, supporting projects with strong scientific support and a clear path to a compelling market.",
+  "audience": [
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "bioscience",
+   "aerospace",
+   "energy",
+   "deep tech",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$125,000",
+   "$125,000 m",
+   "$150,000",
+   "$500,000"
+  ],
+  "deadlines": [
+   "Deadlines July 17 and Aug",
+   "Deadlines 2026 Information Session Applicant Eligibility Funding & Budgeting Finalist &",
+   "Deadlines Share This 2026 Dates and Deadlines Program Preparation ​ Applicants are encou",
+   "Deadline to disclose innovations— Disclose Now If you are uncertain if your technology a"
+  ],
+  "specificity": 8,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/venturepartners",
+  "fetchedAt": "2026-08-11T16:50:31.668Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-researchinnovation-fundingawards-limited-campus-competitions",
+  "url": "https://www.colorado.edu/researchinnovation/fundingawards/limited-campus-competitions",
+  "title": "Limited Submission Funding Opportunities | Research & Innovation Office",
+  "org": "colorado.edu/researchinnovation",
+  "type": "competition",
+  "description": "In some cases, a funder limits the number of applications that can be submitted by CU Boulder to a given funding opportunity.",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "quantum",
+   "energy",
+   "arts"
+  ],
+  "contacts": [
+   "ltdsubs@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "deadline (this will increase to 16 weeks for particularly large, complex, or multidiscip",
+   "deadline (this will increase to 12 weeks for particularly large, complex, or multidiscip",
+   "deadline",
+   "Deadline (11:59pm MT) Sponsor Deadline Program August 16, 2026 November 4, 2026 NSF Stat"
+  ],
+  "specificity": 8,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/researchinnovation",
+  "fetchedAt": "2026-08-11T16:50:32.081Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-10-27-internal-news-755000-awarded-university-",
+  "url": "https://www.colorado.edu/venturepartners/2025/10/27/internal-news/755000-awarded-university-colorado-innovators-advance-their-discoveries",
+  "title": "$755,000 awarded to University of Colorado innovators to advance their discoveries | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "competition",
+  "description": "Eleven teams of University of Colorado faculty, researchers and graduate student innovators competed for a combined $755,000 in startup funding grants in this year&rsquo;s Lab Venture Challenge (LVC). Judges from CU",
+  "audience": [
+   "grad students",
+   "postdocs",
+   "faculty",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "bioscience",
+   "quantum",
+   "energy",
+   "deep tech",
+   "space"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [
+   "$755,000",
+   "$349 million",
+   "$127,500"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/lab-venture-challenge",
+  "fetchedAt": "2026-08-11T16:50:32.151Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-embark",
+  "url": "https://www.colorado.edu/venturepartners/embark",
+  "title": "Embark Deep Tech Startup Creator | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "The University of Colorado",
+  "audience": [
+   "staff",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [],
+  "funding": [
+   "$50,000",
+   "$5,400"
+  ],
+  "deadlines": [
+   "Deadlines Interview Process Qualifications Startup Founder Positions Need Guidance? Date",
+   "Deadlines Dates & Deadlines Except for a handful of in-person days, the Embark interview",
+   "Application open for Embark Startup Founder positions through the CU Jobs portal",
+   "due Friday, Dec"
+  ],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/lab-venture-challenge",
+  "fetchedAt": "2026-08-11T16:50:32.334Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-innovate-getseedfunding",
+  "url": "http://colorado.edu/innovate/getseedfunding",
+  "title": "Get Seed Funding | Innovation & Entrepreneurship Initiative",
+  "org": "colorado.edu/innovate",
+  "type": "competition",
+  "description": "Get Seed Funding (GSF) is a CU Boulder program, hosted by the Innovation &amp; Entrepreneurship Initiative, that provides micro-funding for undergraduate and graduate students with entrepreneurial ideas in the making. Run by a student-led team, GSF hosts weekly pitch sessions where applicants present their ideas and can be awarded up to $500 in seed funding to move projects forward. Applications are accepted on a rolling basis and reviewed by the GSF team, making it easy to jump in at any stage of your journey.",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "students"
+  ],
+  "stage": [
+   "validate",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "food",
+   "space"
+  ],
+  "contacts": [
+   "GetSeedFunding@colorado.edu",
+   "innovate@colorado.edu"
+  ],
+  "funding": [
+   "$500",
+   "$1,000"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/engineering/entrepreneurship",
+  "fetchedAt": "2026-08-11T16:50:32.406Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-2019-10-21-twelve-cu-boulder-researchers-pitch-thei",
+  "url": "https://www.colorado.edu/venturepartners/2019/10/21/twelve-cu-boulder-researchers-pitch-their-innovations-funding-lab-venture-challenge",
+  "title": "Eleven CU Boulder researchers to pitch their innovations for funding at Lab Venture Challenge | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "competition",
+  "description": "The Lab Venture Challenge is hosted over two days and broken up into Biosciences on Wednesday, Nov. 13 and Physical Sciences &amp; Engineering on Thursday, Nov. 14. This showcase is the can",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "bioscience",
+   "food",
+   "energy",
+   "deep tech",
+   "space"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [
+   "$125,000"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/innovate/2019/10/23/eleven-cu-boulder-researchers-pitch-their-innovations-funding-lab-venture-challenge",
+  "fetchedAt": "2026-08-11T16:50:34.010Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-2019-10-21-eleven-cu-boulder-researchers-pitch-thei",
+  "url": "https://www.colorado.edu/venturepartners/2019/10/21/eleven-cu-boulder-researchers-pitch-their-innovations-funding-lab-venture-challenge",
+  "title": "Eleven CU Boulder researchers to pitch their innovations for funding at Lab Venture Challenge | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "competition",
+  "description": "The Lab Venture Challenge is hosted over two days and broken up into Biosciences on Wednesday, Nov. 13 and Physical Sciences &amp; Engineering on Thursday, Nov. 14. This showcase is the can",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "bioscience",
+   "food",
+   "energy",
+   "deep tech",
+   "space"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [
+   "$125,000"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 1,
+  "discoveredVia": "sitemap",
+  "parent": "https://www.colorado.edu/venturepartners/sitemap.xml",
+  "fetchedAt": "2026-08-11T16:50:34.302Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-2023-10-24-internal-news-lab-venture-challenge-anno",
+  "url": "https://www.colorado.edu/venturepartners/2023/10/24/internal-news/lab-venture-challenge-announces-2023-finalists-funding-competition-leading-innovations",
+  "title": "Lab Venture Challenge announces finalists in funding competition for leading innovations | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "competition",
+  "description": "Through the Lab Venture Challenge (LVC), top innovations from CU Boulder, Denver and Colorado Springs compete for grants of up to $125,000. LVC supports projects that address a commercial need, have a clear path to a compelling market and have strong scientific support. These grants are funded by Venture Partners at CU Boulder and the Colorado Office of Economic Development and International Trade (OEDIT) Advanced Industries Program.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "bioscience",
+   "aerospace",
+   "quantum",
+   "energy",
+   "deep tech",
+   "space"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [
+   "$125,000",
+   "$233 million",
+   "$1.5 million"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 1,
+  "discoveredVia": "sitemap",
+  "parent": "https://www.colorado.edu/venturepartners/sitemap.xml",
+  "fetchedAt": "2026-08-11T16:50:34.698Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
+  "url": "https://www.colorado.edu/techtransfer/proof-concept/lab-venture-challenge",
+  "title": "Lab Venture Challenge | Venture Partners at CU Boulder",
+  "org": "colorado.edu/techtransfer",
+  "type": "competition",
+  "description": "Funding top innovations with grants of up to $125,000, supporting projects with strong scientific support and a clear path to a compelling market.",
+  "audience": [
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "bioscience",
+   "aerospace",
+   "energy",
+   "deep tech",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$125,000",
+   "$125,000 m",
+   "$150,000",
+   "$500,000"
+  ],
+  "deadlines": [
+   "Deadlines July 17 and Aug",
+   "Deadlines 2026 Information Session Applicant Eligibility Funding & Budgeting Finalist &",
+   "Deadlines Share This 2026 Dates and Deadlines Program Preparation ​ Applicants are encou",
+   "Deadline to disclose innovations— Disclose Now If you are uncertain if your technology a"
+  ],
+  "specificity": 8,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/venturepartners/2019/10/21/twelve-cu-boulder-researchers-pitch-their-innovations-funding-lab-venture-challenge",
+  "fetchedAt": "2026-08-11T16:50:34.800Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-innovate-funding-opportunities-limited-campus-competitions-anticipa",
+  "url": "https://www.colorado.edu/innovate/funding-opportunities/limited-campus-competitions/anticipated-opportunities",
+  "title": "Past Limited Submission Opportunities | Research & Innovation Office",
+  "org": "colorado.edu/innovate",
+  "type": "competition",
+  "description": "The list below represents past limited submission funding opportunities and campus competitions. Please be advised that future cycles are dependent upon funding availability and sponsor discretion. If there are any questions or if you are aware of a limited submission opportunity not listed, please email ltdsubs@colorado.edu.",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "quantum",
+   "health",
+   "food",
+   "energy",
+   "arts",
+   "space"
+  ],
+  "contacts": [
+   "ltdsubs@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadline (11:59pm MST, unless otherwise noted) Sponsor Deadline Award August 2, 2026 Aug",
+   "Deadline) June 30, 2026 (Application) William T",
+   "Deadline) March 24, 2025 (Internal Proposal) June 23, 2025 (Preliminary Proposal) Novemb"
+  ],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/researchinnovation/fundingawards/limited-campus-competitions",
+  "fetchedAt": "2026-08-11T16:50:35.774Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-researchinnovation-funding-opportunities-limited-campus-competition",
+  "url": "https://www.colorado.edu/researchinnovation/funding-opportunities/limited-campus-competitions/anticipated-opportunities",
+  "title": "Past Limited Submission Opportunities | Research & Innovation Office",
+  "org": "colorado.edu/researchinnovation",
+  "type": "competition",
+  "description": "The list below represents past limited submission funding opportunities and campus competitions. Please be advised that future cycles are dependent upon funding availability and sponsor discretion. If there are any questions or if you are aware of a limited submission opportunity not listed, please email ltdsubs@colorado.edu.",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "quantum",
+   "health",
+   "food",
+   "energy",
+   "arts",
+   "space"
+  ],
+  "contacts": [
+   "ltdsubs@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadline (11:59pm MST, unless otherwise noted) Sponsor Deadline Award August 2, 2026 Aug",
+   "Deadline) June 30, 2026 (Application) William T",
+   "Deadline) March 24, 2025 (Internal Proposal) June 23, 2025 (Preliminary Proposal) Novemb"
+  ],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/researchinnovation/fundingawards/limited-campus-competitions",
+  "fetchedAt": "2026-08-11T16:50:35.788Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-innovate",
+  "url": "https://www.colorado.edu/innovate",
+  "title": "Home | Innovation & Entrepreneurship Initiative",
+  "org": "colorado.edu/innovate",
+  "type": "center",
+  "description": "Home | Innovation & Entrepreneurship Initiative | University of Colorado Boulder Skip to main content Innovation & Entrepreneurship Initiative Home About Getting Started Programs & Resources Events & Opportunities Support News New Venture Challenge (NVC) Translate English Spanish Chinese French Germ",
+  "audience": [
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "innovate@colorado.edu"
+  ],
+  "funding": [
+   "$2.15 million"
+  ],
+  "deadlines": [],
+  "specificity": 7,
+  "depth": 0,
+  "discoveredVia": "seed",
+  "parent": null,
+  "fetchedAt": "2026-08-11T16:50:30.760Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-nvc",
+  "url": "https://www.colorado.edu/nvc",
+  "title": "Home | New Venture Challenge",
+  "org": "colorado.edu/nvc",
+  "type": "competition",
+  "description": "Home | New Venture Challenge | University of Colorado Boulder Skip to main content Translate English Spanish Chinese French German Korean Lao Nepali Japanese Tibetan Search Enter the terms you wish to search for.",
+  "audience": [
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "energy"
+  ],
+  "contacts": [
+   "unvc@colorado.edu"
+  ],
+  "funding": [
+   "$336,000",
+   "$26"
+  ],
+  "deadlines": [
+   "Deadlines Latest NVC News An error has occured - please check your filters and try again",
+   "Deadlines View More NVC Impact 1,400+ teams engaged with NVC entrepreneurial programming"
+  ],
+  "specificity": 7,
+  "depth": 0,
+  "discoveredVia": "seed",
+  "parent": null,
+  "fetchedAt": "2026-08-11T16:50:30.764Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-business-deming-entrepreneurship-events-conferences",
+  "url": "https://www.colorado.edu/business/deming/entrepreneurship-events/conferences",
+  "title": "2026 Rocky Mountain Entrepreneurship Through Acquisition (ETA) Conference | Leeds School of Business",
+  "org": "colorado.edu/business",
+  "type": "event",
+  "description": "2026 Rocky Mountain Entrepreneurship Through Acquisition (ETA) Conference | Leeds School of Business | University of Colorado Boulder Skip to main content Leeds School of Business Home Undergraduate Programs Undergraduate Programs Why Study Business at Leeds?",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [
+   "deming@colorado.edu"
+  ],
+  "funding": [
+   "$14",
+   "$10"
+  ],
+  "deadlines": [],
+  "specificity": 7,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/business/deming/entrepreneurship-events",
+  "fetchedAt": "2026-08-11T16:50:32.369Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-americas-seed-fund-sbirsttr-grants",
+  "url": "https://www.colorado.edu/venturepartners/americas-seed-fund-sbirsttr-grants",
+  "title": "America’s Seed Fund – NSF SBIR/STTR | NSF SBIR",
+  "org": "colorado.edu/venturepartners",
+  "type": "funding",
+  "description": "America’s Seed Fund powered by the National Science Foundation (NSF SBIR/STTR) supports startups with research and development funding to create technologies.",
+  "audience": [],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "energy",
+   "deep tech"
+  ],
+  "contacts": [],
+  "funding": [
+   "$2 million",
+   "$1"
+  ],
+  "deadlines": [
+   "deadlines"
+  ],
+  "specificity": 7,
+  "depth": 1,
+  "discoveredVia": "sitemap",
+  "parent": "https://www.colorado.edu/venturepartners/sitemap.xml",
+  "fetchedAt": "2026-08-11T16:50:34.318Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-what-we-do-ip-management",
+  "url": "https://www.colorado.edu/venturepartners/what-we-do/ip-management",
+  "title": "Intellectual Property (IP) Management | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "Venture Partners manages and funds IP for hundreds of university inventions each year, and the CU System is among the top in the world for issued patents.",
+  "audience": [
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "bioscience",
+   "deep tech"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/venturepartners",
+  "fetchedAt": "2026-08-11T16:50:31.769Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-promo-kit-sbirsttr-week-funding-your-latest-innovat",
+  "url": "https://www.colorado.edu/venturepartners/promo-kit/sbirsttr-week-funding-your-latest-innovation",
+  "title": "Promo Kit—Translational Funding Week: Unlock Funding to Move Your Research or Venture Forward | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "funding",
+  "description": "This page contains all the information available to help you promote this opportunity to your network and community. If you have questions or suggestions, please reach out to Daniel Leonard, senior marketing and communications specialist for Venture Partners at daniel.leonard@colorado.edu.",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "daniel.leonard@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 1,
+  "discoveredVia": "sitemap",
+  "parent": "https://www.colorado.edu/venturepartners/sitemap.xml",
+  "fetchedAt": "2026-08-11T16:50:33.457Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-innovate-on-campus-resources",
+  "url": "https://www.colorado.edu/innovate/on-campus-resources",
+  "title": "On-Campus Resources | Innovation & Entrepreneurship Initiative",
+  "org": "colorado.edu/innovate",
+  "type": "center",
+  "description": "Connect with these on-campus resources and programs to help you make your envisioned real-world impact.Would you like to add or edit a resource in this guide? We welcome submissions from programs and resources on and off the CU Boulder campus. Submit or edit resource",
+  "audience": [],
+  "stage": [],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "innovate@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 0,
+  "discoveredVia": "seed",
+  "parent": null,
+  "fetchedAt": "2026-08-11T16:50:30.778Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-researchinnovation",
+  "url": "https://www.colorado.edu/researchinnovation",
+  "title": "Home | Research & Innovation Office",
+  "org": "colorado.edu/researchinnovation",
+  "type": "reference",
+  "description": "Home | Research & Innovation Office | University of Colorado Boulder Skip to main content Research & Innovation Office Home About Operations & Administration Research Operations & Administration Office of Contracts and Grants Partners with researchers throughout the lifecycle of an award to obtain a",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "quantum"
+  ],
+  "contacts": [
+   "rio@colorado.edu"
+  ],
+  "funding": [
+   "$767 million"
+  ],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 0,
+  "discoveredVia": "seed",
+  "parent": null,
+  "fetchedAt": "2026-08-11T16:50:31.061Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-law-academics-clinics-entrepreneurial-law-clinic",
+  "url": "https://www.colorado.edu/law/academics/clinics/entrepreneurial-law-clinic",
+  "title": "Entrepreneurial Law Clinic | Colorado Law",
+  "org": "colorado.edu/law",
+  "type": "service",
+  "description": "Entrepreneurial Law Clinic | Colorado Law | University of Colorado Boulder Skip to main content Translate English Spanish Chinese French German Korean Lao Nepali Japanese Tibetan Search Enter the terms you wish to search for.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "energy"
+  ],
+  "contacts": [
+   "paige.wilson@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 0,
+  "discoveredVia": "seed",
+  "parent": null,
+  "fetchedAt": "2026-08-11T16:50:31.101Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-business-deming-entrepreneurship-events",
+  "url": "https://www.colorado.edu/business/deming/entrepreneurship-events",
+  "title": "Entrepreneurship Events | Leeds School of Business",
+  "org": "colorado.edu/business",
+  "type": "event",
+  "description": "Entrepreneurship Events | Leeds School of Business | University of Colorado Boulder Skip to main content Leeds School of Business Home Undergraduate Programs Undergraduate Programs Why Study Business at Leeds?",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food",
+   "arts"
+  ],
+  "contacts": [
+   "deming@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/business/deming",
+  "fetchedAt": "2026-08-11T16:50:31.714Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-business-deming-community-demystifying-entrepreneurship-rural-color",
+  "url": "https://www.colorado.edu/business/deming/community/demystifying-entrepreneurship-rural-colorado-workshop-series/completed-rural",
+  "title": "Completed Rural Colorado Workshop Series | Leeds School of Business",
+  "org": "colorado.edu/business",
+  "type": "event",
+  "description": "Completed Rural Colorado Workshop Series | Leeds School of Business | University of Colorado Boulder Skip to main content Leeds School of Business Home Undergraduate Programs Undergraduate Programs Why Study Business at Leeds?",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "deming@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/business/deming/community/demystifying-entrepreneurship-rural-colorado-workshop-series",
+  "fetchedAt": "2026-08-11T16:50:32.457Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-form-subscribe-for-updates-program-embark-20deep-20",
+  "url": "https://www.colorado.edu/venturepartners/form/subscribe-for-updates?program=Embark%20Deep%20Tech%20Startup%20Creator",
+  "title": "Subscribe for Updates | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "program",
+  "description": "Subscribe for Updates | Venture Partners at CU Boulder | University of Colorado Boulder Skip to main content Venture Partners at CU Boulder Home About Us Get Started For University Innovators For University Innovators and Founders Intellectual Property (IP) Management Get Started: IP Disclose an Inn",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/venturepartners/embark",
+  "fetchedAt": "2026-08-11T16:50:34.701Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-engineering-entrepreneurship",
+  "url": "https://www.colorado.edu/engineering/entrepreneurship",
+  "title": "ESCEND™ | Engineering Innovation & Entrepreneurship | College of Engineering & Applied Science",
+  "org": "colorado.edu/engineering",
+  "type": "funding",
+  "description": "ESCEND&trade; is here to help guide your entrepreneurial journey. Stop by our location in the South Engineering Lobby for any questions about Engineering Innovation or Entreprenuership. We have instructional resources, event information and funding available.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "aerospace",
+   "energy",
+   "space"
+  ],
+  "contacts": [
+   "karen.crofton@colorado.edu",
+   "jessica.leeker@colorado.edu",
+   "cueng@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 0,
+  "discoveredVia": "seed",
+  "parent": null,
+  "fetchedAt": "2026-08-11T16:50:31.340Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-researchinnovation-research-development-funding-limited-submission-",
+  "url": "https://www.colorado.edu/researchinnovation/research-development/funding/limited-submission-funding-opportunities/past-winners-limited",
+  "title": "Past Grantees - Limited Submission Funding Opportunities | Research & Innovation Office",
+  "org": "colorado.edu/researchinnovation",
+  "type": "funding",
+  "description": "Please see the table below for a list of CU Boulder faculty who have received popular limited submission funding opportunity awards since 2000. If you are aware of any winners from 2000 or after not listed here, please contact ltdsubs@colorado.edu.",
+  "audience": [
+   "undergrads",
+   "postdocs",
+   "faculty",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "aerospace",
+   "quantum",
+   "health",
+   "energy",
+   "arts",
+   "space"
+  ],
+  "contacts": [
+   "ltdsubs@colorado.edu",
+   "rio@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/researchinnovation/fundingawards/limited-campus-competitions",
+  "fetchedAt": "2026-08-11T16:50:33.136Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-innovate-2019-10-23-eleven-cu-boulder-researchers-pitch-their-innov",
+  "url": "https://www.colorado.edu/innovate/2019/10/23/eleven-cu-boulder-researchers-pitch-their-innovations-funding-lab-venture-challenge",
+  "title": "Eleven CU Boulder researchers to pitch their innovations for funding at Lab Venture Challenge | Innovation & Entrepreneurship Initiative",
+  "org": "colorado.edu/innovate",
+  "type": "competition",
+  "description": "The two-day Lab Venture Challenge showcase is the can",
+  "audience": [
+   "researchers"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "innovate@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 1,
+  "discoveredVia": "sitemap",
+  "parent": "https://www.colorado.edu/innovate/sitemap.xml",
+  "fetchedAt": "2026-08-11T16:50:33.678Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-nvc-2023-02-22-external-news-new-venture-challenges-hickory-steps-i",
+  "url": "https://www.colorado.edu/nvc/2023/02/22/external-news/new-venture-challenges-hickory-steps-innovation-entrepreneurship-director-role",
+  "title": "New Venture Challenge’s Hickory steps into Innovation & Entrepreneurship director role | New Venture Challenge",
+  "org": "colorado.edu/nvc",
+  "type": "competition",
+  "description": "The Research &amp; Innovation Office (RIO) has announced several leadership transitions within the campuswide Innovation &amp; Entrepreneurship Initiative, with Stan Hickory stepping into the role of director of the initiative, a position held by Chris Gustavson since 2019.",
+  "audience": [
+   "high school"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "unvc@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 1,
+  "discoveredVia": "sitemap",
+  "parent": "https://www.colorado.edu/nvc/sitemap.xml",
+  "fetchedAt": "2026-08-11T16:50:33.708Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-researchinnovation-2023-02-22-new-venture-challenges-hickory-steps-",
+  "url": "https://www.colorado.edu/researchinnovation/2023/02/22/new-venture-challenges-hickory-steps-innovation-entrepreneurship-director-role",
+  "title": "New Venture Challenge’s Hickory steps into Innovation & Entrepreneurship director role | Research & Innovation Office",
+  "org": "colorado.edu/researchinnovation",
+  "type": "competition",
+  "description": "The Research &amp; Innovation Office has announced several leadership transitions within the campuswide Innovation &amp; Entrepreneurship Initiative, with Stan Hickory stepping into the role of director of the initiative, a position held by Chris Gustavson since 2019.",
+  "audience": [
+   "undergrads",
+   "postdocs",
+   "faculty",
+   "staff",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "quantum"
+  ],
+  "contacts": [
+   "rio@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/nvc/2023/02/22/external-news/new-venture-challenges-hickory-steps-innovation-entrepreneurship-director-role",
+  "fetchedAt": "2026-08-11T16:50:34.364Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-business-deming",
+  "url": "https://www.colorado.edu/business/deming",
+  "title": "Deming Center for Entrepreneurship | Leeds School of Business",
+  "org": "colorado.edu/business",
+  "type": "center",
+  "description": "Deming Center for Entrepreneurship | Leeds School of Business | University of Colorado Boulder Skip to main content Leeds School of Business Home Undergraduate Programs Undergraduate Programs Why Study Business at Leeds?",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 0,
+  "discoveredVia": "seed",
+  "parent": null,
+  "fetchedAt": "2026-08-11T16:50:30.771Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-business-deming-news-stories-demystifying-entrepreneurship-rural-co",
+  "url": "https://www.colorado.edu/business/deming/news-stories/demystifying-entrepreneurship-rural-colorado-workshop-series-news",
+  "title": "Demystifying Entrepreneurship: Rural Colorado Workshop Series News | Leeds School of Business",
+  "org": "colorado.edu/business",
+  "type": "event",
+  "description": "Demystifying Entrepreneurship: Rural Colorado Workshop Series News | Leeds School of Business | University of Colorado Boulder Skip to main content Leeds School of Business Home Undergraduate Programs Undergraduate Programs Why Study Business at Leeds?",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/business/deming/community/demystifying-entrepreneurship-rural-colorado-workshop-series",
+  "fetchedAt": "2026-08-11T16:50:32.937Z",
+  "needsAnalysis": true
+ }
+]

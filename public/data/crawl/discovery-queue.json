@@ -1,0 +1,231 @@
+[
+ {
+  "host": "www.grants.gov",
+  "count": 14,
+  "examples": [
+   "https://www.grants.gov/web/grants/view-opportunity.html?oppId=332368",
+   "https://www.grants.gov/web/grants/view-opportunity.html?oppId=332386",
+   "https://www.grants.gov/web/grants/view-opportunity.html?oppId=332227"
+  ]
+ },
+ {
+  "host": "giving.cu.edu",
+  "count": 6,
+  "examples": [
+   "https://giving.cu.edu/fund/innovation-entrepreneurship-and-impact-iei-initiative-support-fund"
+  ]
+ },
+ {
+  "host": "www.cvent.com",
+  "count": 5,
+  "examples": [
+   "http://www.cvent.com/events/subscribe-research-innovation-office-bulletin/event-summary-aa9cce87dd1047f595b4f4beb92a766f.aspx",
+   "https://www.cvent.com/events/lab-venture-challenge-2019/registration-f81ea9f7b2b04a2d966100ba4cb2ee5e.aspx?fqp=true",
+   "https://www.cvent.com/events/subscribe-research-innovation-office-bulletin/registration-aa9cce87dd1047f595b4f4beb92a766f.aspx"
+  ]
+ },
+ {
+  "host": "oedit.colorado.gov",
+  "count": 4,
+  "examples": [
+   "https://oedit.colorado.gov/advanced-industries-early-stage-capital-retention-grant",
+   "https://oedit.colorado.gov/advanced-industries-accelerator-programs"
+  ]
+ },
+ {
+  "host": "www.cuanschutz.edu",
+  "count": 4,
+  "examples": [
+   "https://www.cuanschutz.edu/cu-innovations"
+  ]
+ },
+ {
+  "host": "grants.nih.gov",
+  "count": 4,
+  "examples": [
+   "https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-21-001.html",
+   "https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-18-001.html"
+  ]
+ },
+ {
+  "host": "science.osti.gov",
+  "count": 4,
+  "examples": [
+   "https://science.osti.gov/-/media/grants/pdf/foas/2021/SC_FOA_0002462.pdf",
+   "https://science.osti.gov/-/media/grants/pdf/foas/2021/SC_FOA_0002449.pdf"
+  ]
+ },
+ {
+  "host": "www.ucdenver.edu",
+  "count": 3,
+  "examples": [
+   "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx"
+  ]
+ },
+ {
+  "host": "www.sbir.gov",
+  "count": 3,
+  "examples": [
+   "https://www.sbir.gov/about",
+   "https://www.sbir.gov/fraud-waste-abuse",
+   "https://www.sbir.gov/"
+  ]
+ },
+ {
+  "host": "biz.colostate.edu",
+  "count": 3,
+  "examples": [
+   "https://biz.colostate.edu/centers-institutes/entrepreneurship"
+  ]
+ },
+ {
+  "host": "www.msudenver.edu",
+  "count": 3,
+  "examples": [
+   "https://www.msudenver.edu/management/center-for-entrepreneurship"
+  ]
+ },
+ {
+  "host": "daniels.du.edu",
+  "count": 3,
+  "examples": [
+   "https://daniels.du.edu/entrepreneurship"
+  ]
+ },
+ {
+  "host": "leeds.tfaforms.net",
+  "count": 2,
+  "examples": [
+   "https://leeds.tfaforms.net/f/demingsignupexternal",
+   "https://leeds.tfaforms.net/77"
+  ]
+ },
+ {
+  "host": "www.jpmorgan.com",
+  "count": 2,
+  "examples": [
+   "https://www.jpmorgan.com/startups"
+  ]
+ },
+ {
+  "host": "events.blackthorn.io",
+  "count": 2,
+  "examples": [
+   "https://events.blackthorn.io/en/i0aWPX6/g/8t351xfv82?search=&amp;sortBy=date&amp;category=&amp;date=TODAY&amp;keywords=",
+   "https://events.blackthorn.io/en/i0aWPX6/g/6QaC9cFz1A?search=&amp;sortBy=date&amp;category=&amp;date=TODAY&amp;keywords="
+  ]
+ },
+ {
+  "host": "www.meetup.com",
+  "count": 2,
+  "examples": [
+   "https://www.meetup.com/denver-entrepreneurship-through-acquisition-eta-meetup"
+  ]
+ },
+ {
+  "host": "www.regis.edu",
+  "count": 2,
+  "examples": [
+   "https://www.regis.edu/academics/colleges-and-schools/anderson/innovation-center"
+  ]
+ },
+ {
+  "host": "web.archive.org",
+  "count": 2,
+  "examples": [
+   "https://web.archive.org/web/20251028193014/https://www.meetup.com/denver-entrepreneurship-through-acquisition-eta-meetup/?_xtd=gqFyqTM4ODE1MjQ2M6FwpmlwaG9uZQ%253D%253D&amp;from=ref",
+   "https://web.archive.org/web/20251028193014/https://www.meetup.com/denver-entrepreneurship-through-acquisition-eta-meetup"
+  ]
+ },
+ {
+  "host": "www.arts.gov",
+  "count": 2,
+  "examples": [
+   "https://www.arts.gov/grants/research-awards/nea-research-labs/program-description"
+  ]
+ },
+ {
+  "host": "www.grahamfoundation.org",
+  "count": 2,
+  "examples": [
+   "http://www.grahamfoundation.org/grant_programs?mode=organization"
+  ]
+ },
+ {
+  "host": "www.coloradomesa.edu",
+  "count": 1,
+  "examples": [
+   "https://www.coloradomesa.edu/engineering/partnership-program/index.html"
+  ]
+ },
+ {
+  "host": "www.nsf.gov",
+  "count": 1,
+  "examples": [
+   "https://www.nsf.gov/news/special_reports/i-corps"
+  ]
+ },
+ {
+  "host": "business.pueblolatinochamber.com",
+  "count": 1,
+  "examples": [
+   "https://business.pueblolatinochamber.com/events/details/demystifying-entrepreneurship-program-721"
+  ]
+ },
+ {
+  "host": "cuboulder.qualtrics.com",
+  "count": 1,
+  "examples": [
+   "https://cuboulder.qualtrics.com/jfe/form/SV_bsGMrM6Vjg4Z7Fj"
+  ]
+ },
+ {
+  "host": "new.nsf.gov",
+  "count": 1,
+  "examples": [
+   "https://new.nsf.gov/funding/initiatives/i-corps"
+  ]
+ },
+ {
+  "host": "www.buffgoldventures.com",
+  "count": 1,
+  "examples": [
+   "https://www.buffgoldventures.com/"
+  ]
+ },
+ {
+  "host": "sites.google.com",
+  "count": 1,
+  "examples": [
+   "https://sites.google.com/colorado.edu/boulderventureclub/home"
+  ]
+ },
+ {
+  "host": "tellurideventurenetwork.com",
+  "count": 1,
+  "examples": [
+   "https://tellurideventurenetwork.com/"
+  ]
+ },
+ {
+  "host": "www.thebrf.org",
+  "count": 1,
+  "examples": [
+   "https://www.thebrf.org/seed-grants"
+  ]
+ },
+ {
+  "host": "maps.app.goo.gl",
+  "count": 1,
+  "examples": [
+   "https://maps.app.goo.gl/brSdQCFqMz7gjmqHA"
+  ]
+ },
+ {
+  "host": "www.sweaterventures.com",
+  "count": 1,
+  "examples": [
+   "https://www.sweaterventures.com/"
+  ]
+ }
+]

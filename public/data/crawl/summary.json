@@ -1,0 +1,70 @@
+{
+ "updatedAt": "2026-08-11T16:50:36.050Z",
+ "startedAt": "2026-08-11T16:50:27.591Z",
+ "batches": 1,
+ "pagesFetched": 40,
+ "resourcesCatalogued": 34,
+ "relationshipEdges": 11,
+ "frontierSize": 2108,
+ "analysisQueueSize": 1,
+ "externalDomainsFound": 31,
+ "errors": 0,
+ "maxDepthReached": 3,
+ "depthHistogram": {
+  "0": {
+   "fetched": 12,
+   "discovered": 12,
+   "pending": 0
+  },
+  "1": {
+   "fetched": 15,
+   "discovered": 1673,
+   "pending": 1658
+  },
+  "2": {
+   "fetched": 11,
+   "discovered": 151,
+   "pending": 140
+  },
+  "3": {
+   "fetched": 2,
+   "discovered": 312,
+   "pending": 310
+  }
+ },
+ "saturation": {
+  "0": 1,
+  "1": 0.009,
+  "2": 0.073,
+  "3": 0.006
+ },
+ "perOrgDepth": {
+  "colorado.edu/venturepartners": 3,
+  "colorado.edu/researchinnovation": 2,
+  "colorado.edu/innovate": 2,
+  "colorado.edu/techtransfer": 3,
+  "colorado.edu/nvc": 1,
+  "colorado.edu/business": 2,
+  "colorado.edu/law": 0,
+  "colorado.edu/engineering": 0
+ },
+ "byType": {
+  "funding": 6,
+  "reference": 5,
+  "competition": 14,
+  "center": 3,
+  "event": 4,
+  "service": 1,
+  "program": 1
+ },
+ "byOrg": {
+  "colorado.edu/venturepartners": 13,
+  "colorado.edu/researchinnovation": 6,
+  "colorado.edu/innovate": 5,
+  "colorado.edu/techtransfer": 1,
+  "colorado.edu/nvc": 2,
+  "colorado.edu/business": 5,
+  "colorado.edu/law": 1,
+  "colorado.edu/engineering": 1
+ }
+}

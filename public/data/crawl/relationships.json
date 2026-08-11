@@ -1,0 +1,68 @@
+[
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-nvc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-community-demystifying-entrepreneurship-rural-color",
+  "to": "colorado-edu-business-deming-community-demystifying-entrepreneurship-rural-color",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-innovate-getseedfunding",
+  "to": "colorado-edu-innovate",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-research-development-funding-limited-submission-",
+  "to": "colorado-edu-researchinnovation-fundingawards-limited-campus-competitions",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-promo-kit-sbirsttr-week-funding-your-latest-innovat",
+  "to": "colorado-edu-venturepartners",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2019-10-21-twelve-cu-boulder-researchers-pitch-thei",
+  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2019-10-21-eleven-cu-boulder-researchers-pitch-thei",
+  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2019-10-21-eleven-cu-boulder-researchers-pitch-thei",
+  "to": "colorado-edu-venturepartners-2019-10-21-twelve-cu-boulder-researchers-pitch-thei",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
+  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-funding-opportunities-limited-campus-competition",
+  "to": "colorado-edu-innovate-funding-opportunities-limited-campus-competitions-anticipa",
+  "kind": "mentions",
+  "weight": 1
+ }
+]
