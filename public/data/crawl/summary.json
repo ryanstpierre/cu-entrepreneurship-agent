@@ -1,14 +1,14 @@
 {
- "updatedAt": "2026-08-11T17:14:07.571Z",
+ "updatedAt": "2026-08-11T17:17:59.062Z",
  "startedAt": "2026-08-11T16:50:27.591Z",
- "batches": 13,
- "pagesFetched": 3156,
- "resourcesCatalogued": 2050,
- "relationshipEdges": 3802,
- "frontierSize": 1851,
- "analysisQueueSize": 248,
- "externalDomainsFound": 421,
- "errors": 42,
+ "batches": 14,
+ "pagesFetched": 3426,
+ "resourcesCatalogued": 2132,
+ "relationshipEdges": 4145,
+ "frontierSize": 1664,
+ "analysisQueueSize": 265,
+ "externalDomainsFound": 425,
+ "errors": 49,
  "maxDepthReached": 8,
  "depthHistogram": {
   "0": {
@@ -37,24 +37,24 @@
    "pending": 0
   },
   "5": {
-   "fetched": 173,
-   "discovered": 529,
-   "pending": 356
+   "fetched": 427,
+   "discovered": 466,
+   "pending": 39
   },
   "6": {
-   "fetched": 63,
-   "discovered": 178,
-   "pending": 115
+   "fetched": 71,
+   "discovered": 314,
+   "pending": 243
   },
   "7": {
-   "fetched": 27,
-   "discovered": 45,
-   "pending": 18
+   "fetched": 35,
+   "discovered": 52,
+   "pending": 17
   },
   "8": {
    "fetched": 10,
-   "discovered": 14,
-   "pending": 4
+   "discovered": 17,
+   "pending": 7
   },
   "9": {
    "fetched": 0,
@@ -68,10 +68,10 @@
   "2": 0.343,
   "3": 1,
   "4": 1,
-  "5": 0.327,
-  "6": 0.354,
-  "7": 0.6,
-  "8": 0.714,
+  "5": 0.916,
+  "6": 0.226,
+  "7": 0.673,
+  "8": 0.588,
   "9": 0
  },
  "perOrgDepth": {
@@ -100,7 +100,7 @@
   "colorado.edu/coloradan": 3,
   "colorado.edu/outreach": 3,
   "coloradostartups.org": 1,
-  "colorado.edu/ocg": 4,
+  "colorado.edu/ocg": 5,
   "colorado.edu/teacher-leadership-ma": 4,
   "colorado.edu/teacher-leadership-certificates": 4,
   "watson.is": 3,
@@ -113,9 +113,10 @@
   "colorado.edu/calendar": 3,
   "colorado.edu/ideaforge": 4,
   "colorado.edu/2024": 5,
+  "colorado.edu/grantpledger_77": 5,
+  "colorado.edu/aerospaceventures": 5,
   "colorado.edu/rio": 4,
   "colorado.edu/dcvf": 5,
-  "colorado.edu/aerospaceventures": 4,
   "colorado.edu/emp": 2,
   "colorado.edu/music": 3,
   "colorado.edu/cmci": 2,
@@ -128,19 +129,19 @@
   "itll.colorado.edu": 1
  },
  "byType": {
-  "program": 61,
-  "funding": 425,
-  "event": 255,
-  "competition": 407,
-  "community": 129,
-  "reference": 458,
-  "center": 225,
+  "program": 62,
+  "funding": 436,
+  "event": 288,
+  "competition": 412,
+  "community": 139,
+  "reference": 471,
+  "center": 231,
   "service": 31,
-  "course": 46,
+  "course": 49,
   "space": 13
  },
  "byOrg": {
-  "colorado.edu/venturepartners": 299,
+  "colorado.edu/venturepartners": 308,
   "colorado.edu/researchinnovation": 111,
   "colorado.edu/innovate": 443,
   "colorado.edu/nvc": 140,
@@ -150,8 +151,8 @@
   "colorado.edu/today": 17,
   "colorado.edu/graduateschool": 13,
   "colorado.edu/initiative": 8,
-  "colorado.edu/oce": 12,
-  "startupcolorado.org": 411,
+  "colorado.edu/oce": 19,
+  "startupcolorado.org": 460,
   "colorado.edu/organizational-leadership-ms": 7,
   "cuanschutz.edu": 229,
   "colorado.edu/register": 2,
@@ -160,7 +161,7 @@
   "colorado.edu/engineering": 9,
   "colorado.edu/event": 28,
   "colorado.edu/mechanical": 3,
-  "colorado.edu/business": 70,
+  "colorado.edu/business": 79,
   "colorado.edu/law": 2,
   "colorado.edu/coloradan": 1,
   "colorado.edu/outreach": 2,
@@ -178,9 +179,10 @@
   "colorado.edu/calendar": 1,
   "colorado.edu/ideaforge": 31,
   "colorado.edu/2024": 2,
+  "colorado.edu/grantpledger_77": 1,
+  "colorado.edu/aerospaceventures": 8,
   "colorado.edu/rio": 1,
   "colorado.edu/dcvf": 1,
-  "colorado.edu/aerospaceventures": 1,
   "colorado.edu/emp": 4,
   "colorado.edu/music": 5,
   "colorado.edu/cmci": 1,

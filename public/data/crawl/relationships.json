@@ -3,7 +3,7 @@
   "from": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
   "to": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
   "kind": "links_to",
-  "weight": 13
+  "weight": 18
  },
  {
   "from": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
@@ -39,6 +39,12 @@
   "from": "cuanschutz-edu-innovations-about-us-news-events-2023-women-led-innovation-showca",
   "to": "cuanschutz-edu-innovations-student-fellowships",
   "kind": "mentions",
+  "weight": 6
+ },
+ {
+  "from": "colorado-edu-business-cesr-current-students-graduate-programs-leeds-sustainabili",
+  "to": "colorado-edu-business-cesr-current-students-graduate-programs-leeds-sustainabili",
+  "kind": "links_to",
   "weight": 6
  },
  {
@@ -114,8 +120,8 @@
   "weight": 5
  },
  {
-  "from": "colorado-edu-business-cesr-current-students-graduate-programs-leeds-sustainabili",
-  "to": "colorado-edu-business-cesr-current-students-graduate-programs-leeds-sustainabili",
+  "from": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
+  "to": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
   "kind": "links_to",
   "weight": 5
  },
@@ -234,10 +240,10 @@
   "weight": 4
  },
  {
-  "from": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
-  "to": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
-  "kind": "links_to",
-  "weight": 4
+  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "to": "colorado-edu-venturepartners-embark",
+  "kind": "mentions",
+  "weight": 3
  },
  {
   "from": "colorado-edu-innovate",
@@ -552,6 +558,18 @@
   "weight": 3
  },
  {
+  "from": "startupcolorado-org-fund-our-work",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "startupcolorado-org-about",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
   "from": "colorado-edu-venturepartners",
   "to": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
   "kind": "links_to",
@@ -603,12 +621,6 @@
   "from": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
   "to": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
   "kind": "links_to",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
-  "to": "colorado-edu-venturepartners-embark",
-  "kind": "mentions",
   "weight": 2
  },
  {
@@ -686,6 +698,12 @@
  {
   "from": "colorado-edu-venturepartners-2025-11-20-external-news-colorado-office-economic-d",
   "to": "colorado-edu-venturepartners-2024-11-21-external-news-oedit-announces-grants-uni",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-10-29-external-news-jila-based-innovation-team",
+  "to": "colorado-edu-innovate-2024-10-30-jila-based-innovation-team-flari-tech-wins-cu-b",
   "kind": "mentions",
   "weight": 2
  },
@@ -1002,19 +1020,115 @@
   "weight": 2
  },
  {
+  "from": "colorado-edu-venturepartners-about",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-about",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-get-started",
+  "to": "colorado-edu-venturepartners-startup-portfolio",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-creative-futures-fellowshi",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-investors-and-industry",
+  "to": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
+  "to": "colorado-edu-venturepartners-2025-03-10-internal-news-alum-sristy-agrawal-leads-",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events",
+  "to": "colorado-edu-innovate-programs-resources-denver-startup-week",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events",
+  "to": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "to": "colorado-edu-innovate-programs-resources-embark-deep-tech-startup-creator",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-embark-deep-tech-startup-c",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-newsroom",
+  "to": "colorado-edu-venturepartners-news",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-startup-portfolio",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-get-started-path-commercialization",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-about",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
   "from": "startupcolorado-org-programs",
-  "to": "innosphereventures-org-events",
-  "kind": "mentions",
-  "weight": 2
- },
- {
-  "from": "startupcolorado-org-fund-our-work",
-  "to": "innosphereventures-org-events",
-  "kind": "mentions",
-  "weight": 2
- },
- {
-  "from": "startupcolorado-org-about",
   "to": "innosphereventures-org-events",
   "kind": "mentions",
   "weight": 2
@@ -1178,6 +1292,48 @@
  {
   "from": "colorado-edu-researchinnovation-news-events-0",
   "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
   "kind": "mentions",
   "weight": 2
  },
@@ -2018,12 +2174,6 @@
  {
   "from": "colorado-edu-venturepartners-2024-10-02-cu-researchers-compete-share-125m-grant-",
   "to": "colorado-edu-venturepartners-2024-10-02-internal-news-cu-researchers-compete-sha",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-2024-10-29-external-news-jila-based-innovation-team",
-  "to": "colorado-edu-innovate-2024-10-30-jila-based-innovation-team-flari-tech-wins-cu-b",
   "kind": "mentions",
   "weight": 1
  },
@@ -2892,93 +3042,9 @@
   "weight": 1
  },
  {
-  "from": "colorado-edu-venturepartners-about",
-  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-about",
-  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-get-started",
-  "to": "colorado-edu-venturepartners-startup-portfolio",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-opportunities-and-events-creative-futures-fellowshi",
-  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-investors-and-industry",
-  "to": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
-  "to": "colorado-edu-venturepartners-2025-03-10-internal-news-alum-sristy-agrawal-leads-",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
-  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
-  "to": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
-  "kind": "links_to",
-  "weight": 1
- },
- {
   "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
   "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
   "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-opportunities-and-events",
-  "to": "colorado-edu-innovate-programs-resources-denver-startup-week",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-opportunities-and-events",
-  "to": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
-  "to": "colorado-edu-innovate-programs-resources-embark-deep-tech-startup-creator",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
-  "to": "colorado-edu-venturepartners-opportunities-and-events-embark-deep-tech-startup-c",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
-  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-newsroom",
-  "to": "colorado-edu-venturepartners-news",
-  "kind": "mentions",
   "weight": 1
  },
  {
@@ -3019,31 +3085,7 @@
  },
  {
   "from": "colorado-edu-venturepartners-frequently-asked-questions",
-  "to": "colorado-edu-venturepartners-startup-portfolio",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-frequently-asked-questions",
   "to": "colorado-edu-venturepartners-opportunities-and-events",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-frequently-asked-questions",
-  "to": "colorado-edu-venturepartners-get-started-path-commercialization",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-frequently-asked-questions",
-  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-frequently-asked-questions",
-  "to": "colorado-edu-venturepartners-about",
   "kind": "links_to",
   "weight": 1
  },
@@ -7885,48 +7927,6 @@
  },
  {
   "from": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
-  "to": "cuanschutz-edu-innovations-student-fellowships-6",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-ocg-fellowships",
-  "to": "cuanschutz-edu-innovations-student-fellowships",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-ocg-fellowships",
-  "to": "cuanschutz-edu-innovations-student-fellowships-1",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-ocg-fellowships",
-  "to": "cuanschutz-edu-innovations-student-fellowships-2",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-ocg-fellowships",
-  "to": "cuanschutz-edu-innovations-student-fellowships-4",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-ocg-fellowships",
-  "to": "cuanschutz-edu-innovations-student-fellowships-3",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-ocg-fellowships",
-  "to": "cuanschutz-edu-innovations-student-fellowships-5",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-ocg-fellowships",
   "to": "cuanschutz-edu-innovations-student-fellowships-6",
   "kind": "mentions",
   "weight": 1
@@ -22808,6 +22808,2064 @@
  {
   "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
   "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-02-12-internal-news-university-colorado-ascent",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-02-12-internal-news-university-colorado-ascent",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-10-29-external-news-jila-based-innovation-team",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-10-29-external-news-jila-based-innovation-team",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-23-external-news-flari-tech-named-denver-bu",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-23-external-news-flari-tech-named-denver-bu",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-23-external-news-flari-tech-named-denver-bu",
+  "to": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-tissueform-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-tissueform-inc",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-tissueform-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-tissueform-inc",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-tissueform-inc",
+  "to": "colorado-edu-venturepartners-2026-06-29-external-news-colorado-bioscience-associ",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-vitawave-tech-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-vitawave-tech-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-vitawave-tech-inc",
+  "to": "colorado-edu-venturepartners-2026-06-29-external-news-colorado-bioscience-associ",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-vitawave-tech-inc",
+  "to": "colorado-edu-venturepartners-2024-01-26-internal-news-first-cohort-cu-boulders-e",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-10-09-external-news-flari-tech-clinches-400000",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-10-09-external-news-flari-tech-clinches-400000",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-10-09-external-news-flari-tech-clinches-400000",
+  "to": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-01-26-internal-news-first-cohort-cu-boulders-e",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-01-26-internal-news-first-cohort-cu-boulders-e",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-10-28-internal-news-1m-awarded-university-colo",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-10-28-internal-news-1m-awarded-university-colo",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-10-28-internal-news-1m-awarded-university-colo",
+  "to": "colorado-edu-venturepartners-about-people-daniel-leonard",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-26-external-news-two-cu-boulder-innovators-",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-26-external-news-two-cu-boulder-innovators-",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-26-external-news-two-cu-boulder-innovators-",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-26-external-news-two-cu-boulder-innovators-",
+  "to": "colorado-edu-venturepartners-opportunities-and-events",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-07-19-external-news-vitrivax-wins-29m-departme",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-07-19-external-news-vitrivax-wins-29m-departme",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-category-ecosystem-building",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-how-to-build-a-startup-community",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-growth-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-stories-margaret-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-news-441615",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-uploadedtolink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-authorlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-originalimageurl-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-link-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-url-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d-amp-imag",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-wp-link-placeholder",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-quikrstuff-becomes-company-to-watch-opens-20in-20a-20new-20t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-yes-you-can-launch-a-climate-tech-startup-in-rural-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-idea-factory",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-stories-vanessa-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-news-151559",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-news-181440",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-page-donate",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer",
+  "to": "startupcolorado-org-news-378286",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-2024-08-28",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-2023-07-07",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-category-ecosystem-building",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-how-to-build-a-startup-community",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-growth-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-stories-margaret-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-news-441615",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-uploadedtolink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-authorlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-originalimageurl-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-link-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-url-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d-amp-imag",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-wp-link-placeholder",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-quikrstuff-becomes-company-to-watch-opens-20in-20a-20new-20t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-yes-you-can-launch-a-climate-tech-startup-in-rural-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-idea-factory",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-stories-vanessa-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-news-151559",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-news-181440",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-page-donate",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-news-378286",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-signup",
+  "to": "startupcolorado-org-organizer",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-2023-07-25",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-category-ecosystem-building",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-how-to-build-a-startup-community",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-growth-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-stories-margaret-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-news-441615",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-uploadedtolink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-authorlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-originalimageurl-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-link-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-url-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d-amp-imag",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-wp-link-placeholder",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-quikrstuff-becomes-company-to-watch-opens-20in-20a-20new-20t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-yes-you-can-launch-a-climate-tech-startup-in-rural-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-idea-factory",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-stories-vanessa-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-news-151559",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-news-181440",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-page-donate",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-news-378286",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-organizer",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-podcast",
+  "to": "startupcolorado-org-signup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-category-ecosystem-building",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-how-to-build-a-startup-community",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-growth-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-stories-margaret-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-news-441615",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-uploadedtolink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-authorlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-originalimageurl-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-link-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-url-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d-amp-imag",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-wp-link-placeholder",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-quikrstuff-becomes-company-to-watch-opens-20in-20a-20new-20t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-yes-you-can-launch-a-climate-tech-startup-in-rural-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-idea-factory",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-stories-vanessa-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-news-151559",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-news-181440",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-page-donate",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-news-378286",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-organizer",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-signup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-418593",
+  "to": "startupcolorado-org-page-podcast",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-listen-beyond-craft-brew",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-listen-beyond-craft-brew",
+  "to": "startupcolorado-org-stories-listen-beyond-craft-brew",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-2023-07-18",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-2024-10-31",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-first-southwest-community-fund",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-watson-institute",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-watson-institute",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-young-americans-center",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-meet-the-november-idea-factory-cohort",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-meet-the-november-idea-factory-cohort",
+  "to": "startupcolorado-org-stories-meet-the-november-idea-factory-cohort",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-about",
+  "to": "startupcolorado-org-fund-our-work",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-immunologic-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-immunologic-inc",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-immunologic-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-immunologic-inc",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-immunologic-inc",
+  "to": "colorado-edu-venturepartners-2023-06-08-advanced-industries-grants-accelerate-un",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-06-08-advanced-industries-grants-accelerate-un",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-06-08-advanced-industries-grants-accelerate-un",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-06-08-advanced-industries-grants-accelerate-un",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-06-08-advanced-industries-grants-accelerate-un",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-06-08-advanced-industries-grants-accelerate-un",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-06-08-advanced-industries-grants-accelerate-un",
+  "to": "colorado-edu-venturepartners-destination-startup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-illumen-therapeutics-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-illumen-therapeutics-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-illumen-therapeutics-inc",
+  "to": "colorado-edu-venturepartners-2026-06-29-external-news-colorado-bioscience-associ",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-illumen-therapeutics-inc",
+  "to": "colorado-edu-venturepartners-startup-portfolio-illumen-therapeutics-inc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-current-students-career-mentoring",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-current-students-career-mentoring",
+  "to": "colorado-edu-business-undergraduate-programs-enhance-your-experience-mentoring-p",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming-about-us-impact-report-deming-center-rankings-and-p",
+  "to": "colorado-edu-business-deming-about-deming",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-11-25-external-news-arpeggio-raises-20m-latest",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-11-25-external-news-arpeggio-raises-20m-latest",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-07-28-internal-news-solving-dilemma-space-dust",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-07-28-internal-news-solving-dilemma-space-dust",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "colorado-edu-ocg-fellowships-fellowship-faqs",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-aerospaceventures-capabilities-and-missions",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-aerospaceventures-capabilities-and-missions",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about",
+  "to": "colorado-edu-venturepartners-2025-11-25-internal-news-behind-our-innovation-engi",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-get-started",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-get-started",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-get-started",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-creative-futures-fellowshi",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-creative-futures-fellowshi",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-creative-futures-fellowshi",
+  "to": "colorado-edu-venturepartners-about-people-jonathan-marenus",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-investors-and-industry",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-investors-and-industry",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-investors-and-industry",
+  "to": "colorado-edu-venturepartners-newsroom-cu-startups-news",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-newsroom-cu-startups-news",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-newsroom-cu-startups-news",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-newsroom-cu-startups-news",
+  "to": "colorado-edu-venturepartners-technology-portfolio",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-newsroom-cu-startups-news",
+  "to": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-technology-portfolio",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-technology-portfolio",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
+  "to": "colorado-edu-venturepartners-about-people-amy-dodenhoff",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events",
+  "to": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-innovation-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events",
+  "to": "colorado-edu-venturepartners-subscribe",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events",
+  "to": "colorado-edu-venturepartners-newsroom",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events",
+  "to": "colorado-edu-venturepartners-frequently-asked-questions",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-subscribe",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-subscribe",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-newsroom",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-newsroom",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-about-reports-current-annual-report",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-nsf-i-corps-hub-west",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-university-innovators",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-frequently-asked-questions",
+  "to": "colorado-edu-venturepartners-about-reports",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-mark-madic-eventdisplay-past",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-category-ecosystem-building",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-how-to-build-a-startup-community",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-growth-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-stories-margaret-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-news-441615",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-uploadedtolink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-authorlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-originalimageurl-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-link-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-url-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d-amp-imag",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-wp-link-placeholder",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-quikrstuff-becomes-company-to-watch-opens-20in-20a-20new-20t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-yes-you-can-launch-a-climate-tech-startup-in-rural-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-idea-factory",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-stories-vanessa-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-news-151559",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-news-181440",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-page-donate",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-news-378286",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-organizer",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-signup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-page-podcast",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-info-localrez-com",
+  "to": "startupcolorado-org-news-418593",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-startup-colorados-2025-annual-report-is-here",
+  "to": "cuanschutz-edu-innovations-about-us-data-metrics-2025",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-startup-colorados-2025-annual-report-is-here",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-wssw-extends-impact-as-regional-event",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-night-market-at-wssw25",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-one-year-of-the-rural-creative-collective",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-enactus-usa-national-exposition-2026",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-youthbiz-spring-marketplace",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-xi-tech-connect-coffee-community-3",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-xi-tech-connect-coffee-community-2",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-exploring-watercolor-workshop",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-xi-tech-connect-coffee-community",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-through-the-eyes-of-two-women-2025-10-03",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-first-southwest-community-fund-2",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-first-southwest-community-fund-2",
+  "to": "startupcolorado-org-organizer-first-southwest-community-fund",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-06",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-rocky-mountain-microfinance-institute",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-inclusive-by-design",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-star-your-business-a-startup-checklist",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-finance-friday",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-idea-feasibility-methods-to-test-your-business-idea",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-launch-your-business",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-free-spanish-classes-for-beginners-2025-10-28",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-service-to-success-veterans-connection-kickoff-2025-09",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-service-to-success-veterans-connection-kickoff-2025-09",
+  "to": "startupcolorado-org-event-service-to-success-veterans-connection-kickoff-2025-09",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-creative-connections",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-startup-colorado-lean-coffee-4",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-startup-colorado-lean-coffee-4",
+  "to": "startupcolorado-org-event-startup-colorado-lean-coffee-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-tag-online-event-page-3",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-business-valuation-basics-for-owners-or-buyers",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-virtual-friday-reset-yoga-meditation",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-lean-coffee",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-page-3-eventdisplay-past",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-series-xi-tech-connect-coffee-community",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-page-4",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-page-4",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-the-peoples-festival-celebrating-employee-owned-busine",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-the-peoples-festival-celebrating-employee-owned-busine",
+  "to": "startupcolorado-org-event-the-peoples-festival-celebrating-employee-owned-busine",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-page-3-eventdisplay-past",
+  "to": "innosphereventures-org-events",
   "kind": "mentions",
   "weight": 1
  }
