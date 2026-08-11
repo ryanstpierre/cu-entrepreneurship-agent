@@ -24,6 +24,12 @@
   "weight": 5
  },
  {
+  "from": "cuanschutz-edu-innovations-about-us-news-events-2023-women-led-innovation-showca",
+  "to": "cuanschutz-edu-innovations-about-us-news-events-2023-women-led-innovation-showca",
+  "kind": "links_to",
+  "weight": 5
+ },
+ {
   "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
   "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
   "kind": "links_to",
@@ -206,6 +212,18 @@
  {
   "from": "colorado-edu-innovate-news",
   "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
+  "to": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
   "kind": "links_to",
   "weight": 3
  },
@@ -657,6 +675,30 @@
   "from": "colorado-edu-innovate-programs-resources-startups2students-s2s",
   "to": "colorado-edu-innovate-startups2students-s2s",
   "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-nvc-about",
+  "to": "colorado-edu-innovate-support",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "startupcolorado-org-programs",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-featured-eventdisplay-past",
+  "to": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
+  "kind": "links_to",
   "weight": 2
  },
  {
@@ -2238,12 +2280,6 @@
   "weight": 1
  },
  {
-  "from": "colorado-edu-nvc-about",
-  "to": "colorado-edu-innovate-support",
-  "kind": "links_to",
-  "weight": 1
- },
- {
   "from": "colorado-edu-nvc-compete",
   "to": "colorado-edu-innovate-support",
   "kind": "links_to",
@@ -2647,12 +2683,6 @@
  },
  {
   "from": "innosphereventures-org-accelerators",
-  "to": "cuanschutz-edu-cu-innovations",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
   "to": "cuanschutz-edu-cu-innovations",
   "kind": "mentions",
   "weight": 1
@@ -3306,12 +3336,6 @@
   "weight": 1
  },
  {
-  "from": "startupcolorado-org-programs",
-  "to": "innosphereventures-org-events",
-  "kind": "mentions",
-  "weight": 1
- },
- {
   "from": "startupcolorado-org-advisor-program",
   "to": "innosphereventures-org-events",
   "kind": "mentions",
@@ -3549,18 +3573,6 @@
   "from": "startupcolorado-org-how-sasquatch-campers-earned-a-rural-jump-start-grant",
   "to": "innosphereventures-org-events",
   "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
-  "to": "innosphereventures-org-events",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
-  "to": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
-  "kind": "links_to",
   "weight": 1
  },
  {
@@ -4250,6 +4262,3384 @@
  {
   "from": "startupcolorado-org-meet-the-founders-september-cohort-2023",
   "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-feldman-lily-elizabeth-extjptic",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-feldman-lily-elizabeth-extjptic",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-feldman-lily-elizabeth-extjptic",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
+  "to": "cuanschutz-edu-cu-innovations-campus-innovator-funding-startup-toolbox",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site-innovator-resources-prior-innovat",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-0e37bbe7-3028-",
+  "to": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-0e37bbe7-3028-",
+  "to": "cuanschutz-edu-cu-innovations-campus-innovator-funding-startup-toolbox",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-0e37bbe7-3028-",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site-innovator-resources-prior-innovat",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-fbfaa9c3",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-fbfaa9c3",
+  "to": "startupcolorado-org-all-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-fbfaa9c3",
+  "to": "colorado-edu-innovate-programs-resources-denver-startup-week",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-fbfaa9c3",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-fbfaa9c3",
+  "to": "startupcolorado-org-all-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-give-first-then-see-what-grows",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-why-every-founder-should-pitch",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-how-entrepreneurship-can-foster-belonging",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-how-to-build-a-belonging-business",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-talking-rural-entrepreneurship-with-colorados-state-",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-how-rural-founders-can-tap-into-the-circular-economy",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-funding-your-rural-startup-how-to-choose-the-right-m",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-is-a-small-business-loan-right-for-you",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-from-founder-to-thought-leader",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-the-future-of-rural-entrepreneurship",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-colorados-rural-accelerators-drive-innovation-and-op",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-how-rural-startups-can-win-earned-media",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-welcoming-olivia-reed",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-how-treadshare-is-changing-travel-to-colorados-mount",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-put-your-guerrilla-suit-on",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-category-startup-communities",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-worksheet-podcasting-for-entrepreneurs",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-these-colorado-farmers-want-to-change-the-food-indus",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-how-this-family-made-a-local-tradition-pop",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-why-everyone-is-talking-ecosystem-building",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-listen-from-baker-to-business-owner-how-jessica-larr",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-listen-how-one-carniceria-is-building-for-family-com",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-listen-good-vibes-in-craig-colorados-economic-transi",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-how-durango-became-an-outdoor-industry-hub",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-how-durango-became-an-outdoor-industry-hub",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-how-durango-became-an-outdoor-industry-hub",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-listen-from-baker-to-business-owner-how-jessica-larriva-laun",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-listen-from-baker-to-business-owner-how-jessica-larriva-laun",
+  "to": "startupcolorado-org-stories-listen-from-baker-to-business-owner-how-jessica-larr",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-podcasts",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-podcasts",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-podcasts",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-podcasts",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-podcasts",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-podcasts",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-podcasts",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-podcasts",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-podcasts",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-podcasts",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-podcasts",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-listen-how-one-carniceria-is-building-for-family-community",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-listen-good-vibes-in-craig-colorados-economic-transition",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-ac5c647c",
+  "to": "colorado-edu-innovate-programs-resources-denver-startup-week",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-ac5c647c",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-ac5c647c",
+  "to": "startupcolorado-org-all-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-ac5c647c",
+  "to": "startupcolorado-org-all-events-list-shortcode-fbfaa9c3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-discovery",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-discovery",
+  "to": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-discovery-lice",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-discovery",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-discovery",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-muller-kimberly-ext7q6vw5",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-muller-kimberly-ext7q6vw5",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-cu-healthcare-innovation-fun",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-muller-kimberly-ext7q6vw5",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-muller-kimberly-ext7q6vw5",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-perez-amanda-extlqcd7n",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-perez-amanda-extlqcd7n",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-perez-amanda-extlqcd7n",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-tapolsky-mary-extpztj5f",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-tapolsky-mary-extpztj5f",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-tapolsky-mary-extpztj5f",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ac5c647c",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ac5c647c",
+  "to": "startupcolorado-org-all-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ac5c647c",
+  "to": "startupcolorado-org-all-events-photo-shortcode-fbfaa9c3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ac5c647c",
+  "to": "startupcolorado-org-all-events-list-shortcode-fbfaa9c3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ac5c647c",
+  "to": "startupcolorado-org-all-events-list-shortcode-ac5c647c",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-utley-tom-extwoq5ba",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-utley-tom-extwoq5ba",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-utley-tom-extwoq5ba",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-ross-jordan-extou6bf6",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-ross-jordan-extou6bf6",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-ross-jordan-extou6bf6",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-allard-emma-extgttq05",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-allard-emma-extgttq05",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-allard-emma-extgttq05",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-ferachi-harrison-exts0qruj",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-ferachi-harrison-exts0qruj",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-ferachi-harrison-exts0qruj",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-goodwin-colleen-exts7dhs2",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-goodwin-colleen-exts7dhs2",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-goodwin-colleen-exts7dhs2",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-adnan-alison-ext3vysy6",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-adnan-alison-ext3vysy6",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-adnan-alison-ext3vysy6",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-harrison-brad-ext80dkyg",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-harrison-brad-ext80dkyg",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-harrison-brad-ext80dkyg",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-harrison-shawna-ucd6004490779",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-harrison-shawna-ucd6004490779",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-harrison-shawna-ucd6004490779",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-hegel-angie-extgucl4b",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-hegel-angie-extgucl4b",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-hegel-angie-extgucl4b",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-laurence-gabe-extvnw99x",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-laurence-gabe-extvnw99x",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-cu-healthcare-innovation-fun",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-laurence-gabe-extvnw99x",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-laurence-gabe-extvnw99x",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-mccaffery-addie-ucd6004482316",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-mccaffery-addie-ucd6004482316",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-mccaffery-addie-ucd6004482316",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-morie-don-ext5eugdn",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-morie-don-ext5eugdn",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-morie-don-ext5eugdn",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-johnston-jane-ext7a6f8p",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-johnston-jane-ext7a6f8p",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-johnston-jane-ext7a6f8p",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-molk-doreen-ext1asn8s",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-molk-doreen-ext1asn8s",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-molk-doreen-ext1asn8s",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-parker-morgan-ext9wufds",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-parker-morgan-ext9wufds",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-parker-morgan-ext9wufds",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-smith-clay-extxkj950",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-smith-clay-extxkj950",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-smith-clay-extxkj950",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-pagels-lindley-exty80pv3",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-pagels-lindley-exty80pv3",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-pagels-lindley-exty80pv3",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-stanker-chad-ext3qyr3t",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-stanker-chad-ext3qyr3t",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-stanker-chad-ext3qyr3t",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-5",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-taylor-kimberly-extqz9lro",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-taylor-kimberly-extqz9lro",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-taylor-kimberly-extqz9lro",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-troemner-aaron-extx5me2q",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-troemner-aaron-extx5me2q",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-troemner-aaron-extx5me2q",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-wang-david-ext7kbvu1",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-wang-david-ext7kbvu1",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-wang-david-ext7kbvu1",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-zane-gabriella-exte5vns9",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-zane-gabriella-exte5vns9",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-zane-gabriella-exte5vns9",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-uchida-lili-ucd6004063037",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-uchida-lili-ucd6004063037",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-team-profile-uchida-lili-ucd6004063037",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-news-events-2026-cu-anschutz-innovation-foru",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-news-events-2026-cu-anschutz-innovation-foru",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-cu-healthcare-innovation-fun",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-news-events-2026-cu-anschutz-innovation-foru",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-news-events-2026-cu-anschutz-innovation-foru",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-data-metrics-2023",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-data-metrics-2023",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-data-metrics-2023",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-news-events-2024-cu-innovation-forum",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-news-events-2024-cu-innovation-forum",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-news-events-2024-cu-innovation-forum",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-news-events-2023-women-led-innovation-showca",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-news-events-2023-women-led-innovation-showca",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-cu-healthcare-innovation-fun",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-news-events-2023-women-led-innovation-showca",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-news-events-2023-women-led-innovation-showca",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-data-metrics-2022",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-data-metrics-2022",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-data-metrics-2022",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-data-metrics-2020",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-data-metrics-2020",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-about-us-data-metrics-2020",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
+  "to": "cuanschutz-edu-innovations-innovations-industry-partner-company",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-manage-ip",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-manage-ip",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-manage-ip",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-spark-events-recordings",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-spark-events-recordings",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-spark-events-recordings",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-spark-events-recordings",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-student-ip-undergraduate-innovators",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-student-ip-undergraduate-innovators",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-student-ip-undergraduate-innovators",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-student-ip-undergraduate-innovators",
+  "to": "colorado-edu-music-academics-centers-and-programs-entrepreneurship-center-music",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-student-ip-undergraduate-innovators",
+  "to": "colorado-edu-law-academics-clinics-entrepreneurial-law-clinic",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-burciaga-samuel-uc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-burciaga-samuel-uc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-burciaga-samuel-uc",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-cedrone-lena-extmo",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-cedrone-lena-extmo",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-cedrone-lena-extmo",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-chaudhury-uddeep-e",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-chaudhury-uddeep-e",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-chaudhury-uddeep-e",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-crary-ariana-extc9",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-crary-ariana-extc9",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-crary-ariana-extc9",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-aithal-manjushree-",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-aithal-manjushree-",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-aithal-manjushree-",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-haas-evan-ext5qanw",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-haas-evan-ext5qanw",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-haas-evan-ext5qanw",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-ingram-asia-ext8a7",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-ingram-asia-ext8a7",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-ingram-asia-ext8a7",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-koutsoukos-stefano",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-koutsoukos-stefano",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-koutsoukos-stefano",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-lehner-taylor-ext2",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-lehner-taylor-ext2",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-lehner-taylor-ext2",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-andani-sameer-extr",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-andani-sameer-extr",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-andani-sameer-extr",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-baler-gali-extp66q",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-baler-gali-extp66q",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-cu-healthcare-innovation-fun",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-baler-gali-extp66q",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-baler-gali-extp66q",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-baler-gali-extp66q",
+  "to": "cuanschutz-edu-innovations-about-us-team-profile-baler-gali-extp66qym",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-buchta-bill-ext0m9",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-buchta-bill-ext0m9",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-buchta-bill-ext0m9",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-bortot-maria-ext04",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-bortot-maria-ext04",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-bortot-maria-ext04",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-cao-phoebe-ext6v1r",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-cao-phoebe-ext6v1r",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-fellow-profile-cao-phoebe-ext6v1r",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-1",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-1",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-cu-healthcare-innovation-fun",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-1",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-1",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-2",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-2",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-2",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-2",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-4",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-4",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-4",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-4",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-4",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-3",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-3",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-3",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-3",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-3",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-3",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-5",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-5",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-5",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-5",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-5",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-5",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-5",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-docs-librariesprovider109-default-document-library-good-ip-hygien",
+  "to": "cuanschutz-edu-cu-innovations-campus-innovator-funding-startup-toolbox",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-docs-librariesprovider109-default-document-library-good-ip-hygien",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site-innovator-resources-prior-innovat",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-docs-librariesprovider109-default-document-library-good-ip-hygien",
+  "to": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-0e37bbe7-3028-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-about-us-team-profile-dressler-tara-ext42z6wy",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-about-us-team-profile-dressler-tara-ext42z6wy",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-about-us-team-profile-dressler-tara-ext42z6wy",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-about-us-team-profile-dressler-tara-ext42z6wy",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-about-us-team-profile-dressler-tara-ext42z6wy",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-about-us-team-profile-dressler-tara-ext42z6wy",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-about-us-team-profile-dressler-tara-ext42z6wy",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-about-us-team-profile-dressler-tara-ext42z6wy",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-6",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-6",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-6",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-6",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-6",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-6",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-6",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-student-fellowships-6",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-colorados-venture-capital-pace-splits-by-sector-at-t",
+  "to": "innosphereventures-org-news-colorado-competitiveness-blog-series-inside-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-colorados-venture-capital-pace-splits-by-sector-at-t",
+  "to": "innosphereventures-org-strategic-plan",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-colorados-venture-capital-pace-splits-by-sector-at-t",
+  "to": "innosphereventures-org-about",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-colorados-venture-capital-pace-splits-by-sector-at-t",
+  "to": "innosphereventures-org-news-nsf-ascend-engine-advances-extreme-weather-resilienc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-colorados-venture-capital-pace-splits-by-sector-at-t",
+  "to": "innosphereventures-org-news-milken-institute-to-headline-innospheres-flagship-in",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-colorados-venture-capital-pace-splits-by-sector-at-t",
+  "to": "innosphereventures-org-news-colorado-venture-capital-report-2025",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-report-2026-q2-venture-capital-report",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-report-2026-q2-venture-capital-report",
+  "to": "innosphereventures-org-news-colorado-competitiveness-blog-series-inside-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-report-2026-q2-venture-capital-report",
+  "to": "innosphereventures-org-strategic-plan",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-report-2026-q2-venture-capital-report",
+  "to": "innosphereventures-org-about",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-report-2026-q2-venture-capital-report",
+  "to": "innosphereventures-org-news-nsf-ascend-engine-advances-extreme-weather-resilienc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-report-2026-q2-venture-capital-report",
+  "to": "innosphereventures-org-news-milken-institute-to-headline-innospheres-flagship-in",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-report-2026-q2-venture-capital-report",
+  "to": "innosphereventures-org-news-colorado-venture-capital-report-2025",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-report-2026-q2-venture-capital-report",
+  "to": "innosphereventures-org-news-colorados-venture-capital-pace-splits-by-sector-at-t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-what-colorado-can-learn-from-the-research-triangle-a",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-what-colorado-can-learn-from-the-research-triangle-a",
+  "to": "innosphereventures-org-news-colorado-competitiveness-blog-series-inside-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-what-colorado-can-learn-from-the-research-triangle-a",
+  "to": "innosphereventures-org-strategic-plan",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-what-colorado-can-learn-from-the-research-triangle-a",
+  "to": "innosphereventures-org-about",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-what-colorado-can-learn-from-the-research-triangle-a",
+  "to": "innosphereventures-org-news-nsf-ascend-engine-advances-extreme-weather-resilienc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-what-colorado-can-learn-from-the-research-triangle-a",
+  "to": "innosphereventures-org-news-milken-institute-to-headline-innospheres-flagship-in",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-what-colorado-can-learn-from-the-research-triangle-a",
+  "to": "innosphereventures-org-news-colorado-venture-capital-report-2025",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-what-colorado-can-learn-from-the-research-triangle-a",
+  "to": "innosphereventures-org-news-colorados-venture-capital-pace-splits-by-sector-at-t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-what-colorado-can-learn-from-the-research-triangle-a",
+  "to": "innosphereventures-org-news-report-2026-q2-venture-capital-report",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-university-of-wyoming-nsf-ascend-engine-and-nvidia-b",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-university-of-wyoming-nsf-ascend-engine-and-nvidia-b",
+  "to": "innosphereventures-org-news-colorado-competitiveness-blog-series-inside-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-university-of-wyoming-nsf-ascend-engine-and-nvidia-b",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-university-of-wyoming-nsf-ascend-engine-and-nvidia-b",
+  "to": "innosphereventures-org-strategic-plan",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-university-of-wyoming-nsf-ascend-engine-and-nvidia-b",
+  "to": "innosphereventures-org-about",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-university-of-wyoming-nsf-ascend-engine-and-nvidia-b",
+  "to": "innosphereventures-org-news-nsf-ascend-engine-advances-extreme-weather-resilienc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-university-of-wyoming-nsf-ascend-engine-and-nvidia-b",
+  "to": "innosphereventures-org-news-milken-institute-to-headline-innospheres-flagship-in",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-university-of-wyoming-nsf-ascend-engine-and-nvidia-b",
+  "to": "innosphereventures-org-news-colorado-venture-capital-report-2025",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-university-of-wyoming-nsf-ascend-engine-and-nvidia-b",
+  "to": "innosphereventures-org-news-colorados-venture-capital-pace-splits-by-sector-at-t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-university-of-wyoming-nsf-ascend-engine-and-nvidia-b",
+  "to": "innosphereventures-org-news-report-2026-q2-venture-capital-report",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-university-of-wyoming-nsf-ascend-engine-and-nvidia-b",
+  "to": "innosphereventures-org-news-what-colorado-can-learn-from-the-research-triangle-a",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-innosphere-releases-2025-venture-capital-comparison-",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-innosphere-releases-2025-venture-capital-comparison-",
+  "to": "innosphereventures-org-news-colorado-competitiveness-blog-series-inside-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-innosphere-releases-2025-venture-capital-comparison-",
+  "to": "innosphereventures-org-strategic-plan",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-innosphere-releases-2025-venture-capital-comparison-",
+  "to": "innosphereventures-org-about",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-innosphere-releases-2025-venture-capital-comparison-",
+  "to": "innosphereventures-org-news-nsf-ascend-engine-advances-extreme-weather-resilienc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-innosphere-releases-2025-venture-capital-comparison-",
+  "to": "innosphereventures-org-news-milken-institute-to-headline-innospheres-flagship-in",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-innosphere-releases-2025-venture-capital-comparison-",
+  "to": "innosphereventures-org-news-colorado-venture-capital-report-2025",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-innosphere-releases-2025-venture-capital-comparison-",
+  "to": "innosphereventures-org-news-colorados-venture-capital-pace-splits-by-sector-at-t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-innosphere-releases-2025-venture-capital-comparison-",
+  "to": "innosphereventures-org-news-report-2026-q2-venture-capital-report",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-innosphere-releases-2025-venture-capital-comparison-",
+  "to": "innosphereventures-org-news-what-colorado-can-learn-from-the-research-triangle-a",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "innosphereventures-org-news-innosphere-releases-2025-venture-capital-comparison-",
+  "to": "innosphereventures-org-news-university-of-wyoming-nsf-ascend-engine-and-nvidia-b",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-community-add",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-the-backpack-didnt-fit",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-camp-v-is-putting-colorados-rural-west-end-on-the-map",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-e89a5463",
+  "to": "colorado-edu-innovate-programs-resources-denver-startup-week",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-e89a5463",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-e89a5463",
+  "to": "startupcolorado-org-all-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-e89a5463",
+  "to": "startupcolorado-org-all-events-list-shortcode-fbfaa9c3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-e89a5463",
+  "to": "startupcolorado-org-all-events-list-shortcode-ac5c647c",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-e89a5463",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-e89a5463",
+  "to": "startupcolorado-org-all-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-e89a5463",
+  "to": "startupcolorado-org-all-events-photo-shortcode-fbfaa9c3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-e89a5463",
+  "to": "startupcolorado-org-all-events-list-shortcode-fbfaa9c3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-e89a5463",
+  "to": "startupcolorado-org-all-events-list-shortcode-ac5c647c",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-e89a5463",
+  "to": "startupcolorado-org-all-events-photo-shortcode-ac5c647c",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-e89a5463",
+  "to": "startupcolorado-org-all-events-list-shortcode-e89a5463",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-sterling-pitch-competition-winners",
+  "to": "startupcolorado-org-stories-sterling-pitch-competition-winners",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-sterling-pitch-competition-winners",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-call-for-aiq-concomai-2026-papers-speakers-sponsors-2",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-call-for-aiq-concomai-2026-papers-speakers-sponsors",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-call-for-aiq-concomai-2026-papers-speakers-sponsors",
+  "to": "startupcolorado-org-event-call-for-aiq-concomai-2026-papers-speakers-sponsors-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-ai-solutions-challenge-sprint",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-soco-startup-week-kick-off-party",
+  "to": "colorado-edu-innovate-programs-resources-denver-startup-week",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-soco-startup-week-kick-off-party",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-oedit-and-office-of-supplier-diversi",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-oedit-and-office-of-supplier-diversi",
+  "to": "startupcolorado-org-event-soco-startup-week-oedit-and-office-of-supplier-diversi",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-breaking-rural-stereotypes-with-emer",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-breaking-rural-stereotypes-with-emer",
+  "to": "startupcolorado-org-event-soco-startup-week-breaking-rural-stereotypes-with-emer",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-a-hassle-free-retirement-plan-for-working-coloradans-secures",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-workforce-development-resource-hub",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-workforce-development-resource-hub-hiring-fa",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-workforce-development-resource-hub-technical",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-category-ecosystem-building",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "to": "startupcolorado-org-category-ecosystem-building",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-category-ecosystem-building",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-to-build-a-startup-community",
+  "to": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-state-of-startup-communities-in-rural-colorado",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-why-everyone-is-talking-ecosystem-building",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-these-colorado-farmers-want-to-change-the-food-industry",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-these-colorado-farmers-want-to-change-the-food-industry",
+  "to": "startupcolorado-org-stories-these-colorado-farmers-want-to-change-the-food-indus",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-durango-became-an-outdoor-industry-hub",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-durango-became-an-outdoor-industry-hub",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-durango-became-an-outdoor-industry-hub",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-how-durango-became-an-outdoor-industry-hub",
+  "to": "startupcolorado-org-stories-how-durango-became-an-outdoor-industry-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-listen-the-entrepreneurs-tackling-water-scarcity",
+  "to": "startupcolorado-org-stories-listen-the-entrepreneurs-tackling-water-scarcity",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-listen-the-entrepreneurs-tackling-water-scarcity",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-profile-emilie-odeile-and-ken-chapin",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-these-outdoor-rec-entrepreneurs-are-tackling-steamboats-bigg",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-featured",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-featured",
+  "to": "startupcolorado-org-all-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-featured",
+  "to": "startupcolorado-org-all-events-list-shortcode-fbfaa9c3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-featured",
+  "to": "startupcolorado-org-all-events-list-shortcode-ac5c647c",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-featured",
+  "to": "startupcolorado-org-all-events-list-shortcode-e89a5463",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-featured",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-featured",
+  "to": "startupcolorado-org-all-events-photo-featured-shortcode-fdcdb04f",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-featured",
+  "to": "startupcolorado-org-all-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-featured",
+  "to": "startupcolorado-org-all-events-list-shortcode-fbfaa9c3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-featured",
+  "to": "startupcolorado-org-all-events-list-shortcode-ac5c647c",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-featured",
+  "to": "startupcolorado-org-all-events-list-shortcode-e89a5463",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-featured-eventdisplay-past",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-capital-bootcamp-a-step-by-step-technical-guide-to-pre",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-capital-bootcamp-a-step-by-step-technical-guide-to-pre",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-capital-bootcamp-a-step-by-step-technical-guide-to-pre",
+  "to": "startupcolorado-org-event-capital-bootcamp-a-step-by-step-technical-guide-to-pre",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-august-capital-bootcamp-info-session",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-august-capital-bootcamp-info-session",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-9",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-12",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-9",
+  "to": "startupcolorado-org-join-the-community-rural-women-in-entrepreneurship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-9",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-capital-bootcamp-collateral-credit-enhancements-and-br",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-capital-bootcamp-collateral-credit-enhancements-and-br",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-capital-bootcamp-collateral-credit-enhancements-and-br",
+  "to": "startupcolorado-org-event-capital-bootcamp-collateral-credit-enhancements-and-br",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-capital-bootcamp-building-your-business-financial-narr",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-capital-bootcamp-building-your-business-financial-narr",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-capital-bootcamp-building-your-business-financial-narr",
+  "to": "startupcolorado-org-event-capital-bootcamp-building-your-business-financial-narr",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-creative-connections-the-mountain-and-valley-fib",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-creative-connections-the-mountain-and-valley-fib",
+  "to": "startupcolorado-org-event-rural-creative-connections-the-mountain-and-valley-fib",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-capital-bootcamp-application-submission-and-what-comes",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-capital-bootcamp-application-submission-and-what-comes",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-capital-bootcamp-application-submission-and-what-comes",
+  "to": "startupcolorado-org-event-capital-bootcamp-application-submission-and-what-comes",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-category-ecosystem-building",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-how-to-build-a-startup-community",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-about",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-programs",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-ecosystem-builders",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-stories",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "to": "startupcolorado-org-fund-our-work",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-creative-collective-night-market-west-slope-star",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-creative-collective-night-market-west-slope-star",
+  "to": "startupcolorado-org-event-rural-creative-collective-night-market-west-slope-star",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-programs",
+  "to": "startupcolorado-org-education",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ce76b57d",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ce76b57d",
+  "to": "startupcolorado-org-all-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ce76b57d",
+  "to": "startupcolorado-org-all-events-photo-shortcode-fbfaa9c3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ce76b57d",
+  "to": "startupcolorado-org-all-events-list-shortcode-fbfaa9c3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ce76b57d",
+  "to": "startupcolorado-org-all-events-list-shortcode-ac5c647c",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ce76b57d",
+  "to": "startupcolorado-org-all-events-photo-shortcode-ac5c647c",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ce76b57d",
+  "to": "startupcolorado-org-all-events-list-shortcode-e89a5463",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-shortcode-ce76b57d",
+  "to": "startupcolorado-org-all-events-photo-shortcode-e89a5463",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-ce76b57d",
+  "to": "colorado-edu-innovate-programs-resources-denver-startup-week",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-ce76b57d",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-ce76b57d",
+  "to": "startupcolorado-org-all-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-ce76b57d",
+  "to": "startupcolorado-org-all-events-list-shortcode-fbfaa9c3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-ce76b57d",
+  "to": "startupcolorado-org-all-events-list-shortcode-ac5c647c",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-shortcode-ce76b57d",
+  "to": "startupcolorado-org-all-events-list-shortcode-e89a5463",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-new-events-1",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-new-events-1",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-contact",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-home",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-leaderboard",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-leaderboard",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-code-of-conduct",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-code-of-conduct",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-ecosystem-canvas",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-ecosystem-canvas",
+  "to": "coloradostartups-org-pitch-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-ecosystem-canvas",
+  "to": "coloradostartups-org-seed-angel-forum",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-ecosystem-canvas",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-overview",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-overview",
+  "to": "coloradostartups-org-social-groups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-overview",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-event-connect",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-event-connect",
+  "to": "coloradostartups-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-event-connect",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-event-calendar",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-event-calendar",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-startup-happy-hour",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-startup-happy-hour",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-the-team",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-the-team",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-startup-hikes",
+  "to": "colorado-edu-innovate-programs-resources-denver-startup-week",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-startup-hikes",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-startup-hikes",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-privacy-policy",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-privacy-policy",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-ski-days",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-ski-days",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-new-page-1",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-new-page-1",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-newsletter",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-newsletter",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-links",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-links",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation",
+  "to": "colorado-edu-researchinnovation-bulletin",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-store",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-store",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-research-operations-administration",
+  "to": "colorado-edu-ocg",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-innovation-partnerships",
+  "to": "colorado-edu-venturepartners",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-research-innovation-office-rio-directory",
+  "to": "colorado-edu-innovate-about",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-news-events-0",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-fund",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "coloradostartups-org-fund",
+  "to": "coloradostartups-org-home",
   "kind": "mentions",
   "weight": 1
  }

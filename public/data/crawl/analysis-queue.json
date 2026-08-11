@@ -672,6 +672,12 @@
   "depth": 2
  },
  {
+  "url": "https://startupcolorado.org/stories/how-entrepreneurship-can-foster-belonging",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 3
+ },
+ {
   "url": "https://www.colorado.edu/business/deming/news-stories/demystifying-entrepreneurship-rural-colorado-workshop-series-news",
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
@@ -1266,6 +1272,12 @@
   "depth": 2
  },
  {
+  "url": "https://startupcolorado.org/stories/funding-your-rural-startup-how-to-choose-the-right-mix-for-growth",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 3
+ },
+ {
   "url": "https://www.colorado.edu/innovate/media/2175",
   "reason": "pdf-needs-extraction",
   "relevance": 1,
@@ -1282,5 +1294,29 @@
   "reason": "pdf-needs-extraction",
   "relevance": 1,
   "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider109/default-document-library/commercialization_onesheet_1-2.pdf?sfvrsn=fdfaa1bb_4",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider109/default-document-library/commercialization-onesheet-2-1.pdf?sfvrsn=1125acbb_4",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider109/default-document-library/applicability-for-management-of-consulting-agreements-by-cu-anschutz-innovations.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 2
+ },
+ {
+  "url": "http://colorado.edu/researchinnovation/media/5991",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
  }
 ]

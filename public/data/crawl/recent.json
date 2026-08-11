@@ -1,542 +1,542 @@
 [
  {
-  "id": "startupcolorado-org-meet-the-founders-september-cohort-2023",
-  "title": "Meet the Founders: September COOPETITION COHORT - Startup Colorado",
-  "type": "community",
-  "org": "startupcolorado.org",
-  "depth": 5,
+  "id": "coloradostartups-org-fund",
+  "title": "Fund &mdash; Colorado Startups",
+  "type": "funding",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 5,
+  "at": "2026-08-11T17:02:52.728Z"
+ },
+ {
+  "id": "colorado-edu-ocg-fellowships",
+  "title": "Fellowships and Student Research Grants | Office of Contracts and Grants",
+  "type": "funding",
+  "org": "colorado.edu/ocg",
+  "depth": 3,
   "specificity": 8,
-  "at": "2026-08-11T16:59:55.737Z"
+  "at": "2026-08-11T17:02:50.366Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-holers-michael-exth58kar",
-  "title": "michael.holers@cuanschutz.edu",
-  "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
-  "specificity": 5,
-  "at": "2026-08-11T16:59:54.871Z"
+  "id": "colorado-edu-researchinnovation-news-events-0",
+  "title": "News & Events | Research & Innovation Office",
+  "type": "event",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 3,
+  "at": "2026-08-11T17:02:49.374Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-sperry-taylor-ucd6004345246",
-  "title": "taylor.sperry@cuanschutz.edu",
-  "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
-  "specificity": 5,
-  "at": "2026-08-11T16:59:53.757Z"
+  "id": "colorado-edu-researchinnovation-research-institutes-centers",
+  "title": "Research Institutes & Centers | Research & Innovation Office",
+  "type": "center",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 3,
+  "at": "2026-08-11T17:02:49.363Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-mao-rebecca-ucd6004457262",
-  "title": "rebecca.mao@cuanschutz.edu",
+  "id": "colorado-edu-researchinnovation-research-innovation-office-rio-directory",
+  "title": "Research & Innovation Office (RIO) Directory | Research & Innovation Office",
   "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
-  "specificity": 7,
-  "at": "2026-08-11T16:59:53.682Z"
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 3,
+  "at": "2026-08-11T17:02:49.311Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-zuscik-michael-extumgt6i",
-  "title": "michael.zuscik@cuanschutz.edu",
+  "id": "colorado-edu-researchinnovation-research-security-integrity",
+  "title": "Research Security & Integrity | Research & Innovation Office",
   "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
-  "specificity": 5,
-  "at": "2026-08-11T16:59:53.671Z"
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 3,
+  "at": "2026-08-11T17:02:49.240Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-baler-gali-extp66qym",
-  "title": "gali.baler@cuanschutz.edu",
+  "id": "colorado-edu-researchinnovation-inclusion",
+  "title": "Inclusion in Research & Innovation | Research & Innovation Office",
   "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
-  "specificity": 9,
-  "at": "2026-08-11T16:59:53.423Z"
- },
- {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-yang-heiko-extzrsl9m",
-  "title": "heiko.yang@cuanschutz.edu",
-  "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
-  "specificity": 5,
-  "at": "2026-08-11T16:59:53.292Z"
- },
- {
-  "id": "startupcolorado-org-stories-listen-how-entrepreneurs-can-tap-into-podcasting",
-  "title": "Listen: How Entrepreneurs Can Tap Into Podcasting - Startup Colorado",
-  "type": "reference",
-  "org": "startupcolorado.org",
-  "depth": 5,
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
   "specificity": 4,
-  "at": "2026-08-11T16:59:53.134Z"
+  "at": "2026-08-11T17:02:48.925Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-wang-richard-extd5za0f",
-  "title": "richard.c.wang@cuanschutz.edu",
+  "id": "colorado-edu-researchinnovation-innovation-partnerships",
+  "title": "Innovation & Partnerships | Research & Innovation Office",
   "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
-  "specificity": 5,
-  "at": "2026-08-11T16:59:53.087Z"
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 3,
+  "at": "2026-08-11T17:02:48.743Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-nagaraj-ram-extdl2xyj",
-  "title": "ram.nagaraj@cuanschutz.edu",
+  "id": "colorado-edu-researchinnovation-research-strategy-development",
+  "title": "Research Strategy & Development | Research & Innovation Office",
   "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
-  "specificity": 5,
-  "at": "2026-08-11T16:59:52.972Z"
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 3,
+  "at": "2026-08-11T17:02:48.584Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-lu-shi-long-extnncntp",
-  "title": "shi-long.lu@cuanschutz.edu",
+  "id": "colorado-edu-researchinnovation-about",
+  "title": "About the Research & Innovation Office | Research & Innovation Office",
   "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
-  "specificity": 5,
-  "at": "2026-08-11T16:59:52.959Z"
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:48.257Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-lampe-jed-extzc7uy4",
-  "title": "jed.lampe@cuanschutz.edu",
+  "id": "colorado-edu-researchinnovation-research-operations-administration",
+  "title": "Research Operations & Administration | Research & Innovation Office",
   "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
-  "specificity": 5,
-  "at": "2026-08-11T16:59:52.721Z"
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 3,
+  "at": "2026-08-11T17:02:48.239Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-bruce-kim-ext6dvd8h",
-  "title": "kimberley.bruce@cuanschutz.edu",
+  "id": "coloradostartups-org-store",
+  "title": "Store &mdash; Colorado Startups",
   "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
+  "org": "coloradostartups.org",
+  "depth": 1,
   "specificity": 5,
-  "at": "2026-08-11T16:59:52.630Z"
+  "at": "2026-08-11T17:02:48.194Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-joy-melanie-extfdo3ym",
-  "title": "melanie.joy@cuanschutz.edu",
+  "id": "coloradostartups-org-links",
+  "title": "Links &mdash; Colorado Startups",
   "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
+  "org": "coloradostartups.org",
+  "depth": 1,
   "specificity": 5,
-  "at": "2026-08-11T16:59:52.620Z"
+  "at": "2026-08-11T17:02:47.773Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-kramer-dan-exttf719i",
-  "title": "daniel.r.kramer@cuanschutz.edu",
+  "id": "coloradostartups-org-newsletter",
+  "title": "Colorado Startups Monthly Newsletter &mdash; Colorado Startups",
   "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
-  "specificity": 5,
-  "at": "2026-08-11T16:59:52.385Z"
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:47.747Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-about-us-team-profile-goldberg-elizabeth-extb537e5",
-  "title": "elizabeth.goldberg@cuanschutz.edu",
+  "id": "coloradostartups-org-new-page-1",
+  "title": "New Page &mdash; Colorado Startups",
   "type": "reference",
-  "org": "cuanschutz.edu",
-  "depth": 2,
+  "org": "coloradostartups.org",
+  "depth": 1,
   "specificity": 5,
-  "at": "2026-08-11T16:59:52.030Z"
+  "at": "2026-08-11T17:02:47.668Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-manage-ip-heal",
-  "title": "Healthcare Advisors and EIRs",
-  "type": "service",
-  "org": "cuanschutz.edu",
-  "depth": 2,
-  "specificity": 5,
-  "at": "2026-08-11T16:59:51.783Z"
- },
- {
-  "id": "startupcolorado-org-news-648759",
-  "title": "Home - Startup Colorado",
+  "id": "coloradostartups-org-ski-days",
+  "title": "Startup Ski Days &mdash; Colorado Startups",
   "type": "community",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:51.628Z"
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:47.543Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-cu-innovations-protect-your-innovation-disclose-an-in",
-  "title": "Invention &amp; Copyright Material Disclosure Process",
+  "id": "coloradostartups-org-privacy-policy",
+  "title": "Privacy Policy &mdash; Colorado Startups",
   "type": "reference",
-  "org": "cuanschutz.edu",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:47.322Z"
+ },
+ {
+  "id": "coloradostartups-org-startup-hikes",
+  "title": "Startup Hikes &mdash; Colorado Startups",
+  "type": "community",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:47.203Z"
+ },
+ {
+  "id": "coloradostartups-org-the-team",
+  "title": "The Team &mdash; Colorado Startups",
+  "type": "center",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:47.146Z"
+ },
+ {
+  "id": "coloradostartups-org-startup-happy-hour",
+  "title": "Startup Socials &mdash; Colorado Startups",
+  "type": "community",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:46.972Z"
+ },
+ {
+  "id": "coloradostartups-org-event-calendar",
+  "title": "Event Calendar &mdash; Colorado Startups",
+  "type": "event",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:46.825Z"
+ },
+ {
+  "id": "coloradostartups-org-event-connect",
+  "title": "Event Connect &mdash; Colorado Startups",
+  "type": "event",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:46.683Z"
+ },
+ {
+  "id": "coloradostartups-org-overview",
+  "title": "Overview &mdash; Colorado Startups",
+  "type": "community",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:46.498Z"
+ },
+ {
+  "id": "coloradostartups-org-ecosystem-canvas",
+  "title": "Ecosystem Canvas &mdash; Colorado Startups",
+  "type": "community",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 8,
+  "at": "2026-08-11T17:02:46.389Z"
+ },
+ {
+  "id": "coloradostartups-org-code-of-conduct",
+  "title": "Code of Conduct &mdash; Colorado Startups",
+  "type": "reference",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 5,
+  "at": "2026-08-11T17:02:46.287Z"
+ },
+ {
+  "id": "coloradostartups-org-leaderboard",
+  "title": "The Leaderboard &mdash; Colorado Startups",
+  "type": "center",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 8,
+  "at": "2026-08-11T17:02:46.175Z"
+ },
+ {
+  "id": "coloradostartups-org-home",
+  "title": "Colorado Startups",
+  "type": "community",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:45.848Z"
+ },
+ {
+  "id": "coloradostartups-org-contact",
+  "title": "Contact &mdash; Colorado Startups",
+  "type": "reference",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:45.685Z"
+ },
+ {
+  "id": "coloradostartups-org-new-events-1",
+  "title": "New Events &mdash; Colorado Startups",
+  "type": "event",
+  "org": "coloradostartups.org",
+  "depth": 1,
+  "specificity": 5,
+  "at": "2026-08-11T17:02:45.628Z"
+ },
+ {
+  "id": "startupcolorado-org-all-events-list-shortcode-ce76b57d",
+  "title": "Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
   "depth": 2,
   "specificity": 3,
-  "at": "2026-08-11T16:59:51.512Z"
+  "at": "2026-08-11T17:02:28.273Z"
  },
  {
-  "id": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
-  "title": "Toolbox Microgrants",
-  "type": "funding",
-  "org": "cuanschutz.edu",
-  "depth": 3,
-  "specificity": 7,
-  "at": "2026-08-11T16:59:51.052Z"
- },
- {
-  "id": "cuanschutz-edu-innovations-spark-about-spark-funding-sources",
-  "title": "Our Funding Sources | SPARK",
-  "type": "funding",
-  "org": "cuanschutz.edu",
-  "depth": 3,
-  "specificity": 5,
-  "at": "2026-08-11T16:59:51.007Z"
- },
- {
-  "id": "startupcolorado-org-referral-disclaimer",
-  "title": "Referral Disclaimer - Startup Colorado",
-  "type": "program",
+  "id": "startupcolorado-org-all-events-photo-shortcode-ce76b57d",
+  "title": "Display of Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Startup Colorado",
+  "type": "event",
   "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:59:50.614Z"
+  "depth": 2,
+  "specificity": 3,
+  "at": "2026-08-11T17:02:27.785Z"
  },
  {
-  "id": "cuanschutz-edu-innovations-spark",
-  "title": "SPARK | University of Colorado Anschutz Medical Campus",
-  "type": "program",
-  "org": "cuanschutz.edu",
+  "id": "startupcolorado-org-event-rural-creative-collective-night-market-west-slope-star",
+  "title": "Rural Creative Collective Night Market @ West Slope Startup Week - Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
   "depth": 2,
   "specificity": 4,
-  "at": "2026-08-11T16:59:50.496Z"
+  "at": "2026-08-11T17:02:25.950Z"
  },
  {
-  "id": "startupcolorado-org-foundercoopetition",
+  "id": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
   "title": "Home - Startup Colorado",
   "type": "community",
   "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:50.103Z"
- },
- {
-  "id": "watson-is-google-data-center-community-ai-fellowship-application",
-  "title": "2026 Google Data Center Community AI Fellowship: Apply Today",
-  "type": "competition",
-  "org": "watson.is",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:49.482Z"
- },
- {
-  "id": "colorado-edu-venturepartners-2022-08-18-cu-boulder-spinout-think-bioscience-rais",
-  "title": "CU Boulder spinout Think Bioscience raises $17M to target undruggable proteins | Venture Partners at CU Boulder",
-  "type": "funding",
-  "org": "colorado.edu/venturepartners",
-  "depth": 5,
-  "specificity": 8,
-  "at": "2026-08-11T16:59:49.408Z"
- },
- {
-  "id": "colorado-edu-venturepartners-2024-07-25-internal-news-six-cu-boulder-startups-se",
-  "title": "Six CU Boulder startups selected to present at the Rocky Mountain Life Science Investor Conference | Venture Partners at CU Boulder",
-  "type": "event",
-  "org": "colorado.edu/venturepartners",
-  "depth": 5,
-  "specificity": 8,
-  "at": "2026-08-11T16:59:49.050Z"
- },
- {
-  "id": "startupcolorado-org-startup-colorado-privacy-policy",
-  "title": "Compliance, Ethics and Policy Matter - Startup Colorado",
-  "type": "reference",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:59:48.739Z"
- },
- {
-  "id": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
-  "title": "Home - Startup Colorado",
-  "type": "competition",
-  "org": "startupcolorado.org",
   "depth": 2,
   "specificity": 4,
-  "at": "2026-08-11T16:59:48.580Z"
+  "at": "2026-08-11T17:02:22.162Z"
  },
  {
-  "id": "watson-is-ford-philanthropy-fellowship-application",
-  "title": "Application: Ford Philanthropy Fellowship",
-  "type": "funding",
-  "org": "watson.is",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:48.495Z"
- },
- {
-  "id": "watson-is-bmo-fellowship-application",
-  "title": "Application: BMO Fellowship",
-  "type": "funding",
-  "org": "watson.is",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:46.612Z"
- },
- {
-  "id": "startupcolorado-org-stories-startup-colorados-pop-event-series",
-  "title": "Startup Colorado’s POP Event Series - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:59:45.618Z"
- },
- {
-  "id": "startupcolorado-org-stories-standing-with-rural-colorado",
-  "title": "Standing With Rural Colorado Through the Fires - Startup Colorado",
-  "type": "reference",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:59:45.525Z"
- },
- {
-  "id": "startupcolorado-org-stories-what-three-recent-investments-reveal-about-rural-col",
-  "title": "What Three Recent Investments Reveal About Rural Colorado’s Startup Ecosystem - Startup Colorado",
-  "type": "reference",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:59:44.541Z"
- },
- {
-  "id": "startupcolorado-org-stories-rural-startup-days-debuts",
-  "title": "Rural Startup Days Debuts with High Engagement and Early Momentum - Startup Colorado",
-  "type": "reference",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:43.181Z"
- },
- {
-  "id": "startupcolorado-org-stories-startup-colorado-partners-with-colorado-ojt",
-  "title": "Startup Colorado Partners with Colorado Office of Just Transition to Support Coal Transition Workers Through Entrepreneurship - Startup Colo",
-  "type": "center",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 8,
-  "at": "2026-08-11T16:59:40.237Z"
- },
- {
-  "id": "startupcolorado-org-listen-this-entrepreneur-is-flipping-towns",
-  "title": "Listen: This Entrepreneur Is &quot;Flipping&quot; Towns - Startup Colorado",
-  "type": "reference",
-  "org": "startupcolorado.org",
-  "depth": 2,
-  "specificity": 2,
-  "at": "2026-08-11T16:59:40.227Z"
- },
- {
-  "id": "startupcolorado-org-event-ready-to-reach-further-a-brand-first-plan-for-expandin",
-  "title": "Ready to Reach Further: A Brand-First Plan for Expanding Your Creative Business - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:37.233Z"
- },
- {
-  "id": "startupcolorado-org-how-wssw-has-evolved-to-serve-more-rural-entrepreneurs",
-  "title": "How WSSW Has Evolved to Serve More Rural Entrepreneurs - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 2,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:35.809Z"
- },
- {
-  "id": "startupcolorado-org-event-capital-bootcamp-pitch-prep-telling-your-story-learnin",
-  "title": "Capital Bootcamp Pitch Prep - Startup Colorado",
-  "type": "competition",
-  "org": "startupcolorado.org",
-  "depth": 2,
-  "specificity": 6,
-  "at": "2026-08-11T16:59:33.888Z"
- },
- {
-  "id": "startupcolorado-org-rural-creative-collective",
-  "title": "Rural Creative Collective - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:32.278Z"
- },
- {
-  "id": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
-  "title": "Colorado Capital: Don&#039;t miss these OEDIT funding opportunities - Startup Colorado",
+  "id": "startupcolorado-org-event-capital-bootcamp-application-submission-and-what-comes",
+  "title": "Capital Bootcamp Application Submission and What Comes Next - Startup Colorado",
   "type": "funding",
   "org": "startupcolorado.org",
   "depth": 2,
   "specificity": 6,
-  "at": "2026-08-11T16:59:31.973Z"
+  "at": "2026-08-11T17:02:21.483Z"
  },
  {
-  "id": "startupcolorado-org-how-sasquatch-campers-earned-a-rural-jump-start-grant",
-  "title": "How Sasquatch Campers Earned a Rural Jump-Start Grant - Startup Colorado",
+  "id": "startupcolorado-org-event-rural-creative-connections-the-mountain-and-valley-fib",
+  "title": "Rural Creative Connections: The Mountain and Valley Fiber Arts Festival Comes to Durango - Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T17:02:17.364Z"
+ },
+ {
+  "id": "startupcolorado-org-event-capital-bootcamp-building-your-business-financial-narr",
+  "title": "Colorado Capital Bootcamp: Building your Business Financial Narrative and Loan Package - Startup Colorado",
   "type": "funding",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:15.492Z"
+ },
+ {
+  "id": "startupcolorado-org-event-capital-bootcamp-collateral-credit-enhancements-and-br",
+  "title": "Capital Bootcamp Collateral, Credit Enhancements, and Bridging the Gap - Startup Colorado",
+  "type": "funding",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:10.471Z"
+ },
+ {
+  "id": "startupcolorado-org-event-rural-women-in-entrepreneurship-9",
+  "title": "Rural Women in Entrepreneurship - Startup Colorado",
+  "type": "event",
   "org": "startupcolorado.org",
   "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T16:59:31.126Z"
+  "specificity": 4,
+  "at": "2026-08-11T17:02:08.255Z"
  },
  {
-  "id": "startupcolorado-org-ecosystem-builders",
-  "title": "Ecosystem Builders - Startup Colorado",
-  "type": "service",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 2,
-  "at": "2026-08-11T16:59:28.307Z"
- },
- {
-  "id": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship-for",
-  "title": "GeekPack Founder Julia Taylor Awarded Cartier Fellowship for Women in Business - Startup Colorado",
+  "id": "startupcolorado-org-event-august-capital-bootcamp-info-session",
+  "title": "August Capital Bootcamp Info Session - Startup Colorado",
   "type": "funding",
   "org": "startupcolorado.org",
-  "depth": 3,
+  "depth": 2,
   "specificity": 6,
-  "at": "2026-08-11T16:59:27.950Z"
+  "at": "2026-08-11T17:02:07.018Z"
  },
  {
-  "id": "startupcolorado-org-all-events-photo-featured-shortcode-fdcdb04f",
+  "id": "startupcolorado-org-event-capital-bootcamp-a-step-by-step-technical-guide-to-pre",
+  "title": "Capital Bootcamp: What Lenders Look at and How to Prepare - Startup Colorado",
+  "type": "funding",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:02:04.703Z"
+ },
+ {
+  "id": "startupcolorado-org-all-events-photo-featured-eventdisplay-past",
+  "title": "Display of Featured Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 1,
+  "at": "2026-08-11T17:02:02.932Z"
+ },
+ {
+  "id": "startupcolorado-org-all-events-photo-featured",
   "title": "Display of Featured Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Startup Colorado",
   "type": "event",
   "org": "startupcolorado.org",
-  "depth": 1,
+  "depth": 2,
   "specificity": 3,
-  "at": "2026-08-11T16:59:27.417Z"
+  "at": "2026-08-11T17:01:59.477Z"
  },
  {
-  "id": "startupcolorado-org-resource-center-explained-how-colorados-rural-jump-start-pro",
-  "title": "Explained: How Colorado&#039;s Rural Jump-Start Program Supports Founders - Startup Colorado",
-  "type": "center",
-  "org": "startupcolorado.org",
-  "depth": 2,
-  "specificity": 6,
-  "at": "2026-08-11T16:59:26.107Z"
- },
- {
-  "id": "startupcolorado-org-colorado-state-grants-and-tax-incentives-explained",
-  "title": "Colorado State Grants and Tax Incentives Explained - Startup Colorado",
-  "type": "funding",
-  "org": "startupcolorado.org",
-  "depth": 2,
-  "specificity": 8,
-  "at": "2026-08-11T16:59:22.200Z"
- },
- {
-  "id": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
-  "title": "Home - Startup Colorado",
-  "type": "community",
-  "org": "startupcolorado.org",
-  "depth": 2,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:21.942Z"
- },
- {
-  "id": "startupcolorado-org-founder-coopetition-2",
-  "title": "Home - Startup Colorado",
-  "type": "community",
-  "org": "startupcolorado.org",
-  "depth": 2,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:20.630Z"
- },
- {
-  "id": "startupcolorado-org-join-the-community",
-  "title": "Join The Community - Startup Colorado",
-  "type": "community",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:19.701Z"
- },
- {
-  "id": "startupcolorado-org-education",
-  "title": "Education - Startup Colorado",
-  "type": "reference",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 2,
-  "at": "2026-08-11T16:59:19.031Z"
- },
- {
-  "id": "startupcolorado-org-resource-center-workforce-development-resource-hub",
-  "title": "Workforce Development Resource Hub - Startup Colorado",
-  "type": "center",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:17.425Z"
- },
- {
-  "id": "startupcolorado-org-resource-center",
-  "title": "Resource Center - Startup Colorado",
-  "type": "center",
-  "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 2,
-  "at": "2026-08-11T16:59:16.932Z"
- },
- {
-  "id": "startupcolorado-org-meet-the-entrepreneurs-behind-the-vanlife-boom",
-  "title": "Meet the Entrepreneurs Behind the #Vanlife Boom - Startup Colorado",
-  "type": "reference",
-  "org": "startupcolorado.org",
-  "depth": 2,
-  "specificity": 4,
-  "at": "2026-08-11T16:59:13.238Z"
- },
- {
-  "id": "startupcolorado-org-events-outside-city-limits",
-  "title": "Outside City Limits - Startup Colorado",
+  "id": "startupcolorado-org-all-events-list-featured",
+  "title": "Featured Featured Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Startup Colorado",
   "type": "event",
   "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 2,
-  "at": "2026-08-11T16:59:13.115Z"
- },
- {
-  "id": "startupcolorado-org-meet-thayer-hirsh-of-knome-founder-coopetition-winner",
-  "title": "Meet Thayer Hirsh of Knome - Founder Coopetition Winner - Startup Colorado",
-  "type": "funding",
-  "org": "startupcolorado.org",
   "depth": 2,
-  "specificity": 6,
-  "at": "2026-08-11T16:59:09.854Z"
+  "specificity": 3,
+  "at": "2026-08-11T17:01:59.461Z"
  },
  {
-  "id": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado",
-  "title": "August Pitch Workshop with Startup Colorado - Startup Colorado",
+  "id": "startupcolorado-org-these-outdoor-rec-entrepreneurs-are-tackling-steamboats-bigg",
+  "title": "These Outdoor Rec Entrepreneurs Are Tackling Steamboat&#039;s Biggest Challenges - Startup Colorado",
   "type": "competition",
   "org": "startupcolorado.org",
+  "depth": 3,
+  "specificity": 2,
+  "at": "2026-08-11T17:01:59.266Z"
+ },
+ {
+  "id": "startupcolorado-org-state-of-startup-communities-in-rural-colorado-inside-the-te",
+  "title": "Inside the Tech Startup Scene in Rural Colorado - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:01:56.513Z"
+ },
+ {
+  "id": "startupcolorado-org-profile-emilie-odeile-and-ken-chapin",
+  "title": "Profile: Startup Colorado’s First Artist-in-Residence, Emilie Odeile and Business Partner, Ken Chapin - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:01:56.041Z"
+ },
+ {
+  "id": "startupcolorado-org-listen-the-entrepreneurs-tackling-water-scarcity",
+  "title": "Listen: The Entrepreneurs Tackling Water Scarcity - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
+  "depth": 3,
+  "specificity": 2,
+  "at": "2026-08-11T17:01:55.053Z"
+ },
+ {
+  "id": "startupcolorado-org-how-durango-became-an-outdoor-industry-hub",
+  "title": "Durango: A Hub for Colorado’s Outdoor Industry - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
   "depth": 2,
   "specificity": 4,
-  "at": "2026-08-11T16:59:09.841Z"
+  "at": "2026-08-11T17:01:51.658Z"
  },
  {
-  "id": "startupcolorado-org-events",
-  "title": "Events - Startup Colorado",
-  "type": "event",
+  "id": "startupcolorado-org-these-colorado-farmers-want-to-change-the-food-industry",
+  "title": "These Colorado Farmers Want to Change the Food Industry - Startup Colorado",
+  "type": "funding",
   "org": "startupcolorado.org",
-  "depth": 1,
-  "specificity": 8,
-  "at": "2026-08-11T16:59:08.215Z"
+  "depth": 2,
+  "specificity": 2,
+  "at": "2026-08-11T17:01:50.190Z"
  },
  {
-  "id": "startupcolorado-org-about",
-  "title": "About - Startup Colorado",
+  "id": "startupcolorado-org-why-everyone-is-talking-ecosystem-building",
+  "title": "Why Everyone&#039;s Talking About Ecosystem Building - Startup Colorado",
+  "type": "program",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 2,
+  "at": "2026-08-11T17:01:50.177Z"
+ },
+ {
+  "id": "startupcolorado-org-state-of-startup-communities-in-rural-colorado",
+  "title": "The State of Startup Communities in Rural Colorado - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 2,
+  "at": "2026-08-11T17:01:47.410Z"
+ },
+ {
+  "id": "startupcolorado-org-how-to-build-a-startup-community",
+  "title": "Home - Startup Colorado",
   "type": "community",
   "org": "startupcolorado.org",
-  "depth": 1,
+  "depth": 2,
   "specificity": 4,
-  "at": "2026-08-11T16:59:05.197Z"
+  "at": "2026-08-11T17:01:43.426Z"
+ },
+ {
+  "id": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "title": "Home - Startup Colorado",
+  "type": "community",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T17:01:43.264Z"
+ },
+ {
+  "id": "startupcolorado-org-category-ecosystem-building",
+  "title": "Home - Startup Colorado",
+  "type": "community",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T17:01:43.250Z"
+ },
+ {
+  "id": "startupcolorado-org-resource-center-workforce-development-resource-hub-technical",
+  "title": "Technical Guide: Hiring - Startup Colorado",
+  "type": "center",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:01:42.164Z"
+ },
+ {
+  "id": "startupcolorado-org-resource-center-workforce-development-resource-hub-hiring-fa",
+  "title": "Hiring FAQs - Startup Colorado",
+  "type": "center",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T17:01:41.856Z"
+ },
+ {
+  "id": "startupcolorado-org-workforce-development-resource-hub",
+  "title": "Home - Startup Colorado",
+  "type": "community",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T17:01:37.102Z"
+ },
+ {
+  "id": "startupcolorado-org-a-hassle-free-retirement-plan-for-working-coloradans-secures",
+  "title": "A Hassle-Free Retirement Plan for Working Coloradans: SecureSavings - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 8,
+  "at": "2026-08-11T17:01:36.491Z"
+ },
+ {
+  "id": "startupcolorado-org-event-soco-startup-week-breaking-rural-stereotypes-with-emer",
+  "title": "SoCo Startup Week - Breaking Rural Stereotypes with Emergent Campus + Advanced Satellite Tech Keynotes (with Breakfast) - Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T17:01:35.485Z"
+ },
+ {
+  "id": "startupcolorado-org-event-soco-startup-week-oedit-and-office-of-supplier-diversi",
+  "title": "SoCo Startup Week - OEDIT and Office of Supplier Diversity Business Workshop - Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T17:01:33.012Z"
  }
 ]

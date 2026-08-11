@@ -1,5 +1,23 @@
 [
  {
+  "host": "community.startupcolorado.org",
+  "count": 934,
+  "examples": [
+   "https://community.startupcolorado.org/events/110697?amp%3Bmc_eid=efea1eee39",
+   "https://community.startupcolorado.org/events/109764?amp%3Bmc_eid=efea1eee39",
+   "https://community.startupcolorado.org/events/110823?amp%3Bmc_eid=efea1eee39"
+  ]
+ },
+ {
+  "host": "ruralstartup.substack.com",
+  "count": 718,
+  "examples": [
+   "https://ruralstartup.substack.com/",
+   "https://ruralstartup.substack.com/p/signup",
+   "https://ruralstartup.substack.com/p/your-startup-community-wont-build"
+  ]
+ },
+ {
   "host": "giving.cu.edu",
   "count": 625,
   "examples": [
@@ -9,26 +27,8 @@
   ]
  },
  {
-  "host": "community.startupcolorado.org",
-  "count": 562,
-  "examples": [
-   "https://community.startupcolorado.org/events/110697?amp%3Bmc_eid=efea1eee39",
-   "https://community.startupcolorado.org/events/109764?amp%3Bmc_eid=efea1eee39",
-   "https://community.startupcolorado.org/events/110823?amp%3Bmc_eid=efea1eee39"
-  ]
- },
- {
-  "host": "ruralstartup.substack.com",
-  "count": 424,
-  "examples": [
-   "https://ruralstartup.substack.com/",
-   "https://ruralstartup.substack.com/p/signup",
-   "https://ruralstartup.substack.com/p/your-startup-community-wont-build"
-  ]
- },
- {
   "host": "ruralstartupdays.com",
-  "count": 276,
+  "count": 458,
   "examples": [
    "https://ruralstartupdays.com/",
    "http://ruralstartupdays.com/"
@@ -36,7 +36,7 @@
  },
  {
   "host": "airtable.com",
-  "count": 275,
+  "count": 457,
   "examples": [
    "https://airtable.com/appecgjAEPF6G0oQe/pagl8MxeYG1r7sRv1/form?amp%3Bmc_eid=efea1eee39",
    "https://airtable.com/appuqMEafOOQMf01L/pagUqCwwINXgZ1A5K/form?amp%3Butm_medium=Email&amp%3Butm_source=News",
@@ -45,9 +45,18 @@
  },
  {
   "host": "www.westslopestartupweek.com",
-  "count": 270,
+  "count": 452,
   "examples": [
    "http://www.westslopestartupweek.com/"
+  ]
+ },
+ {
+  "host": "vimeo.com",
+  "count": 143,
+  "examples": [
+   "https://vimeo.com/cuinnovations",
+   "https://vimeo.com/cuinnovations/hie-impact",
+   "https://vimeo.com/cuinnovations/spark-ed-kickoff-wallen-2023?"
   ]
  },
  {
@@ -78,6 +87,37 @@
   ]
  },
  {
+  "host": "www.childrenscolorado.org",
+  "count": 104,
+  "examples": [
+   "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation",
+   "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation/faculty-and-staff-form"
+  ]
+ },
+ {
+  "host": "www.uchealth.org",
+  "count": 104,
+  "examples": [
+   "https://www.uchealth.org/innovation"
+  ]
+ },
+ {
+  "host": "fitzsimonsinnovation.com",
+  "count": 103,
+  "examples": [
+   "https://fitzsimonsinnovation.com/"
+  ]
+ },
+ {
+  "host": "innosphere.org",
+  "count": 93,
+  "examples": [
+   "https://innosphere.org/accelerator",
+   "https://innosphere.org/sage",
+   "https://innosphere.org/our-startups"
+  ]
+ },
+ {
   "host": "www.eventbrite.com",
   "count": 92,
   "examples": [
@@ -102,15 +142,6 @@
    "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fnotice-files%2FNOT-OD-25-068.html__%3B!!NCZxaNi9jForCP_SxBKJCA!XglWsxfK7uXncP1xA-MQo3IH3EgxP6hDbrc7Hda8uX2dUzGW-njcABt3qcaNKPpWyTLvZWCBLO0vmKhY2Q%24&amp;data=05%7C02%7Cnicole.jenkins%40colorado.edu%7C98fdb57dfb924f5451b508dd4b6e658d%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638749659698121313%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=mvVBtFs4Diw7bULO9%2F7EziN0WDX%2FWa2H%2Fj92beA3%2B%2Fg%3D&amp;reserved=0",
    "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsubstack.com%2Fredirect%2Fbbca312a-68e0-408c-98d4-77c1b4d38772%3Fj%3DeyJ1IjoiNGN0NzdzIn0.sM7BM-ZenzfOlY9pzwG6aTXcRLCCjP6Ei7UacZBMHmE&amp;data=05%7C02%7Cinnovate%40colorado.edu%7C0a3ea4129ec64c3c8be708dd453e5612%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638742856236884079%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=1CQ3f1ZDfFbhGQJl%2FvxdwzxZipghA8aoo4G8bPfT2OY%3D&amp;reserved=0",
    "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsubstack.com%2Fredirect%2F001442f7-931f-462f-918e-fff8a917bb8e%3Fj%3DeyJ1IjoiNGN0NzdzIn0.sM7BM-ZenzfOlY9pzwG6aTXcRLCCjP6Ei7UacZBMHmE&amp;data=05%7C02%7Cinnovate%40colorado.edu%7C0a3ea4129ec64c3c8be708dd453e5612%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638742856236919703%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=QWU579FlmBJf8MB4i8DAWpSlne5ylSwVt8PNCdHKwAU%3D&amp;reserved=0"
-  ]
- },
- {
-  "host": "innosphere.org",
-  "count": 77,
-  "examples": [
-   "https://innosphere.org/accelerator",
-   "https://innosphere.org/sage",
-   "https://innosphere.org/our-startups"
   ]
  },
  {
@@ -141,6 +172,15 @@
   ]
  },
  {
+  "host": "www.google.com",
+  "count": 47,
+  "examples": [
+   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjVvpzG5MLxAhXKm2oFHTpaANgQFnoECAIQAw&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
+   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjU_o2c8NbxAhUCXc0KHTJpDLkQFjAAegQIBRAD&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
+   "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fstartupcolorado.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+  ]
+ },
+ {
   "host": "luma.com",
   "count": 47,
   "examples": [
@@ -159,33 +199,12 @@
   ]
  },
  {
-  "host": "www.childrenscolorado.org",
-  "count": 46,
+  "host": "www.nsf.gov",
+  "count": 44,
   "examples": [
-   "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation",
-   "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation/faculty-and-staff-form"
-  ]
- },
- {
-  "host": "www.uchealth.org",
-  "count": 46,
-  "examples": [
-   "https://www.uchealth.org/innovation"
-  ]
- },
- {
-  "host": "vimeo.com",
-  "count": 45,
-  "examples": [
-   "https://vimeo.com/cuinnovations",
-   "https://vimeo.com/cuinnovations/hie-impact"
-  ]
- },
- {
-  "host": "fitzsimonsinnovation.com",
-  "count": 45,
-  "examples": [
-   "https://fitzsimonsinnovation.com/"
+   "https://www.nsf.gov/news/special_reports/i-corps",
+   "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2014648",
+   "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice"
   ]
  },
  {
@@ -198,12 +217,12 @@
   ]
  },
  {
-  "host": "www.nsf.gov",
-  "count": 41,
+  "host": "www.cu.edu",
+  "count": 42,
   "examples": [
-   "https://www.nsf.gov/news/special_reports/i-corps",
-   "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2014648",
-   "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice"
+   "https://www.cu.edu/impact-cu",
+   "https://www.cu.edu/oaa/grants/diversity-inclusive-excellence-grant",
+   "https://www.cu.edu/ab-nexus"
   ]
  },
  {
@@ -243,6 +262,13 @@
   ]
  },
  {
+  "host": "innospherefund.com",
+  "count": 30,
+  "examples": [
+   "https://innospherefund.com/"
+  ]
+ },
+ {
   "host": "coloradostartups.org",
   "count": 27,
   "examples": [
@@ -258,31 +284,6 @@
    "https://www.grants.gov/web/grants/view-opportunity.html?oppId=332368",
    "https://www.grants.gov/web/grants/view-opportunity.html?oppId=332386",
    "https://www.grants.gov/web/grants/view-opportunity.html?oppId=332227"
-  ]
- },
- {
-  "host": "www.google.com",
-  "count": 26,
-  "examples": [
-   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjVvpzG5MLxAhXKm2oFHTpaANgQFnoECAIQAw&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
-   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjU_o2c8NbxAhUCXc0KHTJpDLkQFjAAegQIBRAD&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
-   "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fstartupcolorado.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
-  ]
- },
- {
-  "host": "innospherefund.com",
-  "count": 25,
-  "examples": [
-   "https://innospherefund.com/"
-  ]
- },
- {
-  "host": "www.cu.edu",
-  "count": 24,
-  "examples": [
-   "https://www.cu.edu/impact-cu",
-   "https://www.cu.edu/oaa/grants/diversity-inclusive-excellence-grant",
-   "https://www.cu.edu/ab-nexus"
   ]
  },
  {
@@ -330,11 +331,20 @@
  },
  {
   "host": "grants.nih.gov",
-  "count": 19,
+  "count": 20,
   "examples": [
    "https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-21-001.html",
    "https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-18-001.html",
    "https://grants.nih.gov/grants/guide/pa-files/par-19-213.html"
+  ]
+ },
+ {
+  "host": "www.ucdenver.edu",
+  "count": 19,
+  "examples": [
+   "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx",
+   "https://www.ucdenver.edu/anschutz/about/cuinnovations/investigators/protecting-your-innovation/Pages/Submit-an-Innovation.aspx",
+   "https://www.ucdenver.edu/sites/spark/spark-award/funding-sources"
   ]
  },
  {
@@ -374,18 +384,18 @@
   ]
  },
  {
+  "host": "westslopestartupweek.com",
+  "count": 16,
+  "examples": [
+   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39",
+   "https://westslopestartupweek.com/"
+  ]
+ },
+ {
   "host": "daniels.du.edu",
   "count": 15,
   "examples": [
    "https://daniels.du.edu/entrepreneurship"
-  ]
- },
- {
-  "host": "www.ucdenver.edu",
-  "count": 14,
-  "examples": [
-   "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx",
-   "https://www.ucdenver.edu/anschutz/about/cuinnovations/investigators/protecting-your-innovation/Pages/Submit-an-Innovation.aspx"
   ]
  },
  {
@@ -425,6 +435,15 @@
   ]
  },
  {
+  "host": "podcasts.apple.com",
+  "count": 13,
+  "examples": [
+   "https://podcasts.apple.com/us/podcast/startup-colorado/id1504302939",
+   "https://podcasts.apple.com/us/podcast/the-startup-colorado-podcast/id1504302939?i=1000624056034",
+   "https://podcasts.apple.com/us/podcast/this-entrepreneur-is-flipping-towns/id1587040610?i=1000593674234"
+  ]
+ },
+ {
   "host": "www.coloradomesa.edu",
   "count": 12,
   "examples": [
@@ -441,14 +460,6 @@
   ]
  },
  {
-  "host": "westslopestartupweek.com",
-  "count": 12,
-  "examples": [
-   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39",
-   "https://westslopestartupweek.com/"
-  ]
- },
- {
   "host": "events.cobioscience.com",
   "count": 12,
   "examples": [
@@ -458,12 +469,28 @@
   ]
  },
  {
+  "host": "launchpass.com",
+  "count": 12,
+  "examples": [
+   "https://launchpass.com/colorado-startups"
+  ]
+ },
+ {
   "host": "rockiesventureclub.wildapricot.org",
   "count": 11,
   "examples": [
    "https://rockiesventureclub.wildapricot.org/event-5978580?amp%3Butm_medium=email",
    "https://rockiesventureclub.wildapricot.org/event-5993693",
    "https://rockiesventureclub.wildapricot.org/event-6190692/Registration"
+  ]
+ },
+ {
+  "host": "www.exponentialimpact.com",
+  "count": 11,
+  "examples": [
+   "https://www.exponentialimpact.com/cos-rising-2025-pitch-night-competition",
+   "https://www.exponentialimpact.com/accelerate-cos",
+   "https://www.exponentialimpact.com/xi-accelerator"
   ]
  },
  {
@@ -483,6 +510,15 @@
   ]
  },
  {
+  "host": "www.costartupweek.com",
+  "count": 11,
+  "examples": [
+   "https://www.costartupweek.com/",
+   "https://www.costartupweek.com/get-involved",
+   "https://www.costartupweek.com/sponsors"
+  ]
+ },
+ {
   "host": "sites.google.com",
   "count": 10,
   "examples": [
@@ -490,21 +526,21 @@
   ]
  },
  {
-  "host": "www.exponentialimpact.com",
+  "host": "choosecolorado.com",
   "count": 10,
   "examples": [
-   "https://www.exponentialimpact.com/cos-rising-2025-pitch-night-competition",
-   "https://www.exponentialimpact.com/accelerate-cos",
-   "https://www.exponentialimpact.com/xi-accelerator"
+   "https://choosecolorado.com/doing-business/incentives-financing/advanced-industries",
+   "https://choosecolorado.com/doing-business/advanced-industries",
+   "https://choosecolorado.com/doing-business/incentives/skill-advance-job-training-grant"
   ]
  },
  {
-  "host": "www.costartupweek.com",
+  "host": "cdn.prod.website-files.com",
   "count": 10,
   "examples": [
-   "https://www.costartupweek.com/",
-   "https://www.costartupweek.com/get-involved",
-   "https://www.costartupweek.com/sponsors"
+   "https://cdn.prod.website-files.com/6945bbdd9607eac5b0ecee60/695d4f1b5028b57b37a02f42_FAQs-Document_Innosphere_Life_Sciences_Incubator_01052026_V1.pdf",
+   "https://cdn.prod.website-files.com/6945bbdd9607eac5b0ecee60/6a442d6a20f199198d7baadf_ASCEND_ARID_SHIELD_FAQ_Accelerator_26.pdf",
+   "https://cdn.prod.website-files.com/6945bbdd9607eac5b0ecee60/697bacf9fb7a32f96ca02bc1_Colorado%20Venture%20Capital%20Report%202025.pdf"
   ]
  },
  {
@@ -530,14 +566,6 @@
   ]
  },
  {
-  "host": "choosecolorado.com",
-  "count": 9,
-  "examples": [
-   "https://choosecolorado.com/doing-business/incentives-financing/advanced-industries",
-   "https://choosecolorado.com/doing-business/advanced-industries"
-  ]
- },
- {
   "host": "cobioscience.com",
   "count": 9,
   "examples": [
@@ -560,6 +588,13 @@
    "https://boulderstartupweek2019.sched.com/overview/type/University",
    "http://boulderstartupweek2019.sched.com/event/NNXp/hey-entrepreneurs-want-to-get-involved-with-cu-boulder-want-to-get-really-involved-wink",
    "http://boulderstartupweek2019.sched.com/event/NNXm/not-your-mothers-university-locally-and-globally-connected-on-demand-diverse-and-rapidly-adapting"
+  ]
+ },
+ {
+  "host": "www.greatercolorado.vc",
+  "count": 9,
+  "examples": [
+   "https://www.greatercolorado.vc/"
   ]
  },
  {
@@ -622,6 +657,29 @@
   "examples": [
    "https://unitedwaydenver.org/small-business-accelerator-program-application/?amp%3Butm_source=primed-accelerator-flyer&amp%3Butm_campaign=25-primed-accelerator-fall-application&amp%3Butm_content=qr-code",
    "https://unitedwaydenver.org/small-business-website-program-english/?amp%3Butm_source=website-build-initiative-flyer&amp%3Butm_campaign=25-website-build-initiative-fall-application&amp%3Butm_content=qr-code"
+  ]
+ },
+ {
+  "host": "lu.ma",
+  "count": 7,
+  "examples": [
+   "https://lu.ma/7rwtq7db",
+   "https://lu.ma/coloradostartups",
+   "https://lu.ma/coloradostartups?tag=outdoors"
+  ]
+ },
+ {
+  "host": "www.bencolorado.org",
+  "count": 7,
+  "examples": [
+   "https://www.bencolorado.org/"
+  ]
+ },
+ {
+  "host": "www.goscape.org",
+  "count": 7,
+  "examples": [
+   "https://www.goscape.org/"
   ]
  },
  {
@@ -695,26 +753,12 @@
   ]
  },
  {
-  "host": "launchpass.com",
+  "host": "simpler.grants.gov",
   "count": 6,
   "examples": [
-   "https://launchpass.com/colorado-startups"
-  ]
- },
- {
-  "host": "podcasts.apple.com",
-  "count": 6,
-  "examples": [
-   "https://podcasts.apple.com/us/podcast/startup-colorado/id1504302939",
-   "https://podcasts.apple.com/us/podcast/the-startup-colorado-podcast/id1504302939?i=1000624056034",
-   "https://podcasts.apple.com/us/podcast/this-entrepreneur-is-flipping-towns/id1587040610?i=1000593674234"
-  ]
- },
- {
-  "host": "www.greatercolorado.vc",
-  "count": 6,
-  "examples": [
-   "https://www.greatercolorado.vc/"
+   "https://simpler.grants.gov/opportunity/5ed69538-0c16-44ad-a33e-ab3070585e12",
+   "https://simpler.grants.gov/opportunity/d1ba49e5-3684-4420-849a-ab2330ec493e",
+   "https://simpler.grants.gov/opportunity/359757"
   ]
  },
  {
@@ -731,6 +775,15 @@
    "http://www.russellsage.org/research/funding/behavioral-economics",
    "https://www.russellsage.org/research/funding/future-work",
    "https://www.russellsage.org/funding/immigration-and-immigrant-integration"
+  ]
+ },
+ {
+  "host": "www.neh.gov",
+  "count": 5,
+  "examples": [
+   "https://www.neh.gov/grants",
+   "https://www.neh.gov/grants/preservation/infrastructure-and-capacity-building-challenge-grants",
+   "https://www.neh.gov/grants/preservation/preservation-assistance-grants-smaller-institutions"
   ]
  },
  {
@@ -765,71 +818,19 @@
   ]
  },
  {
-  "host": "simpler.grants.gov",
+  "host": "news.cuanschutz.edu",
   "count": 5,
   "examples": [
-   "https://simpler.grants.gov/opportunity/5ed69538-0c16-44ad-a33e-ab3070585e12",
-   "https://simpler.grants.gov/opportunity/d1ba49e5-3684-4420-849a-ab2330ec493e",
-   "https://simpler.grants.gov/opportunity/359757"
+   "https://news.cuanschutz.edu/cu-innovations/the-future-of-healthcare-happens-at-the-intersection-cu-anschutz-innovations-forum-2026",
+   "https://news.cuanschutz.edu/cu-innovations/hie-impact-at-cu-anschutz-launching-the-healthcare-innovation-entrepreneurship-hie-initiative",
+   "https://news.cuanschutz.edu/cu-innovations/fuel-your-innovation-with-csu-translational-medicine-institute"
   ]
  },
  {
-  "host": "cdn.prod.website-files.com",
+  "host": "www.cubuffs.com",
   "count": 5,
   "examples": [
-   "https://cdn.prod.website-files.com/6945bbdd9607eac5b0ecee60/695d4f1b5028b57b37a02f42_FAQs-Document_Innosphere_Life_Sciences_Incubator_01052026_V1.pdf",
-   "https://cdn.prod.website-files.com/6945bbdd9607eac5b0ecee60/6a442d6a20f199198d7baadf_ASCEND_ARID_SHIELD_FAQ_Accelerator_26.pdf",
-   "https://cdn.prod.website-files.com/6945bbdd9607eac5b0ecee60/697bacf9fb7a32f96ca02bc1_Colorado%20Venture%20Capital%20Report%202025.pdf"
-  ]
- },
- {
-  "host": "www.bencolorado.org",
-  "count": 5,
-  "examples": [
-   "https://www.bencolorado.org/"
-  ]
- },
- {
-  "host": "science.osti.gov",
-  "count": 4,
-  "examples": [
-   "https://science.osti.gov/-/media/grants/pdf/foas/2021/SC_FOA_0002462.pdf",
-   "https://science.osti.gov/-/media/grants/pdf/foas/2021/SC_FOA_0002449.pdf"
-  ]
- },
- {
-  "host": "www.dailycamera.com",
-  "count": 4,
-  "examples": [
-   "https://www.dailycamera.com/2021/04/14/vaccine-transportation-startup-wins-cus-new-venture-challenge-pitch-slam",
-   "https://www.dailycamera.com/2023/10/16/cu-boulder-seeks-to-be-a-leader-in-innovation-nationwide",
-   "https://www.dailycamera.com/2025/02/16/a-broader-impact-cu-boulder-startup-culture-brings-life-changing-technology-to-colorado"
-  ]
- },
- {
-  "host": "connections.cu.edu",
-  "count": 4,
-  "examples": [
-   "https://connections.cu.edu/stories/university-colorado-ranks-among-top-20-us-universities-granted-patents",
-   "https://connections.cu.edu/spotlights/programs-cu-boulder-cu-denver-light-pathways-innovation-high-school-students"
-  ]
- },
- {
-  "host": "wtgrantfoundation.org",
-  "count": 4,
-  "examples": [
-   "http://wtgrantfoundation.org/focus-areas/improving-use-research-evidence",
-   "http://wtgrantfoundation.org/focus-areas/reducing-inequality",
-   "http://wtgrantfoundation.org/grants"
-  ]
- },
- {
-  "host": "www.neh.gov",
-  "count": 4,
-  "examples": [
-   "https://www.neh.gov/grants",
-   "https://www.neh.gov/grants/preservation/infrastructure-and-capacity-building-challenge-grants",
-   "https://www.neh.gov/grants/preservation/preservation-assistance-grants-smaller-institutions"
+   "http://www.cubuffs.com/ViewArticle.dbml?ATCLID=24467"
   ]
  }
 ]
