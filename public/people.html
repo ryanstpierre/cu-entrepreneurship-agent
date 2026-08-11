@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CU Ecosystem — People & Affinity</title>
+<style>
+  :root { --bg:#0e1116; --card:#161b22; --line:#2b3240; --tx:#e6edf3; --dim:#8b949e; --gold:#CFB87C; --ok:#3fb950; }
+  @media (prefers-color-scheme: light) {
+    :root { --bg:#f6f8fa; --card:#fff; --line:#d8dee4; --tx:#1f2328; --dim:#59636e; }
+  }
+  * { box-sizing:border-box; margin:0 }
+  body { background:var(--bg); color:var(--tx); font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; padding:16px }
+  .wrap { max-width:1100px; margin:0 auto }
+  h1 { font-size:1.3rem } h1 b { color:var(--gold) }
+  .sub { color:var(--dim); font-size:.85rem; margin-bottom:16px }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(130px,1fr)); gap:10px; margin-bottom:16px }
+  .stat { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px }
+  .stat .n { font-size:1.5rem; font-weight:700; color:var(--gold) }
+  .stat .l { font-size:.72rem; color:var(--dim); text-transform:uppercase; letter-spacing:.05em }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px; margin-bottom:14px; overflow-x:auto }
+  h2 { font-size:.95rem; margin-bottom:10px; color:var(--gold) }
+  .pill { display:inline-block; padding:1px 7px; border-radius:99px; font-size:.7rem; border:1px solid var(--line); color:var(--dim); margin:1px 2px 1px 0 }
+  .pill.hot { border-color:var(--gold); color:var(--gold) }
+  details { border-bottom:1px solid var(--line); padding:8px 0 }
+  summary { cursor:pointer; font-size:.88rem } summary b { color:var(--gold) }
+  .meta { color:var(--dim); font-size:.78rem; margin:4px 0 }
+  a { color:#79b8ff; text-decoration:none }
+  select,input { background:var(--bg); color:var(--tx); border:1px solid var(--line); border-radius:6px; padding:4px 8px; font-size:.82rem; margin:0 6px 10px 0 }
+  #err { color:#f85149; display:none; margin-bottom:12px }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🧑‍🏫 People & <b>Program Affinity</b></h1>
+  <div class="sub"><a href="/crawl">← crawl dashboard</a> · <a href="/personas">personas & eval</a> · faculty/staff/mentors extracted from page text, scored by resource affinity · <span id="upd"></span></div>
+  <div id="err">People data not deployed yet — run people-affinity.mjs and redeploy.</div>
+
+  <div class="grid" id="stats"></div>
+
+  <div class="card">
+    <h2>I&E Courses (CU System impact dashboard) <span id="ccount" style="color:var(--dim);font-weight:400"></span></h2>
+    <select id="fcampus2"><option value="">all campuses</option></select>
+    <select id="flevel"><option value="">all levels</option></select>
+    <table style="border-collapse:collapse;width:100%;font-size:.82rem"><tbody id="courses"></tbody></table>
+  </div>
+
+  <div class="card">
+    <h2>People <span id="pcount" style="color:var(--dim);font-weight:400"></span></h2>
+    <select id="fclass"><option value="">all roles</option></select>
+    <input id="fq" placeholder="search name / org…" size="18">
+    <div id="people"></div>
+  </div>
+</div>
+<script>
+const $ = id => document.getElementById(id)
+const esc = s => (s||'').toString().replace(/[<>&]/g, c => ({'<':'&lt;','>':'&gt;','&':'&amp;'}[c]))
+let P = [], C = [], pf = { cls:'', q:'' }, cf = { campus:'', level:'' }
+
+async function j(p){ const r = await fetch('/data/crawl/'+p+'?t='+Date.now()); if(!r.ok) throw 0; return r.json() }
+
+function renderPeople() {
+  const ps = P.filter(p => (!pf.cls || p.roleClass === pf.cls) &&
+    (!pf.q || (p.name + ' ' + p.role + ' ' + p.affinity.orgs.map(o=>o.name).join(' ')).toLowerCase().includes(pf.q)))
+  $('pcount').textContent = `(${ps.length})`
+  $('people').innerHTML = ps.slice(0, 250).map(p => `<details>
+    <summary><b>${esc(p.name)}</b> <span class="pill hot">${esc(p.roleClass)}</span>
+      ${p.role ? `<span class="meta" style="display:inline">${esc(p.role)}</span>` : ''}
+      <span class="pill">${p.resourceCount} resources</span></summary>
+    <div class="meta"><b>Orgs:</b> ${p.affinity.orgs.map(o=>`${esc(o.name)} (${o.score})`).join(' · ')}</div>
+    ${p.affinity.programs.length ? `<div class="meta"><b>Programs:</b> ${p.affinity.programs.map(g=>esc(g.title)).join(' · ')}</div>` : ''}
+    <div class="meta"><b>Seen on:</b> ${p.resources.map(r=>r.url?`<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>`:esc(r.title)).join(' · ')}</div>
+  </details>`).join('')
+}
+
+function renderCourses() {
+  const cs = C.filter(c => (!cf.campus || c.campus === cf.campus) && (!cf.level || c.level === cf.level))
+  $('ccount').textContent = `(${cs.length})`
+  $('courses').innerHTML = cs.slice(0, 300).map(c =>
+    `<tr><td style="padding:4px 8px;border-bottom:1px solid var(--line)"><b>${esc(c.code)}</b> ${esc(c.title)}
+     <span class="pill">${esc(c.level)}</span> <span class="pill hot">${esc(c.campus)}</span>
+     <span class="meta" style="display:inline">${esc(c.college)}</span></td></tr>`).join('')
+}
+
+async function load() {
+  try {
+    const d = await j('people.json')
+    P = d.people
+    $('upd').textContent = 'generated ' + new Date(d.generatedAt).toLocaleString()
+    $('stats').innerHTML = [
+      [d.stats.people, 'people'],
+      ...Object.entries(d.stats.byRoleClass).sort((a,b)=>b[1]-a[1]).map(([k,v])=>[v,k]),
+    ].map(([n,l])=>`<div class="stat"><div class="n">${n}</div><div class="l">${l}</div></div>`).join('')
+    $('fclass').innerHTML = '<option value="">all roles</option>' +
+      Object.keys(d.stats.byRoleClass).map(k=>`<option>${esc(k)}</option>`).join('')
+    renderPeople()
+  } catch { $('err').style.display='block' }
+  try {
+    const cd = await j('courses.json')
+    C = cd.courses
+    $('fcampus2').innerHTML = '<option value="">all campuses</option>' + [...new Set(C.map(c=>c.campus))].map(c=>`<option>${esc(c)}</option>`).join('')
+    $('flevel').innerHTML = '<option value="">all levels</option>' + [...new Set(C.map(c=>c.level))].map(c=>`<option>${esc(c)}</option>`).join('')
+    renderCourses()
+  } catch { $('courses').innerHTML = '<tr><td class="meta">courses.json not deployed yet</td></tr>' }
+}
+$('fclass').onchange = e => { pf.cls = e.target.value; renderPeople() }
+$('fq').oninput = e => { pf.q = e.target.value.toLowerCase(); renderPeople() }
+$('fcampus2').onchange = e => { cf.campus = e.target.value; renderCourses() }
+$('flevel').onchange = e => { cf.level = e.target.value; renderCourses() }
+load()
+</script>
+</body>
+</html>

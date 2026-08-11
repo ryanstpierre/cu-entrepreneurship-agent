@@ -44,7 +44,7 @@
 <body>
 <div class="wrap">
   <h1><span class="live"></span>CU Entrepreneurship Ecosystem — <b>Deep Crawl</b></h1>
-  <div class="sub">Progressive depth-aware crawl · updates as batches land · <span id="upd">loading…</span> · <a href="/">← navigator</a> · <a href="/personas">personas & eval →</a></div>
+  <div class="sub">Progressive depth-aware crawl · updates as batches land · <span id="upd">loading…</span> · <a href="/">← navigator</a> · <a href="/personas">personas & eval</a> · <a href="/people">people →</a></div>
   <div id="err">Couldn't load crawl data — the first batch may not be deployed yet. Retrying…</div>
 
   <div class="grid" id="stats"></div>
@@ -55,6 +55,7 @@
         <h2>Catalogued Resources <span id="rescount" style="color:var(--dim);font-weight:400"></span></h2>
         <div>
           <select id="ftype"><option value="">all types</option></select>
+          <select id="fcampus"><option value="">all campuses</option></select>
           <select id="forg"><option value="">all orgs</option></select>
           <input id="fq" placeholder="search…" size="14">
         </div>
@@ -90,7 +91,7 @@
 </div>
 <script>
 const $ = id => document.getElementById(id)
-let RES = [], filters = { type:'', org:'', q:'' }
+let RES = [], filters = { type:'', org:'', campus:'', q:'' }
 
 async function j(p) { const r = await fetch('/data/crawl/' + p + '?t=' + Date.now()); if (!r.ok) throw 0; return r.json() }
 
@@ -100,10 +101,11 @@ function renderRows() {
   const rows = RES.filter(r =>
     (!filters.type || r.type === filters.type) &&
     (!filters.org || r.org === filters.org) &&
+    (!filters.campus || (r.campus||[]).includes(filters.campus)) &&
     (!filters.q || (r.title + r.description + r.org).toLowerCase().includes(filters.q)))
   $('rescount').textContent = `(${rows.length})`
   $('rows').innerHTML = rows.slice(0, 200).map(r => `<tr>
-    <td><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a><br>
+    <td>${r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}<br>
       <span style="color:var(--dim);font-size:.72rem">${esc(r.org)}</span>
       ${r.summary ? `<div style="font-size:.76rem;color:var(--dim);max-width:420px">${esc(r.summary)}</div>` : ''}</td>
     <td><span class="pill">${r.type}</span></td>
@@ -143,6 +145,7 @@ async function refresh() {
     RES = res
     const opts = (sel, vals) => { const cur = sel.value; sel.innerHTML = sel.options[0].outerHTML + [...new Set(vals)].sort().map(v=>`<option>${esc(v)}</option>`).join(''); sel.value = cur }
     opts($('ftype'), res.map(r=>r.type)); opts($('forg'), res.map(r=>r.org))
+    opts($('fcampus'), res.flatMap(r=>r.campus||[]))
     renderRows()
 
     $('edges').innerHTML = rel.slice(0, 40).map(e =>
@@ -162,6 +165,7 @@ async function refresh() {
 }
 
 $('ftype').onchange = e => { filters.type = e.target.value; renderRows() }
+$('fcampus').onchange = e => { filters.campus = e.target.value; renderRows() }
 $('forg').onchange = e => { filters.org = e.target.value; renderRows() }
 $('fq').oninput = e => { filters.q = e.target.value.toLowerCase(); renderRows() }
 refresh(); setInterval(refresh, 30000)
