@@ -28,8 +28,12 @@
 </head>
 <body>
 <div class="wrap">
-  <div class="sub"><a href="/">← navigator</a> · <a href="/crawl">crawl dashboard</a> · <a href="/personas">personas</a> · <a href="/people">people</a>
-    · raw: <a href="/data/crawl/API.md">API.md</a> · <a href="/data/crawl/schema.json">schema.json</a> · <a href="/llms.txt">llms.txt</a></div>
+  <div class="sub"><a href="/">← navigator</a> · <a href="/crawl">crawl dashboard</a> · <a href="/personas">personas</a> · <a href="/people">people</a></div>
+  <div class="sub" style="border:1px solid var(--line);border-radius:8px;padding:8px 12px;background:var(--card)">
+    🤖 <b>For LLMs / agents:</b> digest the markdown directly — start with
+    <a href="/llms.txt">/llms.txt</a>, then <a href="/data/crawl/API.md">/data/crawl/API.md</a> (this page, as plain markdown)
+    and <a href="/data/crawl/schema.json">/data/crawl/schema.json</a> (field docs with live enum values). All CORS-open, no auth.
+  </div>
   <div id="md">Loading docs…</div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
