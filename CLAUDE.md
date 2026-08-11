@@ -40,5 +40,7 @@ the deployment-hash URL by a few minutes of edge cache.
 
 All in `scripts/crawl/`: crawler → dedupe → fetch-text → agent enrichment
 (validate with check-shards.mjs) → merge-enrichment → entity-graph →
-people-affinity → ingest-impact → gen-docs → eval-rag. Chat corpus:
+people-affinity → ingest-impact (Boulder-only filter) → merge-companies (golden
+company-journey set) → gen-docs → eval-rag. Scope: CU Boulder only — other CU
+campuses are out of scope (boulder-focus.mjs applied the one-time cut). Chat corpus:
 `scripts/generate-embeddings.js` → `src/data/corpus-embeddings.json`.
