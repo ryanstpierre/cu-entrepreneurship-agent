@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CU Ecosystem Dataset — API Docs</title>
+<style>
+  :root { --bg:#0e1116; --card:#161b22; --line:#2b3240; --tx:#e6edf3; --dim:#8b949e; --gold:#CFB87C; }
+  @media (prefers-color-scheme: light) {
+    :root { --bg:#f6f8fa; --card:#fff; --line:#d8dee4; --tx:#1f2328; --dim:#59636e; }
+  }
+  * { box-sizing:border-box }
+  body { background:var(--bg); color:var(--tx); font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; margin:0; padding:16px }
+  .wrap { max-width:860px; margin:0 auto }
+  .sub { color:var(--dim); font-size:.85rem; margin-bottom:16px }
+  a { color:#79b8ff; text-decoration:none } a:hover { text-decoration:underline }
+  #md h1 { font-size:1.5rem; border-bottom:1px solid var(--line); padding-bottom:8px }
+  #md h2 { font-size:1.15rem; color:var(--gold); margin-top:28px }
+  #md h3 { font-size:1rem; margin-top:20px }
+  #md code { background:var(--card); border:1px solid var(--line); border-radius:4px; padding:1px 5px; font-size:.85em }
+  #md pre { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:12px; overflow-x:auto }
+  #md pre code { background:none; border:none; padding:0 }
+  #md table { border-collapse:collapse; width:100%; font-size:.86rem; display:block; overflow-x:auto }
+  #md th, #md td { text-align:left; padding:6px 10px; border:1px solid var(--line); vertical-align:top }
+  #md th { color:var(--dim); font-size:.75rem; text-transform:uppercase }
+  #md blockquote { border-left:3px solid var(--gold); margin:0; padding:2px 14px; color:var(--dim) }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="sub"><a href="/">← navigator</a> · <a href="/crawl">crawl dashboard</a> · <a href="/personas">personas</a> · <a href="/people">people</a>
+    · raw: <a href="/data/crawl/API.md">API.md</a> · <a href="/data/crawl/schema.json">schema.json</a> · <a href="/llms.txt">llms.txt</a></div>
+  <div id="md">Loading docs…</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+<script>
+fetch('/data/crawl/API.md?t=' + Date.now()).then(r => r.text()).then(t => {
+  document.getElementById('md').innerHTML = marked.parse(t)
+}).catch(() => document.getElementById('md').textContent = 'Could not load API.md')
+</script>
+</body>
+</html>
