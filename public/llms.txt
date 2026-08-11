@@ -1,0 +1,37 @@
+# CU Entrepreneurship Ecosystem Dataset
+
+> 2149 catalogued innovation & entrepreneurship resources across the CU System
+> (CU Boulder, CU Denver, UCCS, CU Anschutz) from a depth-8 saturated crawl of 4,700+ pages
+> plus the CU System I&E impact dashboard. Includes 997 tagged people,
+> 275 courses, LLM summaries, entities, sequencing edges, and a persona eval set.
+> All JSON, CORS-open, no auth. Base: https://cu-entrepreneurship-agent.pages.dev/data/crawl/
+
+## Start here
+- https://cu-entrepreneurship-agent.pages.dev/data/crawl/schema.json — machine-readable field docs with ACTUAL enum values and counts. Fetch this first to construct valid filters.
+- https://cu-entrepreneurship-agent.pages.dev/data/crawl/API.md — human-oriented guide: schemas, join keys, query recipes.
+
+## Data
+- https://cu-entrepreneurship-agent.pages.dev/data/crawl/resources.json — the catalogue (join key: id)
+- https://cu-entrepreneurship-agent.pages.dev/data/crawl/relationships.json — link edges between resources
+- https://cu-entrepreneurship-agent.pages.dev/data/crawl/enriched.json — LLM summaries + entities per resource
+- https://cu-entrepreneurship-agent.pages.dev/data/crawl/entity-graph.json — consolidated people/org/program entities + co-occurrence
+- https://cu-entrepreneurship-agent.pages.dev/data/crawl/people.json — faculty/staff/mentors with program affinity scores
+- https://cu-entrepreneurship-agent.pages.dev/data/crawl/courses.json — I&E courses (all 4 campuses) + enrollment + search vocabulary
+- https://cu-entrepreneurship-agent.pages.dev/data/crawl/sequence-edges.json — which programs precede/feed into which
+- https://cu-entrepreneurship-agent.pages.dev/data/crawl/persona-eval.json — 44 personas, 322 queries, RAG hit rates (weak rows = known gaps)
+- https://cu-entrepreneurship-agent.pages.dev/data/crawl/summary.json — crawl stats and depth-saturation proof
+
+## How to query (for LLM agents)
+1. Fetch schema.json for valid field values — do not guess enum strings.
+2. Filter resources.json client-side (it is a plain array; ~2MB).
+   Typical filters: type, campus[], audience[], stage[], sectors[], specificity>=6, funding.length>0.
+3. Resolve names→people via people.json (roleClass: faculty|staff|mentor|founder-alum).
+4. For "what comes next" questions use sequence-edges.json, then stage[] ordering
+   (explore→validate→build→launch), then funding amounts ascending.
+5. For course questions filter courses.json by campus/level; use searchTerms for synonyms.
+
+## Interfaces
+- / — chat navigator (client-side RAG over this dataset)
+- /crawl — live crawl dashboard
+- /personas — persona & eval explorer
+- /people — people & course explorer
