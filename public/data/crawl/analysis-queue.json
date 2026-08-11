@@ -684,6 +684,18 @@
   "depth": 3
  },
  {
+  "url": "http://startupcolorado.org/stories",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 3
+ },
+ {
+  "url": "https://startupcolorado.org/stories/qa-jon-rosenberg-of-cold-case-gear",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 4
+ },
+ {
   "url": "https://www.colorado.edu/business/deming/news-stories/demystifying-entrepreneurship-rural-colorado-workshop-series-news",
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
@@ -1296,6 +1308,18 @@
   "depth": 3
  },
  {
+  "url": "http://colorado.edu/business/deming/news-stories/demystifying-entrepreneurship-rural-colorado-workshop-series-news",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 6
+ },
+ {
+  "url": "https://startupcolorado.org/startup-colorado-partners-with-colorado-state-university",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 4
+ },
+ {
   "url": "https://www.colorado.edu/innovate/media/2175",
   "reason": "pdf-needs-extraction",
   "relevance": 1,
@@ -1354,5 +1378,17 @@
   "reason": "pdf-needs-extraction",
   "relevance": 1,
   "depth": 3
+ },
+ {
+  "url": "https://colorado.edu/researchinnovation/media/5991",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 4
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2023/06/2023-07-20_Startup-Variety-Show_Parking-Map-and-Instructions.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 4
  }
 ]

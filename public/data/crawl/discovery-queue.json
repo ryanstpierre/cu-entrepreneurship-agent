@@ -1,7 +1,7 @@
 [
  {
   "host": "community.startupcolorado.org",
-  "count": 1376,
+  "count": 1794,
   "examples": [
    "https://community.startupcolorado.org/events/110697?amp%3Bmc_eid=efea1eee39",
    "https://community.startupcolorado.org/events/109764?amp%3Bmc_eid=efea1eee39",
@@ -10,7 +10,7 @@
  },
  {
   "host": "ruralstartup.substack.com",
-  "count": 1062,
+  "count": 1374,
   "examples": [
    "https://ruralstartup.substack.com/",
    "https://ruralstartup.substack.com/p/signup",
@@ -19,7 +19,7 @@
  },
  {
   "host": "ruralstartupdays.com",
-  "count": 678,
+  "count": 886,
   "examples": [
    "https://ruralstartupdays.com/",
    "http://ruralstartupdays.com/",
@@ -28,7 +28,7 @@
  },
  {
   "host": "airtable.com",
-  "count": 677,
+  "count": 885,
   "examples": [
    "https://airtable.com/appecgjAEPF6G0oQe/pagl8MxeYG1r7sRv1/form?amp%3Bmc_eid=efea1eee39",
    "https://airtable.com/appuqMEafOOQMf01L/pagUqCwwINXgZ1A5K/form?amp%3Butm_medium=Email&amp%3Butm_source=News",
@@ -37,7 +37,7 @@
  },
  {
   "host": "www.westslopestartupweek.com",
-  "count": 671,
+  "count": 879,
   "examples": [
    "http://www.westslopestartupweek.com/"
   ]
@@ -53,7 +53,7 @@
  },
  {
   "host": "vimeo.com",
-  "count": 183,
+  "count": 186,
   "examples": [
    "https://vimeo.com/cuinnovations",
    "https://vimeo.com/cuinnovations/hie-impact",
@@ -62,7 +62,7 @@
  },
  {
   "host": "fitzsimonsinnovation.com",
-  "count": 146,
+  "count": 149,
   "examples": [
    "https://fitzsimonsinnovation.com/",
    "http://fitzsimonsinnovation.com/"
@@ -70,7 +70,7 @@
  },
  {
   "host": "www.childrenscolorado.org",
-  "count": 144,
+  "count": 147,
   "examples": [
    "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation",
    "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation/faculty-and-staff-form"
@@ -78,7 +78,7 @@
  },
  {
   "host": "www.uchealth.org",
-  "count": 144,
+  "count": 147,
   "examples": [
    "https://www.uchealth.org/innovation"
   ]
@@ -138,6 +138,15 @@
   ]
  },
  {
+  "host": "www.google.com",
+  "count": 86,
+  "examples": [
+   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjVvpzG5MLxAhXKm2oFHTpaANgQFnoECAIQAw&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
+   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjU_o2c8NbxAhUCXc0KHTJpDLkQFjAAegQIBRAD&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
+   "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fstartupcolorado.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+  ]
+ },
+ {
   "host": "nam10.safelinks.protection.outlook.com",
   "count": 80,
   "examples": [
@@ -153,15 +162,6 @@
    "https://o365coloradoedu-my.sharepoint.com/:i:/g/personal/innovate_colorado_edu/EaQH6VydAOBMqM-xFcHVIWYBNPt6j24a-cF8q-74BCv0nw?e=oneSJl",
    "https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/innovate_colorado_edu/EqG7gsblXWNDisfabTMJo_gBJNg3QM3Bm0kvehqD_b0v8w?e=zdsGGo",
    "https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/innovate_colorado_edu/EagRS_8x9dhKlsyKlNz3lScBsBdWP3Ol_7ToDdoMry32qw?e=Fa3G8T"
-  ]
- },
- {
-  "host": "www.google.com",
-  "count": 63,
-  "examples": [
-   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjVvpzG5MLxAhXKm2oFHTpaANgQFnoECAIQAw&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
-   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjU_o2c8NbxAhUCXc0KHTJpDLkQFjAAegQIBRAD&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
-   "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fstartupcolorado.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
   ]
  },
  {
@@ -183,6 +183,15 @@
   ]
  },
  {
+  "host": "www.nsf.gov",
+  "count": 48,
+  "examples": [
+   "https://www.nsf.gov/news/special_reports/i-corps",
+   "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2014648",
+   "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice"
+  ]
+ },
+ {
   "host": "luma.com",
   "count": 47,
   "examples": [
@@ -201,12 +210,12 @@
   ]
  },
  {
-  "host": "www.nsf.gov",
-  "count": 44,
+  "host": "www.cu.edu",
+  "count": 46,
   "examples": [
-   "https://www.nsf.gov/news/special_reports/i-corps",
-   "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2014648",
-   "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice"
+   "https://www.cu.edu/impact-cu",
+   "https://www.cu.edu/oaa/grants/diversity-inclusive-excellence-grant",
+   "https://www.cu.edu/ab-nexus"
   ]
  },
  {
@@ -219,12 +228,12 @@
   ]
  },
  {
-  "host": "www.cu.edu",
-  "count": 42,
+  "host": "www.sbir.gov",
+  "count": 40,
   "examples": [
-   "https://www.cu.edu/impact-cu",
-   "https://www.cu.edu/oaa/grants/diversity-inclusive-excellence-grant",
-   "https://www.cu.edu/ab-nexus"
+   "https://www.sbir.gov/about",
+   "https://www.sbir.gov/fraud-waste-abuse",
+   "https://www.sbir.gov/"
   ]
  },
  {
@@ -255,12 +264,12 @@
   ]
  },
  {
-  "host": "www.sbir.gov",
-  "count": 34,
+  "host": "westslopestartupweek.com",
+  "count": 30,
   "examples": [
-   "https://www.sbir.gov/about",
-   "https://www.sbir.gov/fraud-waste-abuse",
-   "https://www.sbir.gov/"
+   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39",
+   "https://westslopestartupweek.com/",
+   "http://westslopestartupweek.com/"
   ]
  },
  {
@@ -268,6 +277,13 @@
   "count": 30,
   "examples": [
    "https://innospherefund.com/"
+  ]
+ },
+ {
+  "host": "www.jpmorgan.com",
+  "count": 27,
+  "examples": [
+   "https://www.jpmorgan.com/startups"
   ]
  },
  {
@@ -289,17 +305,8 @@
   ]
  },
  {
-  "host": "westslopestartupweek.com",
-  "count": 26,
-  "examples": [
-   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39",
-   "https://westslopestartupweek.com/",
-   "http://westslopestartupweek.com/"
-  ]
- },
- {
   "host": "www.rockiesventureclub.org",
-  "count": 24,
+  "count": 25,
   "examples": [
    "https://www.rockiesventureclub.org/signature-series?amp%3Butm_medium=email",
    "https://www.rockiesventureclub.org/",
@@ -307,10 +314,12 @@
   ]
  },
  {
-  "host": "www.jpmorgan.com",
+  "host": "www.ucdenver.edu",
   "count": 23,
   "examples": [
-   "https://www.jpmorgan.com/startups"
+   "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx",
+   "https://www.ucdenver.edu/anschutz/about/cuinnovations/investigators/protecting-your-innovation/Pages/Submit-an-Innovation.aspx",
+   "https://www.ucdenver.edu/sites/spark/spark-award/funding-sources"
   ]
  },
  {
@@ -332,6 +341,15 @@
   ]
  },
  {
+  "host": "new.nsf.gov",
+  "count": 21,
+  "examples": [
+   "https://new.nsf.gov/funding/initiatives/i-corps",
+   "https://new.nsf.gov/funding/initiatives/regional-innovation-engines/about-nsf-engines",
+   "https://new.nsf.gov/funding/initiatives/regional-innovation-engines/updates/nsf-selects-34-semifinalists-inaugural-nsf"
+  ]
+ },
+ {
   "host": "www.energy.gov",
   "count": 21,
   "examples": [
@@ -341,21 +359,21 @@
   ]
  },
  {
-  "host": "www.ucdenver.edu",
-  "count": 20,
+  "host": "www.nlr.gov",
+  "count": 19,
   "examples": [
-   "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx",
-   "https://www.ucdenver.edu/anschutz/about/cuinnovations/investigators/protecting-your-innovation/Pages/Submit-an-Innovation.aspx",
-   "https://www.ucdenver.edu/sites/spark/spark-award/funding-sources"
+   "https://www.nlr.gov/west-gate/about",
+   "https://www.nlr.gov/innovate",
+   "https://www.nlr.gov/west-gate/heather-platt-sodium-ion-battery-innovation"
   ]
  },
  {
-  "host": "new.nsf.gov",
-  "count": 20,
+  "host": "podcasts.apple.com",
+  "count": 19,
   "examples": [
-   "https://new.nsf.gov/funding/initiatives/i-corps",
-   "https://new.nsf.gov/funding/initiatives/regional-innovation-engines/about-nsf-engines",
-   "https://new.nsf.gov/funding/initiatives/regional-innovation-engines/updates/nsf-selects-34-semifinalists-inaugural-nsf"
+   "https://podcasts.apple.com/us/podcast/startup-colorado/id1504302939",
+   "https://podcasts.apple.com/us/podcast/the-startup-colorado-podcast/id1504302939?i=1000624056034",
+   "https://podcasts.apple.com/us/podcast/this-entrepreneur-is-flipping-towns/id1587040610?i=1000593674234"
   ]
  },
  {
@@ -386,15 +404,6 @@
   ]
  },
  {
-  "host": "www.nlr.gov",
-  "count": 16,
-  "examples": [
-   "https://www.nlr.gov/west-gate/about",
-   "https://www.nlr.gov/innovate",
-   "https://www.nlr.gov/west-gate/heather-platt-sodium-ion-battery-innovation"
-  ]
- },
- {
   "host": "daniels.du.edu",
   "count": 15,
   "examples": [
@@ -402,12 +411,12 @@
   ]
  },
  {
-  "host": "podcasts.apple.com",
+  "host": "youtu.be",
   "count": 14,
   "examples": [
-   "https://podcasts.apple.com/us/podcast/startup-colorado/id1504302939",
-   "https://podcasts.apple.com/us/podcast/the-startup-colorado-podcast/id1504302939?i=1000624056034",
-   "https://podcasts.apple.com/us/podcast/this-entrepreneur-is-flipping-towns/id1587040610?i=1000593674234"
+   "https://youtu.be/qHCQAuDBnHg",
+   "https://youtu.be/t1IQFHeLQtM",
+   "https://youtu.be/6PlhCF07XE4"
   ]
  },
  {
@@ -417,15 +426,6 @@
    "https://leeds.tfaforms.net/f/demingsignupexternal",
    "https://leeds.tfaforms.net/77",
    "https://leeds.tfaforms.net/f/entrepreneurshipcertificateapplication"
-  ]
- },
- {
-  "host": "youtu.be",
-  "count": 13,
-  "examples": [
-   "https://youtu.be/qHCQAuDBnHg",
-   "https://youtu.be/t1IQFHeLQtM",
-   "https://youtu.be/6PlhCF07XE4"
   ]
  },
  {
@@ -458,6 +458,15 @@
   "count": 12,
   "examples": [
    "https://www.coloradomesa.edu/engineering/partnership-program/index.html"
+  ]
+ },
+ {
+  "host": "choosecolorado.com",
+  "count": 12,
+  "examples": [
+   "https://choosecolorado.com/doing-business/incentives-financing/advanced-industries",
+   "https://choosecolorado.com/doing-business/advanced-industries",
+   "https://choosecolorado.com/doing-business/incentives/skill-advance-job-training-grant"
   ]
  },
  {
@@ -529,19 +538,19 @@
   ]
  },
  {
+  "host": "cuboulder.qualtrics.com",
+  "count": 10,
+  "examples": [
+   "https://cuboulder.qualtrics.com/jfe/form/SV_bsGMrM6Vjg4Z7Fj",
+   "https://cuboulder.qualtrics.com/jfe/form/SV_6rLsHHB377J8x9j",
+   "https://cuboulder.qualtrics.com/jfe/form/SV_8zY9QdGQcyMGG6F"
+  ]
+ },
+ {
   "host": "sites.google.com",
   "count": 10,
   "examples": [
    "https://sites.google.com/colorado.edu/boulderventureclub/home"
-  ]
- },
- {
-  "host": "choosecolorado.com",
-  "count": 10,
-  "examples": [
-   "https://choosecolorado.com/doing-business/incentives-financing/advanced-industries",
-   "https://choosecolorado.com/doing-business/advanced-industries",
-   "https://choosecolorado.com/doing-business/incentives/skill-advance-job-training-grant"
   ]
  },
  {
@@ -562,11 +571,17 @@
   ]
  },
  {
-  "host": "cuboulder.qualtrics.com",
+  "host": "www.goscape.org",
+  "count": 10,
+  "examples": [
+   "https://www.goscape.org/"
+  ]
+ },
+ {
+  "host": "www.buffgoldventures.com",
   "count": 9,
   "examples": [
-   "https://cuboulder.qualtrics.com/jfe/form/SV_bsGMrM6Vjg4Z7Fj",
-   "https://cuboulder.qualtrics.com/jfe/form/SV_6rLsHHB377J8x9j"
+   "https://www.buffgoldventures.com/"
   ]
  },
  {
@@ -584,12 +599,29 @@
   ]
  },
  {
+  "host": "tellurideventurenetwork.com",
+  "count": 9,
+  "examples": [
+   "https://tellurideventurenetwork.com/",
+   "https://tellurideventurenetwork.com/tvn-events",
+   "https://tellurideventurenetwork.com/climate-solutions"
+  ]
+ },
+ {
   "host": "cobioscience.com",
   "count": 9,
   "examples": [
    "https://cobioscience.com/robust-speaker-line-up-and-pitch-event-winner-at-cbsa-amgen-healthcare-innovation",
    "https://cobioscience.com/event/cbsa-membership-engagement-education-networking-jan_23_2025",
    "https://cobioscience.com/event/a-year-in-the-life-of-innovation"
+  ]
+ },
+ {
+  "host": "seedfund.nsf.gov",
+  "count": 9,
+  "examples": [
+   "https://seedfund.nsf.gov/awardees/phase-1/details/?company=mana-battery-inc",
+   "https://seedfund.nsf.gov/"
   ]
  },
  {
@@ -600,19 +632,21 @@
   ]
  },
  {
+  "host": "he.cecollaboratory.com",
+  "count": 9,
+  "examples": [
+   "https://he.cecollaboratory.com/collaboratory/PO4S3ICW2/activities/9bd1f19b-2014-41d3-42c9-dbe7736a2ac6",
+   "https://he.cecollaboratory.com/collaboratory/PO4S3ICW2/activities/144a0fd9-f982-4de0-563b-9d8d07181653",
+   "https://he.cecollaboratory.com/collaboratory/PO4S3ICW2/activities/f7769b4b-27c0-445a-4de2-1e6b6f851141"
+  ]
+ },
+ {
   "host": "boulderstartupweek2019.sched.com",
   "count": 9,
   "examples": [
    "https://boulderstartupweek2019.sched.com/overview/type/University",
    "http://boulderstartupweek2019.sched.com/event/NNXp/hey-entrepreneurs-want-to-get-involved-with-cu-boulder-want-to-get-really-involved-wink",
    "http://boulderstartupweek2019.sched.com/event/NNXm/not-your-mothers-university-locally-and-globally-connected-on-demand-diverse-and-rapidly-adapting"
-  ]
- },
- {
-  "host": "www.buffgoldventures.com",
-  "count": 8,
-  "examples": [
-   "https://www.buffgoldventures.com/"
   ]
  },
  {
@@ -634,18 +668,33 @@
   ]
  },
  {
-  "host": "seedfund.nsf.gov",
+  "host": "www.kairosventures.com",
   "count": 8,
   "examples": [
-   "https://seedfund.nsf.gov/awardees/phase-1/details/?company=mana-battery-inc",
-   "https://seedfund.nsf.gov/"
+   "https://www.kairosventures.com/"
   ]
  },
  {
   "host": "jakejabscenter.org",
-  "count": 7,
+  "count": 8,
   "examples": [
    "https://jakejabscenter.org/"
+  ]
+ },
+ {
+  "host": "www.nasa.gov",
+  "count": 8,
+  "examples": [
+   "https://www.nasa.gov/wp-content/uploads/2024/01/sbir-2025-i-selection-archive.pdf?emrc=68725965ee55c",
+   "https://www.nasa.gov/learning-resources/internship-programs/nasa-fellowships",
+   "https://www.nasa.gov/news-release/nasa-names-winners-of-2023-nasa-entrepreneurs-challenge"
+  ]
+ },
+ {
+  "host": "business.uccs.edu",
+  "count": 7,
+  "examples": [
+   "https://business.uccs.edu/resources/entrepreneurship"
   ]
  },
  {
@@ -680,13 +729,6 @@
   ]
  },
  {
-  "host": "www.goscape.org",
-  "count": 7,
-  "examples": [
-   "https://www.goscape.org/"
-  ]
- },
- {
   "host": "www.cvent.com",
   "count": 6,
   "examples": [
@@ -711,34 +753,18 @@
   ]
  },
  {
-  "host": "tellurideventurenetwork.com",
+  "host": "www.entrepsolutions.com",
   "count": 6,
   "examples": [
-   "https://tellurideventurenetwork.com/",
-   "https://tellurideventurenetwork.com/tvn-events",
-   "https://tellurideventurenetwork.com/climate-solutions"
+   "http://www.entrepsolutions.com/"
   ]
  },
  {
-  "host": "www.kairosventures.com",
+  "host": "cu.tfaforms.net",
   "count": 6,
   "examples": [
-   "https://www.kairosventures.com/"
-  ]
- },
- {
-  "host": "business.uccs.edu",
-  "count": 6,
-  "examples": [
-   "https://business.uccs.edu/resources/entrepreneurship"
-  ]
- },
- {
-  "host": "www.nasa.gov",
-  "count": 6,
-  "examples": [
-   "https://www.nasa.gov/wp-content/uploads/2024/01/sbir-2025-i-selection-archive.pdf?emrc=68725965ee55c",
-   "https://www.nasa.gov/learning-resources/internship-programs/nasa-fellowships"
+   "https://cu.tfaforms.net/101",
+   "https://cu.tfaforms.net/forms/view/27"
   ]
  },
  {
@@ -757,15 +783,6 @@
   ]
  },
  {
-  "host": "he.cecollaboratory.com",
-  "count": 6,
-  "examples": [
-   "https://he.cecollaboratory.com/collaboratory/PO4S3ICW2/activities/9bd1f19b-2014-41d3-42c9-dbe7736a2ac6",
-   "https://he.cecollaboratory.com/collaboratory/PO4S3ICW2/activities/144a0fd9-f982-4de0-563b-9d8d07181653",
-   "https://he.cecollaboratory.com/collaboratory/PO4S3ICW2/activities/f7769b4b-27c0-445a-4de2-1e6b6f851141"
-  ]
- },
- {
   "host": "simpler.grants.gov",
   "count": 6,
   "examples": [
@@ -775,10 +792,12 @@
   ]
  },
  {
-  "host": "www.entrepsolutions.com",
+  "host": "www.dailycamera.com",
   "count": 5,
   "examples": [
-   "http://www.entrepsolutions.com/"
+   "https://www.dailycamera.com/2021/04/14/vaccine-transportation-startup-wins-cus-new-venture-challenge-pitch-slam",
+   "https://www.dailycamera.com/2023/10/16/cu-boulder-seeks-to-be-a-leader-in-innovation-nationwide",
+   "https://www.dailycamera.com/2025/02/16/a-broader-impact-cu-boulder-startup-culture-brings-life-changing-technology-to-colorado"
   ]
  },
  {
@@ -800,13 +819,6 @@
   ]
  },
  {
-  "host": "cu.tfaforms.net",
-  "count": 5,
-  "examples": [
-   "https://cu.tfaforms.net/101"
-  ]
- },
- {
   "host": "www.boulderventureclub.org",
   "count": 5,
   "examples": [
@@ -822,21 +834,10 @@
   ]
  },
  {
-  "host": "www.globenewswire.com",
+  "host": "buffgoldventures.com",
   "count": 5,
   "examples": [
-   "https://www.globenewswire.com/news-release/2023/06/29/2697338/0/en/New-Iridium-Secures-1M-NSF-SBIR-Phase-II-Grant-to-Revolutionize-Chemical-Manufacturing-and-Combat-Climate-Change.html",
-   "https://www.globenewswire.com/news-release/2020/07/08/2059518/0/en/Colorado-based-New-Iridium-accelerating-global-production-of-potential-COVID-19-treatment-using-light-driven-chemistry.html",
-   "https://www.globenewswire.com/news-release/2026/03/25/3261894/0/en/Forge-Nano-Announces-Opening-of-Taiwan-Office-to-Accelerate-AI-Driven-Photonics-Manufacturing-and-Expand-Regional-Operations.html"
-  ]
- },
- {
-  "host": "news.cuanschutz.edu",
-  "count": 5,
-  "examples": [
-   "https://news.cuanschutz.edu/cu-innovations/the-future-of-healthcare-happens-at-the-intersection-cu-anschutz-innovations-forum-2026",
-   "https://news.cuanschutz.edu/cu-innovations/hie-impact-at-cu-anschutz-launching-the-healthcare-innovation-entrepreneurship-hie-initiative",
-   "https://news.cuanschutz.edu/cu-innovations/fuel-your-innovation-with-csu-translational-medicine-institute"
+   "https://buffgoldventures.com/"
   ]
  }
 ]
