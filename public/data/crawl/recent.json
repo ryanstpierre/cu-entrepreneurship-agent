@@ -1,542 +1,542 @@
 [
  {
-  "id": "startupcolorado-org-all-events-list-page-3-eventdisplay-past",
-  "title": "Past Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 3 &#8211; Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 5,
-  "at": "2026-08-11T17:17:55.270Z"
- },
- {
-  "id": "startupcolorado-org-event-the-peoples-festival-celebrating-employee-owned-busine",
-  "title": "The People’s Festival: Celebrating Employee-Owned Businesses in Colorado - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:55.016Z"
- },
- {
-  "id": "startupcolorado-org-all-events-list-page-4",
-  "title": "Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Page 4 &#8211; Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 1,
-  "at": "2026-08-11T17:17:52.755Z"
- },
- {
-  "id": "startupcolorado-org-all-events-photo-page-4",
-  "title": "Display of Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Page 4 &#8211; Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 1,
-  "at": "2026-08-11T17:17:47.959Z"
- },
- {
-  "id": "startupcolorado-org-series-xi-tech-connect-coffee-community",
-  "title": "XI Tech Connect: Coffee &amp; Community - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 2,
-  "at": "2026-08-11T17:17:45.066Z"
- },
- {
-  "id": "startupcolorado-org-all-events-photo-page-3-eventdisplay-past",
-  "title": "Display of Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 3 &#8211; Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 3,
-  "at": "2026-08-11T17:17:45.029Z"
- },
- {
-  "id": "startupcolorado-org-event-lean-coffee",
-  "title": "Lean Coffee - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:41.789Z"
- },
- {
-  "id": "startupcolorado-org-event-virtual-friday-reset-yoga-meditation",
-  "title": "Virtual Friday Reset: Yoga &amp; Meditation - Startup Colorado",
-  "type": "course",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:40.792Z"
- },
- {
-  "id": "startupcolorado-org-event-business-valuation-basics-for-owners-or-buyers",
-  "title": "Business Valuation Basics for Owners or Buyers - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:40.051Z"
- },
- {
-  "id": "startupcolorado-org-stories-tag-online-event-page-3",
-  "title": "Online Event Archives - Page 3 of 3 - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 1,
-  "at": "2026-08-11T17:17:38.306Z"
- },
- {
-  "id": "startupcolorado-org-event-startup-colorado-lean-coffee-4",
-  "title": "Startup Colorado Lean Coffee - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:36.668Z"
- },
- {
-  "id": "startupcolorado-org-event-rural-creative-connections",
-  "title": "Rural Creative Connections - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:35.701Z"
- },
- {
-  "id": "startupcolorado-org-event-service-to-success-veterans-connection-kickoff-2025-09",
-  "title": "Service to Success Veterans Connection Kickoff - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:33.273Z"
- },
- {
-  "id": "startupcolorado-org-event-free-spanish-classes-for-beginners-2025-10-28",
-  "title": "Free Spanish Classes for Beginners - Startup Colorado",
-  "type": "course",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:33.252Z"
- },
- {
-  "id": "startupcolorado-org-event-how-to-launch-your-business",
-  "title": "How to Launch Your Business - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:31.678Z"
- },
- {
-  "id": "startupcolorado-org-event-idea-feasibility-methods-to-test-your-business-idea",
-  "title": "Idea Feasibility: Methods to Test Your Business Idea - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:28.067Z"
- },
- {
-  "id": "startupcolorado-org-event-finance-friday",
-  "title": "Finance Friday - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:28.043Z"
- },
- {
-  "id": "startupcolorado-org-event-how-to-star-your-business-a-startup-checklist",
-  "title": "How to Star Your Business: A Startup Checklist - Startup Colorado",
-  "type": "course",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:26.210Z"
- },
- {
-  "id": "startupcolorado-org-event-inclusive-by-design",
-  "title": "Inclusive by Design - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:21.887Z"
- },
- {
-  "id": "startupcolorado-org-organizer-rocky-mountain-microfinance-institute",
-  "title": "Rocky Mountain MicroFinance Institute - Startup Colorado",
-  "type": "center",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 1,
-  "at": "2026-08-11T17:17:20.673Z"
- },
- {
-  "id": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-06",
-  "title": "How to Start a Mobile Food Business - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 6,
-  "at": "2026-08-11T17:17:20.665Z"
- },
- {
-  "id": "startupcolorado-org-organizer-first-southwest-community-fund-2",
-  "title": "first southwest community fund - Startup Colorado",
+  "id": "scholar-law-colorado-edu-faculty-articles-1692",
+  "title": "\"Regional Venture Deals\" by Paige L. Wilson",
   "type": "funding",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 1,
-  "at": "2026-08-11T17:17:18.546Z"
+  "org": "colorado.edu/faculty-articles",
+  "depth": 3,
+  "specificity": 2,
+  "at": "2026-08-11T17:19:06.438Z"
  },
  {
-  "id": "startupcolorado-org-event-through-the-eyes-of-two-women-2025-10-03",
-  "title": "Through the Eyes of Two Women - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:11.724Z"
- },
- {
-  "id": "startupcolorado-org-event-xi-tech-connect-coffee-community",
-  "title": "XI Tech Connect: Coffee &amp; Community - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:09.969Z"
- },
- {
-  "id": "startupcolorado-org-event-exploring-watercolor-workshop",
-  "title": "Exploring Watercolor Workshop - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:09.957Z"
- },
- {
-  "id": "startupcolorado-org-event-xi-tech-connect-coffee-community-2",
-  "title": "XI Tech Connect: Coffee &amp; Community - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:04.207Z"
- },
- {
-  "id": "startupcolorado-org-event-xi-tech-connect-coffee-community-3",
-  "title": "XI Tech Connect: Coffee &amp; Community - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:17:04.189Z"
- },
- {
-  "id": "startupcolorado-org-event-youthbiz-spring-marketplace",
-  "title": "YouthBiz Spring Marketplace - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:16:57.862Z"
- },
- {
-  "id": "startupcolorado-org-event-enactus-usa-national-exposition-2026",
-  "title": "Enactus USA National Exposition 2026 - Startup Colorado",
-  "type": "competition",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:16:57.845Z"
- },
- {
-  "id": "startupcolorado-org-stories-one-year-of-the-rural-creative-collective",
-  "title": "Celebrating One Year of the Rural Creative Collective: Read the 2024 Annual Report - Startup Colorado",
-  "type": "community",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 6,
-  "at": "2026-08-11T17:16:44.463Z"
- },
- {
-  "id": "startupcolorado-org-stories-night-market-at-wssw25",
-  "title": "Night Market at West Slope Startup Week - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:16:40.472Z"
- },
- {
-  "id": "startupcolorado-org-stories-wssw-extends-impact-as-regional-event",
-  "title": "West Slope Startup Week Extends Impact as Regional Event - Startup Colorado",
-  "type": "event",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 10,
-  "at": "2026-08-11T17:16:39.425Z"
- },
- {
-  "id": "startupcolorado-org-stories-startup-colorados-2025-annual-report-is-here",
-  "title": "Startup Colorado’s 2025 Annual Report is Here - Startup Colorado",
+  "id": "scholar-law-colorado-edu-faculty-articles-1661",
+  "title": "\"Investment Crowdfunding: Anarchy in the U.K.?\" by Andrew A. Schwartz",
   "type": "reference",
-  "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:16:34.226Z"
+  "org": "colorado.edu/faculty-articles",
+  "depth": 3,
+  "specificity": 2,
+  "at": "2026-08-11T17:19:05.839Z"
  },
  {
-  "id": "startupcolorado-org-stories-info-localrez-com",
+  "id": "hazards-colorado-edu-awards-paper-competition-previous-winners",
+  "title": "Natural Hazards Center || Student Paper Competition Winners",
+  "type": "competition",
+  "org": "colorado.edu/awards",
+  "depth": 4,
+  "specificity": 5,
+  "at": "2026-08-11T17:19:03.184Z"
+ },
+ {
+  "id": "hazards-colorado-edu-news-center-news-congratulations-student-paper-winners-1",
+  "title": "Natural Hazards Center || Introducing the 2026 Student Paper Competition Winners",
+  "type": "competition",
+  "org": "colorado.edu/news",
+  "depth": 3,
+  "specificity": 8,
+  "at": "2026-08-11T17:19:03.002Z"
+ },
+ {
+  "id": "hazards-colorado-edu-awards-paper-competition",
+  "title": "Natural Hazards Center",
+  "type": "competition",
+  "org": "colorado.edu/awards",
+  "depth": 3,
+  "specificity": 7,
+  "at": "2026-08-11T17:19:02.049Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "title": "Federated Identity Service",
+  "type": "reference",
+  "org": "colorado.edu/saml",
+  "depth": 5,
+  "specificity": 4,
+  "at": "2026-08-11T17:19:00.402Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "title": "Federated Identity Service",
+  "type": "reference",
+  "org": "colorado.edu/saml",
+  "depth": 5,
+  "specificity": 4,
+  "at": "2026-08-11T17:19:00.359Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "title": "Federated Identity Service",
+  "type": "service",
+  "org": "colorado.edu/saml",
+  "depth": 5,
+  "specificity": 4,
+  "at": "2026-08-11T17:19:00.001Z"
+ },
+ {
+  "id": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "title": "Static IP Configuration - Windows | Office of Information Technology",
+  "type": "community",
+  "org": "colorado.edu/tutorial",
+  "depth": 4,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:59.790Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "title": "Federated Identity Service",
+  "type": "service",
+  "org": "colorado.edu/saml",
+  "depth": 4,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:59.785Z"
+ },
+ {
+  "id": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "title": "Static IP Configuration - Macintosh | Office of Information Technology",
+  "type": "community",
+  "org": "colorado.edu/tutorial",
+  "depth": 4,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:59.756Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "title": "Federated Identity Service",
+  "type": "service",
+  "org": "colorado.edu/saml",
+  "depth": 4,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:59.471Z"
+ },
+ {
+  "id": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+  "title": "Microsoft License Comparison Tool | Office of Information Technology",
+  "type": "center",
+  "org": "colorado.edu/services",
+  "depth": 4,
+  "specificity": 8,
+  "at": "2026-08-11T17:18:59.442Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "title": "Federated Identity Service",
+  "type": "service",
+  "org": "colorado.edu/saml",
+  "depth": 4,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:59.219Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "title": "Federated Identity Service",
+  "type": "community",
+  "org": "colorado.edu/saml",
+  "depth": 4,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:58.922Z"
+ },
+ {
+  "id": "oit-colorado-edu-news-microsoft-licensing-automation-june-2026",
+  "title": "What to Know About OIT&#039;s New Microsoft Licensing Automation | Office of Information Technology",
+  "type": "center",
+  "org": "colorado.edu/news",
+  "depth": 4,
+  "specificity": 8,
+  "at": "2026-08-11T17:18:58.561Z"
+ },
+ {
+  "id": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses",
+  "title": "Microsoft 365 - Licenses | Office of Information Technology",
+  "type": "center",
+  "org": "colorado.edu/services",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:58.417Z"
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing-software-audit-information",
+  "title": "Software Audit Information | Office of Information Technology",
+  "type": "funding",
+  "org": "colorado.edu/services",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:58.371Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "title": "Federated Identity Service",
+  "type": "service",
+  "org": "colorado.edu/saml",
+  "depth": 4,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:58.241Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "title": "Federated Identity Service",
+  "type": "service",
+  "org": "colorado.edu/saml",
+  "depth": 4,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:58.215Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "title": "Federated Identity Service",
+  "type": "service",
+  "org": "colorado.edu/saml",
+  "depth": 4,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:57.921Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "title": "Federated Identity Service",
+  "type": "service",
+  "org": "colorado.edu/saml",
+  "depth": 4,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:57.725Z"
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing-faq",
+  "title": "Software Licensing - FAQ | Office of Information Technology",
+  "type": "center",
+  "org": "colorado.edu/services",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:57.553Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "title": "Federated Identity Service",
+  "type": "service",
+  "org": "colorado.edu/saml",
+  "depth": 4,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:57.479Z"
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "title": "Federated Identity Service",
+  "type": "program",
+  "org": "colorado.edu/saml",
+  "depth": 4,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:57.141Z"
+ },
+ {
+  "id": "oit-colorado-edu-services-network-internet-services-ip-address-hostname-manageme",
+  "title": "IP Address and Hostname Management | Office of Information Technology",
+  "type": "community",
+  "org": "colorado.edu/services",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:57.006Z"
+ },
+ {
+  "id": "oit-colorado-edu-about-oit-projects-microsoft-365-licensing-automation-project",
+  "title": "Microsoft Licensing Automation Project | Office of Information Technology",
+  "type": "center",
+  "org": "colorado.edu/about-oit",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:55.910Z"
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "title": "Federated Identity Service",
+  "type": "service",
+  "org": "colorado.edu/services",
+  "depth": 3,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:55.565Z"
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing-appropriate-use-and-compliance",
+  "title": "Software Licensing - Appropriate Use and Compliance | Office of Information Technology",
+  "type": "center",
+  "org": "colorado.edu/services",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:54.498Z"
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing-acquiring-software",
+  "title": "Software Licensing - Acquiring Software | Office of Information Technology",
+  "type": "center",
+  "org": "colorado.edu/services",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:54.130Z"
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing",
+  "title": "Software Licensing | Office of Information Technology",
+  "type": "center",
+  "org": "colorado.edu/services",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:54.084Z"
+ },
+ {
+  "id": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "title": "Federated Identity Service",
+  "type": "service",
+  "org": "colorado.edu/services",
+  "depth": 3,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:52.978Z"
+ },
+ {
+  "id": "oit-colorado-edu-services-conferencing-services-web-conferencing-zoom-help-addit",
+  "title": "Federated Identity Service",
+  "type": "service",
+  "org": "colorado.edu/services",
+  "depth": 3,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:52.952Z"
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing-software-asset-management-program",
+  "title": "Software Asset Management Program | Office of Information Technology",
+  "type": "center",
+  "org": "colorado.edu/services",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:50.189Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-sustainability-on-tap-with-eve-hinckley-and-danielle",
+  "title": "Sustainability on Tap with Eve Hinckley and Danielle Beatty! - University of Colorado Boulder",
+  "type": "course",
+  "org": "colorado.edu/event",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:47.296Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-now-what-office-hours-with-alex-schwarzkopf-amp-3but",
+  "title": "Now What? Office Hours with Alex Schwarzkopf - University of Colorado Boulder",
+  "type": "funding",
+  "org": "colorado.edu/event",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:46.623Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-first-gen-scholarship-program-orientation",
+  "title": "First-Generation Scholarship Program Welcome and Orientation - University of Colorado Boulder",
+  "type": "funding",
+  "org": "colorado.edu/event",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:44.778Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-public-and-engaged-scholarship-faculty-meetup",
+  "title": "Public and Engaged Scholarship Faculty Meetup - University of Colorado Boulder",
+  "type": "funding",
+  "org": "colorado.edu/event",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:44.663Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-hackcu-11",
+  "title": "HackCU 11 - University of Colorado Boulder",
+  "type": "competition",
+  "org": "colorado.edu/event",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:44.000Z"
+ },
+ {
+  "id": "campusgroups-colorado-edu-ecenter-rsvp-boot-id-381098",
+  "title": "Design Thinking for Sustainable Innovation Workshop  - Environmental Center",
+  "type": "competition",
+  "org": "colorado.edu/ecenter",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:43.203Z"
+ },
+ {
+  "id": "calendar-colorado-edu-grantvertin-230-calendar",
+  "title": "Grant Vertin's Plans\n  \n  on August 1 - 31, 2026 - University of Colorado Boulder",
+  "type": "funding",
+  "org": "colorado.edu/grantvertin_230",
+  "depth": 4,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:42.755Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-professional-sales-mentor-program-annual-meetup-444",
+  "title": "Professional Sales Mentor Program - Annual Meetup - University of Colorado Boulder",
+  "type": "course",
+  "org": "colorado.edu/event",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:42.546Z"
+ },
+ {
+  "id": "calendar-colorado-edu-grantvertin-230",
+  "title": "Grant Vertin - University of Colorado Boulder",
+  "type": "funding",
+  "org": "colorado.edu/grantvertin_230",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:42.225Z"
+ },
+ {
+  "id": "calendar-colorado-edu-koelbel-building-leeds-school-of-business",
+  "title": "Koelbel Building: Leeds School of Business - University of Colorado Boulder",
+  "type": "event",
+  "org": "colorado.edu/koelbel_building_leeds_school_of_business",
+  "depth": 2,
+  "specificity": 8,
+  "at": "2026-08-11T17:18:41.927Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-shes-independent-presents-fireside-chat-with-seth-le",
+  "title": "She's Independent presents: Fireside Chat with Seth Levine - University of Colorado Boulder",
+  "type": "event",
+  "org": "colorado.edu/event",
+  "depth": 2,
+  "specificity": 8,
+  "at": "2026-08-11T17:18:41.712Z"
+ },
+ {
+  "id": "calendar-colorado-edu-event-starting-blocks-amp-3butm-medium-widget-amp-3butm-so",
+  "title": "Starting Blocks Customer Discovery Workshop - University of Colorado Boulder",
+  "type": "funding",
+  "org": "colorado.edu/event",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T17:18:41.442Z"
+ },
+ {
+  "id": "startupcolorado-org-page-entrepreneur-resources",
   "title": "Home - Startup Colorado",
   "type": "community",
   "org": "startupcolorado.org",
-  "depth": 5,
+  "depth": 7,
   "specificity": 4,
-  "at": "2026-08-11T17:16:34.120Z"
+  "at": "2026-08-11T17:18:40.475Z"
  },
  {
-  "id": "startupcolorado-org-organizer-mark-madic-eventdisplay-past",
-  "title": "Mark Madic - Startup Colorado",
-  "type": "event",
+  "id": "startupcolorado-org-page-entrepreneur-network",
+  "title": "Home - Startup Colorado",
+  "type": "community",
   "org": "startupcolorado.org",
-  "depth": 5,
-  "specificity": 1,
-  "at": "2026-08-11T17:16:28.119Z"
+  "depth": 7,
+  "specificity": 4,
+  "at": "2026-08-11T17:18:40.427Z"
  },
  {
-  "id": "colorado-edu-aerospaceventures-campus-events",
-  "title": "Campus Events | AeroSpace Ventures",
-  "type": "event",
-  "org": "colorado.edu/aerospaceventures",
-  "depth": 5,
-  "specificity": 2,
-  "at": "2026-08-11T17:16:24.304Z"
+  "id": "startupcolorado-org-stories-founder-coopetition-launches-to-support-rural-entrep",
+  "title": "Founder Coopetition Launches to Support Rural Entrepreneurs - Startup Colorado",
+  "type": "funding",
+  "org": "startupcolorado.org",
+  "depth": 6,
+  "specificity": 8,
+  "at": "2026-08-11T17:18:39.026Z"
  },
  {
-  "id": "colorado-edu-aerospaceventures-contact-us",
-  "title": "Contact Us | AeroSpace Ventures",
+  "id": "earthlab-colorado-edu-engage-workshops-hackathons",
+  "title": "Workshops &amp; Hackathons | Earthlab",
   "type": "event",
-  "org": "colorado.edu/aerospaceventures",
-  "depth": 5,
-  "specificity": 2,
-  "at": "2026-08-11T17:16:24.241Z"
- },
- {
-  "id": "colorado-edu-aerospaceventures-resources",
-  "title": "Resources | AeroSpace Ventures",
-  "type": "event",
-  "org": "colorado.edu/aerospaceventures",
-  "depth": 5,
+  "org": "colorado.edu/engage",
+  "depth": 3,
   "specificity": 3,
-  "at": "2026-08-11T17:16:24.180Z"
+  "at": "2026-08-11T17:18:37.604Z"
  },
  {
-  "id": "colorado-edu-aerospaceventures-aerospace-ventures-events",
-  "title": "News & Events | AeroSpace Ventures",
-  "type": "event",
-  "org": "colorado.edu/aerospaceventures",
-  "depth": 5,
-  "specificity": 2,
-  "at": "2026-08-11T17:16:24.154Z"
- },
- {
-  "id": "colorado-edu-aerospaceventures-industry-government-collaboration",
-  "title": "Industry & Government Collaboration | AeroSpace Ventures",
-  "type": "event",
-  "org": "colorado.edu/aerospaceventures",
+  "id": "online-colorado-edu-teacher-leadership-certificates-people",
+  "title": "People | Teacher Leadership Certificates | CU Boulder Online",
+  "type": "course",
+  "org": "colorado.edu/teacher-leadership-certificates",
   "depth": 5,
   "specificity": 6,
-  "at": "2026-08-11T17:16:23.755Z"
+  "at": "2026-08-11T17:18:36.769Z"
  },
  {
-  "id": "colorado-edu-aerospaceventures-capabilities-and-missions",
-  "title": "Capabilities and Missions | AeroSpace Ventures",
-  "type": "event",
-  "org": "colorado.edu/aerospaceventures",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:16:23.349Z"
- },
- {
-  "id": "colorado-edu-aerospaceventures-about-us",
-  "title": "About Us | AeroSpace Ventures",
-  "type": "event",
-  "org": "colorado.edu/aerospaceventures",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:16:22.966Z"
- },
- {
-  "id": "colorado-edu-venturepartners-2025-07-28-internal-news-solving-dilemma-space-dust",
-  "title": "Solving the dilemma of space dust: LASP researchers win prestigious NASA prize for dust mitigation instrument | Venture Partners at CU Bould",
-  "type": "competition",
-  "org": "colorado.edu/venturepartners",
+  "id": "online-colorado-edu-teacher-leadership-certificates-careers",
+  "title": "Careers | Teacher Leadership Certificates | CU Boulder Online",
+  "type": "course",
+  "org": "colorado.edu/teacher-leadership-certificates",
   "depth": 5,
   "specificity": 6,
-  "at": "2026-08-11T17:15:42.835Z"
+  "at": "2026-08-11T17:18:36.690Z"
  },
  {
-  "id": "colorado-edu-venturepartners-2025-11-25-external-news-arpeggio-raises-20m-latest",
-  "title": "Arpeggio Biosciences raises $20M in latest offering | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
+  "id": "online-colorado-edu-teacher-leadership-certificates-dates-and-deadlines",
+  "title": "Dates | Teacher Leadership Certificates | CU Boulder Online",
+  "type": "course",
+  "org": "colorado.edu/teacher-leadership-certificates",
   "depth": 5,
   "specificity": 8,
-  "at": "2026-08-11T17:15:42.823Z"
+  "at": "2026-08-11T17:18:36.541Z"
  },
  {
-  "id": "colorado-edu-business-deming-about-us-faculty-0",
-  "title": "Faculty | Leeds School of Business",
-  "type": "center",
-  "org": "colorado.edu/business",
+  "id": "online-colorado-edu-teacher-leadership-certificates-academics",
+  "title": "Academics | Teacher Leadership Certificates | CU Boulder Online",
+  "type": "course",
+  "org": "colorado.edu/teacher-leadership-certificates",
   "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:15:41.565Z"
+  "specificity": 8,
+  "at": "2026-08-11T17:18:36.471Z"
  },
  {
-  "id": "colorado-edu-business-cesr-student-opportunities-graduate-programs-leeds-sustain",
-  "title": "About LSCC | Leeds School of Business",
+  "id": "online-colorado-edu-teacher-leadership-certificates-cost",
+  "title": "Cost | Teacher Leadership Certificates | CU Boulder Online",
+  "type": "course",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "depth": 5,
+  "specificity": 10,
+  "at": "2026-08-11T17:18:36.443Z"
+ },
+ {
+  "id": "startupcolorado-org-storytelling-tips-for-your-startup-pitch-with-diane-bailey",
+  "title": "Storytelling Tips for Your Startup Pitch with Diane Bailey - Startup Colorado",
   "type": "competition",
-  "org": "colorado.edu/business",
+  "org": "startupcolorado.org",
+  "depth": 7,
+  "specificity": 2,
+  "at": "2026-08-11T17:18:36.395Z"
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-admissions",
+  "title": "Admissions | Teacher Leadership Certificates | CU Boulder Online",
+  "type": "course",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "depth": 5,
+  "specificity": 8,
+  "at": "2026-08-11T17:18:36.224Z"
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-teachers-leading-change",
+  "title": "Teachers Leading Change Certificate | CU Boulder Online",
+  "type": "course",
+  "org": "colorado.edu/teacher-leadership-certificates",
   "depth": 5,
   "specificity": 6,
-  "at": "2026-08-11T17:15:39.561Z"
+  "at": "2026-08-11T17:18:36.152Z"
  },
  {
-  "id": "colorado-edu-business-deming-community",
-  "title": "Deming Community | Leeds School of Business",
-  "type": "community",
-  "org": "colorado.edu/business",
-  "depth": 5,
-  "specificity": 3,
-  "at": "2026-08-11T17:15:39.508Z"
- },
- {
-  "id": "colorado-edu-business-cesr-business-resources-judging-20case-20competitions",
-  "title": "Judging an Ethics Competition | Leeds School of Business",
-  "type": "competition",
-  "org": "colorado.edu/business",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:15:39.323Z"
- },
- {
-  "id": "colorado-edu-business-deming-community-creative-distillation-research-podcast",
-  "title": "Creative Distillation Research Podcast | Leeds School of Business",
-  "type": "community",
-  "org": "colorado.edu/business",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:15:39.092Z"
- },
- {
-  "id": "colorado-edu-business-deming-about-us-deming-ambassadors",
-  "title": "Deming Ambassadors | Leeds School of Business",
-  "type": "reference",
-  "org": "colorado.edu/business",
-  "depth": 5,
-  "specificity": 3,
-  "at": "2026-08-11T17:15:38.926Z"
- },
- {
-  "id": "colorado-edu-business-deming-about-us-staff",
-  "title": "Deming Center Staff | Leeds School of Business",
-  "type": "center",
-  "org": "colorado.edu/business",
-  "depth": 5,
-  "specificity": 5,
-  "at": "2026-08-11T17:15:38.591Z"
- },
- {
-  "id": "colorado-edu-business-deming-about-us-impact-report-deming-center-rankings-and-p",
-  "title": "Deming Center Rankings and Pride Points | Leeds School of Business",
-  "type": "center",
-  "org": "colorado.edu/business",
-  "depth": 5,
-  "specificity": 3,
-  "at": "2026-08-11T17:15:38.575Z"
- },
- {
-  "id": "colorado-edu-business-current-students-career-mentoring",
-  "title": "Leeds Mentoring Programs | Leeds School of Business",
-  "type": "program",
-  "org": "colorado.edu/business",
+  "id": "online-colorado-edu-teacher-leadership-certificates-designing-for-learning",
+  "title": "Designing for Learning: Inquiry-Based Pedagogy for K-12 Educators Certificate | CU Boulder Online",
+  "type": "course",
+  "org": "colorado.edu/teacher-leadership-certificates",
   "depth": 5,
   "specificity": 6,
-  "at": "2026-08-11T17:15:38.415Z"
+  "at": "2026-08-11T17:18:36.136Z"
  },
  {
-  "id": "colorado-edu-oce-funding-and-resources-professional-development-opportunities",
-  "title": "Professional Development Opportunities | Office for Outreach and Community Engagement",
-  "type": "funding",
-  "org": "colorado.edu/oce",
+  "id": "online-colorado-edu-teacher-leadership-certificates-inclusive-special-education",
+  "title": "Inclusive and Special Education Certificate | CU Boulder Online",
+  "type": "course",
+  "org": "colorado.edu/teacher-leadership-certificates",
   "depth": 5,
-  "specificity": 6,
-  "at": "2026-08-11T17:15:38.080Z"
- },
- {
-  "id": "colorado-edu-oce-paces-funding-and-resources-tools-evaluation-resources",
-  "title": "Evaluation Resources | Office for Outreach and Community Engagement",
-  "type": "funding",
-  "org": "colorado.edu/oce",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:15:38.041Z"
- },
- {
-  "id": "colorado-edu-oce-funding-and-resources-tools-consultations-and-presentations",
-  "title": "Consultations and Presentations | Office for Outreach and Community Engagement",
-  "type": "funding",
-  "org": "colorado.edu/oce",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:15:37.981Z"
- },
- {
-  "id": "colorado-edu-oce-funding-and-resources-tools-compliance-resources",
-  "title": "Compliance Resources | Office for Outreach and Community Engagement",
-  "type": "funding",
-  "org": "colorado.edu/oce",
-  "depth": 5,
-  "specificity": 4,
-  "at": "2026-08-11T17:15:37.969Z"
- },
- {
-  "id": "colorado-edu-oce-paces-funding-and-resources-tools-communication-resources",
-  "title": "Communication Resources | Office for Outreach and Community Engagement",
-  "type": "funding",
-  "org": "colorado.edu/oce",
-  "depth": 5,
-  "specificity": 6,
-  "at": "2026-08-11T17:15:37.876Z"
- },
- {
-  "id": "colorado-edu-oce-funding-and-resources-grant-recipients",
-  "title": "Grant Recipients | Office for Outreach and Community Engagement",
-  "type": "funding",
-  "org": "colorado.edu/oce",
-  "depth": 6,
-  "specificity": 3,
-  "at": "2026-08-11T17:15:37.727Z"
- },
- {
-  "id": "colorado-edu-oce-funding-and-resources",
-  "title": "Funding and Resources | Office for Outreach and Community Engagement",
-  "type": "funding",
-  "org": "colorado.edu/oce",
-  "depth": 5,
-  "specificity": 3,
-  "at": "2026-08-11T17:15:37.634Z"
+  "specificity": 8,
+  "at": "2026-08-11T17:18:35.945Z"
  }
 ]

@@ -5098,6 +5098,134 @@
   "needsAnalysis": false
  },
  {
+  "id": "startupcolorado-org-stories-call-for-applications-meet-our-new-founder-coopetiti",
+  "url": "https://startupcolorado.org/stories/call-for-applications-meet-our-new-founder-coopetition-program-director",
+  "title": "Call For Applications + Meet Our New Founder Coopetition Program Director - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "COLORADO - Startup Colorado is thrilled to announce the appointment of a new program director for its innovative Founder Coopetition program, a unique blend of cooperation and competition designed to fuel the growth of early-stage businesses in rural areas. Tim Martinez will join the Startup Colorado team in their efforts to support rural entrepreneurs and small business owners.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [
+   "margaret@startupcolorado.org"
+  ],
+  "funding": [
+   "$5,000 m",
+   "$60,000"
+  ],
+  "deadlines": [
+   "deadline for all cohorts, however founders interested in participating in the September",
+   "apply by August 28th"
+  ],
+  "specificity": 10,
+  "depth": 6,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/startup-colorado-news/page/4",
+  "fetchedAt": "2026-08-11T17:18:32.754Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-ma-cost",
+  "url": "https://online.colorado.edu/teacher-leadership-ma/cost",
+  "title": "Cost | Teacher Leadership MA | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-ma",
+  "type": "reference",
+  "description": "Tuition and fees, billing schedule, payment deadlines, and financial aid information for the MA in Teacher Leadership.",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "food"
+  ],
+  "contacts": [
+   "cebursar@colorado.edu",
+   "CE3rdparty@colorado.edu"
+  ],
+  "funding": [
+   "$622",
+   "$659",
+   "$1,157",
+   "$1,231",
+   "$1,692",
+   "$1,803"
+  ],
+  "deadlines": [
+   "Deadlines Careers People Cost Tuition and Fees The Teacher Leadership program has been d",
+   "Deadlines Bills become available in Buff Portal (CUBill&Pay for authorized payers) aroun",
+   "due on the 5th of the following month",
+   "Deadlines for tuition and fees payment are listed in the dates and deadlines section of"
+  ],
+  "specificity": 10,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:33.833Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-cost",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/cost",
+  "title": "Cost | Teacher Leadership Certificates | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Tuition and fees, billing schedule, and payment deadlines for Teacher Leadership certificates.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "food"
+  ],
+  "contacts": [
+   "cebursar@colorado.edu",
+   "CE3rdparty@colorado.edu"
+  ],
+  "funding": [
+   "$622",
+   "$659",
+   "$1,157",
+   "$1,231",
+   "$1,692",
+   "$1,803"
+  ],
+  "deadlines": [
+   "Deadlines Careers People Cost Tuition and Fees The Teacher Leadership program has been d",
+   "Deadlines Bills become available in Buff Portal (CUBill&Pay for authorized payers) aroun",
+   "due on the 5th of the following month",
+   "Deadlines for tuition and fees payment are listed in the dates and deadlines section of"
+  ],
+  "specificity": 10,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-certificates",
+  "fetchedAt": "2026-08-11T17:18:36.443Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-venturepartners",
   "url": "https://colorado.edu/venturepartners",
   "title": "Home | Venture Partners at CU Boulder",
@@ -16631,6 +16759,570 @@
   "needsAnalysis": false
  },
  {
+  "id": "startupcolorado-org-event-hayden-2025-business-pitch-competition",
+  "url": "https://startupcolorado.org/event/hayden-2025-business-pitch-competition",
+  "title": "Hayden 2025 Business Pitch Competition - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "Hayden 2025 Business Pitch Competition — Apply now, or come to the event and cheer on the innovative entrepreneurs!",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$3,000",
+   "$1,500",
+   "$500",
+   "$100"
+  ],
+  "deadlines": [
+   "Deadline: September 30, 2025 Event Date: November 15, 2025 — Come cheer on the finalists"
+  ],
+  "specificity": 8,
+  "depth": 6,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/featured/page/3/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:18:18.635Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-the-pitch-competition-returns-to-west-slope-startup-",
+  "url": "https://startupcolorado.org/stories/the-pitch-competition-returns-to-west-slope-startup-week",
+  "title": "The Startup Colorado Pitch Competition Returns to West Slope Startup Week - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "The Startup Colorado Pitch Competition returns to West Slope Startup Week this fall. Will we see you on stage in Durango on October 8th?",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food",
+   "energy"
+  ],
+  "contacts": [
+   "mark@startupcolorado.org"
+  ],
+  "funding": [
+   "$5K",
+   "$500K",
+   "$10,000",
+   "$380,000"
+  ],
+  "deadlines": [
+   "due diligence on top applicants and may announce investments live at the event In-k",
+   "due diligence experience",
+   "deadline is August 20th"
+  ],
+  "specificity": 8,
+  "depth": 6,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/startup-colorado-news/page/2",
+  "fetchedAt": "2026-08-11T17:18:24.698Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-ma-admissions",
+  "url": "https://online.colorado.edu/teacher-leadership-ma/admissions",
+  "title": "Admissions | Teacher Leadership MA | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-ma",
+  "type": "reference",
+  "description": "Application information for the MA in Teacher Leadership.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Admissions Spring 2027 Application Available Now November 2, 20",
+   "deadline (all application materials must be submitted) January 7, 2027: Program start da",
+   "deadline (all application materials must be submitted) TBD: Program start date A complet"
+  ],
+  "specificity": 8,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:33.120Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-ma-dates-and-deadlines",
+  "url": "https://online.colorado.edu/teacher-leadership-ma/dates-and-deadlines",
+  "title": "Dates | Teacher Leadership MA | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-ma",
+  "type": "reference",
+  "description": "Dates and deadlines for the MA in Teacher Leadership.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Dates and Deadlines Application Deadlines Spring 2027 Applicati",
+   "deadline (all application materials must be submitted) January 7, 2027: Program start da",
+   "deadline (all application materials must be submitted) TBD: Program start date Dates and",
+   "Deadlines Summer 2026 10-Week Session Event Date Course Enrollment Begins March 4 10-Wee"
+  ],
+  "specificity": 8,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:34.157Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-inclusive-special-education",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/inclusive-special-education",
+  "title": "Inclusive and Special Education Certificate | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Prepare to be a leader in your school and district by humanizing students with disabilities in the Inclusive and Special Education certificate.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Become an inclusive leader"
+  ],
+  "specificity": 8,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:35.945Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-admissions",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/admissions",
+  "title": "Admissions | Teacher Leadership Certificates | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Application information for Teacher Leadership certificates.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Admissions How to Apply Apply to the program at any time and st"
+  ],
+  "specificity": 8,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-certificates",
+  "fetchedAt": "2026-08-11T17:18:36.224Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-academics",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/academics",
+  "title": "Academics | Teacher Leadership Certificates | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Explore the curriculum for Teacher Leadership certificates.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Academics Graduate Certificate Overview Offered entirely online",
+   "deadlines and admissions requirements to submit your application to the Master of Arts i"
+  ],
+  "specificity": 8,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-certificates",
+  "fetchedAt": "2026-08-11T17:18:36.471Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-dates-and-deadlines",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/dates-and-deadlines",
+  "title": "Dates | Teacher Leadership Certificates | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Dates and deadlines for Teacher Leadership certificates.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "cerecords@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Dates and Deadlines Key Dates for Online Flex Courses You have",
+   "deadlines: You will have 40 calendar days from registration to drop an EDUA course witho",
+   "deadline and a final grade has not yet been posted",
+   "Deadline to Add a Class+ July 8 June 24 July 15 June 17 Deadline to Drop++, 100% Tuition"
+  ],
+  "specificity": 8,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-certificates",
+  "fetchedAt": "2026-08-11T17:18:36.541Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-founder-coopetition-launches-to-support-rural-entrep",
+  "url": "https://startupcolorado.org/stories/founder-coopetition-launches-to-support-rural-entrepreneurs",
+  "title": "Founder Coopetition Launches to Support Rural Entrepreneurs - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "funding",
+  "description": "The Founder Coopetition, a business accelerator program for early-stage startups in rural Colorado, is returning April 24th. The four-week program will expose participating companies to robust educational programming that will prepare them for funding eligibility, including venture capital, small business loans, and state grants. Powered by Startup Colorado, the Founder Coopetition will run an additional two cohorts this year, with a third in early 2024.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [
+   "margaret@startupcolorado.org"
+  ],
+  "funding": [
+   "$5,000 m",
+   "$60,000",
+   "$24,650",
+   "$5,000"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 6,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/startup-colorado-news/page/5",
+  "fetchedAt": "2026-08-11T17:18:39.026Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-shes-independent-presents-fireside-chat-with-seth-le",
+  "url": "https://calendar.colorado.edu/event/shes-independent-presents-fireside-chat-with-seth-levine-9100",
+  "title": "She's Independent presents: Fireside Chat with Seth Levine - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "event",
+  "description": "Join us for an exciting fireside chat with Seth Levine, partner and co-founder at Foundry, co-hosted in collaboration with the Deming Center for Entrepreneurship at CU Boulder! ​A long-time venture capitalist, Seth Levine, works with venture funds and companies around the globe. His day job is as a partner at Foundry, a Boulder, CO-based venture capital firm he co-founded in 2006 with over $3.5 billion in assets under management. He is also the co-founder and Chief Strategy Officer of Goodbread, a small business lending platform.\n\nRegister Here, powered by Localist Event Calendar Software",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$3.5"
+  ],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/innovate/newsletter/newsletter/innovation-entrepreneurship-newsletter-campus-edition-12225",
+  "fetchedAt": "2026-08-11T17:18:41.712Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-koelbel-building-leeds-school-of-business",
+  "url": "https://calendar.colorado.edu/koelbel_building_leeds_school_of_business",
+  "title": "Koelbel Building: Leeds School of Business - University of Colorado Boulder",
+  "org": "colorado.edu/koelbel_building_leeds_school_of_business",
+  "type": "event",
+  "description": "The Leeds School of Business is the top ranked Colorado business school offering undergraduate, MBA, MS and PhD business programs. It is one of the best business schools in the Rocky Mountains and Midwest regions of the United States. Located in the startup hub of Boulder, Colorado and close to the booming Denver business community, Leeds&#39; students and faculty are surrounded by and connected to high-level business growth., powered by Localist Event Calendar Software",
+  "audience": [
+   "undergrads",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [
+   "shpa5700@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/innovate/newsletter/newsletter/innovation-entrepreneurship-newsletter-campus-edition-12225",
+  "fetchedAt": "2026-08-11T17:18:41.927Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-services-conferencing-services-web-conferencing-zoom-help-addit",
+  "url": "https://oit.colorado.edu/services/conferencing-services/web-conferencing-zoom/help/additional-licenses",
+  "title": "Zoom - Additional Licenses | Office of Information Technology",
+  "org": "colorado.edu/services",
+  "type": "event",
+  "description": "The University of Colorado Boulder maintains a limited number of common-good licenses that can be requested for temporary events at no additional cost. Users and departments who require a dedicated license can purchase what they need.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [
+   "$690",
+   "$3,400",
+   "$9,900",
+   "$24,900",
+   "$64,900",
+   "$600"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:18:53.782Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-news-microsoft-licensing-automation-june-2026",
+  "url": "https://oit.colorado.edu/news/microsoft-licensing-automation-june-2026",
+  "title": "What to Know About OIT&#039;s New Microsoft Licensing Automation | Office of Information Technology",
+  "org": "colorado.edu/news",
+  "type": "center",
+  "description": "On June 16, OIT is rolling out a more transparent, predictable and user-friendly experience for faculty, staff, students and others whose eligibility for campus-provided Microsoft services has changed.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "due to this automation"
+  ],
+  "specificity": 8,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/about-oit/projects/microsoft-365-licensing-automation-project",
+  "fetchedAt": "2026-08-11T17:18:58.561Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+  "url": "https://oit.colorado.edu/services/messaging-collaboration/microsoft-365/licenses/compare",
+  "title": "Microsoft License Comparison Tool | Office of Information Technology",
+  "org": "colorado.edu/services",
+  "type": "center",
+  "description": "To view all services and applications included with a specific Microsoft license, see Microsoft 365 - Licenses.",
+  "audience": [
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "due to: a recent shift in your role at CU Boulder a previous shift in your role tha"
+  ],
+  "specificity": 8,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/about-oit/projects/microsoft-365-licensing-automation-project",
+  "fetchedAt": "2026-08-11T17:18:59.442Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "hazards-colorado-edu-news-center-news-congratulations-student-paper-winners-1",
+  "url": "https://hazards.colorado.edu/news/center-news/congratulations-student-paper-winners-1",
+  "title": "Natural Hazards Center || Introducing the 2026 Student Paper Competition Winners",
+  "org": "colorado.edu/news",
+  "type": "competition",
+  "description": "The Natural Hazards Center is pleased to introduce Kylie-Anne MacLeod and Mayesha Shams as the winners of the 2026 Student Paper Competition.\n",
+  "audience": [
+   "staff",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "hazctr@colorado.edu"
+  ],
+  "funding": [
+   "$250,"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://hazards.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:03.002Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-innovate",
   "url": "http://www.colorado.edu/innovate",
   "title": "Home | Innovation & Entrepreneurship Initiative",
@@ -18591,6 +19283,45 @@
   "discoveredVia": "link",
   "parent": "https://www.cuanschutz.edu/chancellor/anschutz-acceleration-initiative",
   "fetchedAt": "2026-08-11T17:13:46.918Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "hazards-colorado-edu-awards-paper-competition",
+  "url": "https://hazards.colorado.edu/awards/paper-competition",
+  "title": "Natural Hazards Center",
+  "org": "colorado.edu/awards",
+  "type": "competition",
+  "description": "Natural Hazards Center image/svg+xml image/svg+xml About Us Our Center Vision and Mission Advisory Board How to Contribute In the News Our People Center Staff Directors 1976-Present Press/Contact Us Subscribe Our Awards Mary Fran Myers Scholarship Disability and Disasters Award Student Paper Competi",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "staff",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "health",
+   "space"
+  ],
+  "contacts": [
+   "Rachel.Adams-1@colorado.edu",
+   "hazctr@colorado.edu"
+  ],
+  "funding": [
+   "$250,"
+  ],
+  "deadlines": [],
+  "specificity": 7,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://hazards.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:19:02.049Z",
   "needsAnalysis": false
  },
  {
@@ -25864,7 +26595,7 @@
  },
  {
   "id": "startupcolorado-org-founder-coopetition",
-  "url": "https://startupcolorado.org/founder-coopetition",
+  "url": "https://startupcolorado.org/Founder-Coopetition",
   "title": "Founder Coopetition - Startup Colorado",
   "org": "startupcolorado.org",
   "type": "program",
@@ -25887,10 +26618,10 @@
    "Applications close August 28"
   ],
   "specificity": 6,
-  "depth": 1,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "https://startupcolorado.org/",
-  "fetchedAt": "2026-08-11T16:56:38.975Z",
+  "parent": "https://startupcolorado.org/stories/the-growth-challenge-expands-support-for-rural-founders-with-scale-ups",
+  "fetchedAt": "2026-08-11T17:18:35.424Z",
   "needsAnalysis": false
  },
  {
@@ -31283,6 +32014,1270 @@
   "discoveredVia": "link",
   "parent": "https://startupcolorado.org/stories/tag/online-event/page/2",
   "fetchedAt": "2026-08-11T17:17:20.665Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-20",
+  "url": "https://startupcolorado.org/event/how-to-start-a-mobile-food-business/2026-04-20",
+  "title": "How to Start a Mobile Food Business - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Overview Thinking of starting a food truck or cart in Colorado? While this model offers a quicker and less costly way to enter the food industry, it requires business owners [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food"
+  ],
+  "contacts": [],
+  "funding": [
+   "$95"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/colorado-sbdc-serving-the-west-central-region/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:18:09.770Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-27",
+  "url": "https://startupcolorado.org/event/how-to-start-a-mobile-food-business/2026-04-27",
+  "title": "How to Start a Mobile Food Business - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Overview Thinking of starting a food truck or cart in Colorado? While this model offers a quicker and less costly way to enter the food industry, it requires business owners [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food"
+  ],
+  "contacts": [],
+  "funding": [
+   "$95"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/colorado-sbdc-serving-the-west-central-region/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:18:10.190Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-13",
+  "url": "https://startupcolorado.org/event/how-to-start-a-mobile-food-business/2026-04-13",
+  "title": "How to Start a Mobile Food Business - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Overview Thinking of starting a food truck or cart in Colorado? While this model offers a quicker and less costly way to enter the food industry, it requires business owners [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food"
+  ],
+  "contacts": [],
+  "funding": [
+   "$95"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/colorado-sbdc-serving-the-west-central-region/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:18:16.937Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-ma-academics",
+  "url": "https://online.colorado.edu/teacher-leadership-ma/academics",
+  "title": "Academics | Teacher Leadership MA | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-ma",
+  "type": "course",
+  "description": "Explore the curriculum for the MA in Teacher Leadership.",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Academics The Master of Arts in Teacher Leadership degree puts"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:33.516Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-ma-careers",
+  "url": "https://online.colorado.edu/teacher-leadership-ma/careers",
+  "title": "Careers | Teacher Leadership MA | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-ma",
+  "type": "reference",
+  "description": "Explore career opportunities made possible by an MA in Teacher Leadership.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "teacherleadership@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Careers The Teacher Leadership program is designed to support t"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:35.183Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-ma-people",
+  "url": "https://online.colorado.edu/teacher-leadership-ma/people",
+  "title": "People | Teacher Leadership MA | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-ma",
+  "type": "course",
+  "description": "Meet the MA in Teacher Leadership faculty mentors, staff, and course facilitators.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People People Staff An error has occured - please check your filters a"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:35.289Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-teacher-social-emotional-lea",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/teacher-social-emotional-learning",
+  "title": "The Teacher and Social and Emotional Learning Certificate | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "The Teacher and Social and Emotional Learning certificate gives you background knowledge and understanding to support your teaching and student learning.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Engage students in social emotional learning"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:35.512Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-teaching-culturally-linguist",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/teaching-culturally-linguistically-diverse-students",
+  "title": "Teaching Culturally and Linguistically Diverse Students Certificate | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Learn the history, policies and laws related to emerging bilingual learners in the Teaching Culturally and Linguistically Diverse Students certificate.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Learn to support emerging bilingual students"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:35.632Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-leading-change-in-science-as",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/leading-change-in-science-assessment-practice",
+  "title": "Leading for Change in Science Assessment Practice Certificate | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Learn how to adapt, develop and pilot assessments with a Leading for Change in Science Assessment Practice certificate.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Center your science classroom around phenomena"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:35.753Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-cultivating-compassion-digni",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/cultivating-compassion-dignity-in-ourselves-and-schools",
+  "title": "Cultivating Compassion and Dignity in Ourselves and Our Schools Certificate | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Explore ways in which compassion and dignity can contribute to the wellness of educators and schools in the Cultivating Compassion and Dignity certificate.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "arts"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Support wellness for educators, students and their communities"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:35.811Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-designing-for-learning",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/designing-for-learning",
+  "title": "Designing for Learning: Inquiry-Based Pedagogy for K-12 Educators Certificate | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Learn to create inquiry-based learning experiences in the Designing for Learning: Inquiry-Based Pedagogy for K-12 Educators certificate.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Energize students with real world problems and projects"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:36.136Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-teachers-leading-change",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/teachers-leading-change",
+  "title": "Teachers Leading Change Certificate | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Engage effectively in shared leadership and proactively expand your sphere of influence in meaningful ways with the Teachers Leading Change certificate.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "space"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Gain valuable leadership skills and tools"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-ma",
+  "fetchedAt": "2026-08-11T17:18:36.152Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-careers",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/careers",
+  "title": "Careers | Teacher Leadership Certificates | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Explore career opportunities made possible by a Teacher Leadership certificate.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "teacherleadership@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Careers The Teacher Leadership program is designed to support t"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-certificates",
+  "fetchedAt": "2026-08-11T17:18:36.690Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates-people",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates/people",
+  "title": "People | Teacher Leadership Certificates | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Meet the Teacher Leadership faculty mentors, staff, and course facilitators.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People People Staff An error has occured - please check your filters a"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/teacher-leadership-certificates",
+  "fetchedAt": "2026-08-11T17:18:36.769Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-starting-blocks-amp-3butm-medium-widget-amp-3butm-so",
+  "url": "https://calendar.colorado.edu/event/starting_blocks?amp%3Butm_medium=widget&amp%3Butm_source=University+of+Colorado+Boulder",
+  "title": "Starting Blocks Customer Discovery Workshop - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "funding",
+  "description": "Do you have an innovation that could make a difference? \n\nWhether a researcher, entrepreneur, inventor or problem solver, the Starting Blocks Customer Discovery Workshop at Venture Partners at CU Boulder can help you transform your concept into a successful venture. Offered as part of the National Science Foundation (NSF) I-Corps™ Hub: West Region, this workshop is for anyone from a research or community institution motivated to bring their ideas to life, secure funding and create lasting impact. Over three weeks, gain a deeper understanding of the commercialization process, test your ideas with real potential customers and accelerate your journey toward bringing your idea to market. Visit the Starting Blocks Website\n \n\nWorkshop Details\n\n👥 This opportunity is available to innovators from any research or teaching institution.\n\n🗓️ Workshop Dates: Nov. 5-19\n\n🖥️ Virtual Opportunity\n\n⏰ Application Deadline: Thursday, Oct. 29—Apply Now\n \n\nAbout Venture Partners at CU Boulder\n\nSet in the heart of our university’s bold, innovative community of scholars and learners, Venture Partners at CU Boulder brings the university&#39;s world-class researchers together with the business, startup and entrepreneurial communities to translate groundbreaking solutions into economic and social impact. Visit the Venture Partners Website, powered by Localist Event Calendar Software",
+  "audience": [
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadline: Thursday, Oct",
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/innovate/newsletter/newsletter/innovation-entrepreneurship-newsletter-campus-edition-11425",
+  "fetchedAt": "2026-08-11T17:18:41.442Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-grantvertin-230",
+  "url": "https://calendar.colorado.edu/grantvertin_230",
+  "title": "Grant Vertin - University of Colorado Boulder",
+  "org": "colorado.edu/grantvertin_230",
+  "type": "funding",
+  "description": "University of Colorado Boulder events updated every day. Powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/koelbel_building_leeds_school_of_business",
+  "fetchedAt": "2026-08-11T17:18:42.225Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-professional-sales-mentor-program-annual-meetup-444",
+  "url": "https://calendar.colorado.edu/event/professional-sales-mentor-program-annual-meetup-444",
+  "title": "Professional Sales Mentor Program - Annual Meetup - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "course",
+  "description": "This event marks the annual launch of our flagship Professional Sales Mentor Program, bringing together the industry leaders who volunteer as one-on-one mentors to students in our Professional Selling course.\n\n \n\nEach semester our Mentors volunteer their time to counsel a paired student in Fundamentals of Prof. Selling. They have a minimum of 4 meetings with the student, and their involvement is a critical part of the curriculum. The event is the annual kickoff of the mentor program where typically have three goals: (1) thank the mentors and demonstrate the positive impact on our students; (2) set a roadmap for participation in the program; and (3) provide valuable content for the mentors as sales professionals, powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/koelbel_building_leeds_school_of_business",
+  "fetchedAt": "2026-08-11T17:18:42.546Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-grantvertin-230-calendar",
+  "url": "https://calendar.colorado.edu/grantvertin_230/calendar",
+  "title": "Grant Vertin's Plans\n  \n  on August 1 - 31, 2026 - University of Colorado Boulder",
+  "org": "colorado.edu/grantvertin_230",
+  "type": "funding",
+  "description": "Grant Vertin Events Calendar, powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/grantvertin_230",
+  "fetchedAt": "2026-08-11T17:18:42.755Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "campusgroups-colorado-edu-ecenter-rsvp-boot-id-381098",
+  "url": "https://campusgroups.colorado.edu/ecenter/rsvp_boot?id=381098",
+  "title": "Design Thinking for Sustainable Innovation Workshop  - Environmental Center",
+  "org": "colorado.edu/ecenter",
+  "type": "competition",
+  "description": "&amp;quot;Want to learn more about how to make an impact as a sustainability leader? Need tools to bring to a class assignment, campus sustainability challenges or pitch competitions?  Want to meet students...",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [
+   "studentorganizations@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/innovate/newsletter/newsletter/innovation-entrepreneurship-newsletter-campus-edition-21125",
+  "fetchedAt": "2026-08-11T17:18:43.203Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-hackcu-11",
+  "url": "https://calendar.colorado.edu/event/hackcu-11",
+  "title": "HackCU 11 - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "competition",
+  "description": "(REGISTER ON hackcu.org) The largest 24-hour hackathon (invention marathon) at CU, with 200+ expected participants returns for another year! Any student can attend to create awesome coding and hardware projects from scratch, while enjoying free food, workshops, and fun mini-events (games, challenges, etc)!, powered by Localist Event Calendar Software",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "hardware",
+   "health",
+   "food",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/innovate/newsletter/newsletter/innovation-entrepreneurship-newsletter-campus-edition-21125",
+  "fetchedAt": "2026-08-11T17:18:44.000Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-public-and-engaged-scholarship-faculty-meetup",
+  "url": "https://calendar.colorado.edu/event/public-and-engaged-scholarship-faculty-meetup",
+  "title": "Public and Engaged Scholarship Faculty Meetup - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "funding",
+  "description": "All faculty members are invited to join Public and Community-Engaged Scholarship (PACES), from the Office for Outreach and Community Engagement, for a Public and Engaged Scholarship Faculty Meetup. Light refreshments will be provided.\n\nThis meetup will be a gathering and presentation for faculty members interested in learning about engaging their students and research with external communities. Guests will have chances to meet and connect with colleagues who share similar interests and approaches. Resources will be shared regarding professional development and funding opportunities, as well as networks for community-engaged teaching, research, and creative work. Resources will include opportunities available on campus (through PACES and partner units) and through national organizations of which CU Boulder is a member, such as Campus Compact and the Engagement Scholarship Consortium.\n\nYour registration would be appreciated before Aug. 10., powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/center_for_academic_success_and_engagement_case_394",
+  "fetchedAt": "2026-08-11T17:18:44.663Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-first-gen-scholarship-program-orientation",
+  "url": "https://calendar.colorado.edu/event/first-gen-scholarship-program-orientation",
+  "title": "First-Generation Scholarship Program Welcome and Orientation - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "funding",
+  "description": "The First Generation Scholarship Program Orientation is a required experience for all incoming First-Gen Scholars. This orientation will introduce you to the program’s curriculum, expectations, and requirements, and connect you with key campus partners, in The Center for Cultural Connections &amp; Community and the Division of Student Life. Families and supporters are welcome to attend and will learn about the program and the campus resources available to support scholars throughout the academic year. \n\nGet more info and register to attend: https://www.colorado.edu/orientation/first-generation-student-orientation, powered by Localist Event Calendar Software",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/university_memorial_center_umc",
+  "fetchedAt": "2026-08-11T17:18:44.778Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-now-what-office-hours-with-alex-schwarzkopf-amp-3but",
+  "url": "https://calendar.colorado.edu/event/now-what-office-hours-with-alex-schwarzkopf?amp%3Butm_medium=widget&amp%3Butm_source=University+of+Colorado+Boulder",
+  "title": "Now What? Office Hours with Alex Schwarzkopf - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "funding",
+  "description": "The Deming Center is hosting a special offering of Now What? Office Hours with Alex Schwarzkopf, Venture Partner at 1517 Fund. This event is open to all students seeking guidance and connections in entrepreneurship, including those working on a venture idea, interested to get advice and inspiration from a VC, and meet others and grow their network., powered by Localist Event Calendar Software",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/innovate/newsletter/newsletter/innovation-entrepreneurship-newsletter-campus-edition-22426",
+  "fetchedAt": "2026-08-11T17:18:46.623Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-sustainability-on-tap-with-eve-hinckley-and-danielle",
+  "url": "https://calendar.colorado.edu/event/sustainability-on-tap-with-eve-hinckley-and-danielle-beatty",
+  "title": "Sustainability on Tap with Eve Hinckley and Danielle Beatty! - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "course",
+  "description": "Sustainability on Tap\nUpslope Brewing Company (East Boulder)\nWednesday, May 20th\n\nHosted by the Sustainability Research Initiative (SRI), Sustainability on Tap is a monthly conversation series that brings sustainability research out of the classroom and into the community. Held this month at Upslope Brewing Company (East Boulder), the event creates a relaxed, welcoming space for dialogue, curiosity, and connection with the broader Boulder community.\n\nRather than a traditional academic lecture, this series is designed to feel like a conversation: thought provoking, accessible, and grounded in real world impact. Each month features researchers and practitioners sharing ideas that connect complex research to everyday life.\n\nThis Month&#39;s Featured Speakers:\n\nEve Hinckley: Biogeochemist and lead of the Environmental Biogeochemistry Group, Eve-Lyn studies how human activity alters the fundamental processes of life on Earth. From California croplands to the peaks of Patagonia, her team uses isotope geochemistry and data analysis to track the health of fragile ecosystems. She is also a dedicated advocate for diversifying STEM education and mentoring undergraduate researchers.Danielle Beatty: A graduate researcher in the Living Materials Laboratory, Danielle focuses on using microorganisms to grow sustainable, biologically derived building materials. Her work aims to reduce the environmental footprint of the construction industry by reimagining materials design—from raw sourcing to end-of-life reuse.Join us for an informal evening of discussion over drinks, where you can engage directly with the people doing meaningful sustainability work at CU Boulder and beyond. Whether you’re deeply immersed in sustainability research or simply curious, come spark a new connection!, powered by Localist Event Calendar Software",
+  "audience": [
+   "undergrads",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/innovate/newsletter/newsletter/innovation-entrepreneurship-newsletter-campus-edition-5526",
+  "fetchedAt": "2026-08-11T17:18:47.296Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing-software-asset-management-program",
+  "url": "https://oit.colorado.edu/services/software-licensing/software-asset-management-program",
+  "title": "Software Asset Management Program | Office of Information Technology",
+  "org": "colorado.edu/services",
+  "type": "center",
+  "description": "About SAMFAQCurrent Status &amp; HistoryOIT Software Asset ManagementSoftware Asset Management (SAM) is a subset of IT Asset Management (ITAM) and includes the framework, processes, and tools to strategically oversee the financial, contractual, compliance, and risk aspects of IT software assets throughout the life cycle.",
+  "audience": [
+   "staff",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:18:50.189Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing",
+  "url": "https://oit.colorado.edu/services/software-licensing",
+  "title": "Software Licensing | Office of Information Technology",
+  "org": "colorado.edu/services",
+  "type": "center",
+  "description": "Software Licensing, as part of the CU Boulder Software Asset Management (SAM) program, supports business processes and campus mission activities by managing software contracts and products.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "oitsoftware@colorado.edu",
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:18:54.084Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing-acquiring-software",
+  "url": "https://oit.colorado.edu/services/software-licensing/acquiring-software",
+  "title": "Software Licensing - Acquiring Software | Office of Information Technology",
+  "org": "colorado.edu/services",
+  "type": "center",
+  "description": "Campus softwareOIT Software Asset Management (SAM) facilitates software licensing and distribution across the CU Boulder campus of commonly used software for faculty, staff and students. By consolidating the procurement, vendor management, and distribution of software, the campus can provide software to the broadest population while minimizing the cost of the software.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:18:54.130Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing-appropriate-use-and-compliance",
+  "url": "https://oit.colorado.edu/services/software-licensing/appropriate-use-and-compliance",
+  "title": "Software Licensing - Appropriate Use and Compliance | Office of Information Technology",
+  "org": "colorado.edu/services",
+  "type": "center",
+  "description": "This guidance is for campus software users of all types (students, faculty and staff, and their departments and units) on the appropriate use of software. SAM will help resolve problems with software licensing when they occur.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:18:54.498Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-about-oit-projects-microsoft-365-licensing-automation-project",
+  "url": "https://oit.colorado.edu/about-oit/projects/microsoft-365-licensing-automation-project",
+  "title": "Microsoft Licensing Automation Project | Office of Information Technology",
+  "org": "colorado.edu/about-oit",
+  "type": "center",
+  "description": "Expanded Microsoft Automation Now LiveThe latest phase of Microsoft licensing automation went live on June 16. Looking for information about how it may affect you or those you support? Click the button below to learn more.Project FAQs",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Due to the limited scope of Phase 1, the automation was designed to ensure only eli"
+  ],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:18:55.910Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-services-network-internet-services-ip-address-hostname-manageme",
+  "url": "https://oit.colorado.edu/services/network-internet-services/ip-address-hostname-management",
+  "title": "IP Address and Hostname Management | Office of Information Technology",
+  "org": "colorado.edu/services",
+  "type": "community",
+  "description": "OIT assists customers with name and address management by providing Static IP addresses and Dynamic DNS. Learn more about getting a Static IP address below.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:18:57.006Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing-faq",
+  "url": "https://oit.colorado.edu/services/software-licensing/faq",
+  "title": "Software Licensing - FAQ | Office of Information Technology",
+  "org": "colorado.edu/services",
+  "type": "center",
+  "description": "Purchase, Acquire and Get Access To SoftwareHow do I purchase software for myself or others in my department?Visit OIT&#039;s Software Catalog for a list of CU Boulder-provided and/or academic-priced software, as well as instructions for acquisition.You may also find academic pricing on common software through OnTheHub, even if it is not CU-sponsored software.For more detailed information about software purchasing, visit the Acquiring So",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "PSC@cu.edu",
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:18:57.553Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing-software-audit-information",
+  "url": "https://oit.colorado.edu/services/software-licensing/software-audit-information",
+  "title": "Software Audit Information | Office of Information Technology",
+  "org": "colorado.edu/services",
+  "type": "funding",
+  "description": "complianceauditsour procedureContact usSoftware complianceSoftware applications are usually not free and require the purchase of a license. A software license is a legal agreement defining the conditions by which the application can be used. For example, “the application may only be used by one ‘named’ person.” Licenses generally grant the software manufacturer the right to audit the customer.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "oitsoftware@colorado.edu",
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:18:58.371Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses",
+  "url": "https://oit.colorado.edu/services/messaging-collaboration/microsoft-365/licenses",
+  "title": "Microsoft 365 - Licenses | Office of Information Technology",
+  "org": "colorado.edu/services",
+  "type": "center",
+  "description": "Services by License TypeLicense DetailsCompare Licenses Account ProvisioningMicrosoft 365 uses our campus Active Directory (AD) to automatically synchronize with your IdentiKey username and password.",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:18:58.417Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "url": "https://oit.colorado.edu/tutorial/static-ip-configuration-macintosh",
+  "title": "Static IP Configuration - Macintosh | Office of Information Technology",
+  "org": "colorado.edu/tutorial",
+  "type": "community",
+  "description": "To request a static IP address, please go to http://hippo.colorado.edu/ and select Static IP Address Application. Static IP addresses on the CU Boulder campus must be assigned by OIT or other designated network administrators. A static IP address must be manually entered into a device, along with router address, subnet mask, DNS server addresses and domain information. Instructions are for Mac OS 10.6, but work similarly for earlier versions of Mac OS X.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/services/network-internet-services/ip-address-hostname-management",
+  "fetchedAt": "2026-08-11T17:18:59.756Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "url": "https://oit.colorado.edu/tutorial/static-ip-configuration-windows",
+  "title": "Static IP Configuration - Windows | Office of Information Technology",
+  "org": "colorado.edu/tutorial",
+  "type": "community",
+  "description": "To request a static IP address, please go to http://hippo.colorado.edu/ and select Static IP Address Application. Static IP addresses on the CU Boulder campus must be assigned by OIT or other designated network administrators. A static IP address must be manually entered into a device, along with router address, subnet mask, DNS server addresses and domain information.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/services/network-internet-services/ip-address-hostname-management",
+  "fetchedAt": "2026-08-11T17:18:59.790Z",
   "needsAnalysis": false
  },
  {
@@ -40078,6 +42073,44 @@
   "discoveredVia": "link",
   "parent": "https://startupcolorado.org/all-events/list/page/2/?eventDisplay=past",
   "fetchedAt": "2026-08-11T17:17:55.270Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "hazards-colorado-edu-awards-paper-competition-previous-winners",
+  "url": "https://hazards.colorado.edu/awards/paper-competition/previous-winners",
+  "title": "Natural Hazards Center || Student Paper Competition Winners",
+  "org": "colorado.edu/awards",
+  "type": "competition",
+  "description": "Natural Hazards Center || Student Paper Competition Winners image/svg+xml image/svg+xml About Us Our Center Vision and Mission Advisory Board How to Contribute In the News Our People Center Staff Directors 1976-Present Press/Contact Us Subscribe Our Awards Mary Fran Myers Scholarship Disability and ",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "staff",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "climate",
+   "health"
+  ],
+  "contacts": [
+   "hazctr@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "due University Untitled (Disaster Communications) Walker S"
+  ],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://hazards.colorado.edu/awards/paper-competition",
+  "fetchedAt": "2026-08-11T17:19:03.184Z",
   "needsAnalysis": false
  },
  {
@@ -53195,6 +55228,584 @@
   "needsAnalysis": false
  },
  {
+  "id": "startupcolorado-org-why-your-startup-needs-a-press-page",
+  "url": "https://startupcolorado.org/why-your-startup-needs-a-press-page",
+  "title": "Why Your Startup Needs a Press Page - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Building a press page makes attracting earned media easier and helps develop brand trust. For rural founders, this is a quick and easy guide.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$250 million",
+   "$1",
+   "$600",
+   "$500,000"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/the-team-photo",
+  "fetchedAt": "2026-08-11T17:18:05.575Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-belonging-colorado-prospect-info-session",
+  "url": "https://startupcolorado.org/event/belonging-colorado-prospect-info-session",
+  "title": "Belonging Colorado Prospects Info Session - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "The Belonging Prospects Info Session is your chance to learn more about the Belong @ Startup Colorado accelerator program.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/featured/page/2/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:18:18.671Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-belonging-prospects-info-session",
+  "url": "https://startupcolorado.org/event/belonging-prospects-info-session",
+  "title": "Belonging Prospects Info Session - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "The Belonging Prospects Info Session is a great opportunity for prospective applicants to learn more about this accelerator program.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/featured/page/2/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:18:23.271Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-the-growth-challenge-expands-support-for-rural-found",
+  "url": "https://startupcolorado.org/stories/the-growth-challenge-expands-support-for-rural-founders-with-scale-ups",
+  "title": "The Growth Challenge Expands Support for Rural Founders with Scale-ups - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "Our latest blog showcases how the Growth Challenge expands support for rural founders with scale-ups using curated programming and mentorship.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 6,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/startup-colorado-news/page/3",
+  "fetchedAt": "2026-08-11T17:18:29.638Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-startup-colorado-hits-1000-members-on-entrepreneur-n",
+  "url": "https://startupcolorado.org/stories/startup-colorado-hits-1000-members-on-entrepreneur-network",
+  "title": "Startup Colorado Hits 1,000 Members on Entrepreneur Network - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Two years ago, the Startup Colorado Network began as a series of conversations between our small, but mighty team and our rural partners throughout the state. The world was turned upside down and we sensed a heightened need for connectivity, cohesion of resources, and a space for entrepreneurs to build community. After months of research, surveys, and meetings, the Startup Colorado team came to the conclusion that an online network for entrepreneurs would help solve these problems. There was just one big question: if we build it, would they come?",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$1,000"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 6,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/startup-colorado-news/page/5",
+  "fetchedAt": "2026-08-11T17:18:31.659Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-startup-colorado-announces-first-founder-co-opetitio",
+  "url": "https://startupcolorado.org/stories/startup-colorado-announces-first-founder-co-opetition-cohort",
+  "title": "Startup Colorado Announces First Founder CO-OPetition Cohort - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "In the fall of 2021, Startup Colorado launched a free CO-OPetition pilot program for idea to early stage entrepreneurs. Merging the concepts of “cooperation” and “competition,” the four-week experience invited entrepreneurs to participate in weekly activities by not only building their own business, but also providing feedback for others. At the end of the program, participants anonymously evaluated and voted for a winner. Startup Colorado provided $15,000 in funding, awarded to all participants in amounts of $2000, $1000, and $550.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "energy",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$15,000",
+   "$2000,",
+   "$1000,",
+   "$550"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 6,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/startup-colorado-news/page/5",
+  "fetchedAt": "2026-08-11T17:18:34.202Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-page-entrepreneur-network",
+  "url": "https://startupcolorado.org/page/entrepreneur-network",
+  "title": "Home - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Empowering startups in Colorado with resources, programs, and a vibrant community. Start your entrepreneurial journey with us.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 7,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/founder-coopetition-launches-to-support-rural-entrepreneurs",
+  "fetchedAt": "2026-08-11T17:18:40.427Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-page-entrepreneur-resources",
+  "url": "https://startupcolorado.org/page/entrepreneur-resources",
+  "title": "Home - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Empowering startups in Colorado with resources, programs, and a vibrant community. Start your entrepreneurial journey with us.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 7,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/founder-coopetition-launches-to-support-rural-entrepreneurs",
+  "fetchedAt": "2026-08-11T17:18:40.475Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "url": "https://oit.colorado.edu/services/consulting-professional-services/learner-lifecycle-constituent-relationship-management",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/services",
+  "type": "service",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:18:52.978Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "url": "https://oit.colorado.edu/services/software-licensing/reviewing-agreements",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/services",
+  "type": "service",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:18:55.565Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "url": "https://oit.colorado.edu/saml/login?destination=/services/software-licensing/software-asset-management-program",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "program",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/services/software-licensing/software-asset-management-program",
+  "fetchedAt": "2026-08-11T17:18:57.141Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "url": "https://oit.colorado.edu/saml/login?destination=/services/conferencing-services/web-conferencing-zoom/help/additional-licenses",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "service",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/services/conferencing-services/web-conferencing-zoom/help/additional-licenses",
+  "fetchedAt": "2026-08-11T17:18:57.479Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "url": "https://oit.colorado.edu/saml/login?destination=/services/software-licensing",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "service",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/services/software-licensing",
+  "fetchedAt": "2026-08-11T17:18:57.725Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "url": "https://oit.colorado.edu/saml/login?destination=/services/software-licensing/acquiring-software",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "service",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/services/software-licensing/acquiring-software",
+  "fetchedAt": "2026-08-11T17:18:57.921Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "url": "https://oit.colorado.edu/saml/login?destination=/about-oit/projects/microsoft-365-licensing-automation-project",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "service",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/about-oit/projects/microsoft-365-licensing-automation-project",
+  "fetchedAt": "2026-08-11T17:18:58.215Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "url": "https://oit.colorado.edu/saml/login?destination=/services/software-licensing/appropriate-use-and-compliance",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "service",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/services/software-licensing/appropriate-use-and-compliance",
+  "fetchedAt": "2026-08-11T17:18:58.241Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "url": "https://oit.colorado.edu/saml/login?destination=/services/network-internet-services/ip-address-hostname-management",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "community",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/services/network-internet-services/ip-address-hostname-management",
+  "fetchedAt": "2026-08-11T17:18:58.922Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "url": "https://oit.colorado.edu/saml/login?destination=/services/software-licensing/faq",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "service",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/services/software-licensing/faq",
+  "fetchedAt": "2026-08-11T17:18:59.219Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "url": "https://oit.colorado.edu/saml/login?destination=/services/software-licensing/software-audit-information",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "service",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/services/software-licensing/software-audit-information",
+  "fetchedAt": "2026-08-11T17:18:59.471Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "url": "https://oit.colorado.edu/saml/login?destination=/services/messaging-collaboration/microsoft-365/licenses/compare",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "service",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/services/messaging-collaboration/microsoft-365/licenses/compare",
+  "fetchedAt": "2026-08-11T17:19:00.004Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "url": "https://oit.colorado.edu/saml/login?destination=/news/microsoft-licensing-automation-june-2026",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "service",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/news/microsoft-licensing-automation-june-2026",
+  "fetchedAt": "2026-08-11T17:19:00.001Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "url": "https://oit.colorado.edu/saml/login?destination=/tutorial/static-ip-configuration-windows",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "reference",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/tutorial/static-ip-configuration-windows",
+  "fetchedAt": "2026-08-11T17:19:00.359Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "url": "https://oit.colorado.edu/saml/login?destination=/tutorial/static-ip-configuration-macintosh",
+  "title": "Federated Identity Service",
+  "org": "colorado.edu/saml",
+  "type": "reference",
+  "description": "Federated Identity Service | University of Colorado Boulder :: Error Federated Identity Service Stale Request You may be seeing this page because you used the Back button while browsing a secure web site or application.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [
+   "oithelp@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://oit.colorado.edu/tutorial/static-ip-configuration-macintosh",
+  "fetchedAt": "2026-08-11T17:19:00.402Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-business-deming",
   "url": "https://colorado.edu/business/deming",
   "title": "Deming Center for Entrepreneurship | Leeds School of Business",
@@ -64258,6 +66869,121 @@
   "needsAnalysis": false
  },
  {
+  "id": "startupcolorado-org-stories-category-startup-colorado-news-page-3",
+  "url": "https://startupcolorado.org/stories/category/startup-colorado-news/page/3",
+  "title": "News Archives - Page 3 of 5 - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "News Archives - Page 3 of 5 - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS ",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$380K"
+  ],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://startupcolorado.org/stories/category/startup-colorado-news",
+  "fetchedAt": "2026-08-11T17:18:21.684Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-category-startup-colorado-news-page-5",
+  "url": "https://startupcolorado.org/stories/category/startup-colorado-news/page/5",
+  "title": "News Archives - Page 5 of 5 - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "News Archives - Page 5 of 5 - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS ",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$5K"
+  ],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://startupcolorado.org/stories/category/startup-colorado-news",
+  "fetchedAt": "2026-08-11T17:18:24.811Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-category-startup-colorado-news-page-4",
+  "url": "https://startupcolorado.org/stories/category/startup-colorado-news/page/4",
+  "title": "News Archives - Page 4 of 5 - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "News Archives - Page 4 of 5 - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS ",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://startupcolorado.org/stories/category/startup-colorado-news",
+  "fetchedAt": "2026-08-11T17:18:26.700Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "earthlab-colorado-edu-engage-workshops-hackathons",
+  "url": "https://earthlab.colorado.edu/engage/workshops-hackathons",
+  "title": "Workshops &amp; Hackathons | Earthlab",
+  "org": "colorado.edu/engage",
+  "type": "event",
+  "description": "Workshops & Hackathons | Earthlab Skip to main content Earthlab Our Work Science Education Analytics Our Team Engage EDS Seminar Series Newsletter Upcoming and Past Events Professional Certificate Workshops & Hackathons Media Partners and Sponsors Careers Blog Donate Here Learning Portal Menu Our Wo",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://earthlab.colorado.edu/our-team/lise-ann-st-denis",
+  "fetchedAt": "2026-08-11T17:18:37.604Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-researchinnovation-research-development-funding-social-sciences-fun",
   "url": "https://www.colorado.edu/researchinnovation/research-development/funding/social-sciences-funding-resources",
   "title": "Social Sciences Opportunities & Resources | Research & Innovation Office",
@@ -68786,6 +71512,151 @@
   "needsAnalysis": false
  },
  {
+  "id": "startupcolorado-org-series-how-to-start-a-mobile-food-business",
+  "url": "https://startupcolorado.org/series/how-to-start-a-mobile-food-business",
+  "title": "How to Start a Mobile Food Business - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "0 events found. Events Notice There were no results found. Notice There were no results found. Views Navigation Event Views Navigation Summary List Photo Today Upcoming Upcoming Select date. Previous [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/colorado-sbdc-serving-the-west-central-region/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:18:08.937Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-growth-challenges-launches-as-new-founder-coopetitio",
+  "url": "https://startupcolorado.org/stories/growth-challenges-launches-as-new-founder-coopetition-program",
+  "title": "Growth Challenges Launches as New Founder Coopetition program - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "Meet the winners of the February Founder Coopetition: Local NEWS Network, Mindful Toolbox, and Grow Nutrition",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "aerospace",
+   "health",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 6,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/startup-colorado-news/page/3",
+  "fetchedAt": "2026-08-11T17:18:28.040Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-storytelling-tips-for-your-startup-pitch-with-diane-bailey",
+  "url": "https://startupcolorado.org/storytelling-tips-for-your-startup-pitch-with-diane-bailey",
+  "title": "Storytelling Tips for Your Startup Pitch with Diane Bailey - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "Storytelling tips for your startup pitch with Diane Bailey guides you through the best way to hone your pitch and share your business goals.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "edtech",
+   "medtech"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 7,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/the-growth-challenge-expands-support-for-rural-founders-with-scale-ups",
+  "fetchedAt": "2026-08-11T17:18:36.395Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "scholar-law-colorado-edu-faculty-articles-1661",
+  "url": "https://scholar.law.colorado.edu/faculty-articles/1661",
+  "title": "\"Investment Crowdfunding: Anarchy in the U.K.?\" by Andrew A. Schwartz",
+  "org": "colorado.edu/faculty-articles",
+  "type": "reference",
+  "description": "Investment crowdfunding is a new type of venture capital market open to the broad public--&#039;the crowd&#039;--and the United States and United Kingdom adopted rather different legal regimes to govern and police it. In order to protect investors, the United States enacted an extensive set of laws and regulations, while the United Kingdom took a &#039;liberal&#039; approach to investment crowdfunding, imposing few legal rules and relying primarily on private ordering.\nA decade has now passed, allowing us to see whether the liberal U.K. market has devolved into anarchy and failure in the absence of heavy regulation. Recently published data reflects well on the liberal model: The U.K. has the largest and most successful investment crowdfunding market in the world by far, generating one billion dollars in startup finance each year with practically no fraud, and providing investors with competitive financial returns.",
+  "audience": [
+   "undergrads",
+   "faculty"
+  ],
+  "stage": [
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://lawweb.colorado.edu/profiles/profile-min.jsp?id=315",
+  "fetchedAt": "2026-08-11T17:19:05.839Z",
+  "needsAnalysis": true
+ },
+ {
+  "id": "scholar-law-colorado-edu-faculty-articles-1692",
+  "url": "https://scholar.law.colorado.edu/faculty-articles/1692",
+  "title": "\"Regional Venture Deals\" by Paige L. Wilson",
+  "org": "colorado.edu/faculty-articles",
+  "type": "funding",
+  "description": "What might allow a region to suddenly excel at attracting venture capital funding, and what role do lawyers play in such a shift? The Midwest offers a useful case study because it has succeeded at increasing the size of its venture capital market by more than five hundred percent over the past decade. This Article is the first-ever empirical study to explore in depth the changing practices of the region. This Article begins by comparing startup lawyering practices in the Midwest to startup lawyering practices in the major innovation hubs on the coasts. Drawing upon lawyer interviews, industry reports, and data from actual deals, this novel study finds that early-stage venture capital deals in the Midwest contain more investor-friendly terms that seek to provide investors with greater control over company actions and higher returns on early exits. Study data suggest that these deal differences are attributable to (1) the nascency of the Midwest venture capital ecosystem, (2) market dynamics that favor investors, and (3) a regional culture that emphasizes careful growth. Despite these regional differences, the study also shows that startup lawyers are actively facilitating convergence between Midwest deal practices and coastal deal practices. This finding goes to an important question in the innovation literature regarding whether contracts should be tailored to local market conditions or whether they should conform to a one-size-fits-all model. This Article offers empirical evidence that nationalized contracts are crucial to fostering rapid growth in emerging startup ecosystems such as the Midwest. With its original dataset, this Article highlights the vital role that startup lawyers perform in boosting regional economic development.",
+  "audience": [
+   "faculty"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "http://lawweb.colorado.edu/profiles/profile-min.jsp?id=1187",
+  "fetchedAt": "2026-08-11T17:19:06.438Z",
+  "needsAnalysis": true
+ },
+ {
   "id": "colorado-edu-emp-2023-10-17-global-semester-escend-engineering-managemententrepr",
   "url": "https://www.colorado.edu/emp/2023/10/17/global-semester-escend-engineering-managemententrepreneurship-minor-lisbon-portugal",
   "title": "Global Semester: ESCEND Engineering Management/Entrepreneurship Minor (Lisbon, Portugal) | Lockheed Martin Engineering Management Program",
@@ -69620,6 +72491,34 @@
   "discoveredVia": "link",
   "parent": "https://startupcolorado.org/all-events/list/page/3",
   "fetchedAt": "2026-08-11T17:17:52.755Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-all-events-featured-page-3-eventdisplay-past",
+  "url": "https://startupcolorado.org/all-events/featured/page/3/?eventDisplay=past",
+  "title": "Past Featured Featured Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 3 &#8211; Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Past Featured Featured Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 3 &#8211; Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 1,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/featured/page/2/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:18:14.153Z",
   "needsAnalysis": false
  },
  {

@@ -1542,6 +1542,72 @@
   "weight": 2
  },
  {
+  "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "to": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
   "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
   "to": "colorado-edu-nvc",
   "kind": "links_to",
@@ -24866,6 +24932,1776 @@
  {
   "from": "startupcolorado-org-all-events-list-page-3-eventdisplay-past",
   "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-why-your-startup-needs-a-press-page",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-series-how-to-start-a-mobile-food-business",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-series-how-to-start-a-mobile-food-business",
+  "to": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-06",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-20",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-20",
+  "to": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-06",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-20",
+  "to": "startupcolorado-org-series-how-to-start-a-mobile-food-business",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-27",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-27",
+  "to": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-06",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-27",
+  "to": "startupcolorado-org-series-how-to-start-a-mobile-food-business",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-27",
+  "to": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-featured-page-3-eventdisplay-past",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-13",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-13",
+  "to": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-06",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-13",
+  "to": "startupcolorado-org-series-how-to-start-a-mobile-food-business",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-13",
+  "to": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-13",
+  "to": "startupcolorado-org-event-how-to-start-a-mobile-food-business-2026-04-27",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-hayden-2025-business-pitch-competition",
+  "to": "startupcolorado-org-pitch-competition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-hayden-2025-business-pitch-competition",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-belonging-colorado-prospect-info-session",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-category-startup-colorado-news-page-3",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-belonging-prospects-info-session",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-the-pitch-competition-returns-to-west-slope-startup-",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-category-startup-colorado-news-page-5",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-category-startup-colorado-news-page-4",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-category-startup-colorado-news-page-4",
+  "to": "cuanschutz-edu-innovations-about-us-data-metrics-2023",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-growth-challenges-launches-as-new-founder-coopetitio",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-the-growth-challenge-expands-support-for-rural-found",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-the-growth-challenge-expands-support-for-rural-found",
+  "to": "startupcolorado-org-founder-coopetition",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-startup-colorado-hits-1000-members-on-entrepreneur-n",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-call-for-applications-meet-our-new-founder-coopetiti",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-teacher-leadership-ma-admissions",
+  "to": "online-colorado-edu-teacher-leadership-ma",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-teacher-leadership-ma-academics",
+  "to": "online-colorado-edu-teacher-leadership-ma",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-teacher-leadership-ma-cost",
+  "to": "online-colorado-edu-teacher-leadership-ma",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-teacher-leadership-ma-dates-and-deadlines",
+  "to": "online-colorado-edu-teacher-leadership-ma",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-startup-colorado-announces-first-founder-co-opetitio",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-teacher-leadership-ma-careers",
+  "to": "online-colorado-edu-teacher-leadership-ma",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-teacher-leadership-ma-people",
+  "to": "online-colorado-edu-teacher-leadership-ma",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-founder-coopetition",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-storytelling-tips-for-your-startup-pitch-with-diane-bailey",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-storytelling-tips-for-your-startup-pitch-with-diane-bailey",
+  "to": "startupcolorado-org-stories-storytelling-tips-for-your-startup-pitch-with-diane-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-founder-coopetition-launches-to-support-rural-entrep",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-category-ecosystem-building",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-how-to-build-a-startup-community",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-growth-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-stories-margaret-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-news-441615",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-uploadedtolink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-authorlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-originalimageurl-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-link-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-url-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d-amp-imag",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-wp-link-placeholder",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-quikrstuff-becomes-company-to-watch-opens-20in-20a-20new-20t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-yes-you-can-launch-a-climate-tech-startup-in-rural-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-idea-factory",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-stories-vanessa-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-news-151559",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-news-181440",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-page-donate",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-news-378286",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-organizer",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-signup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-page-podcast",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-news-418593",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-network",
+  "to": "startupcolorado-org-stories-info-localrez-com",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-category-ecosystem-building",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-how-to-build-a-startup-community",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-growth-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-stories-margaret-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-news-441615",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-uploadedtolink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-authorlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-originalimageurl-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-link-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-url-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d-amp-imag",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-wp-link-placeholder",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-quikrstuff-becomes-company-to-watch-opens-20in-20a-20new-20t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-yes-you-can-launch-a-climate-tech-startup-in-rural-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-idea-factory",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-stories-vanessa-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-news-151559",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-news-181440",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-page-donate",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-news-378286",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-organizer",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-signup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-page-podcast",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-news-418593",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-stories-info-localrez-com",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-entrepreneur-resources",
+  "to": "startupcolorado-org-page-entrepreneur-network",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-starting-blocks-amp-3butm-medium-widget-amp-3butm-so",
+  "to": "colorado-edu-venturepartners",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-koelbel-building-leeds-school-of-business",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "to": "oit-colorado-edu-services-conferencing-services-web-conferencing-zoom-help-addit",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-conferencing-services-web-conferencing-zoom-help-addit",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-acquiring-software",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-appropriate-use-and-compliance",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-network-internet-services-ip-address-hostname-manageme",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-network-internet-services-ip-address-hostname-manageme",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-faq",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-faq",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-faq",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-faq",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-software-audit-information",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-software-audit-information",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-software-audit-information",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-software-audit-information",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-software-audit-information",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-software-audit-information",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-software-audit-information",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-software-licensing-software-audit-information",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-news-microsoft-licensing-automation-june-2026",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-news-microsoft-licensing-automation-june-2026",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-news-microsoft-licensing-automation-june-2026",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-news-microsoft-licensing-automation-june-2026",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-news-microsoft-licensing-automation-june-2026",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-news-microsoft-licensing-automation-june-2026",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-news-microsoft-licensing-automation-june-2026",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-news-microsoft-licensing-automation-june-2026",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "to": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+  "to": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-services-messaging-collaboration-microsoft-365-licenses-compare",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "to": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "to": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-macintosh",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "to": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "to": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "to": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "to": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-services-consulting-professional-services-learner-lifecycle-con",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-services-software-licensing-reviewing-agreements",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-ass",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-saml-login-destination-services-conferencing-services-web-confe",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-acquiring-so",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-saml-login-destination-about-oit-projects-microsoft-365-licensi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-appropriate-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-saml-login-destination-services-network-internet-services-ip-ad",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-faq",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-saml-login-destination-services-software-licensing-software-aud",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-saml-login-destination-services-messaging-collaboration-microso",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-saml-login-destination-news-microsoft-licensing-automation-june",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-macinto",
+  "to": "oit-colorado-edu-saml-login-destination-tutorial-static-ip-configuration-windows",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "hazards-colorado-edu-news-center-news-congratulations-student-paper-winners-1",
+  "to": "hazards-colorado-edu-awards-paper-competition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "hazards-colorado-edu-awards-paper-competition-previous-winners",
+  "to": "hazards-colorado-edu-awards-paper-competition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "scholar-law-colorado-edu-faculty-articles-1692",
+  "to": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "scholar-law-colorado-edu-faculty-articles-1692",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-innovation-hub",
   "kind": "mentions",
   "weight": 1
  }

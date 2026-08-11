@@ -1,7 +1,7 @@
 [
  {
   "host": "community.startupcolorado.org",
-  "count": 2650,
+  "count": 2754,
   "examples": [
    "https://community.startupcolorado.org/events/110697?amp%3Bmc_eid=efea1eee39",
    "https://community.startupcolorado.org/events/109764?amp%3Bmc_eid=efea1eee39",
@@ -10,7 +10,7 @@
  },
  {
   "host": "ruralstartup.substack.com",
-  "count": 2024,
+  "count": 2102,
   "examples": [
    "https://ruralstartup.substack.com/",
    "https://ruralstartup.substack.com/p/signup",
@@ -19,7 +19,7 @@
  },
  {
   "host": "airtable.com",
-  "count": 1314,
+  "count": 1366,
   "examples": [
    "https://airtable.com/appecgjAEPF6G0oQe/pagl8MxeYG1r7sRv1/form?amp%3Bmc_eid=efea1eee39",
    "https://airtable.com/appuqMEafOOQMf01L/pagUqCwwINXgZ1A5K/form?amp%3Butm_medium=Email&amp%3Butm_source=News",
@@ -28,7 +28,7 @@
  },
  {
   "host": "ruralstartupdays.com",
-  "count": 1314,
+  "count": 1366,
   "examples": [
    "https://ruralstartupdays.com/",
    "http://ruralstartupdays.com/",
@@ -37,7 +37,7 @@
  },
  {
   "host": "www.westslopestartupweek.com",
-  "count": 1308,
+  "count": 1360,
   "examples": [
    "http://www.westslopestartupweek.com/"
   ]
@@ -85,7 +85,7 @@
  },
  {
   "host": "www.google.com",
-  "count": 117,
+  "count": 121,
   "examples": [
    "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjVvpzG5MLxAhXKm2oFHTpaANgQFnoECAIQAw&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
    "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjU_o2c8NbxAhUCXc0KHTJpDLkQFjAAegQIBRAD&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
@@ -219,6 +219,15 @@
   ]
  },
  {
+  "host": "westslopestartupweek.com",
+  "count": 43,
+  "examples": [
+   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39",
+   "https://westslopestartupweek.com/",
+   "http://westslopestartupweek.com/"
+  ]
+ },
+ {
   "host": "www.sbir.gov",
   "count": 42,
   "examples": [
@@ -234,15 +243,6 @@
    "https://www.meetup.com/denver-entrepreneurship-through-acquisition-eta-meetup",
    "https://www.meetup.com/startup-longmont/events/306144877/?eventOrigin=group_upcoming_events",
    "https://www.meetup.com/startup-longmont"
-  ]
- },
- {
-  "host": "westslopestartupweek.com",
-  "count": 42,
-  "examples": [
-   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39",
-   "https://westslopestartupweek.com/",
-   "http://westslopestartupweek.com/"
   ]
  },
  {
@@ -464,6 +464,15 @@
   ]
  },
  {
+  "host": "papers.ssrn.com",
+  "count": 14,
+  "examples": [
+   "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4739492",
+   "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6331598",
+   "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3242435"
+  ]
+ },
+ {
   "host": "choosecolorado.com",
   "count": 13,
   "examples": [
@@ -521,6 +530,15 @@
   ]
  },
  {
+  "host": "cuboulder.qualtrics.com",
+  "count": 11,
+  "examples": [
+   "https://cuboulder.qualtrics.com/jfe/form/SV_bsGMrM6Vjg4Z7Fj",
+   "https://cuboulder.qualtrics.com/jfe/form/SV_6rLsHHB377J8x9j",
+   "https://cuboulder.qualtrics.com/jfe/form/SV_8zY9QdGQcyMGG6F"
+  ]
+ },
+ {
   "host": "rockiesventureclub.wildapricot.org",
   "count": 11,
   "examples": [
@@ -555,12 +573,11 @@
   ]
  },
  {
-  "host": "cuboulder.qualtrics.com",
-  "count": 10,
+  "host": "www.bencolorado.org",
+  "count": 11,
   "examples": [
-   "https://cuboulder.qualtrics.com/jfe/form/SV_bsGMrM6Vjg4Z7Fj",
-   "https://cuboulder.qualtrics.com/jfe/form/SV_6rLsHHB377J8x9j",
-   "https://cuboulder.qualtrics.com/jfe/form/SV_8zY9QdGQcyMGG6F"
+   "https://www.bencolorado.org/",
+   "http://www.bencolorado.org/"
   ]
  },
  {
@@ -604,14 +621,6 @@
   ]
  },
  {
-  "host": "www.bencolorado.org",
-  "count": 10,
-  "examples": [
-   "https://www.bencolorado.org/",
-   "http://www.bencolorado.org/"
-  ]
- },
- {
   "host": "www.goscape.org",
   "count": 10,
   "examples": [
@@ -639,6 +648,15 @@
    "https://tellurideventurenetwork.com/",
    "https://tellurideventurenetwork.com/tvn-events",
    "https://tellurideventurenetwork.com/climate-solutions"
+  ]
+ },
+ {
+  "host": "www.techstars.com",
+  "count": 9,
+  "examples": [
+   "https://www.techstars.com/accelerators/boulder-accelerator",
+   "https://www.techstars.com/the-line/5-questions/kate-kholodilina-founder-of-k-and-k-mindshift-and-community-leader-startup-ecosystem",
+   "https://www.techstars.com/"
   ]
  },
  {
@@ -689,15 +707,6 @@
    "https://www.arts.gov/grants/research-awards/nea-research-labs/program-description",
    "https://www.arts.gov/grants/grants-for-arts-projects",
    "https://www.arts.gov/grants/priorities"
-  ]
- },
- {
-  "host": "www.techstars.com",
-  "count": 8,
-  "examples": [
-   "https://www.techstars.com/accelerators/boulder-accelerator",
-   "https://www.techstars.com/the-line/5-questions/kate-kholodilina-founder-of-k-and-k-mindshift-and-community-leader-startup-ecosystem",
-   "https://www.techstars.com/"
   ]
  },
  {
@@ -833,15 +842,6 @@
    "http://www.russellsage.org/research/funding/behavioral-economics",
    "https://www.russellsage.org/research/funding/future-work",
    "https://www.russellsage.org/funding/immigration-and-immigrant-integration"
-  ]
- },
- {
-  "host": "www.neh.gov",
-  "count": 5,
-  "examples": [
-   "https://www.neh.gov/grants",
-   "https://www.neh.gov/grants/preservation/infrastructure-and-capacity-building-challenge-grants",
-   "https://www.neh.gov/grants/preservation/preservation-assistance-grants-smaller-institutions"
   ]
  }
 ]

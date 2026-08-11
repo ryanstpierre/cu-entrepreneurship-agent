@@ -696,6 +696,12 @@
   "depth": 4
  },
  {
+  "url": "https://scholar.law.colorado.edu/faculty-articles/1692",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 3
+ },
+ {
   "url": "https://www.colorado.edu/business/deming/news-stories/demystifying-entrepreneurship-rural-colorado-workshop-series-news",
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
@@ -1320,6 +1326,12 @@
   "depth": 4
  },
  {
+  "url": "https://scholar.law.colorado.edu/faculty-articles/1661",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 3
+ },
+ {
   "url": "https://www.colorado.edu/innovate/media/2175",
   "reason": "pdf-needs-extraction",
   "relevance": 1,
@@ -1588,5 +1600,47 @@
   "reason": "pdf-needs-extraction",
   "relevance": 1,
   "depth": 5
+ },
+ {
+  "url": "https://lawweb.colorado.edu/profiles/pubpdfs/bernthal/BernthalAccelerators.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "http://lawweb.colorado.edu/profiles/pubpdfs/weiser/InternetInnovation.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "https://lawweb.colorado.edu/profiles/pubpdfs/bernthal/WhoNeedsContracts.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 3
+ },
+ {
+  "url": "http://lawweb.colorado.edu/profiles/pubpdfs/bernthal/ProcArch(A&Mpublished2014).pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 3
+ },
+ {
+  "url": "http://lawreview.colorado.edu/wp-content/uploads/2018/07/89.4-Bloom.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "http://lawweb.colorado.edu/profiles/pubpdfs/gazur/GazurKLJ.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 3
+ },
+ {
+  "url": "http://lawweb.colorado.edu/profiles/pubpdfs/pizzi/la_batalla.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
  }
 ]
