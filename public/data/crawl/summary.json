@@ -1,14 +1,14 @@
 {
- "updatedAt": "2026-08-11T17:12:26.610Z",
+ "updatedAt": "2026-08-11T17:14:07.571Z",
  "startedAt": "2026-08-11T16:50:27.591Z",
- "batches": 12,
- "pagesFetched": 2902,
- "resourcesCatalogued": 1924,
- "relationshipEdges": 3431,
- "frontierSize": 1665,
- "analysisQueueSize": 233,
- "externalDomainsFound": 412,
- "errors": 40,
+ "batches": 13,
+ "pagesFetched": 3156,
+ "resourcesCatalogued": 2050,
+ "relationshipEdges": 3802,
+ "frontierSize": 1851,
+ "analysisQueueSize": 248,
+ "externalDomainsFound": 421,
+ "errors": 42,
  "maxDepthReached": 8,
  "depthHistogram": {
   "0": {
@@ -17,61 +17,61 @@
    "pending": 0
   },
   "1": {
-   "fetched": 811,
-   "discovered": 1206,
-   "pending": 395
+   "fetched": 912,
+   "discovered": 912,
+   "pending": 0
   },
   "2": {
-   "fetched": 656,
-   "discovered": 1449,
-   "pending": 793
+   "fetched": 706,
+   "discovered": 2059,
+   "pending": 1353
   },
   "3": {
-   "fetched": 688,
-   "discovered": 688,
+   "fetched": 724,
+   "discovered": 724,
    "pending": 0
   },
   "4": {
-   "fetched": 505,
-   "discovered": 508,
-   "pending": 3
+   "fetched": 520,
+   "discovered": 520,
+   "pending": 0
   },
   "5": {
-   "fetched": 132,
-   "discovered": 518,
-   "pending": 386
+   "fetched": 173,
+   "discovered": 529,
+   "pending": 356
   },
   "6": {
-   "fetched": 59,
-   "discovered": 113,
-   "pending": 54
+   "fetched": 63,
+   "discovered": 178,
+   "pending": 115
   },
   "7": {
-   "fetched": 26,
-   "discovered": 38,
-   "pending": 12
+   "fetched": 27,
+   "discovered": 45,
+   "pending": 18
   },
   "8": {
-   "fetched": 4,
-   "discovered": 25,
-   "pending": 21
+   "fetched": 10,
+   "discovered": 14,
+   "pending": 4
   },
   "9": {
    "fetched": 0,
-   "discovered": 1,
-   "pending": 1
+   "discovered": 5,
+   "pending": 5
   }
  },
  "saturation": {
   "0": 1,
-  "1": 0.672,
-  "2": 0.453,
+  "1": 1,
+  "2": 0.343,
   "3": 1,
-  "4": 0.994,
-  "5": 0.255,
-  "6": 0.522,
-  "7": 0.684,
-  "8": 0.16,
+  "4": 1,
+  "5": 0.327,
+  "6": 0.354,
+  "7": 0.6,
+  "8": 0.714,
   "9": 0
  },
  "perOrgDepth": {
@@ -80,16 +80,18 @@
   "colorado.edu/innovate": 4,
   "colorado.edu/nvc": 3,
   "colorado.edu/service": 3,
-  "colorado.edu/research": 2,
+  "colorado.edu/research": 3,
   "colorado.edu/techtransfer": 3,
   "colorado.edu/today": 3,
   "colorado.edu/graduateschool": 4,
   "colorado.edu/initiative": 4,
   "colorado.edu/oce": 6,
   "startupcolorado.org": 7,
+  "colorado.edu/organizational-leadership-ms": 4,
+  "cuanschutz.edu": 7,
+  "colorado.edu/register": 5,
   "colorado.edu/catalyzecu": 2,
   "siliconflatirons.org": 5,
-  "cuanschutz.edu": 7,
   "colorado.edu/engineering": 2,
   "colorado.edu/event": 4,
   "colorado.edu/mechanical": 2,
@@ -99,10 +101,13 @@
   "colorado.edu/outreach": 3,
   "coloradostartups.org": 1,
   "colorado.edu/ocg": 4,
+  "colorado.edu/teacher-leadership-ma": 4,
+  "colorado.edu/teacher-leadership-certificates": 4,
+  "watson.is": 3,
   "innosphereventures.org": 3,
   "colorado.edu/atlas": 2,
   "colorado.edu/center/music-entrepreneurship": 2,
-  "colorado.edu/group": 4,
+  "colorado.edu/group": 5,
   "colorado.edu/center/teaching-learning": 3,
   "colorado.edu/asmagazine": 2,
   "colorado.edu/calendar": 3,
@@ -114,55 +119,60 @@
   "colorado.edu/emp": 2,
   "colorado.edu/music": 3,
   "colorado.edu/cmci": 2,
-  "watson.is": 1,
   "colorado.edu/news-events": 2,
   "lawinnovation.colorado.edu": 2,
   "colorado.edu/Public": 2,
   "colorado.edu/news": 4,
   "colorado.edu/Account": 3,
-  "boulderstartupweek.com": 0
+  "boulderstartupweek.com": 0,
+  "itll.colorado.edu": 1
  },
  "byType": {
-  "program": 60,
-  "funding": 400,
-  "event": 236,
-  "competition": 399,
-  "community": 125,
-  "reference": 423,
-  "service": 24,
-  "center": 207,
-  "course": 38,
-  "space": 12
+  "program": 61,
+  "funding": 425,
+  "event": 255,
+  "competition": 407,
+  "community": 129,
+  "reference": 458,
+  "center": 225,
+  "service": 31,
+  "course": 46,
+  "space": 13
  },
  "byOrg": {
-  "colorado.edu/venturepartners": 273,
-  "colorado.edu/researchinnovation": 109,
+  "colorado.edu/venturepartners": 299,
+  "colorado.edu/researchinnovation": 111,
   "colorado.edu/innovate": 443,
   "colorado.edu/nvc": 140,
   "colorado.edu/service": 2,
-  "colorado.edu/research": 1,
+  "colorado.edu/research": 9,
   "colorado.edu/techtransfer": 6,
   "colorado.edu/today": 17,
   "colorado.edu/graduateschool": 13,
   "colorado.edu/initiative": 8,
-  "colorado.edu/oce": 11,
+  "colorado.edu/oce": 12,
   "startupcolorado.org": 411,
+  "colorado.edu/organizational-leadership-ms": 7,
+  "cuanschutz.edu": 229,
+  "colorado.edu/register": 2,
   "colorado.edu/catalyzecu": 10,
-  "siliconflatirons.org": 19,
-  "cuanschutz.edu": 221,
+  "siliconflatirons.org": 58,
   "colorado.edu/engineering": 9,
-  "colorado.edu/event": 27,
+  "colorado.edu/event": 28,
   "colorado.edu/mechanical": 3,
-  "colorado.edu/business": 69,
+  "colorado.edu/business": 70,
   "colorado.edu/law": 2,
   "colorado.edu/coloradan": 1,
   "colorado.edu/outreach": 2,
   "coloradostartups.org": 25,
   "colorado.edu/ocg": 3,
+  "colorado.edu/teacher-leadership-ma": 1,
+  "colorado.edu/teacher-leadership-certificates": 1,
+  "watson.is": 31,
   "innosphereventures.org": 27,
   "colorado.edu/atlas": 2,
   "colorado.edu/center/music-entrepreneurship": 1,
-  "colorado.edu/group": 3,
+  "colorado.edu/group": 5,
   "colorado.edu/center/teaching-learning": 4,
   "colorado.edu/asmagazine": 1,
   "colorado.edu/calendar": 1,
@@ -174,12 +184,12 @@
   "colorado.edu/emp": 4,
   "colorado.edu/music": 5,
   "colorado.edu/cmci": 1,
-  "watson.is": 5,
   "colorado.edu/news-events": 1,
   "lawinnovation.colorado.edu": 1,
   "colorado.edu/Public": 4,
   "colorado.edu/news": 1,
   "colorado.edu/Account": 1,
-  "boulderstartupweek.com": 1
+  "boulderstartupweek.com": 1,
+  "itll.colorado.edu": 1
  }
 }

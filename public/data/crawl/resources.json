@@ -905,7 +905,7 @@
  },
  {
   "id": "colorado-edu-research-abnexus-apply-funding",
-  "url": "https://www.colorado.edu/research/abnexus/apply-funding",
+  "url": "https://colorado.edu/research/abnexus/apply-funding",
   "title": "Apply for Funding | AB Nexus",
   "org": "colorado.edu/research",
   "type": "funding",
@@ -940,8 +940,8 @@
   "specificity": 10,
   "depth": 2,
   "discoveredVia": "link",
-  "parent": "https://www.colorado.edu/innovate/newsletter/newsletter/innovation-entrepreneurship-newsletter-campus-edition-33126",
-  "fetchedAt": "2026-08-11T16:52:40.360Z",
+  "parent": "https://colorado.edu/research/abnexus",
+  "fetchedAt": "2026-08-11T17:12:52.614Z",
   "needsAnalysis": false
  },
  {
@@ -4789,6 +4789,221 @@
   "needsAnalysis": false
  },
  {
+  "id": "online-colorado-edu-organizational-leadership-ms-admissions",
+  "url": "https://online.colorado.edu/organizational-leadership-ms/admissions",
+  "title": "Admissions | Organizational Leadership MS | CU Boulder Online",
+  "org": "colorado.edu/organizational-leadership-ms",
+  "type": "reference",
+  "description": "Application information for the MS in Organizational Leadership.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "msol@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [
+   "$50"
+  ],
+  "deadlines": [
+   "Deadlines Careers People Admissions How to Apply Start your application now and finish a",
+   "deadline (all application materials must be submitted) January 7, 2027: Program start da",
+   "deadline (all application materials must be submitted) TBD: Program start date A complet"
+  ],
+  "specificity": 10,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/organizational-leadership-ms",
+  "fetchedAt": "2026-08-11T17:12:53.556Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-organizational-leadership-ms-cost",
+  "url": "https://online.colorado.edu/organizational-leadership-ms/cost",
+  "title": "Cost | Organizational Leadership MS | CU Boulder Online",
+  "org": "colorado.edu/organizational-leadership-ms",
+  "type": "reference",
+  "description": "Tuition and fees, payment deadlines, and financial aid information for the MS in Organizational Leadership.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "food"
+  ],
+  "contacts": [
+   "cebursar@colorado.edu",
+   "CE3rdparty@colorado.edu"
+  ],
+  "funding": [
+   "$872",
+   "$946",
+   "$1,661",
+   "$1,809",
+   "$2,450",
+   "$2,672"
+  ],
+  "deadlines": [
+   "Deadlines Careers People Cost A Valuable Degree By combining the quality of CU Boulder w",
+   "Deadlines Bills become available in Buff Portal (CUBill&Pay for authorized payers) aroun",
+   "due on the 5th of the following month",
+   "Deadlines for tuition and fees payment are listed in the dates and deadlines section of"
+  ],
+  "specificity": 10,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/organizational-leadership-ms",
+  "fetchedAt": "2026-08-11T17:12:53.577Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-chancellor-anschutz-acceleration-initiative",
+  "url": "https://www.cuanschutz.edu/chancellor/anschutz-acceleration-initiative",
+  "title": "Anschutz Acceleration Initiative | University of Colorado Anschutz",
+  "org": "cuanschutz.edu",
+  "type": "center",
+  "description": "Explore the Anschutz Acceleration Initiative. Advancing bold ideas and strategic investments to elevate CU Anschutz’s impact in science, health, and innovation.",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "validate",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "food",
+   "space"
+  ],
+  "contacts": [
+   "aai@cuanschutz.edu"
+  ],
+  "funding": [
+   "$50 million",
+   "$5 million",
+   "$15 million"
+  ],
+  "deadlines": [
+   "deadline? Letters of Intent (LOIs) were due July 14",
+   "due July 28, 2023: All LOIs posted August 8, 2023: Select projects invited to submi",
+   "due January 2024: Awardees announced Where can I find the budget template needed to"
+  ],
+  "specificity": 10,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor",
+  "fetchedAt": "2026-08-11T17:13:46.544Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-oce-paces-initiatives-and-programs-community-perspectives",
+  "url": "https://colorado.edu/oce/paces/initiatives-and-programs/community-perspectives",
+  "title": "Community Perspectives Program | Office for Outreach and Community Engagement",
+  "org": "colorado.edu/oce",
+  "type": "competition",
+  "description": "The Public and Community-Engaged Scholarship&rsquo;s (PACES) Community Perspectives program was created to bring faculty to rural regions of Colorado to listen, learn and build relationships with local leaders. Across two tours of Southeast Colorado in 2022 and 2024, PACES staff and faculty participants heard directly from communities about their priorities, challenges and visions for the future. The new Community Perspectives Grant Program is rooted in what we learned during those tours.",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "food",
+   "arts",
+   "space"
+  ],
+  "contacts": [
+   "gregor.macgregor@colorado.edu",
+   "kaila.redbow@colorado.edu",
+   "ogce@colorado.edu",
+   "engagedscholarship@colorado.edu"
+  ],
+  "funding": [
+   "$2,000",
+   "$5,000",
+   "$5,000 m"
+  ],
+  "deadlines": [
+   "due April 2026 – Decision notifications sent April 2026 - Funding made available (o",
+   "deadline to apply is March 21, 2026"
+  ],
+  "specificity": 10,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/oce/paces/funding-and-resources/current-grant-recipients",
+  "fetchedAt": "2026-08-11T17:14:03.885Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "grad-apply-colorado-edu-register-gsfundingadmingeneralform",
+  "url": "https://grad.apply.colorado.edu/register/GSfundingadmingeneralform",
+  "title": "Graduate School Funding Administration's General Form",
+  "org": "colorado.edu/register",
+  "type": "funding",
+  "description": "&#xA0;",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "students"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "health",
+   "food"
+  ],
+  "contacts": [
+   "ISSS@colorado.edu"
+  ],
+  "funding": [
+   "$2,500.00",
+   "$500"
+  ],
+  "deadlines": [
+   "due to acts of violence or other victimization",
+   "due to immediate family (parent, sibling or child) emergency, crisis, or death"
+  ],
+  "specificity": 10,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/graduateschool/funding/awards-grants/graduate-student-emergency-aid-fund",
+  "fetchedAt": "2026-08-11T17:14:03.922Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-venturepartners",
   "url": "https://colorado.edu/venturepartners",
   "title": "Home | Venture Partners at CU Boulder",
@@ -5283,6 +5498,81 @@
   "discoveredVia": "link",
   "parent": "https://www.cuanschutz.edu/innovations/student/fellowships",
   "fetchedAt": "2026-08-11T17:01:09.720Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-2026-flagship-conference-registration-types-admission-items",
+  "url": "https://siliconflatirons.org/2026-flagship-conference-registration-types-admission-items-fees",
+  "title": "2026 Flagship Conference | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "event",
+  "description": "2026 Flagship Conference | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team Ou",
+  "audience": [
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [
+   "$300",
+   "$400",
+   "$250",
+   "$150",
+   "$200"
+  ],
+  "deadlines": [
+   "Deadline In-Person + Live Stream Access *After Early Bird Deadline Live Stream Access On",
+   "Deadline Live Stream Access Only *After Early Bird Deadline General Admission $300 $400"
+  ],
+  "specificity": 9,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/events/annual-flagship-conference-2026-02-01",
+  "fetchedAt": "2026-08-11T17:13:04.308Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-student-opportunities-competitions-writing-competition",
+  "url": "https://siliconflatirons.org/student-opportunities/competitions/writing-competition",
+  "title": "Annual Student Writing Competition | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "competition",
+  "description": "Annual Student Writing Competition | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles O",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "cybersecurity",
+   "space"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [
+   "$1,000"
+  ],
+  "deadlines": [
+   "Deadlines Only CU Boulder students are eligible to participate in the Annual Writing Com",
+   "Deadline to submit is May 31",
+   "due to the coronavirus pandemic"
+  ],
+  "specificity": 9,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/student-opportunities/competitions",
+  "fetchedAt": "2026-08-11T17:13:36.451Z",
   "needsAnalysis": false
  },
  {
@@ -13295,7 +13585,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
-  "url": "http://colorado.edu/venturepartners/startup-portfolio/modendo-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/modendo-inc",
   "title": "Modendo Inc. | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -13326,15 +13616,15 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 6,
+  "depth": 8,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/2026/03/20/external-news/two-cu-boulder-startups-selected-luminate-new-york-accelerator",
-  "fetchedAt": "2026-08-11T16:54:54.357Z",
+  "parent": "https://colorado.edu/venturepartners/2026/03/20/external-news/two-cu-boulder-startups-selected-luminate-new-york-accelerator",
+  "fetchedAt": "2026-08-11T17:12:32.421Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-2023-11-13-internal-news-state-and-university-partn",
-  "url": "http://colorado.edu/venturepartners/2023/11/13/internal-news/state-and-university-partner-award-over-15-million-funding-university-colorado",
+  "url": "https://colorado.edu/venturepartners/2023/11/13/internal-news/state-and-university-partner-award-over-15-million-funding-university-colorado",
   "title": "State and university partner to award over $1.5 million in funding to University of Colorado innovations | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "funding",
@@ -13372,10 +13662,10 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 6,
+  "depth": 8,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/2025/03/10/internal-news/alum-sristy-agrawal-leads-cu-boulder-startup-mesa-quantum-success",
-  "fetchedAt": "2026-08-11T16:54:54.898Z",
+  "parent": "https://colorado.edu/venturepartners/2025/03/10/internal-news/alum-sristy-agrawal-leads-cu-boulder-startup-mesa-quantum-success",
+  "fetchedAt": "2026-08-11T17:12:33.904Z",
   "needsAnalysis": false
  },
  {
@@ -14979,7 +15269,7 @@
  },
  {
   "id": "colorado-edu-business-burridge-center-programs",
-  "url": "http://colorado.edu/business/burridge-center/programs",
+  "url": "https://colorado.edu/business/burridge-center/programs",
   "title": "Finance Certificate, Trainings, Events and Case Competitions | Leeds School of Business",
   "org": "colorado.edu/business",
   "type": "competition",
@@ -15010,15 +15300,15 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 4,
+  "depth": 5,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/business/deming",
-  "fetchedAt": "2026-08-11T17:07:02.885Z",
+  "parent": "https://colorado.edu/innovate/boulder-climate-ventures",
+  "fetchedAt": "2026-08-11T17:14:04.634Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-business-cesr-current-students-graduate-programs-leeds-sustainabili",
-  "url": "http://colorado.edu/business/cesr/current-students/graduate-programs/leeds-sustainability-case-competition",
+  "url": "https://colorado.edu/business/cesr/current-students/graduate-programs/leeds-sustainability-case-competition",
   "title": "Leeds Sustainability Case Competition | Leeds School of Business",
   "org": "colorado.edu/business",
   "type": "competition",
@@ -15050,10 +15340,10 @@
    "Deadline to register December 16, 2026- Case released February 20, 2027- LSCC Competitio"
   ],
   "specificity": 8,
-  "depth": 4,
+  "depth": 5,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/innovate/boulder-climate-ventures",
-  "fetchedAt": "2026-08-11T17:07:03.696Z",
+  "parent": "https://colorado.edu/innovate/boulder-climate-ventures",
+  "fetchedAt": "2026-08-11T17:14:04.972Z",
   "needsAnalysis": false
  },
  {
@@ -15318,6 +15608,746 @@
   "discoveredVia": "link",
   "parent": "https://startupcolorado.org/stories/category/founder-stories/page/4",
   "fetchedAt": "2026-08-11T17:07:44.798Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-event-copy-of-program-admissions-qa-master-of-science-in-o",
+  "url": "https://calendar.colorado.edu/event/copy-of-program-admissions-qa-master-of-science-in-organizational-leadership-5504",
+  "title": "Program Admissions Q&amp;A: Master of Science in Organizational Leadership - University of Colorado Boulder",
+  "org": "colorado.edu/event",
+  "type": "course",
+  "description": "Please join the MS Organizational Leadership (MSOL) program admissions team for a virtual program admissions session. Learn about the program’s structure, course format, tuition, costs, and application process. You’ll also have the opportunity to ask questions and explore how this program can support your professional goals. \n\nReady to take the next step in your leadership journey? Don’t miss out—register today! Attendees will receive an application fee waiver for the upcoming cohort. \n\nIf you require accommodation(s) for this event, please contact Admissions Specialist Gabbi Good at msol@colorado.edu., powered by Localist Event Calendar Software",
+  "audience": [
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [
+   "msol@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/",
+  "fetchedAt": "2026-08-11T17:12:51.907Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-organizational-leadership-ms",
+  "url": "https://online.colorado.edu/organizational-leadership-ms",
+  "title": "Organizational Leadership MS | CU Boulder Online",
+  "org": "colorado.edu/organizational-leadership-ms",
+  "type": "competition",
+  "description": "Learn to align others around a shared vision, build and manage effective teams and apply the leadership skills to address your organization&#039;s challenges.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "msol@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People A program as dynamic as you are",
+   "Apply by December 9 for Spring 2027 start Only 30 credits to complete your degree Asynch"
+  ],
+  "specificity": 8,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/event/copy-of-program-admissions-qa-master-of-science-in-organizational-leadership-5504",
+  "fetchedAt": "2026-08-11T17:12:52.389Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-ma",
+  "url": "https://online.colorado.edu/teacher-leadership-ma",
+  "title": "Teacher Leadership MA | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-ma",
+  "type": "course",
+  "description": "Lead from your classroom and make a difference in your district with an MA in Teacher Leadership.",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Lead from your classroom",
+   "Apply by December 9 for Spring 2027 start Tailor your education to fit your goals Only 3"
+  ],
+  "specificity": 8,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/organizational-leadership-ms",
+  "fetchedAt": "2026-08-11T17:12:52.830Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-teacher-leadership-certificates",
+  "url": "https://online.colorado.edu/teacher-leadership-certificates",
+  "title": "Teacher Leadership Certificates | CU Boulder Online | CU Boulder Online",
+  "org": "colorado.edu/teacher-leadership-certificates",
+  "type": "course",
+  "description": "Expand your skills and capacities as a classroom teacher through career-relevant, focused graduate certificates.",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [
+   "tl-admissions@colorado.edu",
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Become an impactful leader"
+  ],
+  "specificity": 8,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/organizational-leadership-ms",
+  "fetchedAt": "2026-08-11T17:12:53.312Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-organizational-leadership-ms-dates-and-deadlines",
+  "url": "https://online.colorado.edu/organizational-leadership-ms/dates-and-deadlines",
+  "title": "Dates | Organizational Leadership MS | CU Boulder Online",
+  "org": "colorado.edu/organizational-leadership-ms",
+  "type": "reference",
+  "description": "Dates and deadlines for the MS in Organizational Leadership.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Dates and Deadlines Application Deadlines Spring 2027 Applicati",
+   "deadline (all application materials must be submitted) January 7, 2027: Program start da",
+   "deadline (all application materials must be submitted) TBD: Program start date Summer 20",
+   "Deadline to Add a Class † May 11 Deadline to Drop++, 100% Tuition Adjustment May 14 Dead"
+  ],
+  "specificity": 8,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/organizational-leadership-ms",
+  "fetchedAt": "2026-08-11T17:12:53.588Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-organizational-leadership-ms-careers",
+  "url": "https://online.colorado.edu/organizational-leadership-ms/careers",
+  "title": "Careers | Organizational Leadership MS | CU Boulder Online",
+  "org": "colorado.edu/organizational-leadership-ms",
+  "type": "reference",
+  "description": "Explore career opportunities related to and made possible by an MS in Organizational Leadership.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "info.online@colorado.edu"
+  ],
+  "funding": [
+   "$132,150",
+   "$107,360"
+  ],
+  "deadlines": [
+   "Deadlines Careers People Careers Advance Your Career Earning a master’s degree can have"
+  ],
+  "specificity": 8,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/organizational-leadership-ms",
+  "fetchedAt": "2026-08-11T17:12:53.612Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-western-union-global-fellowship-program",
+  "url": "https://watson.is/western-union-global-fellowship-program",
+  "title": "The Western Union Global Fellowship",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "Empowering individuals supporting or hailing from refugee, highly-marginalized, or forcibly displaced communities around the globe.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "social enterprise",
+   "food"
+  ],
+  "contacts": [],
+  "funding": [
+   "$200,000",
+   "$3 million",
+   "$2 million",
+   "$190 million"
+  ],
+  "deadlines": [
+   "deadline extended to July 12, 2026 , for early consideration"
+  ],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/partners",
+  "fetchedAt": "2026-08-11T17:13:52.359Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-environmental-sustainability-entrepreneurship-program",
+  "url": "https://watson.is/environmental-sustainability-entrepreneurship-program",
+  "title": "The Environmental Sustainability Entrepreneurship Program",
+  "org": "watson.is",
+  "type": "event",
+  "description": "Equipping underserved entrepreneurs in Denver Metro with sustainability-focused training, workshops, and a powerful network to scale their environmental products and services.",
+  "audience": [
+   "staff",
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "social enterprise",
+   "energy"
+  ],
+  "contacts": [],
+  "funding": [
+   "$3.26M",
+   "$31,000",
+   "$44,000",
+   "$1,000",
+   "$190 million"
+  ],
+  "deadlines": [
+   "deadline of July 1, 2026 , for early consideration"
+  ],
+  "specificity": 8,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/partners",
+  "fetchedAt": "2026-08-11T17:13:52.699Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-impact-fellowships",
+  "url": "https://watson.is/impact-fellowships",
+  "title": "Explore Impact Fellowships | Watson Institute",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "Impact Fellowships are fully-funded programs designed to equip the most promising impact-driven entrepreneurs, small business owners, and leaders with the skills, networks, and resources to grow.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$190 million"
+  ],
+  "deadlines": [
+   "Applications Closed Enlight Fellowship Focus Area: Youth Mental Wellbeing Location: Global Learn M",
+   "Applications Closed Environmental Sustainability Entrepreneurship Program Focus Area: Environmenta",
+   "Applications Closed Flagship Fellowship Focus Area: Sustainability, Economic Development, Technolo",
+   "Applications Closed Retail Readiness Training Program Focus Area: Agriculture and Value-Added Prod"
+  ],
+  "specificity": 8,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:13:54.119Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-programs",
+  "url": "https://watson.is/programs",
+  "title": "Explore Impact Fellowships | Watson Institute",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "Impact Fellowships are fully-funded programs designed to equip the most promising impact-driven entrepreneurs, small business owners, and leaders with the skills, networks, and resources to grow.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$190 million"
+  ],
+  "deadlines": [
+   "Applications Closed Enlight Fellowship Focus Area: Youth Mental Wellbeing Location: Global Learn M",
+   "Applications Closed Environmental Sustainability Entrepreneurship Program Focus Area: Environmenta",
+   "Applications Closed Flagship Fellowship Focus Area: Sustainability, Economic Development, Technolo",
+   "Applications Closed Retail Readiness Training Program Focus Area: Agriculture and Value-Added Prod"
+  ],
+  "specificity": 8,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:14:01.657Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-2026-03-02-internal-news-cu-boulder-hosts-showcase-",
+  "url": "http://colorado.edu/venturepartners/2026/03/02/internal-news/cu-boulder-hosts-showcase-investment-ready-ventures-across-inter-mountain-west",
+  "title": "CU Boulder hosts showcase of investment-ready ventures from across the Inter-Mountain West | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "Venture Partners at CU Boulder and its partners across the Intermountain West once again demonstrated the power of university innovations at Destination Startup&reg;.",
+  "audience": [
+   "staff",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "hardware",
+   "quantum",
+   "fintech",
+   "health",
+   "food",
+   "energy",
+   "cybersecurity",
+   "deep tech",
+   "arts"
+  ],
+  "contacts": [
+   "amir@genexgen.com",
+   "jteaford@greensteelenvironmental.com",
+   "deacon@kitsunebio.com",
+   "lidg3d@gmail.com",
+   "elizabeth.johnson37@montana.edu"
+  ],
+  "funding": [
+   "$1.2"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/startup-portfolio/manifest-technologies",
+  "fetchedAt": "2026-08-11T17:14:02.170Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-2026-08-05-external-news-mana-battery-partners-saft",
+  "url": "http://colorado.edu/venturepartners/2026/08/05/external-news/mana-battery-partners-saft-anode-free-sodium-batteries",
+  "title": "Mana Battery partners with Saft on anode-free sodium batteries | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "center",
+  "description": "Interesting Engineering&mdash;Mana Battery, a CU Boulder spinout, has partnered with battery manufacturer Saft to develop and validate anode-free sodium-ion battery cells for defense, aerospace, rail, data centers and industrial backup power. The collaboration combines Mana Battery",
+  "audience": [
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "energy",
+   "deep tech",
+   "arts"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "due to insufficient cycle lifetimes and energy density"
+  ],
+  "specificity": 8,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/startup-portfolio/mana-battery-inc",
+  "fetchedAt": "2026-08-11T17:14:02.276Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-04-14-internal-news-coolest-technology-univers",
+  "url": "http://colorado.edu/venturepartners/2025/04/14/internal-news/coolest-technology-universe",
+  "title": "The coolest technology in the universe and the origins of Infleqtion at CU Boulder | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "Infleqtion&rsquo;s star continues to rise as Colorado&rsquo;s quantum hub grows. The company spun out of CU Boulder as ColdQuanta and seems to be everywhere these days, including outer space, while commercializing pioneering research to address needs across several critical markets including positioning, navigating and timing, global communication security and efficiency, resilient energy distribution, and accelerated quantum computing.",
+  "audience": [
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "quantum",
+   "health",
+   "energy",
+   "deep tech",
+   "arts",
+   "space"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [
+   "$1.8",
+   "$100,000",
+   "$110 million",
+   "$1.15 million"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/09/15/internal-news/cu-boulder-ranked-1-launching-startups-based-university-discoveries",
+  "fetchedAt": "2026-08-11T17:14:03.904Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-business-deming-student-opportunities-spark",
+  "url": "http://colorado.edu/business/deming/student-opportunities/spark",
+  "title": "SPARK | Leeds School of Business",
+  "org": "colorado.edu/business",
+  "type": "center",
+  "description": "Spark CU is a new initiative designed for entrepreneurial students at the University of Colorado Boulder.",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "social enterprise",
+   "space"
+  ],
+  "contacts": [
+   "SparkCU@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Application open August 1 through September 14 Spark Student Opportunities and Events Calendar E"
+  ],
+  "specificity": 8,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/business/deming/student-opportunities/certificate-entrepreneurial-studies",
+  "fetchedAt": "2026-08-11T17:14:04.149Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-apply",
+  "url": "https://watson.is/apply",
+  "title": "Explore Impact Fellowships | Watson Institute",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "Impact Fellowships are fully-funded programs designed to equip the most promising impact-driven entrepreneurs, small business owners, and leaders with the skills, networks, and resources to grow.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$190 million"
+  ],
+  "deadlines": [
+   "Applications Closed Enlight Fellowship Focus Area: Youth Mental Wellbeing Location: Global Learn M",
+   "Applications Closed Environmental Sustainability Entrepreneurship Program Focus Area: Environmenta",
+   "Applications Closed Flagship Fellowship Focus Area: Sustainability, Economic Development, Technolo",
+   "Applications Closed Retail Readiness Training Program Focus Area: Agriculture and Value-Added Prod"
+  ],
+  "specificity": 8,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:14:05.317Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-lynn-pae",
+  "url": "http://colorado.edu/venturepartners/about/people/lynn-pae",
+  "title": "Lynn Pae | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "service",
+  "description": "Lynn Pae joined Venture Partners at CU Boulder in 2001. As the Office Manager, she monitors intellectual property license agreements and ensures compliance with financial and due diligence obligations. Lynn manages the collection and distribution of royalties and license fees to faculty inventors and their labs.",
+  "audience": [
+   "faculty",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "lynn.pae@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "due diligence obligations"
+  ],
+  "specificity": 8,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:05.994Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-2026-06-29-external-news-colorado-bioscience-associ",
+  "url": "http://colorado.edu/venturepartners/2026/06/29/external-news/colorado-bioscience-association-announces-cu-boulder-companies-will-present-2026-rocky",
+  "title": "Colorado BioScience Association announces eight CU Boulder companies will present at 2026 Rocky Mountain Life Sciences Investor & Partnering",
+  "org": "colorado.edu/venturepartners",
+  "type": "event",
+  "description": "Colorado BioScience Association (CBSA)&mdash;The presenting companies selected for the 2026 Rocky Mountain Life Sciences Investor &amp; Partnering Conference feature close to 50 companies from Colorado and the Rocky Mountain West, including eight from CU Boulder.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "bioscience",
+   "quantum",
+   "deep tech"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [
+   "$3M",
+   "$4M",
+   "$5M",
+   "$2.75M"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/startup-portfolio/vitrivax-inc",
+  "fetchedAt": "2026-08-11T17:14:06.648Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "url": "http://colorado.edu/venturepartners/startup-portfolio/flari-tech-inc",
+  "title": "Flari Tech Inc. | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "competition",
+  "description": "Using Nobel Prize-winning frequency comb technology to detect diseases in breath.",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "bioscience",
+   "hardware",
+   "quantum",
+   "health",
+   "deep tech"
+  ],
+  "contacts": [
+   "info@flaritech.com",
+   "vpnews@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [
+   "$400,000",
+   "$1.25M"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 6,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2026/06/29/external-news/colorado-bioscience-association-announces-cu-boulder-companies-will-present-2026-rocky",
+  "fetchedAt": "2026-08-11T17:14:07.018Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-startup-portfolio-renovare-therapeutics-inc",
+  "url": "http://colorado.edu/venturepartners/startup-portfolio/renovare-therapeutics-inc",
+  "title": "Renovare Therapeutics Inc. | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "A biotech company developing regenerative therapies for osteoarthritis.",
+  "audience": [
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "bioscience",
+   "deep tech"
+  ],
+  "contacts": [
+   "liz.scott@renovaretx.com",
+   "vpnews@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [
+   "$33.5 million"
+  ],
+  "deadlines": [],
+  "specificity": 8,
+  "depth": 6,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2026/06/29/external-news/colorado-bioscience-association-announces-cu-boulder-companies-will-present-2026-rocky",
+  "fetchedAt": "2026-08-11T17:14:07.054Z",
   "needsAnalysis": false
  },
  {
@@ -16999,7 +18029,7 @@
  },
  {
   "id": "colorado-edu-business-phd-funding",
-  "url": "http://colorado.edu/business/phd/funding",
+  "url": "https://colorado.edu/business/phd/funding",
   "title": "Funding | Leeds School of Business",
   "org": "colorado.edu/business",
   "type": "funding",
@@ -17030,10 +18060,10 @@
    "deadline are automatically considered for funding—no separate funding application is req"
   ],
   "specificity": 7,
-  "depth": 4,
+  "depth": 5,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/business/deming",
-  "fetchedAt": "2026-08-11T17:07:02.710Z",
+  "parent": "https://colorado.edu/innovate/boulder-climate-ventures",
+  "fetchedAt": "2026-08-11T17:14:04.264Z",
   "needsAnalysis": false
  },
  {
@@ -17077,7 +18107,7 @@
  },
  {
   "id": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
-  "url": "http://colorado.edu/researchinnovation/research-strategy-development/sustainability-research-initiative",
+  "url": "https://colorado.edu/researchinnovation/research-strategy-development/sustainability-research-initiative",
   "title": "Sustainability Research Initiative | Research & Innovation Office",
   "org": "colorado.edu/researchinnovation",
   "type": "center",
@@ -17108,10 +18138,218 @@
    "due Friday, August 14"
   ],
   "specificity": 7,
-  "depth": 4,
+  "depth": 5,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/researchinnovation/research-strategy-development",
-  "fetchedAt": "2026-08-11T17:08:50.094Z",
+  "parent": "https://colorado.edu/researchinnovation/research-innovation-arts-humanities-grant-program",
+  "fetchedAt": "2026-08-11T17:14:02.853Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-research-abnexus-grant-awardees-2024-ab-nexus-grant-awards",
+  "url": "https://colorado.edu/research/abnexus/grant-awardees/2024-ab-nexus-grant-awards",
+  "title": "2024 AB Nexus Grant Awards | AB Nexus",
+  "org": "colorado.edu/research",
+  "type": "funding",
+  "description": "2024 AB Nexus Grant Awards | AB Nexus | University of Colorado Boulder Skip to main content Translate English Spanish Chinese French German Korean Lao Nepali Japanese Tibetan Search Enter the terms you wish to search for.",
+  "audience": [
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "quantum",
+   "health"
+  ],
+  "contacts": [
+   "abnexus_seedgrants@colorado.edu"
+  ],
+  "funding": [
+   "$125K",
+   "$75K"
+  ],
+  "deadlines": [
+   "due to the ever-present motions of the fetus"
+  ],
+  "specificity": 7,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "fetchedAt": "2026-08-11T17:12:52.974Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-encouraging-social-impact-through-private-and-",
+  "url": "https://siliconflatirons.org/publications/encouraging-social-impact-through-private-and-public-sector-leadership-2",
+  "title": "Encouraging Social Impact Through Private and Public Sector Leadership | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "Encouraging Social Impact Through Private and Public Sector Leadership | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announc",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [
+   "$10.6"
+  ],
+  "deadlines": [],
+  "specificity": 7,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:21.462Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-how-academic-institutions-can-advance-health-c",
+  "url": "https://siliconflatirons.org/publications/how-academic-institutions-can-advance-health-careinnovations-2",
+  "title": "How Academic Institutions Can Advance Health Care Innovations | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "How Academic Institutions Can Advance Health Care Innovations | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mi",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [
+   "$100 million"
+  ],
+  "deadlines": [],
+  "specificity": 7,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:24.495Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-student-opportunities-competitions",
+  "url": "https://siliconflatirons.org/student-opportunities/competitions",
+  "title": "Competitions | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "competition",
+  "description": "Competitions | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team Our Supporters",
+  "audience": [
+   "grad students",
+   "faculty",
+   "staff",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [
+   "$1000",
+   "$100,000"
+  ],
+  "deadlines": [],
+  "specificity": 7,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/student-opportunities",
+  "fetchedAt": "2026-08-11T17:13:33.985Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-announcements-spectrum-policy-initiative-co-director-dr-kei",
+  "url": "https://siliconflatirons.org/announcements/spectrum-policy-initiative-co-director-dr-keith-gremban-secures-750k-nsf-grant-to-work-on-5g-security",
+  "title": "Spectrum Policy Initiative Co-Director Dr. Keith Gremban secures $750K NSF grant to work on 5G security | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "funding",
+  "description": "Keith Gremban secures $750K NSF grant to work on 5G security | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mis",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "aerospace",
+   "space"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [
+   "$750K"
+  ],
+  "deadlines": [],
+  "specificity": 7,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/about-us/press",
+  "fetchedAt": "2026-08-11T17:13:35.069Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-chancellor-messages-communiques-update-on-anschutz-acceleration-i",
+  "url": "https://www.cuanschutz.edu/chancellor/messages/communiques/update-on-anschutz-acceleration-initiative",
+  "title": "Update on Anschutz Acceleration Initiative",
+  "org": "cuanschutz.edu",
+  "type": "center",
+  "description": "Update on Anschutz Acceleration Initiative Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Re",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$50 million",
+   "$5 million",
+   "$15 million"
+  ],
+  "deadlines": [
+   "due October 18"
+  ],
+  "specificity": 7,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/anschutz-acceleration-initiative",
+  "fetchedAt": "2026-08-11T17:13:46.918Z",
   "needsAnalysis": false
  },
  {
@@ -20514,7 +21752,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
-  "url": "https://www.colorado.edu/venturepartners/2025/02/07/external-news/grad-student-innovators-among-winners-lab-venture-challenge",
+  "url": "http://colorado.edu/venturepartners/2025/02/07/external-news/grad-student-innovators-among-winners-lab-venture-challenge",
   "title": "Grad student innovators among winners of Lab Venture Challenge | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "competition",
@@ -20537,10 +21775,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 1,
-  "discoveredVia": "sitemap",
-  "parent": "https://www.colorado.edu/venturepartners/sitemap.xml",
-  "fetchedAt": "2026-08-11T16:53:22.008Z",
+  "depth": 7,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/startup-portfolio/flari-tech-inc",
+  "fetchedAt": "2026-08-11T17:14:07.289Z",
   "needsAnalysis": false
  },
  {
@@ -23859,7 +25097,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
-  "url": "http://colorado.edu/venturepartners/startup-portfolio/kioga-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/kioga-inc",
   "title": "Kioga Inc. | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -23886,15 +25124,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 6,
+  "depth": 8,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/2025/05/15/internal-news/oedit-announces-grants-cu-boulder-and-cu-denver-startups-and-researchers",
-  "fetchedAt": "2026-08-11T16:54:54.760Z",
+  "parent": "https://colorado.edu/venturepartners/2025/05/15/internal-news/oedit-announces-grants-cu-boulder-and-cu-denver-startups-and-researchers",
+  "fetchedAt": "2026-08-11T17:12:33.185Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-2025-01-11-external-news-local-tech-startup-aims-po",
-  "url": "http://colorado.edu/venturepartners/2025/01/11/external-news/local-tech-startup-aims-power-commercial-robots",
+  "url": "https://colorado.edu/venturepartners/2025/01/11/external-news/local-tech-startup-aims-power-commercial-robots",
   "title": "Local tech startup ExoPower aims to power commercial robots | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "center",
@@ -23916,10 +25154,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 6,
+  "depth": 8,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/exopower-inc",
-  "fetchedAt": "2026-08-11T16:54:55.175Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/exopower-inc",
+  "fetchedAt": "2026-08-11T17:12:33.519Z",
   "needsAnalysis": false
  },
  {
@@ -27537,7 +28775,7 @@
  },
  {
   "id": "colorado-edu-business-cesr-current-students-graduate-programs-boulder-climate-ve",
-  "url": "http://colorado.edu/business/cesr/current-students/graduate-programs/boulder-climate-ventures",
+  "url": "https://colorado.edu/business/cesr/current-students/graduate-programs/boulder-climate-ventures",
   "title": "Boulder Climate Ventures | Leeds School of Business",
   "org": "colorado.edu/business",
   "type": "program",
@@ -27569,10 +28807,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 4,
+  "depth": 5,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/innovate/boulder-climate-ventures",
-  "fetchedAt": "2026-08-11T17:07:03.259Z",
+  "parent": "https://colorado.edu/innovate/boulder-climate-ventures",
+  "fetchedAt": "2026-08-11T17:14:04.899Z",
   "needsAnalysis": false
  },
  {
@@ -28262,6 +29500,1137 @@
   "discoveredVia": "link",
   "parent": "https://startupcolorado.org/all-events/photo/?eventDisplay=past",
   "fetchedAt": "2026-08-11T17:11:08.534Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-research-abnexus-ab-nexus-grant-awardees",
+  "url": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "title": "AB Nexus Grant Awardees | AB Nexus",
+  "org": "colorado.edu/research",
+  "type": "competition",
+  "description": "The AB Nexus Collaborative Research Grant Program has awarded $4.95M+ to 59 teams through 8 rounds of grant competition, starting with our first cohort in Fall 2020.",
+  "audience": [
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "abnexus_seedgrants@colorado.edu"
+  ],
+  "funding": [
+   "$4.95M"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/research/abnexus",
+  "fetchedAt": "2026-08-11T17:12:52.814Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-researchinnovation-piacademy",
+  "url": "https://colorado.edu/researchinnovation/piacademy",
+  "title": "Principal Investigator (PI) Academy | Research & Innovation Office",
+  "org": "colorado.edu/researchinnovation",
+  "type": "funding",
+  "description": "Principal Investigator (PI) Academy connects early‑career CU Boulder faculty with the people, funding, and campus knowledge it takes to turn research ideas, innovation and creative work into funded opportunities. The program is for scholars from the humanities to the sciences. Bold ideas have no boundaries.",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "quantum",
+   "arts"
+  ],
+  "contacts": [
+   "rio@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/event/pi-academy-kickoff-89?amp%3Butm_medium=widget&amp%3Butm_source=University+of+Colorado+Boulder",
+  "fetchedAt": "2026-08-11T17:12:52.860Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-research-abnexus-grant-awardees-2023-ab-nexus-grant-awards",
+  "url": "https://colorado.edu/research/abnexus/grant-awardees/2023-ab-nexus-grant-awards",
+  "title": "2023 AB Nexus Grant Awards | AB Nexus",
+  "org": "colorado.edu/research",
+  "type": "funding",
+  "description": "A novel mechanism of action for an actionable predictive biomarker for antitumor therapies",
+  "audience": [
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "aerospace",
+   "space"
+  ],
+  "contacts": [
+   "abnexus_seedgrants@colorado.edu"
+  ],
+  "funding": [
+   "$125,000",
+   "$50,000"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "fetchedAt": "2026-08-11T17:12:53.245Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-research-abnexus-grant-awardees-2022-awardees",
+  "url": "https://colorado.edu/research/abnexus/grant-awardees/2022-awardees",
+  "title": "2022 Awardees | AB Nexus",
+  "org": "colorado.edu/research",
+  "type": "funding",
+  "description": "Developing trustworthy artificial intelligence for language-based assessment of neurodegenerative disorders: Enabling early detection of Cognitive decline with inexpensive, scalable technologi",
+  "audience": [
+   "researchers"
+  ],
+  "stage": [
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "energy",
+   "arts"
+  ],
+  "contacts": [
+   "abnexus_seedgrants@colorado.edu"
+  ],
+  "funding": [
+   "$50,000",
+   "$125,000"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "fetchedAt": "2026-08-11T17:12:53.251Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-research-abnexus-grant-awardees-2021-ab-nexus-grant-awards",
+  "url": "https://colorado.edu/research/abnexus/grant-awardees/2021-ab-nexus-grant-awards",
+  "title": "2021 AB Nexus Grant Awards | AB Nexus",
+  "org": "colorado.edu/research",
+  "type": "funding",
+  "description": "Acute intermittent hypoxia in persons with spinal cord injury: studying corticospinal drive and motor adaptation Andrew Smith (CU Anschutz; Depar",
+  "audience": [
+   "researchers"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "health",
+   "arts"
+  ],
+  "contacts": [
+   "abnexus_seedgrants@colorado.edu"
+  ],
+  "funding": [
+   "$50,000",
+   "$125,000"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "fetchedAt": "2026-08-11T17:12:53.263Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-research-abnexus-grant-awardees-2020-ab-nexus-grant-awards",
+  "url": "https://colorado.edu/research/abnexus/grant-awardees/2020-ab-nexus-grant-awards",
+  "title": "2020 AB Nexus Grant Awards | AB Nexus",
+  "org": "colorado.edu/research",
+  "type": "funding",
+  "description": "Associative threat learning: Measuring mechanisms for treating threat-based psychopathologies Joel Stoddard (CU Anschutz; Psychiatry) Matt Jones (CU Boulder; Psychology) Existing collaboration ($125,000)",
+  "audience": [
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "energy"
+  ],
+  "contacts": [
+   "abnexus_seedgrants@colorado.edu"
+  ],
+  "funding": [
+   "$125,000",
+   "$50,000"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "fetchedAt": "2026-08-11T17:12:53.339Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-organizational-leadership-ms-academics",
+  "url": "https://online.colorado.edu/organizational-leadership-ms/academics",
+  "title": "Academics | Organizational Leadership MS | CU Boulder Online",
+  "org": "colorado.edu/organizational-leadership-ms",
+  "type": "course",
+  "description": "Explore the curriculum for the MS in Organizational Leadership.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "msol@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People Academics What to Expect in the Program Class schedule: Courses",
+   "deadlines each week, but with flexibility as to when to complete the work to meet those",
+   "deadlines"
+  ],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/organizational-leadership-ms",
+  "fetchedAt": "2026-08-11T17:12:53.541Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "online-colorado-edu-organizational-leadership-ms-people",
+  "url": "https://online.colorado.edu/organizational-leadership-ms/people",
+  "title": "People | Organizational Leadership MS | CU Boulder Online",
+  "org": "colorado.edu/organizational-leadership-ms",
+  "type": "reference",
+  "description": "Meet the MS in Organizational Leadership faculty and staff.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "info.online@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Careers People People Faculty An error has occured - please check your filters"
+  ],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://online.colorado.edu/organizational-leadership-ms",
+  "fetchedAt": "2026-08-11T17:12:53.828Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-homepage",
+  "url": "https://www.cuanschutz.edu/homepage",
+  "title": "University of Colorado Anschutz",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Explore cutting-edge research, innovative healthcare solutions, and academic excellence at CU Anschutz.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$890M",
+   "$762M",
+   "$128M"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/cu-innovations",
+  "fetchedAt": "2026-08-11T17:13:46.100Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-chancellor",
+  "url": "https://www.cuanschutz.edu/chancellor",
+  "title": "Office of the Chancellor | University of Colorado Anschutz",
+  "org": "cuanschutz.edu",
+  "type": "community",
+  "description": "Guided by innovation and excellence, CU Anschutz’s Chancellor and other senior leadership advance health education, research, patient care, and community.",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "chancellor@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/cu-innovations",
+  "fetchedAt": "2026-08-11T17:13:46.357Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-partners",
+  "url": "https://watson.is/partners",
+  "title": "Partners - Watson Institute",
+  "org": "watson.is",
+  "type": "center",
+  "description": "The training ground for next-generation innovators and social entrepreneurs.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$190M"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:13:49.507Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-careers",
+  "url": "https://watson.is/careers",
+  "title": "Careers at Watson Institute: Discover Your Future",
+  "org": "watson.is",
+  "type": "center",
+  "description": "Explore Watson Careers. Join a passionate team of individuals who are dedicated to shaping the future of education and supporting the world&#039;s most promising entrepreneurs.",
+  "audience": [
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$190 million"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:13:52.312Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-watson-institute-lynn-university",
+  "url": "https://watson.is/watson-institute-lynn-university",
+  "title": "Watson Institute at Lynn University - Watson Institute",
+  "org": "watson.is",
+  "type": "course",
+  "description": "The training ground for next-generation innovators and social entrepreneurs. Bachelor&#039;s degree in Social Entrepreneurship at Lynn University.",
+  "audience": [
+   "undergrads",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "deadlines for Fall 2026 (August): Early decision: Complete application by Nov 1; submit",
+   "deadlines for Spring 2026 (January): Regular decision: Complete application by Dec 1; de"
+  ],
+  "specificity": 6,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:13:54.605Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-career-accelerator-application",
+  "url": "https://watson.is/career-accelerator-application",
+  "title": "Application - Career Accelerator Fellowship - Apply Today!",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "This program is a job placement and career development fellowship tailored for ambitious job seekers in Colorado. Fill out the application today!",
+  "audience": [
+   "alumni",
+   "community",
+   "high school"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$15,000",
+   "$24,999",
+   "$25,000",
+   "$34,999",
+   "$35,000"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/career-accelerator",
+  "fetchedAt": "2026-08-11T17:13:54.779Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-wells-fargo-small-business-fellowship-program",
+  "url": "https://watson.is/wells-fargo-small-business-fellowship-program",
+  "title": "The Wells Fargo Small Business Fellowship Program",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "The Wells Fargo Small Business Fellowship Program equips small business owners and entrepreneurs to grow, create jobs, and strengthen communities.",
+  "audience": [
+   "staff",
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "food"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "applications open Fill out the form below to receive an alert when applications launch"
+  ],
+  "specificity": 6,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/impact-fellowships",
+  "fetchedAt": "2026-08-11T17:13:57.336Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-halloran-application",
+  "url": "https://watson.is/halloran-application",
+  "title": "Halloran Fellowship Application - Watson Institute",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "A 16-week Fellowship equipping aspiring entrepreneurs and leaders in Bradford, PA with the skills and resources to launch impactful ventures.",
+  "audience": [
+   "undergrads",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadline: August 3, 2026"
+  ],
+  "specificity": 6,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:14:00.712Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-watson-lynn-application",
+  "url": "https://watson.is/watson-lynn-application",
+  "title": "Watson Institute At Lynn University Application - Watson Institute",
+  "org": "watson.is",
+  "type": "course",
+  "description": "The training ground for next-generation innovators and social entrepreneurs. Apply to the bachelor&#039;s degree in Social Entrepreneurship.",
+  "audience": [
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "health",
+   "food",
+   "energy",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [
+   "$1,000",
+   "$10,000"
+  ],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:14:01.417Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-bryn-rees-page",
+  "url": "http://colorado.edu/venturepartners/about/people/bryn-rees-page",
+  "title": "Bryn Rees | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "Bryn is associate vice chancellor for innovation and partnerships.",
+  "audience": [
+   "grad students",
+   "postdocs",
+   "faculty",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "christine.jackson@colorado.edu",
+   "brynmor.rees@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2026/06/02/eight-cu-boulder-researchers-and-four-startups-receive-funding-through-colorados",
+  "fetchedAt": "2026-08-11T17:14:01.933Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-sarah-hughes",
+  "url": "http://colorado.edu/venturepartners/about/people/sarah-hughes",
+  "title": "Sarah Hughes | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "center",
+  "description": "Sarah serves as the Director of the Center for Translational Research, a campus-wide resource supporting both existing and aspiring university-originated startups.",
+  "audience": [
+   "staff",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech",
+   "arts"
+  ],
+  "contacts": [
+   "Sarah.Hughes-1@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2026/06/02/eight-cu-boulder-researchers-and-four-startups-receive-funding-through-colorados",
+  "fetchedAt": "2026-08-11T17:14:02.055Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-2026-06-02-internal-news-powerhouse-battery-breakth",
+  "url": "http://colorado.edu/venturepartners/2026/06/02/internal-news/powerhouse-battery-breakthroughs",
+  "title": "A powerhouse in battery breakthroughs | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "course",
+  "description": "CU Boulder has emerged as a leading hub for battery innovation, producing breakthrough research and a series of successful startups&mdash;including Solid Power, SiILion, Otoro Energy, Forge Nano and Mana Battery&mdash;that are advancing safer, cheaper and more effective energy storage technologies. The university&rsquo;s unique combination of world-class researchers, entrepreneurial support and industry partnerships has helped transform laboratory discoveries into companies with significant economic and societal impact.",
+  "audience": [
+   "undergrads",
+   "postdocs",
+   "faculty",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "energy",
+   "deep tech",
+   "space"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/startup-portfolio/mana-battery-inc",
+  "fetchedAt": "2026-08-11T17:14:02.520Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-group-rio",
+  "url": "https://calendar.colorado.edu/group/rio",
+  "title": "Research &amp; Innovation Office - University of Colorado Boulder",
+  "org": "colorado.edu/group",
+  "type": "event",
+  "description": "The Research &amp;amp; Innovation Office cultivates and supports collaboration, transformation and leadership in research, scholarly and creative activities., powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "health",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/event/lab-venture-challenge",
+  "fetchedAt": "2026-08-11T17:14:03.189Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "calendar-colorado-edu-group-venture-partners",
+  "url": "https://calendar.colorado.edu/group/venture_partners",
+  "title": "Venture Partners at CU Boulder - University of Colorado Boulder",
+  "org": "colorado.edu/group",
+  "type": "event",
+  "description": "University of Colorado Boulder events updated every day. Powered by Localist Event Calendar Software",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "validate"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "deep tech",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadlines Exhibit Festival Film Information Session Lecture/Presentation Live streams Me"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://calendar.colorado.edu/event/lab-venture-challenge",
+  "fetchedAt": "2026-08-11T17:14:03.527Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-hannah-nelson",
+  "url": "http://colorado.edu/venturepartners/about/people/hannah-nelson",
+  "title": "Hannah Nelson | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "service",
+  "description": "Hannah Nelson is the associate director of licensing at Venture Partners, where she leads the bioscience team and works with university inventors to commercialize their research. Hannah has over a decade of experience in strategic licensing and intellectual property management from various U.S. institutions, including UTHealth Houston and the University of Texas at Austin. Hannah holds a PhD in microbiology from The University of Texas at Austin.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "bioscience",
+   "health",
+   "deep tech"
+  ],
+  "contacts": [
+   "hannah.nelson@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:05.166Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-jim-booth",
+  "url": "http://colorado.edu/venturepartners/about/people/jim-booth",
+  "title": "Jim Booth | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "funding",
+  "description": "As director of operations at Venture Partners at CU Boulder, Jim leads operations, finance and team systems. He&rsquo;s a seasoned entrepreneur and tech leader with deep experience taking products from concept to market, raising venture funding, and building go-to-market plans.",
+  "audience": [
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "jim.booth@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:05.334Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-joe-davidek",
+  "url": "http://colorado.edu/venturepartners/about/people/joe-davidek",
+  "title": "Joe Davidek | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "service",
+  "description": "Joe joined Venture Partners at CU Boulder in December, 2011 as an Intellectual Property Associate. Previously, he was a trademark paralegal for nearly 20 years in a major law firm in its Boulder office. Joe oversees daily patent operations and compliance for the University&rsquo;s Boulder and Colorado Springs portfolios. He works in close collaboration with the office&rsquo;s licensing and financing team and a select group of law firms nationwide to coordinate patent prosecution and maintenance.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech",
+   "arts"
+  ],
+  "contacts": [
+   "joseph.davidek@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:05.940Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-daniel-leonard",
+  "url": "http://colorado.edu/venturepartners/about/people/daniel-leonard",
+  "title": "Daniel Leonard | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "course",
+  "description": "Daniel is a results-driven leader and communicator who focuses on service excellence to empower teams to reach their full potential. He creates environments that foster growth and adaptation, utilizing candid 360-degree feedback and modeling personal wellness and a strong work ethic to drive growth. He brings people together to develop systemic organizational solutions that deliver impactful results.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "daniel.leonard@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:06.209Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-shreya-madhavarapu",
+  "url": "http://colorado.edu/venturepartners/about/people/shreya-madhavarapu",
+  "title": "Shreya Madhavarapu | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "service",
+  "description": "Shreya is the licensing manager for physical sciences within Venture Partners at CU Boulder. In this role, she serves as the first point of contact for university researchers seeking to protect and commercialize their inventions.",
+  "audience": [
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "shreya.madhavarapu@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:06.219Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-bryn-rees",
+  "url": "http://colorado.edu/venturepartners/about/people/bryn-rees",
+  "title": "Bryn Rees | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "Bryn is associate vice chancellor for innovation and partnerships.",
+  "audience": [
+   "grad students",
+   "postdocs",
+   "faculty",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "christine.jackson@colorado.edu",
+   "brynmor.rees@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:06.292Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-nicole-r-stone",
+  "url": "http://colorado.edu/venturepartners/about/people/nicole-r-stone",
+  "title": "Nicole R. Stone | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "service",
+  "description": "Nicole is the licensing manager for biosciences within Venture Partners at CU Boulder. In this role, she guides university researchers through the invention commercialization process, from invention disclosure to patent filing, licensing and startup creation.",
+  "audience": [
+   "postdocs",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "bioscience",
+   "deep tech"
+  ],
+  "contacts": [
+   "nicole.r.stone@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:06.557Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-annalissa-philbin",
+  "url": "http://colorado.edu/venturepartners/about/people/annalissa-philbin",
+  "title": "Annalissa Philbin | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "center",
+  "description": "Annalissa Philbin serves as Associate University Counsel in the System Administration Office, working primarily with Venture Partners at CU Boulder. Prior to January 2019, Ms. Philbin also worked with CU Innovations on the CU Anschutz campus. Before joining the System Administration Office in 2012, Ms. Philbin served as Sr. Research Associate Attorney for the University of Colorado Denver | Anschutz Medical Campus Office of University Counsel. Ms.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech",
+   "arts"
+  ],
+  "contacts": [
+   "annalissa.philbin@cu.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:06.663Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-startup-portfolio-illumen-therapeutics-inc",
+  "url": "http://colorado.edu/venturepartners/startup-portfolio/illumen-therapeutics-inc",
+  "title": "Illumen Therapeutics Inc. | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "Pioneering the ",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "bioscience",
+   "health",
+   "deep tech"
+  ],
+  "contacts": [
+   "bob@IllumenTx.com",
+   "vpnews@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 6,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2026/06/29/external-news/colorado-bioscience-association-announces-cu-boulder-companies-will-present-2026-rocky",
+  "fetchedAt": "2026-08-11T17:14:06.950Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-09-04-external-news-new-single-dose-temperatur",
+  "url": "http://colorado.edu/venturepartners/2025/09/04/external-news/new-single-dose-temperature-stable-rabies-vaccines-could-expand-global-access",
+  "title": "New single-dose, temperature-stable rabies vaccines could expand global access | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "CU Boulder Today&mdash;CU Boulder researchers have discovered a new way to make human rabies vaccines that could greatly expand access to immunization across the globe. They have formed a startup company called VitriVax to bring the technology&mdash;decades in the making&mdash;to market.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/startup-portfolio/vitrivax-inc",
+  "fetchedAt": "2026-08-11T17:14:07.035Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-2026-04-02-external-news-venture-capitalists-remain",
+  "url": "http://colorado.edu/venturepartners/2026/04/02/external-news/venture-capitalists-remain-staunch-believers-vaccines-will-pay",
+  "title": "Venture capitalists remain staunch believers that vaccines will pay off | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "event",
+  "description": "Wall Street Journal&mdash;The second Trump administration&rsquo;s &ldquo;Make America Healthy Again&rdquo; movement targets vaccines, leading some investors to step back. In biotech investment circles, they are the ultimate contrarians: the venture capitalists who say now is the time to invest in vaccines. VitriVax, a CU Boulder spinout, raised more than $17.2 million in Series B financing in October.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "biotech",
+   "deep tech"
+  ],
+  "contacts": [
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/startup-portfolio/vitrivax-inc",
+  "fetchedAt": "2026-08-11T17:14:07.072Z",
   "needsAnalysis": false
  },
  {
@@ -35735,6 +38104,1257 @@
   "discoveredVia": "link",
   "parent": "https://startupcolorado.org/all-events/list/?eventDisplay=past",
   "fetchedAt": "2026-08-11T17:11:27.832Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-research-abnexus-ab-nexus-grant-awardees-2025-ab-nexus-grant-awards",
+  "url": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees/2025-ab-nexus-grant-awards",
+  "title": "2025 AB Nexus Grant Awards | AB Nexus",
+  "org": "colorado.edu/research",
+  "type": "funding",
+  "description": "2025 AB Nexus Grant Awards | AB Nexus | University of Colorado Boulder Skip to main content Translate English Spanish Chinese French German Korean Lao Nepali Japanese Tibetan Search Enter the terms you wish to search for.",
+  "audience": [
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "quantum",
+   "health",
+   "food"
+  ],
+  "contacts": [
+   "abnexus_seedgrants@colorado.edu"
+  ],
+  "funding": [
+   "$75K"
+  ],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/research/abnexus/ab-nexus-grant-awardees",
+  "fetchedAt": "2026-08-11T17:12:52.958Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-events-susu-pitch-night-2025-08-14",
+  "url": "https://siliconflatirons.org/events/susu-pitch-night_2025-08-14",
+  "title": "2025 Startup Summer Pitch Night | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "competition",
+  "description": "2025 Startup Summer Pitch Night | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our ",
+  "audience": [
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/events-archive",
+  "fetchedAt": "2026-08-11T17:12:57.699Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-events-startup-variety-show-2026-06-16",
+  "url": "https://siliconflatirons.org/events/startup-variety-show-2026-06-16",
+  "title": "Startup Variety Show | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "event",
+  "description": "Startup Variety Show | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team Our Su",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food",
+   "arts"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/events-archive",
+  "fetchedAt": "2026-08-11T17:12:58.824Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-events-entrepreneurs-unplugged-2026-05-06",
+  "url": "https://siliconflatirons.org/events/entrepreneurs-unplugged-2026-05-06",
+  "title": "Institutional Entrepreneurs Unplugged | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "event",
+  "description": "Institutional Entrepreneurs Unplugged | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principle",
+  "audience": [
+   "faculty",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/events-archive",
+  "fetchedAt": "2026-08-11T17:12:58.870Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-events-legal-tech-startup-variety-show-2026-04-07",
+  "url": "https://siliconflatirons.org/events/legal-tech-startup-variety-show-2026-04-07",
+  "title": "Legal Tech Startup Variety Show | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "event",
+  "description": "Legal Tech Startup Variety Show | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our ",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/events-archive",
+  "fetchedAt": "2026-08-11T17:12:59.538Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-events-ip-labor-interface-2025-11-06",
+  "url": "https://siliconflatirons.org/events/ip-labor-interface_2025-11-06",
+  "title": "The IP-Labor Interface | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "event",
+  "description": "The IP-Labor Interface | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team Our ",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/events-archive",
+  "fetchedAt": "2026-08-11T17:13:01.185Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-events-annual-flagship-conference-2026-02-01",
+  "url": "https://siliconflatirons.org/events/annual-flagship-conference-2026-02-01",
+  "title": "2026 Flagship Conference | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "event",
+  "description": "2026 Flagship Conference | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team Ou",
+  "audience": [
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "aerospace",
+   "quantum",
+   "health",
+   "energy",
+   "space"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/events-archive",
+  "fetchedAt": "2026-08-11T17:13:02.042Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-events-startup-variety-show-2025-06-17",
+  "url": "https://siliconflatirons.org/events/startup-variety-show-2025-06-17",
+  "title": "Startup Variety Show | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "event",
+  "description": "Startup Variety Show | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team Our Su",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food",
+   "arts"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/events-archive",
+  "fetchedAt": "2026-08-11T17:13:02.600Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-events-startup-variety-show-2025-09-11",
+  "url": "https://siliconflatirons.org/events/startup-variety-show-2025-09-11",
+  "title": "Startup Variety Show | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "event",
+  "description": "Startup Variety Show | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team Our Su",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "food",
+   "arts"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/events-archive",
+  "fetchedAt": "2026-08-11T17:13:03.210Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-events-innovation-vs-access-2026-01-15",
+  "url": "https://siliconflatirons.org/events/innovation-vs-access-2026-01-15",
+  "title": "Innovation vs. Access? The Legal, Ethical, and Economic Dimensions of U.S. Drug Pricing | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "event",
+  "description": "Drug Pricing | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team Our Supporters",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/events-archive",
+  "fetchedAt": "2026-08-11T17:13:03.774Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-initiatives-technology-policy-silicon-flatirons-annual-flag",
+  "url": "https://siliconflatirons.org/initiatives/technology-policy/silicon-flatirons-annual-flagship-conference",
+  "title": "History of the Annual Flagship Conference | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "event",
+  "description": "History of the Annual Flagship Conference | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Princ",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/events/annual-flagship-conference-2026-02-01",
+  "fetchedAt": "2026-08-11T17:13:05.610Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-people-grant-besser",
+  "url": "https://siliconflatirons.org/people/grant-besser",
+  "title": "Grant Besser | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "funding",
+  "description": "Grant Besser | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team Our Supporters",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/events/startup-variety-show-2025-09-11",
+  "fetchedAt": "2026-08-11T17:13:06.372Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-innovation-entrepreneurship-at-the-university-",
+  "url": "https://siliconflatirons.org/publications/innovation-entrepreneurship-at-the-university-of-colorado-system",
+  "title": "Innovation &#038; Entrepreneurship at the University of Colorado System | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "Innovation &#038; Entrepreneurship at the University of Colorado System | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announ",
+  "audience": [
+   "faculty",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:11.273Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-governmental-entrepreneurial-leadership-accele",
+  "url": "https://siliconflatirons.org/publications/governmental-entrepreneurial-leadership-accelerator-year-end-report",
+  "title": "Governmental Entrepreneurial Leadership Accelerator Year-End Report | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "program",
+  "description": "Governmental Entrepreneurial Leadership Accelerator Year-End Report | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announceme",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "social enterprise",
+   "arts"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:11.698Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-the-promise-and-limits-of-social-entrepreneurs",
+  "url": "https://siliconflatirons.org/publications/the-promise-and-limits-of-social-entrepreneurship-2",
+  "title": "The Promise and Limits of Social Entrepreneurship | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "The Promise and Limits of Social Entrepreneurship | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Visio",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:13.473Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-transcript-2024-02-04-flagship-conference",
+  "url": "https://siliconflatirons.org/publications/transcript-2024-02-04-flagship-conference",
+  "title": "Transcript 2024-02-04 Flagship Conference | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "event",
+  "description": "Transcript 2024-02-04 Flagship Conference | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Princ",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:14.219Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-transcript-2023-02-05-flagship-conference",
+  "url": "https://siliconflatirons.org/publications/transcript-2023-02-05-flagship-conference",
+  "title": "Transcript 2023-02-05 Flagship Conference | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "event",
+  "description": "Transcript 2023-02-05 Flagship Conference | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Princ",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:15.499Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-rural-entrepreneurial-policy-academy-outcomes-",
+  "url": "https://siliconflatirons.org/publications/rural-entrepreneurial-policy-academy-outcomes-report",
+  "title": "Outcomes Report: Rural Entrepreneurial Policy Academy | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "Outcomes Report: Rural Entrepreneurial Policy Academy | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, V",
+  "audience": [
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:15.602Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-authorship-and-accessibility-in-the-digital-ag",
+  "url": "https://siliconflatirons.org/publications/authorship-and-accessibility-in-the-digital-age",
+  "title": "Authorship and Accessibility in the Digital Age | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "Authorship and Accessibility in the Digital Age | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision,",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:16.563Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-building-a-great-health-care-innovation-ecosys",
+  "url": "https://siliconflatirons.org/publications/building-a-great-health-care-innovation-ecosystem",
+  "title": "Building a Great Health Care Innovation Ecosystem | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "Building a Great Health Care Innovation Ecosystem | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Visio",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:17.759Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-law-school-innovation",
+  "url": "https://siliconflatirons.org/publications/law-school-innovation",
+  "title": "Law School Innovation | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "Law School Innovation | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team Our S",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:18.821Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-building-a-great-entrepreneurial-university",
+  "url": "https://siliconflatirons.org/publications/building-a-great-entrepreneurial-university",
+  "title": "Building a Great Entrepreneurial University | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "Building a Great Entrepreneurial University | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Pri",
+  "audience": [
+   "faculty",
+   "staff",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:19.789Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-ongoing-innovation-in-legaleducation-2",
+  "url": "https://siliconflatirons.org/publications/ongoing-innovation-in-legaleducation-2",
+  "title": "Ongoing Innovation in Legal Education | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "Ongoing Innovation in Legal Education | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principle",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:21.668Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-boundary-jumping-understanding-the-value-of-mo",
+  "url": "https://siliconflatirons.org/publications/boundary-jumping-understanding-the-value-of-modest-anarchy-in-entrepreneurial-networks-2",
+  "title": "Boundary Jumping: Understanding the Value of Modest Anarchy in Entrepreneurial Networks | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "community",
+  "description": "Boundary Jumping: Understanding the Value of Modest Anarchy in Entrepreneurial Networks | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:22.697Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-different-shapes-common-patternsemerging-appro",
+  "url": "https://siliconflatirons.org/publications/different-shapes-common-patternsemerging-approaches-to-teach-innovation-within-higher-education-2",
+  "title": "Different Shapes, Common Patterns:Emerging Approaches To Teach Innovation Within Higher Education | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "Different Shapes, Common Patterns:Emerging Approaches To Teach Innovation Within Higher Education | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:24.187Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-a-template-for-critical-massnext-steps-for-a-v",
+  "url": "https://siliconflatirons.org/publications/a-template-for-critical-massnext-steps-for-a-vibrant-denver-startup-scene-roundtable-report-for-denver-mayor-michael-hancock-2",
+  "title": "A Template for Critical Mass:  Next Steps for a Vibrant Denver Startup Scene | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "A Template for Critical Mass: Next Steps for a Vibrant Denver Startup Scene | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us An",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "energy"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:25.972Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-the-cable-and-satellite-compulsory-copyright-l",
+  "url": "https://siliconflatirons.org/publications/the-cable-and-satellite-compulsory-copyright-licenses-2",
+  "title": "The Cable and Satellite Compulsory Copyright Licenses | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "service",
+  "description": "The Cable and Satellite Compulsory Copyright Licenses | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, V",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:27.329Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-roundtable-on-digital-music-licenses-2",
+  "url": "https://siliconflatirons.org/publications/roundtable-on-digital-music-licenses-2",
+  "title": "Digital Music Licenses | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "service",
+  "description": "Digital Music Licenses | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team Our ",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:27.851Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-private-equity-and-venture-capital-whats-the-d",
+  "url": "https://siliconflatirons.org/publications/private-equity-and-venture-capital-whats-the-difference-4",
+  "title": "Private Equity and Venture Capital: What&#8217;s the Difference? | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "| Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team Our Supporters Academic Par",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:29.201Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-open-standards-open-innovation-and-the-rollout",
+  "url": "https://siliconflatirons.org/publications/open-standards-open-innovation-and-the-rollout-of-ims-2",
+  "title": "Open Standards, Open Innovation, and the Rollout of IMS | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "Open Standards, Open Innovation, and the Rollout of IMS | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission,",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:30.006Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-a-roundtable-on-the-end-of-scarcity-open-archi",
+  "url": "https://siliconflatirons.org/publications/a-roundtable-on-the-end-of-scarcity-open-architecture-and-the-future-of-broadband-competition-policy-2",
+  "title": "The End of Scarcity, Open Architecture, and the Future of Broadband Competition Policy | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "competition",
+  "description": "The End of Scarcity, Open Architecture, and the Future of Broadband Competition Policy | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media ",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:30.370Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-announcements-now-accepting-applications-for-startup-summer",
+  "url": "https://siliconflatirons.org/announcements/now-accepting-applications-for-startup-summer",
+  "title": "Now Accepting Applications for Startup Summer 2026 | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "Now Accepting Applications for Startup Summer 2026 | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Visi",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "sara.schnittgrund@colorado.edu",
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/about-us/press",
+  "fetchedAt": "2026-08-11T17:13:32.045Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-rethinking-software-patents-2",
+  "url": "https://siliconflatirons.org/publications/rethinking-software-patents-2",
+  "title": "Rethinking Software Patents | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "Rethinking Software Patents | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our Team",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:32.773Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "siliconflatirons-org-publications-the-entrepreneurial-university-2",
+  "url": "https://siliconflatirons.org/publications/the-entrepreneurial-university-2",
+  "title": "The Entrepreneurial University | Silicon Flatirons",
+  "org": "siliconflatirons.org",
+  "type": "reference",
+  "description": "The Entrepreneurial University | Silicon Flatirons Events Event Archive Initiatives Artificial Intelligence Entrepreneurship Intellectual Property Privacy Spectrum Policy Telecom &#038; Platforms Student Opportunities Publications &#038; Media About Us Announcements Mission, Vision, Principles Our T",
+  "audience": [
+   "faculty",
+   "students"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "siliconflatirons@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://siliconflatirons.org/publications",
+  "fetchedAt": "2026-08-11T17:13:35.961Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-anschutz-accelerat",
+  "url": "https://www.cuanschutz.edu/chancellor/messages/communiques/announcing-the-anschutz-acceleration-initiative",
+  "title": "Announcing the Anschutz Acceleration Initiative",
+  "org": "cuanschutz.edu",
+  "type": "center",
+  "description": "Announcing the Anschutz Acceleration Initiative Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Sta",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$50 million",
+   "$5 million",
+   "$15 million"
+  ],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/anschutz-acceleration-initiative",
+  "fetchedAt": "2026-08-11T17:13:46.797Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-chancellor-messages-communiques-announcing-anschutz-acceleration-",
+  "url": "https://www.cuanschutz.edu/chancellor/messages/communiques/announcing-anschutz-acceleration-initiative-awardees",
+  "title": "Announcing Anschutz Acceleration Initiative Awardees - 1/8/24",
+  "org": "cuanschutz.edu",
+  "type": "funding",
+  "description": "Announcing Anschutz Acceleration Initiative Awardees - 1/8/24 Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$50 million"
+  ],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/anschutz-acceleration-initiative",
+  "fetchedAt": "2026-08-11T17:13:47.253Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-margaret-bryant",
+  "url": "http://colorado.edu/venturepartners/about/people/margaret-bryant",
+  "title": "Margaret Bryant | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "Margaret Bryant | Venture Partners at CU Boulder | University of Colorado Boulder Skip to main content Venture Partners at CU Boulder Home About Us Get Started For University Innovators For University Innovators and Founders Intellectual Property (IP) Management Get Started: IP Disclose an Innovatio",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "margaret.bryant@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:05.363Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-christine-jackson",
+  "url": "http://colorado.edu/venturepartners/about/people/christine-jackson",
+  "title": "Christine Jackson | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "Christine Jackson | Venture Partners at CU Boulder | University of Colorado Boulder Skip to main content Venture Partners at CU Boulder Home About Us Get Started For University Innovators For University Innovators and Founders Intellectual Property (IP) Management Get Started: IP Disclose an Innovat",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "christine.jackson@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:05.403Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-erica-fagan",
+  "url": "http://colorado.edu/venturepartners/about/people/erica-fagan",
+  "title": "Erica Fagan | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "Erica Fagan | Venture Partners at CU Boulder | University of Colorado Boulder Skip to main content Venture Partners at CU Boulder Home About Us Get Started For University Innovators For University Innovators and Founders Intellectual Property (IP) Management Get Started: IP Disclose an Innovation Po",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "erica.fagan@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:05.747Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-zamira-gleason",
+  "url": "http://colorado.edu/venturepartners/about/people/zamira-gleason",
+  "title": "Zamira Gleason | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "Zamira Gleason | Venture Partners at CU Boulder | University of Colorado Boulder Skip to main content Venture Partners at CU Boulder Home About Us Get Started For University Innovators For University Innovators and Founders Intellectual Property (IP) Management Get Started: IP Disclose an Innovation",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "zamira.gleason@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:05.761Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-venturepartners-about-people-daniel-marshall",
+  "url": "http://colorado.edu/venturepartners/about/people/daniel-marshall",
+  "title": "Daniel Marshall | Venture Partners at CU Boulder",
+  "org": "colorado.edu/venturepartners",
+  "type": "reference",
+  "description": "Daniel Marshall | Venture Partners at CU Boulder | University of Colorado Boulder Skip to main content Venture Partners at CU Boulder Home About Us Get Started For University Innovators For University Innovators and Founders Intellectual Property (IP) Management Get Started: IP Disclose an Innovatio",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [
+   "Daniel.Marshall-1@colorado.edu",
+   "vpcontact@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/venturepartners/2025/11/25/internal-news/behind-our-innovation-engine-team-worth-celebrating",
+  "fetchedAt": "2026-08-11T17:14:06.380Z",
   "needsAnalysis": false
  },
  {
@@ -45931,7 +49551,7 @@
  },
  {
   "id": "colorado-edu-business-cesr-ethical-leadership-leeds",
-  "url": "http://colorado.edu/business/CESR/ethical-leadership-leeds",
+  "url": "https://colorado.edu/business/CESR/ethical-leadership-leeds",
   "title": "Ethical Leadership | Leeds School of Business",
   "org": "colorado.edu/business",
   "type": "competition",
@@ -45957,10 +49577,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 4,
-  "depth": 4,
+  "depth": 5,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/innovate/boulder-climate-ventures",
-  "fetchedAt": "2026-08-11T17:07:03.672Z",
+  "parent": "https://colorado.edu/innovate/boulder-climate-ventures",
+  "fetchedAt": "2026-08-11T17:14:04.990Z",
   "needsAnalysis": false
  },
  {
@@ -47360,8 +50980,423 @@
   "needsAnalysis": false
  },
  {
+  "id": "colorado-edu-research-research-institutes",
+  "url": "http://colorado.edu/research/research-institutes",
+  "title": "Research Institutes at CU Boulder | Research & Innovation Office",
+  "org": "colorado.edu/research",
+  "type": "center",
+  "description": "Questions? Feedback? Please contact us at rio@colorado.edu.",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "quantum",
+   "energy",
+   "space"
+  ],
+  "contacts": [
+   "rio@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/researchinnovation",
+  "fetchedAt": "2026-08-11T17:12:53.987Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-about",
+  "url": "https://watson.is/about",
+  "title": "About Watson Institute - Watson Institute",
+  "org": "watson.is",
+  "type": "center",
+  "description": "The training ground for next-generation innovators and social entrepreneurs.",
+  "audience": [
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [
+   "$190M"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:13:49.498Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-team",
+  "url": "https://watson.is/team",
+  "title": "Watson Institute Team - Watson Institute",
+  "org": "watson.is",
+  "type": "center",
+  "description": "The training ground for next-generation innovators and social entrepreneurs.",
+  "audience": [
+   "faculty",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "edtech",
+   "health",
+   "social enterprise",
+   "food",
+   "energy",
+   "cybersecurity",
+   "arts",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [
+   "$12 million",
+   "$1",
+   "$70 million"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:13:50.505Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-career-accelerator",
+  "url": "https://watson.is/career-accelerator",
+  "title": "2025 Career Accelerator: Unlock Your Potential and Career",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "The Career Accelerator Fellowship connects high potential job seekers in Colorado to career pathways through job placement and career development services.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/about",
+  "fetchedAt": "2026-08-11T17:13:51.570Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-career-accelerator-how-it-works",
+  "url": "https://watson.is/career-accelerator/how-it-works",
+  "title": "Career Accelerator Fellowship - Watson Institute",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "The Career Accelerator Fellowship connects high potential candidates to career pathways and growth.",
+  "audience": [
+   "alumni",
+   "community",
+   "high school"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/career-accelerator",
+  "fetchedAt": "2026-08-11T17:13:54.661Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-alumni",
+  "url": "https://watson.is/alumni",
+  "title": "Watson Institute Alumni - Watson Institute",
+  "org": "watson.is",
+  "type": "community",
+  "description": "Find your community. Discover your calling. Accelerate your career. Meet Watson Institute&#039;s alumni and explore their impact in the world.",
+  "audience": [
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "social enterprise",
+   "food",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [
+   "$190M",
+   "$720,000"
+  ],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:13:55.116Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-nominate",
+  "url": "https://watson.is/nominate",
+  "title": "Nominate a student to Watson Institute - Watson Institute",
+  "org": "watson.is",
+  "type": "center",
+  "description": "The training ground for next-generation innovators and social entrepreneurs. Nominate a changemaker.",
+  "audience": [
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/impact-fellowships",
+  "fetchedAt": "2026-08-11T17:13:57.559Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-basecamps",
+  "url": "https://watson.is/basecamps",
+  "title": "Basecamps: Empower Your Communities!",
+  "org": "watson.is",
+  "type": "event",
+  "description": "Accelerating our fellows’ impact through 1-3 day entrepreneurial training events and community building workshops.",
+  "audience": [
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "aerospace",
+   "climate",
+   "health",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:13:58.339Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-summits",
+  "url": "https://watson.is/summits",
+  "title": "Summit: Where Your Story Takes the Spotlight.",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "The culminating event for each Fellowship program, designed to empower fellows to showcase their ventures.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "energy"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:13:59.314Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-employer-network",
+  "url": "https://watson.is/employer-network",
+  "title": "Employer Network - Watson Institute",
+  "org": "watson.is",
+  "type": "community",
+  "description": "The training ground for next-generation innovators and social entrepreneurs.",
+  "audience": [
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "social enterprise",
+   "food",
+   "energy",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:13:59.484Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-contact-watson-institute",
+  "url": "https://watson.is/contact-watson-institute",
+  "title": "Contact Watson Institute - Watson Institute",
+  "org": "watson.is",
+  "type": "center",
+  "description": "The training ground for next-generation innovators and social entrepreneurs.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:14:01.775Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "grad-apply-colorado-edu-register-researchgrantsay2526",
+  "url": "https://grad.apply.colorado.edu/register/researchgrantsay2526",
+  "title": "Graduate Student Research Grants AY25/26",
+  "org": "colorado.edu/register",
+  "type": "funding",
+  "description": "&#xA0;",
+  "audience": [
+   "grad students",
+   "students"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "deadline has passed"
+  ],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/graduateschool/funding/awards-grants/graduate-student-research-grants",
+  "fetchedAt": "2026-08-11T17:14:03.515Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-privacy-policy",
+  "url": "https://watson.is/privacy-policy",
+  "title": "Privacy Policy - Watson Institute",
+  "org": "watson.is",
+  "type": "center",
+  "description": "The training ground for next-generation innovators and social entrepreneurs. Privacy policy for Watson Institute.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:14:03.757Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-business-deming",
-  "url": "http://colorado.edu/business/deming",
+  "url": "https://colorado.edu/business/deming",
   "title": "Deming Center for Entrepreneurship | Leeds School of Business",
   "org": "colorado.edu/business",
   "type": "center",
@@ -47387,10 +51422,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 3,
-  "depth": 3,
+  "depth": 5,
   "discoveredVia": "link",
-  "parent": "https://www.colorado.edu/business/news/2020/04/21/leeds-school-business-wins-innovation-program-award-aacsb-elevating-entrepreneurial",
-  "fetchedAt": "2026-08-11T16:54:06.060Z",
+  "parent": "https://colorado.edu/innovate/boulder-climate-ventures",
+  "fetchedAt": "2026-08-11T17:14:04.654Z",
   "needsAnalysis": false
  },
  {
@@ -54211,7 +58246,7 @@
  },
  {
   "id": "startupcolorado-org-stories-category-startup-communities",
-  "url": "https://startupcolorado.org/stories/category/startup-communities",
+  "url": "http://startupcolorado.org/stories/category/startup-communities",
   "title": "Startup Communities Archives - Startup Colorado",
   "org": "startupcolorado.org",
   "type": "reference",
@@ -54236,10 +58271,10 @@
   ],
   "deadlines": [],
   "specificity": 3,
-  "depth": 2,
+  "depth": 4,
   "discoveredVia": "link",
-  "parent": "https://startupcolorado.org/stories",
-  "fetchedAt": "2026-08-11T17:00:37.718Z",
+  "parent": "http://startupcolorado.org/stories",
+  "fetchedAt": "2026-08-11T17:12:35.567Z",
   "needsAnalysis": false
  },
  {
@@ -56536,7 +60571,7 @@
  },
  {
   "id": "colorado-edu-business-undergraduate-programs-enhance-your-experience-mentoring-p",
-  "url": "http://colorado.edu/business/undergraduate-programs/enhance-your-experience/mentoring-programs",
+  "url": "https://colorado.edu/business/undergraduate-programs/enhance-your-experience/mentoring-programs",
   "title": "Mentoring Programs | Leeds School of Business",
   "org": "colorado.edu/business",
   "type": "program",
@@ -56562,15 +60597,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 3,
-  "depth": 4,
+  "depth": 5,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/business/deming",
-  "fetchedAt": "2026-08-11T17:07:02.586Z",
+  "parent": "https://colorado.edu/innovate/boulder-climate-ventures",
+  "fetchedAt": "2026-08-11T17:14:04.248Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
-  "url": "http://colorado.edu/business/faculty-research/faculty-directory/organizational-leadership-and-information-analytics-faculty",
+  "url": "https://colorado.edu/business/faculty-research/faculty-directory/organizational-leadership-and-information-analytics-faculty",
   "title": "Organizational Leadership and Information Analytics Faculty | Leeds School of Business",
   "org": "colorado.edu/business",
   "type": "reference",
@@ -56596,15 +60631,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 3,
-  "depth": 4,
+  "depth": 5,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/business/deming",
-  "fetchedAt": "2026-08-11T17:07:02.664Z",
+  "parent": "https://colorado.edu/innovate/boulder-climate-ventures",
+  "fetchedAt": "2026-08-11T17:14:04.234Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-business-deming-deming-center-news-stories",
-  "url": "http://colorado.edu/business/deming/deming-center-news-stories",
+  "url": "https://colorado.edu/business/deming/deming-center-news-stories",
   "title": "Deming Center News & Stories | Leeds School of Business",
   "org": "colorado.edu/business",
   "type": "center",
@@ -56630,10 +60665,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 3,
-  "depth": 4,
+  "depth": 5,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/business/deming",
-  "fetchedAt": "2026-08-11T17:07:03.086Z",
+  "parent": "https://colorado.edu/innovate/boulder-climate-ventures",
+  "fetchedAt": "2026-08-11T17:14:04.618Z",
   "needsAnalysis": false
  },
  {
@@ -57977,6 +62012,71 @@
   "discoveredVia": "link",
   "parent": "https://startupcolorado.org/all-events/list/featured/?eventDisplay=past",
   "fetchedAt": "2026-08-11T17:12:14.478Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-researchinnovation-research-and-innovation-campus-events",
+  "url": "http://colorado.edu/researchinnovation/research-and-innovation-campus-events",
+  "title": "Research and Innovation: Campus Events | Research & Innovation Office",
+  "org": "colorado.edu/researchinnovation",
+  "type": "event",
+  "description": "Research and Innovation: Campus Events | Research & Innovation Office | University of Colorado Boulder Skip to main content Research & Innovation Office Home About Operations & Administration Research Operations & Administration Office of Contracts and Grants Partners with researchers throughout the",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "quantum"
+  ],
+  "contacts": [
+   "rio@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/research/research-centers",
+  "fetchedAt": "2026-08-11T17:12:54.687Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-chancellor-messages-communiques-inspiring-response-to-anschutz-ac",
+  "url": "https://www.cuanschutz.edu/chancellor/messages/communiques/inspiring-response-to-anschutz-acceleration-initiative",
+  "title": "Inspiring Response to Anschutz Acceleration Initiative",
+  "org": "cuanschutz.edu",
+  "type": "center",
+  "description": "Inspiring Response to Anschutz Acceleration Initiative Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Facult",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 3,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/anschutz-acceleration-initiative",
+  "fetchedAt": "2026-08-11T17:13:46.991Z",
   "needsAnalysis": false
  },
  {
@@ -62262,6 +66362,118 @@
   "needsAnalysis": false
  },
  {
+  "id": "cuanschutz-edu-about-leadership-old-chancellor-anschutz-acceleration-initiative",
+  "url": "https://www.cuanschutz.edu/about/leadership-old/chancellor/anschutz-acceleration-initiative",
+  "title": "Error 404",
+  "org": "cuanschutz.edu",
+  "type": "center",
+  "description": "Check the current status of outages Support by Phone 303-724-4357 (4-HELP from a campus phone) Monday–Thursday: 7:30 a.m.",
+  "audience": [],
+  "stage": [],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/chancellor/messages/communiques/announcing-the-anschutz-acceleration-initiative",
+  "fetchedAt": "2026-08-11T17:13:46.989Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-our-principles",
+  "url": "https://watson.is/our-principles",
+  "title": "Our Principles - Watson Institute",
+  "org": "watson.is",
+  "type": "center",
+  "description": "The training ground for next-generation innovators and social entrepreneurs. Learn about Watson Institute&#039;s values.",
+  "audience": [
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/",
+  "fetchedAt": "2026-08-11T17:13:49.364Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-bmo-fellowship-alumna-jannice-newson-scales-sustainable-beauty-venture",
+  "url": "https://watson.is/bmo-fellowship-alumna-jannice-newson-scales-sustainable-beauty-venture-lillian-augusta-beauty",
+  "title": "BMO Fellowship Alumna Jannice Newson Scales Sustainable Beauty Venture Lillian Augusta Beauty - Watson Institute",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "Jannice Newson a BMO Fellowship alumna, is being recognized for her work transforming the hair and beauty industry through her venture, Lillian Augusta Beauty (LAB).",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/alumni",
+  "fetchedAt": "2026-08-11T17:13:57.326Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "watson-is-mentors",
+  "url": "https://watson.is/mentors",
+  "title": "Mentorship &amp; Ecosystem | Impact Fellowships",
+  "org": "watson.is",
+  "type": "funding",
+  "description": "Watson Institute&#039;s mentorship ecosystem is designed to meet you where you are.",
+  "audience": [
+   "alumni",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "cybersecurity"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 2,
+  "discoveredVia": "link",
+  "parent": "https://watson.is/impact-fellowships",
+  "fetchedAt": "2026-08-11T17:13:59.619Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-emp-2023-10-17-global-semester-escend-engineering-managemententrepr",
   "url": "https://www.colorado.edu/emp/2023/10/17/global-semester-escend-engineering-managemententrepreneurship-minor-lisbon-portugal",
   "title": "Global Semester: ESCEND Engineering Management/Entrepreneurship Minor (Lisbon, Portugal) | Lockheed Martin Engineering Management Program",
@@ -62824,6 +67036,26 @@
   "discoveredVia": "link",
   "parent": "https://startupcolorado.org/organizer/vanessa-mccrann/?eventDisplay=past",
   "fetchedAt": "2026-08-11T17:10:55.658Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "itll-colorado-edu",
+  "url": "https://itll.colorado.edu/",
+  "title": "Webductor",
+  "org": "itll.colorado.edu",
+  "type": "space",
+  "description": "Makerspace portal.",
+  "audience": [],
+  "stage": [],
+  "sectors": [],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 1,
+  "depth": 1,
+  "discoveredVia": "link",
+  "parent": "https://www.colorado.edu/engineering/entrepreneurship",
+  "fetchedAt": "2026-08-11T17:12:54.606Z",
   "needsAnalysis": false
  },
  {

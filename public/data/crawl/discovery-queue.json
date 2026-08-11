@@ -1,7 +1,7 @@
 [
  {
   "host": "community.startupcolorado.org",
-  "count": 2174,
+  "count": 2186,
   "examples": [
    "https://community.startupcolorado.org/events/110697?amp%3Bmc_eid=efea1eee39",
    "https://community.startupcolorado.org/events/109764?amp%3Bmc_eid=efea1eee39",
@@ -10,7 +10,7 @@
  },
  {
   "host": "ruralstartup.substack.com",
-  "count": 1667,
+  "count": 1676,
   "examples": [
    "https://ruralstartup.substack.com/",
    "https://ruralstartup.substack.com/p/signup",
@@ -19,7 +19,7 @@
  },
  {
   "host": "airtable.com",
-  "count": 1076,
+  "count": 1082,
   "examples": [
    "https://airtable.com/appecgjAEPF6G0oQe/pagl8MxeYG1r7sRv1/form?amp%3Bmc_eid=efea1eee39",
    "https://airtable.com/appuqMEafOOQMf01L/pagUqCwwINXgZ1A5K/form?amp%3Butm_medium=Email&amp%3Butm_source=News",
@@ -28,7 +28,7 @@
  },
  {
   "host": "ruralstartupdays.com",
-  "count": 1076,
+  "count": 1082,
   "examples": [
    "https://ruralstartupdays.com/",
    "http://ruralstartupdays.com/",
@@ -37,7 +37,7 @@
  },
  {
   "host": "www.westslopestartupweek.com",
-  "count": 1070,
+  "count": 1076,
   "examples": [
    "http://www.westslopestartupweek.com/"
   ]
@@ -255,6 +255,14 @@
   ]
  },
  {
+  "host": "creativecommons.org",
+  "count": 39,
+  "examples": [
+   "https://creativecommons.org/licenses/by-sa/4.0",
+   "http://creativecommons.org/licenses/by-sa/4.0"
+  ]
+ },
+ {
   "host": "watson.is",
   "count": 38,
   "examples": [
@@ -265,7 +273,7 @@
  },
  {
   "host": "x.com",
-  "count": 35,
+  "count": 36,
   "examples": [
    "https://x.com/intent/tweet/?url=https%3A%2F%2Fcalendar.colorado.edu%2Fevent%2Fnew-venture-challenge-women-founders-competition-finals&text=New+Venture+Challenge+Women+Founders+Competition+Finals%20by%20University+of+Colorado+Boulder",
    "https://x.com/intent/tweet/?url=https%3A%2F%2Fcalendar.colorado.edu%2Fevent%2Fregistration-opens-nvc-women-founders-competition&text=REGISTRATION+OPENS+on+Feb.+8%3A+NVC+Women+Founders+Competition%20by%20University+of+Colorado+Boulder",
@@ -359,21 +367,21 @@
   ]
  },
  {
+  "host": "podcasts.apple.com",
+  "count": 20,
+  "examples": [
+   "https://podcasts.apple.com/us/podcast/startup-colorado/id1504302939",
+   "https://podcasts.apple.com/us/podcast/the-startup-colorado-podcast/id1504302939?i=1000624056034",
+   "https://podcasts.apple.com/us/podcast/this-entrepreneur-is-flipping-towns/id1587040610?i=1000593674234"
+  ]
+ },
+ {
   "host": "www.nlr.gov",
   "count": 19,
   "examples": [
    "https://www.nlr.gov/west-gate/about",
    "https://www.nlr.gov/innovate",
    "https://www.nlr.gov/west-gate/heather-platt-sodium-ion-battery-innovation"
-  ]
- },
- {
-  "host": "podcasts.apple.com",
-  "count": 19,
-  "examples": [
-   "https://podcasts.apple.com/us/podcast/startup-colorado/id1504302939",
-   "https://podcasts.apple.com/us/podcast/the-startup-colorado-podcast/id1504302939?i=1000624056034",
-   "https://podcasts.apple.com/us/podcast/this-entrepreneur-is-flipping-towns/id1587040610?i=1000593674234"
   ]
  },
  {
@@ -420,21 +428,21 @@
   ]
  },
  {
+  "host": "leeds.tfaforms.net",
+  "count": 14,
+  "examples": [
+   "https://leeds.tfaforms.net/f/demingsignupexternal",
+   "https://leeds.tfaforms.net/77",
+   "https://leeds.tfaforms.net/f/entrepreneurshipcertificateapplication"
+  ]
+ },
+ {
   "host": "www.costartupweek.com",
   "count": 14,
   "examples": [
    "https://www.costartupweek.com/",
    "https://www.costartupweek.com/get-involved",
    "https://www.costartupweek.com/sponsors"
-  ]
- },
- {
-  "host": "leeds.tfaforms.net",
-  "count": 13,
-  "examples": [
-   "https://leeds.tfaforms.net/f/demingsignupexternal",
-   "https://leeds.tfaforms.net/77",
-   "https://leeds.tfaforms.net/f/entrepreneurshipcertificateapplication"
   ]
  },
  {
@@ -737,6 +745,15 @@
   ]
  },
  {
+  "host": "www.globenewswire.com",
+  "count": 7,
+  "examples": [
+   "https://www.globenewswire.com/news-release/2023/06/29/2697338/0/en/New-Iridium-Secures-1M-NSF-SBIR-Phase-II-Grant-to-Revolutionize-Chemical-Manufacturing-and-Combat-Climate-Change.html",
+   "https://www.globenewswire.com/news-release/2020/07/08/2059518/0/en/Colorado-based-New-Iridium-accelerating-global-production-of-potential-COVID-19-treatment-using-light-driven-chemistry.html",
+   "https://www.globenewswire.com/news-release/2026/03/25/3261894/0/en/Forge-Nano-Announces-Opening-of-Taiwan-Office-to-Accelerate-AI-Driven-Photonics-Manufacturing-and-Expand-Regional-Operations.html"
+  ]
+ },
+ {
   "host": "www.cvent.com",
   "count": 6,
   "examples": [
@@ -792,15 +809,6 @@
   ]
  },
  {
-  "host": "www.globenewswire.com",
-  "count": 6,
-  "examples": [
-   "https://www.globenewswire.com/news-release/2023/06/29/2697338/0/en/New-Iridium-Secures-1M-NSF-SBIR-Phase-II-Grant-to-Revolutionize-Chemical-Manufacturing-and-Combat-Climate-Change.html",
-   "https://www.globenewswire.com/news-release/2020/07/08/2059518/0/en/Colorado-based-New-Iridium-accelerating-global-production-of-potential-COVID-19-treatment-using-light-driven-chemistry.html",
-   "https://www.globenewswire.com/news-release/2026/03/25/3261894/0/en/Forge-Nano-Announces-Opening-of-Taiwan-Office-to-Accelerate-AI-Driven-Photonics-Manufacturing-and-Expand-Regional-Operations.html"
-  ]
- },
- {
   "host": "simpler.grants.gov",
   "count": 6,
   "examples": [
@@ -832,14 +840,6 @@
   "count": 5,
   "examples": [
    "https://www.boulderventureclub.org/"
-  ]
- },
- {
-  "host": "ucdenverdata.formstack.com",
-  "count": 5,
-  "examples": [
-   "https://ucdenverdata.formstack.com/forms/theclimb2026_consulting",
-   "https://ucdenverdata.formstack.com/forms/theclimb2026_market"
   ]
  }
 ]

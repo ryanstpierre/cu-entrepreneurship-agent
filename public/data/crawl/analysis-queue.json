@@ -1396,5 +1396,95 @@
   "reason": "pdf-needs-extraction",
   "relevance": 1,
   "depth": 4
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2026/03/2026-02-01_Flagship-Conference_Transcript.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "http://www.siliconflatirons.org/documents/publications/report/RennertSocialEntrepreneurship.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2024/04/2024-02-04_Flagship-Conference_Transcript.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2023/06/2023-02-05_Flagship-Conference-Transcript.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2017/09/2017-09-11-Health-Care-Innovation-Ecosystem.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2018/09/Authorship-and-Accessibility-in-the-Digital-Age.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2016/08/201605LawSchoolInnovation.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2017/07/2017-07-11-Entrepreneurial-University.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "http://www.siliconflatirons.org/documents/publications/report/201506LawInnovationReport.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "http://www.siliconflatirons.org/documents/publications/report/VanMatreSoftwarePatents.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "http://www.siliconflatirons.org/documents/publications/report/CompulsoryCopyrightLicenses.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "http://www.siliconflatirons.org/documents/publications/report/SiehEntrepreneurialUniversity.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 3
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2025/02/2023-Writing-Competition_Winning-Paper_Fry_Kimberly.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 4
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2023/04/2022-Writing-Competition-Award_Koch.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 4
+ },
+ {
+  "url": "https://siliconflatirons.org/wp-content/uploads/2021/09/Weber-SFC-competition-Winning-Paper.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 4
  }
 ]

@@ -1,15 +1,15 @@
 [
  {
+  "from": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
+  "to": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
+  "kind": "links_to",
+  "weight": 13
+ },
+ {
   "from": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
   "to": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
   "kind": "links_to",
   "weight": 8
- },
- {
-  "from": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
-  "to": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
-  "kind": "links_to",
-  "weight": 7
  },
  {
   "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
@@ -111,6 +111,12 @@
   "from": "cuanschutz-edu-innovations-about-us-news-events-2023-women-led-innovation-showca",
   "to": "cuanschutz-edu-innovations-student-fellowships-6",
   "kind": "mentions",
+  "weight": 5
+ },
+ {
+  "from": "colorado-edu-business-cesr-current-students-graduate-programs-leeds-sustainabili",
+  "to": "colorado-edu-business-cesr-current-students-graduate-programs-leeds-sustainabili",
+  "kind": "links_to",
   "weight": 5
  },
  {
@@ -224,6 +230,12 @@
  {
   "from": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
   "to": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
+  "kind": "links_to",
+  "weight": 4
+ },
+ {
+  "from": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
+  "to": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
   "kind": "links_to",
   "weight": 4
  },
@@ -540,12 +552,6 @@
   "weight": 3
  },
  {
-  "from": "colorado-edu-business-cesr-current-students-graduate-programs-leeds-sustainabili",
-  "to": "colorado-edu-business-cesr-current-students-graduate-programs-leeds-sustainabili",
-  "kind": "links_to",
-  "weight": 3
- },
- {
   "from": "colorado-edu-venturepartners",
   "to": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
   "kind": "links_to",
@@ -684,6 +690,24 @@
   "weight": 2
  },
  {
+  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "to": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "to": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
   "from": "colorado-edu-venturepartners-university-innovators",
   "to": "colorado-edu-venturepartners-2025-09-15-internal-news-cu-boulder-ranked-1-launch",
   "kind": "links_to",
@@ -704,6 +728,18 @@
  {
   "from": "colorado-edu-oce-funding-and-resources-engaged-scholarship-grants-tier-4",
   "to": "colorado-edu-outreach-paces-funding-and-resources-engaged-scholarship-grants-tie",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming",
+  "to": "colorado-edu-innovate-programs-resources-deming-center-entrepreneurship",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-deming",
+  "to": "colorado-edu-venturepartners-deming-center-entrepreneurship",
   "kind": "mentions",
   "weight": 2
  },
@@ -924,6 +960,30 @@
   "weight": 2
  },
  {
+  "from": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
+  "to": "colorado-edu-venturepartners-2026-07-28-external-news-modendo-awarded-3m-sbir-ph",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
+  "to": "colorado-edu-venturepartners-2026-07-08-bizwest-unveils-inaugural-startups-watch",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
+  "to": "colorado-edu-venturepartners-2026-04-24-external-news-innovative-ideas-and-found",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
+  "to": "colorado-edu-venturepartners-2025-05-15-internal-news-cu-boulder-startups-select",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
   "from": "colorado-edu-nvc-about",
   "to": "colorado-edu-innovate-support",
   "kind": "links_to",
@@ -973,6 +1033,12 @@
  },
  {
   "from": "startupcolorado-org-ecosystem-builders",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "startupcolorado-org-stories-category-startup-communities",
   "to": "innosphereventures-org-events",
   "kind": "mentions",
   "weight": 2
@@ -1170,9 +1236,75 @@
   "weight": 2
  },
  {
-  "from": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
-  "to": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
-  "kind": "links_to",
+  "from": "colorado-edu-business-phd-funding",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-phd-funding",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-phd-funding",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-phd-funding",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-phd-funding",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-phd-funding",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-phd-funding",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-cesr-current-students-graduate-programs-boulder-climate-ve",
+  "to": "colorado-edu-innovate-boulder-climate-ventures",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-cesr-current-students-graduate-programs-boulder-climate-ve",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-cesr-current-students-graduate-programs-boulder-climate-ve",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-business-cesr-ethical-leadership-leeds",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
   "weight": 2
  },
  {
@@ -1896,24 +2028,6 @@
   "weight": 1
  },
  {
-  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
-  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
-  "to": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
-  "to": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
-  "kind": "mentions",
-  "weight": 1
- },
- {
   "from": "colorado-edu-venturepartners-2025-07-23-external-news-new-quantum-physics-and-ai",
   "to": "colorado-edu-today-2025-07-23-new-quantum-physics-and-ai-powered-microchip-desig",
   "kind": "links_to",
@@ -2305,18 +2419,6 @@
  },
  {
   "from": "colorado-edu-business-deming",
-  "to": "colorado-edu-innovate-programs-resources-deming-center-entrepreneurship",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming",
-  "to": "colorado-edu-venturepartners-deming-center-entrepreneurship",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-deming",
   "to": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
   "kind": "links_to",
   "weight": 1
@@ -2664,12 +2766,6 @@
   "weight": 1
  },
  {
-  "from": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
-  "to": "colorado-edu-venturepartners-2026-07-28-external-news-modendo-awarded-3m-sbir-ph",
-  "kind": "links_to",
-  "weight": 1
- },
- {
   "from": "colorado-edu-venturepartners-2026-07-28-external-news-modendo-awarded-3m-sbir-ph",
   "to": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
   "kind": "links_to",
@@ -2678,24 +2774,6 @@
  {
   "from": "colorado-edu-venturepartners-2026-07-28-external-news-modendo-awarded-3m-sbir-ph",
   "to": "colorado-edu-venturepartners-university-innovators",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
-  "to": "colorado-edu-venturepartners-2026-07-08-bizwest-unveils-inaugural-startups-watch",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
-  "to": "colorado-edu-venturepartners-2026-04-24-external-news-innovative-ideas-and-found",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
-  "to": "colorado-edu-venturepartners-2025-05-15-internal-news-cu-boulder-startups-select",
   "kind": "links_to",
   "weight": 1
  },
@@ -4813,12 +4891,6 @@
  },
  {
   "from": "startupcolorado-org-stories-put-your-guerrilla-suit-on",
-  "to": "innosphereventures-org-events",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "startupcolorado-org-stories-category-startup-communities",
   "to": "innosphereventures-org-events",
   "kind": "mentions",
   "weight": 1
@@ -13890,69 +13962,9 @@
   "weight": 1
  },
  {
-  "from": "colorado-edu-business-phd-funding",
-  "to": "cuanschutz-edu-innovations-student-fellowships",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-phd-funding",
-  "to": "cuanschutz-edu-innovations-student-fellowships-1",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-phd-funding",
-  "to": "cuanschutz-edu-innovations-student-fellowships-2",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-phd-funding",
-  "to": "cuanschutz-edu-innovations-student-fellowships-4",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-phd-funding",
-  "to": "cuanschutz-edu-innovations-student-fellowships-3",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-phd-funding",
-  "to": "cuanschutz-edu-innovations-student-fellowships-5",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-phd-funding",
-  "to": "cuanschutz-edu-innovations-student-fellowships-6",
-  "kind": "mentions",
-  "weight": 1
- },
- {
   "from": "colorado-edu-business-deming-community-engagement",
   "to": "colorado-edu-business-deming-community-demystifying-entrepreneurship-rural-color",
   "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-cesr-current-students-graduate-programs-boulder-climate-ve",
-  "to": "colorado-edu-innovate-boulder-climate-ventures",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-cesr-current-students-graduate-programs-boulder-climate-ve",
-  "to": "cuanschutz-edu-cu-innovations",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-cesr-current-students-graduate-programs-boulder-climate-ve",
-  "to": "cuanschutz-edu-innovations",
-  "kind": "mentions",
   "weight": 1
  },
  {
@@ -13971,12 +13983,6 @@
   "from": "colorado-edu-dcvf",
   "to": "colorado-edu-dcvf",
   "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-business-cesr-ethical-leadership-leeds",
-  "to": "innosphereventures-org-events",
-  "kind": "mentions",
   "weight": 1
  },
  {
@@ -15543,12 +15549,6 @@
   "from": "colorado-edu-aerospaceventures",
   "to": "colorado-edu-aerospaceventures",
   "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
-  "to": "innosphereventures-org-events",
-  "kind": "mentions",
   "weight": 1
  },
  {
@@ -20582,6 +20582,2232 @@
  {
   "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
   "to": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
+  "to": "colorado-edu-venturepartners-2021-09-12-tech-transfer-key-products-spun-cu-bould",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
+  "to": "colorado-edu-venturepartners-get-started",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-01-11-external-news-local-tech-startup-aims-po",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-01-11-external-news-local-tech-startup-aims-po",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-11-13-internal-news-state-and-university-partn",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-11-13-internal-news-state-and-university-partn",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-copy-of-program-admissions-qa-master-of-science-in-o",
+  "to": "calendar-colorado-edu-event-copy-of-program-admissions-qa-master-of-science-in-o",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-abnexus-apply-funding",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-abnexus-apply-funding",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-piacademy",
+  "to": "colorado-edu-researchinnovation-find-funding-faculty-development-workshops-princ",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-piacademy",
+  "to": "colorado-edu-researchinnovation-research-innovation-office-rio-directory",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-piacademy",
+  "to": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-abnexus-grant-awardees-2021-ab-nexus-grant-awards",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-abnexus-grant-awardees-2021-ab-nexus-grant-awards",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-organizational-leadership-ms-academics",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-organizational-leadership-ms-academics",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-organizational-leadership-ms-academics",
+  "to": "online-colorado-edu-organizational-leadership-ms",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-organizational-leadership-ms-admissions",
+  "to": "online-colorado-edu-organizational-leadership-ms",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-organizational-leadership-ms-cost",
+  "to": "online-colorado-edu-organizational-leadership-ms",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-organizational-leadership-ms-dates-and-deadlines",
+  "to": "online-colorado-edu-organizational-leadership-ms",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-organizational-leadership-ms-careers",
+  "to": "online-colorado-edu-organizational-leadership-ms",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "online-colorado-edu-organizational-leadership-ms-people",
+  "to": "online-colorado-edu-organizational-leadership-ms",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-research-institutes",
+  "to": "colorado-edu-researchinnovation-research-innovation-office-rio-directory",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-research-research-institutes",
+  "to": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-research-and-innovation-campus-events",
+  "to": "colorado-edu-researchinnovation-research-innovation-office-rio-directory",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-research-and-innovation-campus-events",
+  "to": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2026-06-16",
+  "to": "colorado-edu-innovate-programs-resources-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2026-06-16",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20-amp-3butm-medium-ema",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2026-06-16",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-10-21",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2026-06-16",
+  "to": "siliconflatirons-org-events-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2026-06-16",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-04-08",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2026-06-16",
+  "to": "siliconflatirons-org-events-startup-variety-show-2023-07-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2026-06-16",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-legal-tech-startup-variety-show-2026-04-07",
+  "to": "colorado-edu-innovate-programs-resources-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-legal-tech-startup-variety-show-2026-04-07",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20-amp-3butm-medium-ema",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-legal-tech-startup-variety-show-2026-04-07",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-10-21",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-legal-tech-startup-variety-show-2026-04-07",
+  "to": "siliconflatirons-org-events-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-legal-tech-startup-variety-show-2026-04-07",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-04-08",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-legal-tech-startup-variety-show-2026-04-07",
+  "to": "siliconflatirons-org-events-startup-variety-show-2023-07-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-legal-tech-startup-variety-show-2026-04-07",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-legal-tech-startup-variety-show-2026-04-07",
+  "to": "siliconflatirons-org-events-startup-variety-show-2026-06-16",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-06-17",
+  "to": "colorado-edu-innovate-programs-resources-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-06-17",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20-amp-3butm-medium-ema",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-06-17",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-10-21",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-06-17",
+  "to": "siliconflatirons-org-events-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-06-17",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-04-08",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-06-17",
+  "to": "siliconflatirons-org-events-startup-variety-show-2023-07-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-06-17",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-06-17",
+  "to": "siliconflatirons-org-events-startup-variety-show-2026-06-16",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-09-11",
+  "to": "colorado-edu-innovate-programs-resources-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-09-11",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20-amp-3butm-medium-ema",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-09-11",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-10-21",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-09-11",
+  "to": "siliconflatirons-org-events-startup-variety-show",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-09-11",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-04-08",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-09-11",
+  "to": "siliconflatirons-org-events-startup-variety-show-2023-07-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-09-11",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-02-20",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-09-11",
+  "to": "siliconflatirons-org-events-startup-variety-show-2026-06-16",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-events-startup-variety-show-2025-09-11",
+  "to": "siliconflatirons-org-events-startup-variety-show-2025-06-17",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-2026-flagship-conference-registration-types-admission-items",
+  "to": "siliconflatirons-org-events-annual-flagship-conference-2026-02-01",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-publications-the-promise-and-limits-of-social-entrepreneurs",
+  "to": "siliconflatirons-org-initiatives-entrepreneurship-initiative",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-publications-how-academic-institutions-can-advance-health-c",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "siliconflatirons-org-publications-how-academic-institutions-can-advance-health-c",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-anschutz-acceleration-initiative",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-anschutz-acceleration-initiative",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-anschutz-acceleration-initiative",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-anschutz-accelerat",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-anschutz-accelerat",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-anschutz-accelerat",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-update-on-anschutz-acceleration-i",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-update-on-anschutz-acceleration-i",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-update-on-anschutz-acceleration-i",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-anschutz-acceleration-initiative",
+  "to": "cuanschutz-edu-cu-innovations-campus-innovator-funding-startup-toolbox",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-anschutz-acceleration-initiative",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site-innovator-resources-prior-innovat",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-anschutz-acceleration-initiative",
+  "to": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-0e37bbe7-3028-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-anschutz-acceleration-initiative",
+  "to": "cuanschutz-edu-docs-librariesprovider109-default-document-library-good-ip-hygien",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-anschutz-acceleration-initiative",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-anschutz-acceleration-initiative",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site-contact-us-prior-team-prior-molk-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-about-leadership-old-chancellor-anschutz-acceleration-initiative",
+  "to": "cuanschutz-edu-innovations-cu-innovations-site-contact-us-prior-team-prior-mulle",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-inspiring-response-to-anschutz-ac",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-anschutz-acceleration-",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-anschutz-acceleration-",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-anschutz-acceleration-",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-chancellor-messages-communiques-announcing-anschutz-acceleration-",
+  "to": "cuanschutz-edu-chancellor-messages-communiques-announcing-the-anschutz-accelerat",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-our-principles",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-our-principles",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-our-principles",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-our-principles",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-our-principles",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-our-principles",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-our-principles",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-our-principles",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-about",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-about",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-about",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-about",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-about",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-about",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-about",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-about",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-partners",
+  "to": "colorado-edu-venturepartners-environmental-sustainability-entrepreneurship-progr",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-partners",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-partners",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-partners",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-partners",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-partners",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-partners",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-partners",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-partners",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-team",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-team",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-team",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-team",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-team",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-team",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-team",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-team",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-careers",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-careers",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-careers",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-careers",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-careers",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-careers",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-careers",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-careers",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-western-union-global-fellowship-program",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-western-union-global-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-western-union-global-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-western-union-global-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-western-union-global-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-western-union-global-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-western-union-global-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-western-union-global-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-environmental-sustainability-entrepreneurship-program",
+  "to": "colorado-edu-venturepartners-environmental-sustainability-entrepreneurship-progr",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-environmental-sustainability-entrepreneurship-program",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-environmental-sustainability-entrepreneurship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-environmental-sustainability-entrepreneurship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-environmental-sustainability-entrepreneurship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-environmental-sustainability-entrepreneurship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-environmental-sustainability-entrepreneurship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-environmental-sustainability-entrepreneurship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-environmental-sustainability-entrepreneurship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-impact-fellowships",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-impact-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-impact-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-impact-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-impact-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-impact-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-impact-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-impact-fellowships",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-institute-lynn-university",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-institute-lynn-university",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-institute-lynn-university",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-institute-lynn-university",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-institute-lynn-university",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-institute-lynn-university",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-institute-lynn-university",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-institute-lynn-university",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-how-it-works",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-how-it-works",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-how-it-works",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-how-it-works",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-how-it-works",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-how-it-works",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-how-it-works",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-how-it-works",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-application",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-career-accelerator-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-alumni",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-alumni",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-alumni",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-alumni",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-alumni",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-alumni",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-alumni",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-alumni",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-bmo-fellowship-alumna-jannice-newson-scales-sustainable-beauty-venture",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-bmo-fellowship-alumna-jannice-newson-scales-sustainable-beauty-venture",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-bmo-fellowship-alumna-jannice-newson-scales-sustainable-beauty-venture",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-bmo-fellowship-alumna-jannice-newson-scales-sustainable-beauty-venture",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-bmo-fellowship-alumna-jannice-newson-scales-sustainable-beauty-venture",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-bmo-fellowship-alumna-jannice-newson-scales-sustainable-beauty-venture",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-bmo-fellowship-alumna-jannice-newson-scales-sustainable-beauty-venture",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-bmo-fellowship-alumna-jannice-newson-scales-sustainable-beauty-venture",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-wells-fargo-small-business-fellowship-program",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-wells-fargo-small-business-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-wells-fargo-small-business-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-wells-fargo-small-business-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-wells-fargo-small-business-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-wells-fargo-small-business-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-wells-fargo-small-business-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-wells-fargo-small-business-fellowship-program",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-nominate",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-nominate",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-nominate",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-nominate",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-nominate",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-nominate",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-nominate",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-nominate",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-basecamps",
+  "to": "colorado-edu-venturepartners-environmental-sustainability-entrepreneurship-progr",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-basecamps",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-basecamps",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-basecamps",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-basecamps",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-basecamps",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-basecamps",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-basecamps",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-basecamps",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-basecamps",
+  "to": "watson-is-environmental-sustainability-entrepreneurship-program",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-summits",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-summits",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-summits",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-summits",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-summits",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-summits",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-summits",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-summits",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-employer-network",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-employer-network",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-employer-network",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-employer-network",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-employer-network",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-employer-network",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-employer-network",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-employer-network",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-mentors",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-mentors",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-mentors",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-mentors",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-mentors",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-mentors",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-mentors",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-mentors",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-halloran-application",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-halloran-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-halloran-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-halloran-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-halloran-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-halloran-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-halloran-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-halloran-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-lynn-application",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-lynn-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-lynn-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-lynn-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-lynn-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-lynn-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-lynn-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-watson-lynn-application",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-programs",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-programs",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-programs",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-programs",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-programs",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-programs",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-programs",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-programs",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-programs",
+  "to": "watson-is-impact-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-contact-watson-institute",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-contact-watson-institute",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-contact-watson-institute",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-contact-watson-institute",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-contact-watson-institute",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-contact-watson-institute",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-contact-watson-institute",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-contact-watson-institute",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about-people-bryn-rees-page",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about-people-bryn-rees-page",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-02-internal-news-cu-boulder-hosts-showcase-",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-02-internal-news-cu-boulder-hosts-showcase-",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-02-internal-news-cu-boulder-hosts-showcase-",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-08-05-external-news-mana-battery-partners-saft",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-08-05-external-news-mana-battery-partners-saft",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-08-05-external-news-mana-battery-partners-saft",
+  "to": "colorado-edu-venturepartners-startup-portfolio-mana-battery-inc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-08-05-external-news-mana-battery-partners-saft",
+  "to": "colorado-edu-venturepartners-university-innovators",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-06-02-internal-news-powerhouse-battery-breakth",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-06-02-internal-news-powerhouse-battery-breakth",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-06-02-internal-news-powerhouse-battery-breakth",
+  "to": "colorado-edu-venturepartners-startup-portfolio-forge-nano-inc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-researchinnovation-research-strategy-development-sustainability-res",
+  "to": "colorado-edu-researchinnovation-research-innovation-office-rio-directory",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-group-rio",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-group-rio",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-group-rio",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-group-rio",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-group-rio",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-group-rio",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-group-rio",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-group-rio",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-group-venture-partners",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-privacy-policy",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-privacy-policy",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-privacy-policy",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-privacy-policy",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-privacy-policy",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-privacy-policy",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-privacy-policy",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-privacy-policy",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-04-14-internal-news-coolest-technology-univers",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-04-14-internal-news-coolest-technology-univers",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
+  "to": "colorado-edu-business-undergraduate-programs-enhance-your-experience-mentoring-p",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
+  "to": "colorado-edu-business-phd-funding",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-deming",
+  "to": "colorado-edu-business-deming-student-opportunities",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-cesr-current-students-graduate-programs-boulder-climate-ve",
+  "to": "colorado-edu-business-cesr-current-students-graduate-programs-leeds-sustainabili",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-business-cesr-current-students-graduate-programs-leeds-sustainabili",
+  "to": "colorado-edu-business-cesr-ethical-leadership-leeds",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-apply",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-apply",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-apply",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-apply",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-apply",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-apply",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-apply",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-apply",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-apply",
+  "to": "watson-is-impact-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "watson-is-apply",
+  "to": "watson-is-programs",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about-people-shreya-madhavarapu",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about-people-shreya-madhavarapu",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about-people-bryn-rees",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about-people-bryn-rees",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about-people-bryn-rees",
+  "to": "colorado-edu-venturepartners-about-people-bryn-rees-page",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-06-29-external-news-colorado-bioscience-associ",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-06-29-external-news-colorado-bioscience-associ",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about-people-annalissa-philbin",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-about-people-annalissa-philbin",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-illumen-therapeutics-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-illumen-therapeutics-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-illumen-therapeutics-inc",
+  "to": "colorado-edu-venturepartners-2026-06-29-external-news-colorado-bioscience-associ",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "to": "colorado-edu-innovate-2024-10-30-jila-based-innovation-team-flari-tech-wins-cu-b",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "to": "colorado-edu-venturepartners-2024-10-29-external-news-jila-based-innovation-team",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "to": "colorado-edu-venturepartners-investors-partners-startup-portfolio-flari-tech-inc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "to": "colorado-edu-venturepartners-2026-06-29-external-news-colorado-bioscience-associ",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "to": "colorado-edu-venturepartners-2026-03-23-external-news-flari-tech-named-denver-bu",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "to": "colorado-edu-venturepartners-2025-10-09-external-news-flari-tech-clinches-400000",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "to": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-flari-tech-inc",
+  "to": "colorado-edu-venturepartners-2024-10-29-external-news-jila-based-innovation-team",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-09-04-external-news-new-single-dose-temperatur",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-09-04-external-news-new-single-dose-temperatur",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-renovare-therapeutics-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-renovare-therapeutics-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-renovare-therapeutics-inc",
+  "to": "cuanschutz-edu-homepage",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-renovare-therapeutics-inc",
+  "to": "colorado-edu-venturepartners-2026-06-29-external-news-colorado-bioscience-associ",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-renovare-therapeutics-inc",
+  "to": "colorado-edu-venturepartners-2026-02-12-internal-news-university-colorado-ascent",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-04-02-external-news-venture-capitalists-remain",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-04-02-external-news-venture-capitalists-remain",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "to": "colorado-edu-venturepartners-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "to": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "to": "cuanschutz-edu-innovations",
   "kind": "mentions",
   "weight": 1
  }
