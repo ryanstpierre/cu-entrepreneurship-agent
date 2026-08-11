@@ -1,7 +1,7 @@
 [
  {
   "host": "community.startupcolorado.org",
-  "count": 2754,
+  "count": 2902,
   "examples": [
    "https://community.startupcolorado.org/events/110697?amp%3Bmc_eid=efea1eee39",
    "https://community.startupcolorado.org/events/109764?amp%3Bmc_eid=efea1eee39",
@@ -10,7 +10,7 @@
  },
  {
   "host": "ruralstartup.substack.com",
-  "count": 2102,
+  "count": 2213,
   "examples": [
    "https://ruralstartup.substack.com/",
    "https://ruralstartup.substack.com/p/signup",
@@ -19,7 +19,7 @@
  },
  {
   "host": "airtable.com",
-  "count": 1366,
+  "count": 1440,
   "examples": [
    "https://airtable.com/appecgjAEPF6G0oQe/pagl8MxeYG1r7sRv1/form?amp%3Bmc_eid=efea1eee39",
    "https://airtable.com/appuqMEafOOQMf01L/pagUqCwwINXgZ1A5K/form?amp%3Butm_medium=Email&amp%3Butm_source=News",
@@ -28,7 +28,7 @@
  },
  {
   "host": "ruralstartupdays.com",
-  "count": 1366,
+  "count": 1440,
   "examples": [
    "https://ruralstartupdays.com/",
    "http://ruralstartupdays.com/",
@@ -37,7 +37,7 @@
  },
  {
   "host": "www.westslopestartupweek.com",
-  "count": 1360,
+  "count": 1434,
   "examples": [
    "http://www.westslopestartupweek.com/"
   ]
@@ -53,7 +53,7 @@
  },
  {
   "host": "vimeo.com",
-  "count": 188,
+  "count": 198,
   "examples": [
    "https://vimeo.com/cuinnovations",
    "https://vimeo.com/cuinnovations/hie-impact",
@@ -61,31 +61,31 @@
   ]
  },
  {
-  "host": "fitzsimonsinnovation.com",
-  "count": 151,
-  "examples": [
-   "https://fitzsimonsinnovation.com/",
-   "http://fitzsimonsinnovation.com/"
-  ]
- },
- {
   "host": "www.childrenscolorado.org",
-  "count": 149,
+  "count": 161,
   "examples": [
    "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation",
    "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation/faculty-and-staff-form"
   ]
  },
  {
+  "host": "fitzsimonsinnovation.com",
+  "count": 161,
+  "examples": [
+   "https://fitzsimonsinnovation.com/",
+   "http://fitzsimonsinnovation.com/"
+  ]
+ },
+ {
   "host": "www.uchealth.org",
-  "count": 149,
+  "count": 161,
   "examples": [
    "https://www.uchealth.org/innovation"
   ]
  },
  {
   "host": "www.google.com",
-  "count": 121,
+  "count": 148,
   "examples": [
    "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjVvpzG5MLxAhXKm2oFHTpaANgQFnoECAIQAw&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
    "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjU_o2c8NbxAhUCXc0KHTJpDLkQFjAAegQIBRAD&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
@@ -112,7 +112,7 @@
  },
  {
   "host": "news.cuanschutz.edu",
-  "count": 107,
+  "count": 110,
   "examples": [
    "https://news.cuanschutz.edu/cu-innovations/the-future-of-healthcare-happens-at-the-intersection-cu-anschutz-innovations-forum-2026",
    "https://news.cuanschutz.edu/cu-innovations/hie-impact-at-cu-anschutz-launching-the-healthcare-innovation-entrepreneurship-hie-initiative",
@@ -192,21 +192,21 @@
   ]
  },
  {
+  "host": "www.nsf.gov",
+  "count": 53,
+  "examples": [
+   "https://www.nsf.gov/news/special_reports/i-corps",
+   "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2014648",
+   "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice"
+  ]
+ },
+ {
   "host": "www.terry.uga.edu",
   "count": 53,
   "examples": [
    "https://www.terry.uga.edu/entrepreneurship",
    "https://www.terry.uga.edu/entrepreneurship/about",
    "https://www.terry.uga.edu/entrepreneurship/studio-225"
-  ]
- },
- {
-  "host": "www.nsf.gov",
-  "count": 52,
-  "examples": [
-   "https://www.nsf.gov/news/special_reports/i-corps",
-   "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2014648",
-   "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice"
   ]
  },
  {
@@ -323,6 +323,15 @@
   ]
  },
  {
+  "host": "www.ucdenver.edu",
+  "count": 27,
+  "examples": [
+   "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx",
+   "https://www.ucdenver.edu/anschutz/about/cuinnovations/investigators/protecting-your-innovation/Pages/Submit-an-Innovation.aspx",
+   "https://www.ucdenver.edu/sites/spark/spark-award/funding-sources"
+  ]
+ },
+ {
   "host": "coloradostartups.org",
   "count": 27,
   "examples": [
@@ -347,15 +356,6 @@
    "https://www.grants.gov/web/grants/view-opportunity.html?oppId=332368",
    "https://www.grants.gov/web/grants/view-opportunity.html?oppId=332386",
    "https://www.grants.gov/web/grants/view-opportunity.html?oppId=332227"
-  ]
- },
- {
-  "host": "www.ucdenver.edu",
-  "count": 25,
-  "examples": [
-   "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx",
-   "https://www.ucdenver.edu/anschutz/about/cuinnovations/investigators/protecting-your-innovation/Pages/Submit-an-Innovation.aspx",
-   "https://www.ucdenver.edu/sites/spark/spark-award/funding-sources"
   ]
  },
  {
@@ -387,7 +387,7 @@
  },
  {
   "host": "podcasts.apple.com",
-  "count": 20,
+  "count": 21,
   "examples": [
    "https://podcasts.apple.com/us/podcast/startup-colorado/id1504302939",
    "https://podcasts.apple.com/us/podcast/the-startup-colorado-podcast/id1504302939?i=1000624056034",
@@ -515,6 +515,15 @@
   ]
  },
  {
+  "host": "cuboulder.qualtrics.com",
+  "count": 12,
+  "examples": [
+   "https://cuboulder.qualtrics.com/jfe/form/SV_bsGMrM6Vjg4Z7Fj",
+   "https://cuboulder.qualtrics.com/jfe/form/SV_6rLsHHB377J8x9j",
+   "https://cuboulder.qualtrics.com/jfe/form/SV_8zY9QdGQcyMGG6F"
+  ]
+ },
+ {
   "host": "innovationcrossroads.ornl.gov",
   "count": 12,
   "examples": [
@@ -537,15 +546,6 @@
   "count": 12,
   "examples": [
    "https://launchpass.com/colorado-startups"
-  ]
- },
- {
-  "host": "cuboulder.qualtrics.com",
-  "count": 11,
-  "examples": [
-   "https://cuboulder.qualtrics.com/jfe/form/SV_bsGMrM6Vjg4Z7Fj",
-   "https://cuboulder.qualtrics.com/jfe/form/SV_6rLsHHB377J8x9j",
-   "https://cuboulder.qualtrics.com/jfe/form/SV_8zY9QdGQcyMGG6F"
   ]
  },
  {
@@ -605,6 +605,15 @@
   ]
  },
  {
+  "host": "tellurideventurenetwork.com",
+  "count": 10,
+  "examples": [
+   "https://tellurideventurenetwork.com/",
+   "https://tellurideventurenetwork.com/tvn-events",
+   "https://tellurideventurenetwork.com/climate-solutions"
+  ]
+ },
+ {
   "host": "seedfund.nsf.gov",
   "count": 10,
   "examples": [
@@ -661,15 +670,6 @@
   ]
  },
  {
-  "host": "tellurideventurenetwork.com",
-  "count": 9,
-  "examples": [
-   "https://tellurideventurenetwork.com/",
-   "https://tellurideventurenetwork.com/tvn-events",
-   "https://tellurideventurenetwork.com/climate-solutions"
-  ]
- },
- {
   "host": "www.techstars.com",
   "count": 9,
   "examples": [
@@ -702,6 +702,15 @@
   ]
  },
  {
+  "host": "www.globenewswire.com",
+  "count": 9,
+  "examples": [
+   "https://www.globenewswire.com/news-release/2023/06/29/2697338/0/en/New-Iridium-Secures-1M-NSF-SBIR-Phase-II-Grant-to-Revolutionize-Chemical-Manufacturing-and-Combat-Climate-Change.html",
+   "https://www.globenewswire.com/news-release/2020/07/08/2059518/0/en/Colorado-based-New-Iridium-accelerating-global-production-of-potential-COVID-19-treatment-using-light-driven-chemistry.html",
+   "https://www.globenewswire.com/news-release/2026/03/25/3261894/0/en/Forge-Nano-Announces-Opening-of-Taiwan-Office-to-Accelerate-AI-Driven-Photonics-Manufacturing-and-Expand-Regional-Operations.html"
+  ]
+ },
+ {
   "host": "he.cecollaboratory.com",
   "count": 9,
   "examples": [
@@ -717,6 +726,14 @@
    "https://boulderstartupweek2019.sched.com/overview/type/University",
    "http://boulderstartupweek2019.sched.com/event/NNXp/hey-entrepreneurs-want-to-get-involved-with-cu-boulder-want-to-get-really-involved-wink",
    "http://boulderstartupweek2019.sched.com/event/NNXm/not-your-mothers-university-locally-and-globally-connected-on-demand-diverse-and-rapidly-adapting"
+  ]
+ },
+ {
+  "host": "www.cnmilicensing.gov.mp",
+  "count": 9,
+  "examples": [
+   "https://www.cnmilicensing.gov.mp/",
+   "https://www.cnmilicensing.gov.mp/health-care-professions-licensing-board"
   ]
  },
  {
@@ -745,12 +762,21 @@
   ]
  },
  {
-  "host": "www.globenewswire.com",
+  "host": "medschool.cuanschutz.edu",
   "count": 8,
   "examples": [
-   "https://www.globenewswire.com/news-release/2023/06/29/2697338/0/en/New-Iridium-Secures-1M-NSF-SBIR-Phase-II-Grant-to-Revolutionize-Chemical-Manufacturing-and-Combat-Climate-Change.html",
-   "https://www.globenewswire.com/news-release/2020/07/08/2059518/0/en/Colorado-based-New-Iridium-accelerating-global-production-of-potential-COVID-19-treatment-using-light-driven-chemistry.html",
-   "https://www.globenewswire.com/news-release/2026/03/25/3261894/0/en/Forge-Nano-Announces-Opening-of-Taiwan-Office-to-Accelerate-AI-Driven-Photonics-Manufacturing-and-Expand-Regional-Operations.html"
+   "https://medschool.cuanschutz.edu/colorado-cancer-center/research/funding-opportunities",
+   "https://medschool.cuanschutz.edu/gates-center-for-regenerative-medicine/member-benefits/membership-information-and-application",
+   "https://medschool.cuanschutz.edu/csi"
+  ]
+ },
+ {
+  "host": "www.commerce.alaska.gov",
+  "count": 8,
+  "examples": [
+   "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/StateMedicalBoard.aspx",
+   "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/PhysicalTherapyOccupationalTherapy.aspx",
+   "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/BoardofDentalExaminers.aspx"
   ]
  },
  {
@@ -765,6 +791,14 @@
   "count": 7,
   "examples": [
    "https://www.smartfutureslab.com/"
+  ]
+ },
+ {
+  "host": "cu.tfaforms.net",
+  "count": 7,
+  "examples": [
+   "https://cu.tfaforms.net/101",
+   "https://cu.tfaforms.net/forms/view/27"
   ]
  },
  {
@@ -813,38 +847,6 @@
   "count": 6,
   "examples": [
    "https://www.regis.edu/academics/colleges-and-schools/anderson/innovation-center"
-  ]
- },
- {
-  "host": "web.archive.org",
-  "count": 6,
-  "examples": [
-   "https://web.archive.org/web/20251028193014/https://www.meetup.com/denver-entrepreneurship-through-acquisition-eta-meetup/?_xtd=gqFyqTM4ODE1MjQ2M6FwpmlwaG9uZQ%253D%253D&amp;from=ref",
-   "https://web.archive.org/web/20251028193014/https://www.meetup.com/denver-entrepreneurship-through-acquisition-eta-meetup"
-  ]
- },
- {
-  "host": "www.dailycamera.com",
-  "count": 6,
-  "examples": [
-   "https://www.dailycamera.com/2021/04/14/vaccine-transportation-startup-wins-cus-new-venture-challenge-pitch-slam",
-   "https://www.dailycamera.com/2023/10/16/cu-boulder-seeks-to-be-a-leader-in-innovation-nationwide",
-   "https://www.dailycamera.com/2025/02/16/a-broader-impact-cu-boulder-startup-culture-brings-life-changing-technology-to-colorado"
-  ]
- },
- {
-  "host": "www.entrepsolutions.com",
-  "count": 6,
-  "examples": [
-   "http://www.entrepsolutions.com/"
-  ]
- },
- {
-  "host": "cu.tfaforms.net",
-  "count": 6,
-  "examples": [
-   "https://cu.tfaforms.net/101",
-   "https://cu.tfaforms.net/forms/view/27"
   ]
  }
 ]

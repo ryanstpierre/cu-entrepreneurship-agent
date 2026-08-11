@@ -702,6 +702,12 @@
   "depth": 3
  },
  {
+  "url": "https://watson.is/samuel-lasitis-entrepreneurship-and-impact-journey",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 3
+ },
+ {
   "url": "https://www.colorado.edu/business/deming/news-stories/demystifying-entrepreneurship-rural-colorado-workshop-series-news",
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
@@ -1332,6 +1338,24 @@
   "depth": 3
  },
  {
+  "url": "https://colorado.edu/business/deming/news-stories/demystifying-entrepreneurship-rural-colorado-workshop-series-news",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 8
+ },
+ {
+  "url": "http://www.cuanschutz.edu/innovations/campus-innovator/faculty-or-researcher/discovery/license-tech-cu",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 8
+ },
+ {
+  "url": "https://startupcolorado.org/stories/startup-colorado-partners-with-colorado-state-university",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 6
+ },
+ {
   "url": "https://www.colorado.edu/innovate/media/2175",
   "reason": "pdf-needs-extraction",
   "relevance": 1,
@@ -1626,6 +1650,18 @@
   "depth": 3
  },
  {
+  "url": "https://startupcolorado.org/wp-content/uploads/2026/02/2025-Annual-Report-%E2%80%94-Startup-Colorado-1.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 6
+ },
+ {
+  "url": "https://startupcolorado.org/wp-content/uploads/2025/03/Rural-Creative-Collective-2024-Annual-Report.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 6
+ },
+ {
   "url": "https://lawweb.colorado.edu/profiles/pubpdfs/bernthal/WhoNeedsContracts.pdf",
   "reason": "pdf-needs-extraction",
   "relevance": 0,
@@ -1723,6 +1759,18 @@
  },
  {
   "url": "https://www.cuanschutz.edu/docs/librariesprovider15/default-document-library/2026-facts-brochure_web.pdf?sfvrsn=bdce7fb9_12",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider15/default-document-library/2024-facts-brochure_web.pdf?sfvrsn=bdce7fb9_11",
+  "reason": "pdf-needs-extraction",
+  "relevance": 0,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/docs/librariesprovider15/default-document-library/2022-facts-brochure_web.pdf?sfvrsn=bdce7fb9_10",
   "reason": "pdf-needs-extraction",
   "relevance": 0,
   "depth": 2
