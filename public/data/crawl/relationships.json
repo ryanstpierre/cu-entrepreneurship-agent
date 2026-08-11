@@ -318,6 +318,24 @@
   "weight": 3
  },
  {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-ascent-deep-tec",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "colorado-edu-innovate-ascent-deep-tech-accelerator",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "colorado-edu-venturepartners-ascent",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
   "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
   "to": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
   "kind": "links_to",
@@ -327,6 +345,12 @@
   "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
   "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
   "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-03-19-internal-news-pitch-competition-celebrat",
+  "to": "colorado-edu-venturepartners-2024-04-03-internal-news-pitch-competition-celebrat",
+  "kind": "mentions",
   "weight": 3
  },
  {
@@ -392,6 +416,90 @@
  {
   "from": "colorado-edu-venturepartners-investors-and-industry-licensing-industry",
   "to": "colorado-edu-venturepartners-newsroom-cu-innovators-news",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-darwin-biosciences-inc",
+  "to": "colorado-edu-venturepartners-startup-portfolio",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "to": "colorado-edu-venturepartners-startup-portfolio-vitro3d-inc",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "to": "colorado-edu-venturepartners-2026-03-20-external-news-two-cu-boulder-startups-se",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "to": "colorado-edu-venturepartners-2026-01-29-internal-news-destination-startup-announ",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
+  "to": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-inc",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
+  "to": "colorado-edu-venturepartners-investors-partners-startup-portfolio-mesa-quantum-i",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
+  "to": "colorado-edu-venturepartners-2025-04-16-external-news-mesa-quantum-scores-100k-i",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
+  "to": "colorado-edu-venturepartners-2025-05-15-internal-news-oedit-announces-grants-cu-",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
+  "to": "colorado-edu-venturepartners-2025-04-25-external-news-trailblazing-ideas-and-ent",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
+  "to": "colorado-edu-venturepartners-2025-03-18-internal-news-cu-boulder-hosts-showcases",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-latimer-controls-inc",
+  "to": "colorado-edu-venturepartners-2025-03-10-external-news-sustainable-spinouts-innov",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-page-technologies-inc",
+  "to": "colorado-edu-venturepartners-2026-07-08-external-news-cu-boulder-startup-page-te",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-get-started-path-commercialization",
+  "to": "colorado-edu-venturepartners-path-commercialization",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-precisionterra-inc",
+  "to": "colorado-edu-venturepartners-2025-05-06-internal-news-university-colorado-boulde",
   "kind": "links_to",
   "weight": 3
  },
@@ -540,24 +648,6 @@
   "weight": 2
  },
  {
-  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
-  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-ascent-deep-tec",
-  "kind": "mentions",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
-  "to": "colorado-edu-innovate-ascent-deep-tech-accelerator",
-  "kind": "mentions",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
-  "to": "colorado-edu-venturepartners-ascent",
-  "kind": "mentions",
-  "weight": 2
- },
- {
   "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
   "to": "colorado-edu-techtransfer-investigators-commercialization-academy-starting-block",
   "kind": "mentions",
@@ -594,12 +684,6 @@
   "weight": 2
  },
  {
-  "from": "colorado-edu-venturepartners-2024-03-19-internal-news-pitch-competition-celebrat",
-  "to": "colorado-edu-venturepartners-2024-04-03-internal-news-pitch-competition-celebrat",
-  "kind": "mentions",
-  "weight": 2
- },
- {
   "from": "colorado-edu-venturepartners-university-innovators",
   "to": "colorado-edu-venturepartners-2025-09-15-internal-news-cu-boulder-ranked-1-launch",
   "kind": "links_to",
@@ -614,90 +698,6 @@
  {
   "from": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
   "to": "colorado-edu-venturepartners-startup-portfolio",
-  "kind": "links_to",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-darwin-biosciences-inc",
-  "to": "colorado-edu-venturepartners-startup-portfolio",
-  "kind": "mentions",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
-  "to": "colorado-edu-venturepartners-startup-portfolio-vitro3d-inc",
-  "kind": "mentions",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
-  "to": "colorado-edu-venturepartners-2026-03-20-external-news-two-cu-boulder-startups-se",
-  "kind": "links_to",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
-  "to": "colorado-edu-venturepartners-2026-01-29-internal-news-destination-startup-announ",
-  "kind": "links_to",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
-  "to": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-inc",
-  "kind": "mentions",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
-  "to": "colorado-edu-venturepartners-investors-partners-startup-portfolio-mesa-quantum-i",
-  "kind": "mentions",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
-  "to": "colorado-edu-venturepartners-2025-04-16-external-news-mesa-quantum-scores-100k-i",
-  "kind": "links_to",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
-  "to": "colorado-edu-venturepartners-2025-05-15-internal-news-oedit-announces-grants-cu-",
-  "kind": "links_to",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
-  "to": "colorado-edu-venturepartners-2025-04-25-external-news-trailblazing-ideas-and-ent",
-  "kind": "links_to",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
-  "to": "colorado-edu-venturepartners-2025-03-18-internal-news-cu-boulder-hosts-showcases",
-  "kind": "links_to",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-latimer-controls-inc",
-  "to": "colorado-edu-venturepartners-2025-03-10-external-news-sustainable-spinouts-innov",
-  "kind": "links_to",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-page-technologies-inc",
-  "to": "colorado-edu-venturepartners-2026-07-08-external-news-cu-boulder-startup-page-te",
-  "kind": "links_to",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-get-started-path-commercialization",
-  "to": "colorado-edu-venturepartners-path-commercialization",
-  "kind": "mentions",
-  "weight": 2
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-precisionterra-inc",
-  "to": "colorado-edu-venturepartners-2025-05-06-internal-news-university-colorado-boulde",
   "kind": "links_to",
   "weight": 2
  },
@@ -786,6 +786,36 @@
   "weight": 2
  },
  {
+  "from": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
+  "to": "colorado-edu-venturepartners-2023-05-26-internal-news-second-year-deep-tech-acce",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
+  "to": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-03-10-internal-news-alum-sristy-agrawal-leads-",
+  "to": "colorado-edu-venturepartners-2024-03-19-internal-news-pitch-competition-celebrat",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-03-18-internal-news-cu-boulder-hosts-showcases",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
   "from": "colorado-edu-business-deming-student-opportunities-new-venture-launch",
   "to": "colorado-edu-innovate-programs-resources-new-venture-launch-class",
   "kind": "mentions",
@@ -855,6 +885,42 @@
   "from": "colorado-edu-venturepartners",
   "to": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
   "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-forge-nano-inc",
+  "to": "colorado-edu-venturepartners-2026-04-28-internal-news-forge-nano-list-16-billion",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "colorado-edu-venturepartners-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
+  "kind": "mentions",
   "weight": 2
  },
  {
@@ -1050,6 +1116,60 @@
   "weight": 2
  },
  {
+  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
   "from": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
   "to": "colorado-edu-business-faculty-research-faculty-directory-organizational-leadersh",
   "kind": "links_to",
@@ -1124,6 +1244,12 @@
  {
   "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
   "to": "colorado-edu-venturepartners-2025-07-07-external-news-activate-welcomes-cu-bould",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
+  "to": "colorado-edu-venturepartners-2025-03-10-internal-news-alum-sristy-agrawal-leads-",
   "kind": "links_to",
   "weight": 2
  },
@@ -2328,36 +2454,6 @@
   "weight": 1
  },
  {
-  "from": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
-  "to": "colorado-edu-venturepartners-2023-05-26-internal-news-second-year-deep-tech-acce",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
-  "to": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
-  "to": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-2025-03-10-internal-news-alum-sristy-agrawal-leads-",
-  "to": "colorado-edu-venturepartners-2024-03-19-internal-news-pitch-competition-celebrat",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-2025-03-18-internal-news-cu-boulder-hosts-showcases",
-  "to": "colorado-edu-venturepartners-opportunities-and-events-destination-startup",
-  "kind": "links_to",
-  "weight": 1
- },
- {
   "from": "colorado-edu-business-deming-undergraduates-certificate-entrepreneurial-studies-",
   "to": "colorado-edu-business-deming-student-opportunities-new-venture-launch",
   "kind": "links_to",
@@ -2385,42 +2481,6 @@
   "from": "colorado-edu-innovate-support",
   "to": "colorado-edu-innovate-support",
   "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-startup-portfolio-forge-nano-inc",
-  "to": "colorado-edu-venturepartners-2026-04-28-internal-news-forge-nano-list-16-billion",
-  "kind": "links_to",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
-  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
-  "to": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
-  "to": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
-  "to": "colorado-edu-venturepartners-lab-venture-challenge",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
-  "to": "colorado-edu-venturepartners-opportunities-and-events-lab-venture-challenge",
-  "kind": "mentions",
   "weight": 1
  },
  {
@@ -8035,12 +8095,6 @@
  },
  {
   "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
-  "to": "cuanschutz-edu-cu-innovations",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
   "to": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
   "kind": "mentions",
   "weight": 1
@@ -8048,18 +8102,6 @@
  {
   "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
   "to": "innosphereventures-org-news-colorado-competitiveness-blog-series-inside-colorado",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
-  "to": "cuanschutz-edu-innovations",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
-  "to": "cuanschutz-edu-innovations-student-fellowships",
   "kind": "mentions",
   "weight": 1
  },
@@ -8078,42 +8120,6 @@
  {
   "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
   "to": "innosphereventures-org-news-colorado-venture-capital-report-2025",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
-  "to": "cuanschutz-edu-innovations-student-fellowships-1",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
-  "to": "cuanschutz-edu-innovations-student-fellowships-2",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
-  "to": "cuanschutz-edu-innovations-student-fellowships-4",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
-  "to": "cuanschutz-edu-innovations-student-fellowships-3",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
-  "to": "cuanschutz-edu-innovations-student-fellowships-5",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
-  "to": "cuanschutz-edu-innovations-student-fellowships-6",
   "kind": "mentions",
   "weight": 1
  },
@@ -16233,6 +16239,4350 @@
   "from": "colorado-edu-venturepartners-2025-09-15-internal-news-cu-boulder-ranked-1-launch",
   "to": "colorado-edu-venturepartners-startup-portfolio-mana-battery-inc",
   "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-newsroom-cu-innovators-news",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-newsroom-cu-innovators-news",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "to": "colorado-edu-venturepartners-2025-02-16-external-news-broader-impact-cu-boulder-",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "to": "colorado-edu-venturepartners-2024-10-11-external-news-we-went-startup-symposium-",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
+  "to": "colorado-edu-venturepartners-get-started",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
+  "to": "colorado-edu-venturepartners-2025-01-30-exernal-news-5-cu-boulder-startups-watch",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-forge-nano-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-forge-nano-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-20-external-news-two-cu-boulder-startups-se",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-20-external-news-two-cu-boulder-startups-se",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-20-external-news-two-cu-boulder-startups-se",
+  "to": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-03-20-external-news-two-cu-boulder-startups-se",
+  "to": "colorado-edu-venturepartners-startup-portfolio",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-latimer-controls-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-latimer-controls-inc",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-latimer-controls-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-latimer-controls-inc",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
+  "to": "colorado-edu-venturepartners-icarus-quantum-inc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact-lab-ventur",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact-lab-ventur",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mana-battery-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mana-battery-inc",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mana-battery-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-mana-battery-inc",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-05-15-internal-news-oedit-announces-grants-cu-",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-05-15-internal-news-oedit-announces-grants-cu-",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-05-15-internal-news-oedit-announces-grants-cu-",
+  "to": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-04-25-external-news-trailblazing-ideas-and-ent",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-04-25-external-news-trailblazing-ideas-and-ent",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-03-10-external-news-sustainable-spinouts-innov",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-03-10-external-news-sustainable-spinouts-innov",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-omc-thermochemistry",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-omc-thermochemistry",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-omc-thermochemistry",
+  "to": "colorado-edu-venturepartners-2023-03-30-external-news-omc-hydrogen-wins-first-pl",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-otoro-energy-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-otoro-energy-inc",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-otoro-energy-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-otoro-energy-inc",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-page-technologies-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-page-technologies-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-page-technologies-inc",
+  "to": "colorado-edu-venturepartners-2024-05-16-internal-news-colorado-office-economic-d",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-tynt-technologies-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-tynt-technologies-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-get-started-path-commercialization",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-get-started-path-commercialization",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-get-started-path-commercialization",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-07-14-external-news-us-energy-department-selec",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-07-14-external-news-us-energy-department-selec",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-07-08-external-news-cu-boulder-startup-page-te",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-07-08-external-news-cu-boulder-startup-page-te",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-07-08-external-news-cu-boulder-startup-page-te",
+  "to": "colorado-edu-venturepartners-startup-portfolio-page-technologies-inc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-eat-meatitm-meati-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-eat-meatitm-meati-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-precisionterra-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-precisionterra-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-precisionterra-inc",
+  "to": "colorado-edu-venturepartners-precisionterra-inc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-technology-portfolio-licensing-opportunities-quantu",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-technology-portfolio-licensing-opportunities-quantu",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-technology-portfolio-licensing-opportunities-quantu",
+  "to": "colorado-edu-venturepartners-startup-portfolio-longpath-technologies-inc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-technology-portfolio-licensing-opportunities-climat",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-technology-portfolio-licensing-opportunities-climat",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-technology-portfolio-licensing-opportunities-climat",
+  "to": "colorado-edu-venturepartners-startup-portfolio-latimer-controls-inc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-05-06-internal-news-university-colorado-boulde",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-05-06-internal-news-university-colorado-boulde",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-04-28-internal-news-forge-nano-list-16-billion",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-04-28-internal-news-forge-nano-list-16-billion",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-04-28-internal-news-forge-nano-list-16-billion",
+  "to": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
+  "to": "colorado-edu-venturepartners-2025-01-11-external-news-local-tech-startup-aims-po",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
+  "to": "colorado-edu-venturepartners-2024-05-16-internal-news-colorado-office-economic-d",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "to": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-05-16-internal-news-colorado-office-economic-d",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-05-16-internal-news-colorado-office-economic-d",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-05-26-internal-news-second-year-deep-tech-acce",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-05-26-internal-news-second-year-deep-tech-acce",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-01-29-internal-news-destination-startup-announ",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-01-29-internal-news-destination-startup-announ",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-02-16-external-news-broader-impact-cu-boulder-",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-02-16-external-news-broader-impact-cu-boulder-",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-10-11-external-news-we-went-startup-symposium-",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-10-11-external-news-we-went-startup-symposium-",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-04-16-external-news-mesa-quantum-scores-100k-i",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-04-16-external-news-mesa-quantum-scores-100k-i",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-03-10-internal-news-alum-sristy-agrawal-leads-",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-03-10-internal-news-alum-sristy-agrawal-leads-",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-03-10-internal-news-alum-sristy-agrawal-leads-",
+  "to": "colorado-edu-venturepartners-2023-11-13-internal-news-state-and-university-partn",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-03-19-internal-news-pitch-competition-celebrat",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-03-19-internal-news-pitch-competition-celebrat",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-01-30-exernal-news-5-cu-boulder-startups-watch",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-01-30-exernal-news-5-cu-boulder-startups-watch",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-03-18-internal-news-cu-boulder-hosts-showcases",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-03-18-internal-news-cu-boulder-hosts-showcases",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-03-30-external-news-omc-hydrogen-wins-first-pl",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-03-30-external-news-omc-hydrogen-wins-first-pl",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
+  "to": "colorado-edu-venturepartners-2023-11-13-internal-news-state-and-university-partn",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships-fellowship-faqs",
+  "to": "cuanschutz-edu-innovations-student-fellowships",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships-fellowship-faqs",
+  "to": "cuanschutz-edu-innovations-student-fellowships-1",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships-fellowship-faqs",
+  "to": "cuanschutz-edu-innovations-student-fellowships-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships-fellowship-faqs",
+  "to": "cuanschutz-edu-innovations-student-fellowships-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships-fellowship-faqs",
+  "to": "cuanschutz-edu-innovations-student-fellowships-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships-fellowship-faqs",
+  "to": "cuanschutz-edu-innovations-student-fellowships-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships-fellowship-faqs",
+  "to": "cuanschutz-edu-innovations-student-fellowships-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships-fellowship-faqs",
+  "to": "colorado-edu-rio",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships-fellowship-faqs",
+  "to": "colorado-edu-researchinnovation-research-operations-administration-program-manag",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-ocg-fellowships-fellowship-faqs",
+  "to": "colorado-edu-ocg",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-ojt-spring-idea-factory",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-lead-the-conversation",
+  "to": "coloradostartups-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-lead-the-conversation",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-lead-the-conversation",
+  "to": "coloradostartups-org-home",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-colorado-river-valley-idea-factory",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-colorado-river-valley-idea-factory",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-colorado-river-valley-idea-factory",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-spring-food-ag-idea-factory",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-soco-startup-showcase",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-startup-arcade-build-price-play",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-pivot-through-pain-bouncing-back-fro",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-pivot-through-pain-bouncing-back-fro",
+  "to": "startupcolorado-org-event-soco-startup-week-pivot-through-pain-bouncing-back-fro",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-afternoon-tour-of-emergent-campus",
+  "to": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-form-a-company",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-afternoon-tour-of-emergent-campus",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-afternoon-tour-of-emergent-campus",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-innovation-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-wssw-25-pitch-your-session",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-wssw-25-pitch-your-session",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-wssw-25-pitch-your-session",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-after-party-at-observer-ranch",
+  "to": "colorado-edu-innovate-programs-resources-denver-startup-week",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-soco-startup-week-after-party-at-observer-ranch",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-starting-blocks-customer-discovery-workshop",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-ai-for-business-ai-skilling-in-the-workplace",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-tie-tail-startup-ages-8-18",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-from-trash-to-treasure-how-to-start-an-upcycling-busin",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-from-trash-to-treasure-how-to-start-an-upcycling-busin",
+  "to": "startupcolorado-org-event-from-trash-to-treasure-how-to-start-an-upcycling-busin",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-credit-builder-session-taller-de-creacion-de-credito-2",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-credit-builder-session-taller-de-creacion-de-credito-2",
+  "to": "startupcolorado-org-event-credit-builder-session-taller-de-creacion-de-credito-2",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-strategic-organization-operations-for-rural-startups",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-credit-builder-session-taller-de-creacion-de-credito",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-credit-builder-session-taller-de-creacion-de-credito",
+  "to": "startupcolorado-org-event-credit-builder-session-taller-de-creacion-de-credito-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-tag-in-person-page-2",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-ascent-deep-tech-community-showcase",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-apply-to-pitch-at-naturally-rising-the-conscious-busin",
+  "to": "startupcolorado-org-pitch-competition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-apply-to-pitch-at-naturally-rising-the-conscious-busin",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-apply-to-pitch-at-naturally-rising-the-conscious-busin",
+  "to": "startupcolorado-org-event-apply-to-pitch-at-naturally-rising-the-conscious-busin",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-female-founders-funders-in-climate",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-eagle-county-business-funding-panel",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-4",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-4",
+  "to": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-4",
+  "to": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-3",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-3",
+  "to": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-3",
+  "to": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-3",
+  "to": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-credit-builder-first-southwest-community-fund",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rmmfi-business-idea-lab",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-tag-online-event-page-2",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-olivia-reed-eventdisplay-past",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-olivia-reed-eventdisplay-past",
+  "to": "startupcolorado-org-organizer-olivia-reed",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-startup-colorado-lean-coffee-2",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-12",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "to": "startupcolorado-org-join-the-community-rural-women-in-entrepreneurship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-9",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-8",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-11",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-belonging-colorado-startup-colorado-demo-day",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-outside-city-limits",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-henry-curtis-extiovt2e",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-henry-curtis-extiovt2e",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-henry-curtis-extiovt2e",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-henry-curtis-extiovt2e",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-henry-curtis-extiovt2e",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-henry-curtis-extiovt2e",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-henry-curtis-extiovt2e",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-jagannathan-sujatha-extyt37h6",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-jagannathan-sujatha-extyt37h6",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-jagannathan-sujatha-extyt37h6",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-jagannathan-sujatha-extyt37h6",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-jagannathan-sujatha-extyt37h6",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-jagannathan-sujatha-extyt37h6",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-jagannathan-sujatha-extyt37h6",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-manoharan-niranjan-extt56ryd",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-manoharan-niranjan-extt56ryd",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-manoharan-niranjan-extt56ryd",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-manoharan-niranjan-extt56ryd",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-manoharan-niranjan-extt56ryd",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-manoharan-niranjan-extt56ryd",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-manoharan-niranjan-extt56ryd",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-patel-vikas-ext1zl451",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-patel-vikas-ext1zl451",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-patel-vikas-ext1zl451",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-patel-vikas-ext1zl451",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-patel-vikas-ext1zl451",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-patel-vikas-ext1zl451",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-patel-vikas-ext1zl451",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-kuhn-kristi-extpq7zb7",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-kuhn-kristi-extpq7zb7",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-kuhn-kristi-extpq7zb7",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-kuhn-kristi-extpq7zb7",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-kuhn-kristi-extpq7zb7",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-kuhn-kristi-extpq7zb7",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-kuhn-kristi-extpq7zb7",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-li-suzhao-extc48963",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-li-suzhao-extc48963",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-li-suzhao-extc48963",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-li-suzhao-extc48963",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-li-suzhao-extc48963",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-li-suzhao-extc48963",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-li-suzhao-extc48963",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rissland-olivia-extsszhfb",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rissland-olivia-extsszhfb",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rissland-olivia-extsszhfb",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rissland-olivia-extsszhfb",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rissland-olivia-extsszhfb",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rissland-olivia-extsszhfb",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rissland-olivia-extsszhfb",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-venkataraman-sujatha-extcq5cic",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-venkataraman-sujatha-extcq5cic",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-venkataraman-sujatha-extcq5cic",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-venkataraman-sujatha-extcq5cic",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-venkataraman-sujatha-extcq5cic",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-venkataraman-sujatha-extcq5cic",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-venkataraman-sujatha-extcq5cic",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wilcox-duncan-exto5e6b1",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wilcox-duncan-exto5e6b1",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wilcox-duncan-exto5e6b1",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wilcox-duncan-exto5e6b1",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wilcox-duncan-exto5e6b1",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wilcox-duncan-exto5e6b1",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wilcox-duncan-exto5e6b1",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-barker-alex-extfszvw5",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-barker-alex-extfszvw5",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-barker-alex-extfszvw5",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-barker-alex-extfszvw5",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-barker-alex-extfszvw5",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-barker-alex-extfszvw5",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-barker-alex-extfszvw5",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-altunbas-cem-ext26972n",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-altunbas-cem-ext26972n",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-altunbas-cem-ext26972n",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-altunbas-cem-ext26972n",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-altunbas-cem-ext26972n",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-altunbas-cem-ext26972n",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-altunbas-cem-ext26972n",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bodine-cathy-ext55827e",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bodine-cathy-ext55827e",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bodine-cathy-ext55827e",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bodine-cathy-ext55827e",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bodine-cathy-ext55827e",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bodine-cathy-ext55827e",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bodine-cathy-ext55827e",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ramachandran-srinivas-exthophwe",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ramachandran-srinivas-exthophwe",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ramachandran-srinivas-exthophwe",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ramachandran-srinivas-exthophwe",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ramachandran-srinivas-exthophwe",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ramachandran-srinivas-exthophwe",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ramachandran-srinivas-exthophwe",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bruce-kim-ext6dvd8h",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bruce-kim-ext6dvd8h",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bruce-kim-ext6dvd8h",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bruce-kim-ext6dvd8h",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bruce-kim-ext6dvd8h",
+  "to": "cuanschutz-edu-innovations-about-us-team-profile-bruce-kim-ext6dvd8h",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bruce-kim-ext6dvd8h",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bruce-kim-ext6dvd8h",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bruce-kim-ext6dvd8h",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-borges-virginia-f-extxuetei",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-borges-virginia-f-extxuetei",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-borges-virginia-f-extxuetei",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-borges-virginia-f-extxuetei",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-borges-virginia-f-extxuetei",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-borges-virginia-f-extxuetei",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-borges-virginia-f-extxuetei",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bubak-andrew-ext5yb5tj",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bubak-andrew-ext5yb5tj",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bubak-andrew-ext5yb5tj",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bubak-andrew-ext5yb5tj",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bubak-andrew-ext5yb5tj",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bubak-andrew-ext5yb5tj",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-bubak-andrew-ext5yb5tj",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-roadtrip-weld-county-roadtrip",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-roadtrip-weld-county-roadtrip",
+  "to": "startupcolorado-org-roadtrip",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-burger-van-der-walt-evalina-extimo",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-burger-van-der-walt-evalina-extimo",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-burger-van-der-walt-evalina-extimo",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-burger-van-der-walt-evalina-extimo",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-burger-van-der-walt-evalina-extimo",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-burger-van-der-walt-evalina-extimo",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-burger-van-der-walt-evalina-extimo",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-coughlan-christina-extv8s0kl",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-coughlan-christina-extv8s0kl",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-coughlan-christina-extv8s0kl",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-coughlan-christina-extv8s0kl",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-coughlan-christina-extv8s0kl",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-coughlan-christina-extv8s0kl",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-coughlan-christina-extv8s0kl",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diaz-miron-jose-extpmfy2z",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diaz-miron-jose-extpmfy2z",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diaz-miron-jose-extpmfy2z",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diaz-miron-jose-extpmfy2z",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diaz-miron-jose-extpmfy2z",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diaz-miron-jose-extpmfy2z",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diaz-miron-jose-extpmfy2z",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diot-quentin-extfslgkm",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diot-quentin-extfslgkm",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diot-quentin-extfslgkm",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diot-quentin-extfslgkm",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diot-quentin-extfslgkm",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diot-quentin-extfslgkm",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-diot-quentin-extfslgkm",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-duncan-luke-extc3ce0s",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-duncan-luke-extc3ce0s",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-duncan-luke-extc3ce0s",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-duncan-luke-extc3ce0s",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-duncan-luke-extc3ce0s",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-duncan-luke-extc3ce0s",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-duncan-luke-extc3ce0s",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-friedman-norman-extnl0hg2",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-friedman-norman-extnl0hg2",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-friedman-norman-extnl0hg2",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-friedman-norman-extnl0hg2",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-friedman-norman-extnl0hg2",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-friedman-norman-extnl0hg2",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-friedman-norman-extnl0hg2",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-davila-eduardo-exti2wbcg",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-davila-eduardo-exti2wbcg",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-davila-eduardo-exti2wbcg",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-davila-eduardo-exti2wbcg",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-davila-eduardo-exti2wbcg",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-davila-eduardo-exti2wbcg",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-davila-eduardo-exti2wbcg",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-gottlieb-peter-extgzxiwj",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-gottlieb-peter-extgzxiwj",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-gottlieb-peter-extgzxiwj",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-gottlieb-peter-extgzxiwj",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-gottlieb-peter-extgzxiwj",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-gottlieb-peter-extgzxiwj",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-gottlieb-peter-extgzxiwj",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-flaig-thomas-extcieezu",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-flaig-thomas-extcieezu",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-flaig-thomas-extcieezu",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-flaig-thomas-extcieezu",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-flaig-thomas-extcieezu",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-flaig-thomas-extcieezu",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-flaig-thomas-extcieezu",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-idrovo-juan-pablo-ext7lricp",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-idrovo-juan-pablo-ext7lricp",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-idrovo-juan-pablo-ext7lricp",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-idrovo-juan-pablo-ext7lricp",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-idrovo-juan-pablo-ext7lricp",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-idrovo-juan-pablo-ext7lricp",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-idrovo-juan-pablo-ext7lricp",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-hesselberth-jay-extzenjdt",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-hesselberth-jay-extzenjdt",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-hesselberth-jay-extzenjdt",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-hesselberth-jay-extzenjdt",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-hesselberth-jay-extzenjdt",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-hesselberth-jay-extzenjdt",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-hesselberth-jay-extzenjdt",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-green-adam-extjw3y56",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-green-adam-extjw3y56",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-green-adam-extjw3y56",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-green-adam-extjw3y56",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-green-adam-extjw3y56",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-green-adam-extjw3y56",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-green-adam-extjw3y56",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-herrmann-brian-extjbpqgj",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-herrmann-brian-extjbpqgj",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-herrmann-brian-extjbpqgj",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-herrmann-brian-extjbpqgj",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-herrmann-brian-extjbpqgj",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-herrmann-brian-extjbpqgj",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-herrmann-brian-extjbpqgj",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-klug-achim-extmudiw1",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-klug-achim-extmudiw1",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-klug-achim-extmudiw1",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-klug-achim-extmudiw1",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-klug-achim-extmudiw1",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-klug-achim-extmudiw1",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-klug-achim-extmudiw1",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ifantides-cristos-ext829aun",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ifantides-cristos-ext829aun",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ifantides-cristos-ext829aun",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ifantides-cristos-ext829aun",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ifantides-cristos-ext829aun",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ifantides-cristos-ext829aun",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ifantides-cristos-ext829aun",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lambert-jim-extjt9wyo",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lambert-jim-extjt9wyo",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lambert-jim-extjt9wyo",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lambert-jim-extjt9wyo",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lambert-jim-extjt9wyo",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lambert-jim-extjt9wyo",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lambert-jim-extjt9wyo",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lyons-traci-ucd9600",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lyons-traci-ucd9600",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lyons-traci-ucd9600",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lyons-traci-ucd9600",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lyons-traci-ucd9600",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lyons-traci-ucd9600",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lyons-traci-ucd9600",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ma-ji-exta68ona",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ma-ji-exta68ona",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ma-ji-exta68ona",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ma-ji-exta68ona",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ma-ji-exta68ona",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ma-ji-exta68ona",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-ma-ji-exta68ona",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-maclean-ken-extm21avt",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-maclean-ken-extm21avt",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-maclean-ken-extm21avt",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-maclean-ken-extm21avt",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-maclean-ken-extm21avt",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-maclean-ken-extm21avt",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-maclean-ken-extm21avt",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-michels-aaron-ext52qult",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-michels-aaron-ext52qult",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-michels-aaron-ext52qult",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-michels-aaron-ext52qult",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-michels-aaron-ext52qult",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-michels-aaron-ext52qult",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-michels-aaron-ext52qult",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lammers-steven-ext74ag4x",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lammers-steven-ext74ag4x",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lammers-steven-ext74ag4x",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lammers-steven-ext74ag4x",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lammers-steven-ext74ag4x",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lammers-steven-ext74ag4x",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-lammers-steven-ext74ag4x",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagaraj-ram-extdl2xyj",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagaraj-ram-extdl2xyj",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagaraj-ram-extdl2xyj",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagaraj-ram-extdl2xyj",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagaraj-ram-extdl2xyj",
+  "to": "cuanschutz-edu-innovations-about-us-team-profile-nagaraj-ram-extdl2xyj",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagaraj-ram-extdl2xyj",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagaraj-ram-extdl2xyj",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagaraj-ram-extdl2xyj",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagel-maria-extt8dv7w",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagel-maria-extt8dv7w",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagel-maria-extt8dv7w",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagel-maria-extt8dv7w",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagel-maria-extt8dv7w",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagel-maria-extt8dv7w",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nagel-maria-extt8dv7w",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-mei-dan-omer-extz2shvw",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-mei-dan-omer-extz2shvw",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-mei-dan-omer-extz2shvw",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-mei-dan-omer-extz2shvw",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-mei-dan-omer-extz2shvw",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-mei-dan-omer-extz2shvw",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-mei-dan-omer-extz2shvw",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nair-devatha-extghma27",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nair-devatha-extghma27",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nair-devatha-extghma27",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nair-devatha-extghma27",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nair-devatha-extghma27",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nair-devatha-extghma27",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nair-devatha-extghma27",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-park-daewon-extajv56b",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-park-daewon-extajv56b",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-park-daewon-extajv56b",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-park-daewon-extajv56b",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-park-daewon-extajv56b",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-park-daewon-extajv56b",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-park-daewon-extajv56b",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-payne-karin-ext3jiwka",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-payne-karin-ext3jiwka",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-payne-karin-ext3jiwka",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-payne-karin-ext3jiwka",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-payne-karin-ext3jiwka",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-payne-karin-ext3jiwka",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-payne-karin-ext3jiwka",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pandita-aakriti-ext45dlmx",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pandita-aakriti-ext45dlmx",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pandita-aakriti-ext45dlmx",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pandita-aakriti-ext45dlmx",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pandita-aakriti-ext45dlmx",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pandita-aakriti-ext45dlmx",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pandita-aakriti-ext45dlmx",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nordeen-steven-extp463am",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nordeen-steven-extp463am",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nordeen-steven-extp463am",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nordeen-steven-extp463am",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nordeen-steven-extp463am",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nordeen-steven-extp463am",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-nordeen-steven-extp463am",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pantcheva-mina-exthfky9o",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pantcheva-mina-exthfky9o",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pantcheva-mina-exthfky9o",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pantcheva-mina-exthfky9o",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pantcheva-mina-exthfky9o",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pantcheva-mina-exthfky9o",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-pantcheva-mina-exthfky9o",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rove-jessica-ext7j56b5",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rove-jessica-ext7j56b5",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rove-jessica-ext7j56b5",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rove-jessica-ext7j56b5",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rove-jessica-ext7j56b5",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rove-jessica-ext7j56b5",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rove-jessica-ext7j56b5",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-segil-jacob-extauvwtz",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-segil-jacob-extauvwtz",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-segil-jacob-extauvwtz",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-segil-jacob-extauvwtz",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-segil-jacob-extauvwtz",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-segil-jacob-extauvwtz",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-segil-jacob-extauvwtz",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-shellman-yiqun-extk88zbg",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-shellman-yiqun-extk88zbg",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-shellman-yiqun-extk88zbg",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-shellman-yiqun-extk88zbg",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-shellman-yiqun-extk88zbg",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-shellman-yiqun-extk88zbg",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-shellman-yiqun-extk88zbg",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-thurman-joshua-ext1ezdl8",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-thurman-joshua-ext1ezdl8",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-thurman-joshua-ext1ezdl8",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-thurman-joshua-ext1ezdl8",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-thurman-joshua-ext1ezdl8",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-thurman-joshua-ext1ezdl8",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-thurman-joshua-ext1ezdl8",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rentschler-mark-exttul88l",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rentschler-mark-exttul88l",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rentschler-mark-exttul88l",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rentschler-mark-exttul88l",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rentschler-mark-exttul88l",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rentschler-mark-exttul88l",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-rentschler-mark-exttul88l",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-tobin-richard-extnudnqj",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-tobin-richard-extnudnqj",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-tobin-richard-extnudnqj",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-tobin-richard-extnudnqj",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-tobin-richard-extnudnqj",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-tobin-richard-extnudnqj",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-tobin-richard-extnudnqj",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-vibhakar-rajeev-exto1jycu",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-vibhakar-rajeev-exto1jycu",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-vibhakar-rajeev-exto1jycu",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-vibhakar-rajeev-exto1jycu",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-vibhakar-rajeev-exto1jycu",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-vibhakar-rajeev-exto1jycu",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-vibhakar-rajeev-exto1jycu",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wang-zhirui-ext2wjh7b",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wang-zhirui-ext2wjh7b",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wang-zhirui-ext2wjh7b",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wang-zhirui-ext2wjh7b",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wang-zhirui-ext2wjh7b",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wang-zhirui-ext2wjh7b",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wang-zhirui-ext2wjh7b",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-welle-cristin-ext3qshlk",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-welle-cristin-ext3qshlk",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-welle-cristin-ext3qshlk",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-welle-cristin-ext3qshlk",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-welle-cristin-ext3qshlk",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-welle-cristin-ext3qshlk",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-welle-cristin-ext3qshlk",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-westerly-david-exts9haw9",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-westerly-david-exts9haw9",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-westerly-david-exts9haw9",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-westerly-david-exts9haw9",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-westerly-david-exts9haw9",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-westerly-david-exts9haw9",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-westerly-david-exts9haw9",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-yu-liping-extg9u17j",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-yu-liping-extg9u17j",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-yu-liping-extg9u17j",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-yu-liping-extg9u17j",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-yu-liping-extg9u17j",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-yu-liping-extg9u17j",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-yu-liping-extg9u17j",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-zhao-rui-extqq09ic",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-zhao-rui-extqq09ic",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-zhao-rui-extqq09ic",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-zhao-rui-extqq09ic",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-zhao-rui-extqq09ic",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-zhao-rui-extqq09ic",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-zhao-rui-extqq09ic",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wempe-michael-extd2mvi9",
+  "to": "cuanschutz-edu-cu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wempe-michael-extd2mvi9",
+  "to": "cuanschutz-edu-innovations-campus-innovator-funding-toolbox-microgrants",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wempe-michael-extd2mvi9",
+  "to": "cuanschutz-edu-innovations",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wempe-michael-extd2mvi9",
+  "to": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wempe-michael-extd2mvi9",
+  "to": "cuanschutz-edu-innovations-spark-about-spark-spark-award",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wempe-michael-extd2mvi9",
+  "to": "cuanschutz-edu-innovations-spark-resources-links",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "cuanschutz-edu-innovations-who-we-are-profile-wempe-michael-extd2mvi9",
+  "to": "cuanschutz-edu-innovations-spark-resources-spark-documents",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-vanessa-mccrann-page-2-eventdisplay-past",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-vanessa-mccrann-page-2-eventdisplay-past",
+  "to": "startupcolorado-org-organizer-vanessa-mccrann-eventdisplay-past",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-creative-connections-with-mesa-county-fantasy-fa",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-creative-connections-with-mesa-county-fantasy-fa",
+  "to": "startupcolorado-org-event-rural-creative-connections-with-mesa-county-fantasy-fa",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-west-slope-startup-week-2025",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-page-2-eventdisplay-past",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-page-2-eventdisplay-past",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-12",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "to": "startupcolorado-org-join-the-community-rural-women-in-entrepreneurship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-9",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-8",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-11",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-advanced-industries-rural-roadshow",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-application-deadline-flagship-fellowship-powered-by-wa",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-application-deadline-flagship-fellowship-powered-by-wa",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-application-deadline-flagship-fellowship-powered-by-wa",
+  "to": "startupcolorado-org-event-application-deadline-flagship-fellowship-powered-by-wa",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-melty-bead-creations-how-to-make-homemade-products-tha",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-melty-bead-creations-how-to-make-homemade-products-tha",
+  "to": "startupcolorado-org-event-melty-bead-creations-how-to-make-homemade-products-tha",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-photo-page-3",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-colorado-startup-week",
+  "to": "colorado-edu-innovate-programs-resources-denver-startup-week",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-colorado-startup-week",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-creative-writers-meetup-publishing",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-page-3",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-2026-04-17",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-page-2-eventdisplay-past",
+  "to": "watson-is",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-list-page-2-eventdisplay-past",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-how-to-leverage-remote-teams-as-a-rural-startup",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-develop-climate-resilience-strategies",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-to-rebrand-or-to-refresh",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-building-rural-into-your-brand-identity",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-the-team-photo",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-stories-do-you-need-a-business-coach",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-brittany-romano-appointed-ceo-of-startup-colorado",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-category-ecosystem-building",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-how-to-build-a-startup-community",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-growth-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-stories-margaret-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-news-441615",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-uploadedtolink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-authorlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-originalimageurl-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-link-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-url-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d-amp-imag",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-wp-link-placeholder",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-quikrstuff-becomes-company-to-watch-opens-20in-20a-20new-20t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-yes-you-can-launch-a-climate-tech-startup-in-rural-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-idea-factory",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-stories-vanessa-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-news-151559",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-page-donate",
+  "to": "startupcolorado-org-news-181440",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-january-lean-coffee",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-organizer-colorado-sbdc-serving-the-west-central-region-even",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-creative-roundtable-featuring-cine-fe",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-funding-opportunities",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-funding-database",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-event-september-demo-days-with-startup-colorado",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-founder-coopetition-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-foundercoopetition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-news-648759",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-category-podcasts",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-crisis-response-resources-colorado-startups",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-workforce-development-resource-hub",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-category-ecosystem-building",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-rural-colorado-outdoor-startup-scene",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-how-to-build-a-startup-community",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-resource-center-colorado-startup-ecosystem-map",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-growth-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-stories-margaret-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-news-441615",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-uploadedtolink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-authorlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-originalimageurl-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-link-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-url-20-7d-7d",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-all-events-community-7b-7b-20data-editlink-20-7d-7d-amp-imag",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-wp-link-placeholder",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-quikrstuff-becomes-company-to-watch-opens-20in-20a-20new-20t",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-yes-you-can-launch-a-climate-tech-startup-in-rural-colorado-",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-idea-factory",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-stories-vanessa-startupcolorado-org",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-news-151559",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-news-181440",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-news-378286",
+  "to": "startupcolorado-org-page-donate",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-all-events-featured-page-2-eventdisplay-past",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-12",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "to": "startupcolorado-org-join-the-community-rural-women-in-entrepreneurship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "to": "innosphereventures-org-events",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-9",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-3",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-8",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-6",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-11",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-4",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-5",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "to": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "kind": "mentions",
   "weight": 1
  }
 ]

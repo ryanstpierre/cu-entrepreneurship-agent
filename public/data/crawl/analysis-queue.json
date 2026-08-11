@@ -1390,5 +1390,11 @@
   "reason": "pdf-needs-extraction",
   "relevance": 1,
   "depth": 4
+ },
+ {
+  "url": "https://startupcolorado.org/wp-content/uploads/2025/01/POP-Manual_DecFinal.pdf",
+  "reason": "pdf-needs-extraction",
+  "relevance": 1,
+  "depth": 4
  }
 ]

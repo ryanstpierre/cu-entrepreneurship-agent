@@ -1,7 +1,7 @@
 [
  {
   "host": "community.startupcolorado.org",
-  "count": 1794,
+  "count": 2174,
   "examples": [
    "https://community.startupcolorado.org/events/110697?amp%3Bmc_eid=efea1eee39",
    "https://community.startupcolorado.org/events/109764?amp%3Bmc_eid=efea1eee39",
@@ -10,7 +10,7 @@
  },
  {
   "host": "ruralstartup.substack.com",
-  "count": 1374,
+  "count": 1667,
   "examples": [
    "https://ruralstartup.substack.com/",
    "https://ruralstartup.substack.com/p/signup",
@@ -18,17 +18,8 @@
   ]
  },
  {
-  "host": "ruralstartupdays.com",
-  "count": 886,
-  "examples": [
-   "https://ruralstartupdays.com/",
-   "http://ruralstartupdays.com/",
-   "https://ruralstartupdays.com/agenda"
-  ]
- },
- {
   "host": "airtable.com",
-  "count": 885,
+  "count": 1076,
   "examples": [
    "https://airtable.com/appecgjAEPF6G0oQe/pagl8MxeYG1r7sRv1/form?amp%3Bmc_eid=efea1eee39",
    "https://airtable.com/appuqMEafOOQMf01L/pagUqCwwINXgZ1A5K/form?amp%3Butm_medium=Email&amp%3Butm_source=News",
@@ -36,8 +27,17 @@
   ]
  },
  {
+  "host": "ruralstartupdays.com",
+  "count": 1076,
+  "examples": [
+   "https://ruralstartupdays.com/",
+   "http://ruralstartupdays.com/",
+   "https://ruralstartupdays.com/agenda"
+  ]
+ },
+ {
   "host": "www.westslopestartupweek.com",
-  "count": 879,
+  "count": 1070,
   "examples": [
    "http://www.westslopestartupweek.com/"
   ]
@@ -53,7 +53,7 @@
  },
  {
   "host": "vimeo.com",
-  "count": 186,
+  "count": 187,
   "examples": [
    "https://vimeo.com/cuinnovations",
    "https://vimeo.com/cuinnovations/hie-impact",
@@ -62,7 +62,7 @@
  },
  {
   "host": "fitzsimonsinnovation.com",
-  "count": 149,
+  "count": 150,
   "examples": [
    "https://fitzsimonsinnovation.com/",
    "http://fitzsimonsinnovation.com/"
@@ -70,7 +70,7 @@
  },
  {
   "host": "www.childrenscolorado.org",
-  "count": 147,
+  "count": 148,
   "examples": [
    "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation",
    "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation/faculty-and-staff-form"
@@ -78,7 +78,7 @@
  },
  {
   "host": "www.uchealth.org",
-  "count": 147,
+  "count": 148,
   "examples": [
    "https://www.uchealth.org/innovation"
   ]
@@ -111,6 +111,15 @@
   ]
  },
  {
+  "host": "www.google.com",
+  "count": 96,
+  "examples": [
+   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjVvpzG5MLxAhXKm2oFHTpaANgQFnoECAIQAw&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
+   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjU_o2c8NbxAhUCXc0KHTJpDLkQFjAAegQIBRAD&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
+   "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fstartupcolorado.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+  ]
+ },
+ {
   "host": "innosphere.org",
   "count": 93,
   "examples": [
@@ -135,15 +144,6 @@
    "https://www.cuanschutz.edu/cu-innovations",
    "http://www.cuanschutz.edu/cu-innovations",
    "https://www.cuanschutz.edu/cu-innovations/campus-innovator/faculty-or-researcher/form-a-company/startup-portfolio"
-  ]
- },
- {
-  "host": "www.google.com",
-  "count": 86,
-  "examples": [
-   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjVvpzG5MLxAhXKm2oFHTpaANgQFnoECAIQAw&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
-   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjU_o2c8NbxAhUCXc0KHTJpDLkQFjAAegQIBRAD&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
-   "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fstartupcolorado.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
   ]
  },
  {
@@ -246,6 +246,15 @@
   ]
  },
  {
+  "host": "westslopestartupweek.com",
+  "count": 40,
+  "examples": [
+   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39",
+   "https://westslopestartupweek.com/",
+   "http://westslopestartupweek.com/"
+  ]
+ },
+ {
   "host": "watson.is",
   "count": 38,
   "examples": [
@@ -264,19 +273,19 @@
   ]
  },
  {
-  "host": "westslopestartupweek.com",
-  "count": 30,
-  "examples": [
-   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39",
-   "https://westslopestartupweek.com/",
-   "http://westslopestartupweek.com/"
-  ]
- },
- {
   "host": "innospherefund.com",
   "count": 30,
   "examples": [
    "https://innospherefund.com/"
+  ]
+ },
+ {
+  "host": "www.energy.gov",
+  "count": 28,
+  "examples": [
+   "https://www.energy.gov/cmei/office-critical-minerals-and-energy-innovation",
+   "https://www.energy.gov/technologycommercialization/articles/department-energy-welcomes-29-innovators-lab-embedded",
+   "https://www.energy.gov/eere/ammto/events/lab-embedded-entrepreneurship-program-leep-webinar"
   ]
  },
  {
@@ -296,6 +305,15 @@
   ]
  },
  {
+  "host": "www.rockiesventureclub.org",
+  "count": 27,
+  "examples": [
+   "https://www.rockiesventureclub.org/signature-series?amp%3Butm_medium=email",
+   "https://www.rockiesventureclub.org/",
+   "https://www.rockiesventureclub.org/hyper-accelerator"
+  ]
+ },
+ {
   "host": "www.grants.gov",
   "count": 26,
   "examples": [
@@ -305,17 +323,8 @@
   ]
  },
  {
-  "host": "www.rockiesventureclub.org",
-  "count": 25,
-  "examples": [
-   "https://www.rockiesventureclub.org/signature-series?amp%3Butm_medium=email",
-   "https://www.rockiesventureclub.org/",
-   "https://www.rockiesventureclub.org/hyper-accelerator"
-  ]
- },
- {
   "host": "www.ucdenver.edu",
-  "count": 23,
+  "count": 24,
   "examples": [
    "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx",
    "https://www.ucdenver.edu/anschutz/about/cuinnovations/investigators/protecting-your-innovation/Pages/Submit-an-Innovation.aspx",
@@ -347,15 +356,6 @@
    "https://new.nsf.gov/funding/initiatives/i-corps",
    "https://new.nsf.gov/funding/initiatives/regional-innovation-engines/about-nsf-engines",
    "https://new.nsf.gov/funding/initiatives/regional-innovation-engines/updates/nsf-selects-34-semifinalists-inaugural-nsf"
-  ]
- },
- {
-  "host": "www.energy.gov",
-  "count": 21,
-  "examples": [
-   "https://www.energy.gov/cmei/office-critical-minerals-and-energy-innovation",
-   "https://www.energy.gov/technologycommercialization/articles/department-energy-welcomes-29-innovators-lab-embedded",
-   "https://www.energy.gov/eere/ammto/events/lab-embedded-entrepreneurship-program-leep-webinar"
   ]
  },
  {
@@ -412,11 +412,20 @@
  },
  {
   "host": "youtu.be",
-  "count": 14,
+  "count": 15,
   "examples": [
    "https://youtu.be/qHCQAuDBnHg",
    "https://youtu.be/t1IQFHeLQtM",
    "https://youtu.be/6PlhCF07XE4"
+  ]
+ },
+ {
+  "host": "www.costartupweek.com",
+  "count": 14,
+  "examples": [
+   "https://www.costartupweek.com/",
+   "https://www.costartupweek.com/get-involved",
+   "https://www.costartupweek.com/sponsors"
   ]
  },
  {
@@ -435,6 +444,15 @@
    "https://www.bizjournals.com/denver/inno/stories/news/2024/05/17/food-wise-wins-university-of-colorado-nvc.html",
    "https://www.bizjournals.com/denver/news/2025/07/16/colorado-venture-capital-deals-feel-market-wobbles.html",
    "https://www.bizjournals.com/denver/event/172371/2026/2026-bizwomen-mentoring-monday-and-cocktail-reception?amp%3Butm_medium=email&amp%3B_hsenc=p2ANqtz-9EAaQyNegM6wDJ73zr4onfYHhLFzxTNXDdGa1S33uA_2kqqevJQQqeGgYd7zUF5wEqhymSMMLNiWr4-J6KRqfDdOxZUg&amp%3B_hsmi=395603650&amp%3Butm_content=395603650&amp%3Butm_source=hs_email"
+  ]
+ },
+ {
+  "host": "choosecolorado.com",
+  "count": 13,
+  "examples": [
+   "https://choosecolorado.com/doing-business/incentives-financing/advanced-industries",
+   "https://choosecolorado.com/doing-business/advanced-industries",
+   "https://choosecolorado.com/doing-business/incentives/skill-advance-job-training-grant"
   ]
  },
  {
@@ -458,15 +476,6 @@
   "count": 12,
   "examples": [
    "https://www.coloradomesa.edu/engineering/partnership-program/index.html"
-  ]
- },
- {
-  "host": "choosecolorado.com",
-  "count": 12,
-  "examples": [
-   "https://choosecolorado.com/doing-business/incentives-financing/advanced-industries",
-   "https://choosecolorado.com/doing-business/advanced-industries",
-   "https://choosecolorado.com/doing-business/incentives/skill-advance-job-training-grant"
   ]
  },
  {
@@ -529,15 +538,6 @@
   ]
  },
  {
-  "host": "www.costartupweek.com",
-  "count": 11,
-  "examples": [
-   "https://www.costartupweek.com/",
-   "https://www.costartupweek.com/get-involved",
-   "https://www.costartupweek.com/sponsors"
-  ]
- },
- {
   "host": "cuboulder.qualtrics.com",
   "count": 10,
   "examples": [
@@ -551,6 +551,14 @@
   "count": 10,
   "examples": [
    "https://sites.google.com/colorado.edu/boulderventureclub/home"
+  ]
+ },
+ {
+  "host": "seedfund.nsf.gov",
+  "count": 10,
+  "examples": [
+   "https://seedfund.nsf.gov/awardees/phase-1/details/?company=mana-battery-inc",
+   "https://seedfund.nsf.gov/"
   ]
  },
  {
@@ -614,14 +622,6 @@
    "https://cobioscience.com/robust-speaker-line-up-and-pitch-event-winner-at-cbsa-amgen-healthcare-innovation",
    "https://cobioscience.com/event/cbsa-membership-engagement-education-networking-jan_23_2025",
    "https://cobioscience.com/event/a-year-in-the-life-of-innovation"
-  ]
- },
- {
-  "host": "seedfund.nsf.gov",
-  "count": 9,
-  "examples": [
-   "https://seedfund.nsf.gov/awardees/phase-1/details/?company=mana-battery-inc",
-   "https://seedfund.nsf.gov/"
   ]
  },
  {
@@ -729,6 +729,14 @@
   ]
  },
  {
+  "host": "www.nrel.gov",
+  "count": 7,
+  "examples": [
+   "https://www.nrel.gov/west-gate/apply",
+   "https://www.nrel.gov/west-gate"
+  ]
+ },
+ {
   "host": "www.cvent.com",
   "count": 6,
   "examples": [
@@ -753,6 +761,15 @@
   ]
  },
  {
+  "host": "www.dailycamera.com",
+  "count": 6,
+  "examples": [
+   "https://www.dailycamera.com/2021/04/14/vaccine-transportation-startup-wins-cus-new-venture-challenge-pitch-slam",
+   "https://www.dailycamera.com/2023/10/16/cu-boulder-seeks-to-be-a-leader-in-innovation-nationwide",
+   "https://www.dailycamera.com/2025/02/16/a-broader-impact-cu-boulder-startup-culture-brings-life-changing-technology-to-colorado"
+  ]
+ },
+ {
   "host": "www.entrepsolutions.com",
   "count": 6,
   "examples": [
@@ -768,18 +785,19 @@
   ]
  },
  {
-  "host": "www.nrel.gov",
-  "count": 6,
-  "examples": [
-   "https://www.nrel.gov/west-gate/apply",
-   "https://www.nrel.gov/west-gate"
-  ]
- },
- {
   "host": "startupprize.com",
   "count": 6,
   "examples": [
    "https://startupprize.com/health"
+  ]
+ },
+ {
+  "host": "www.globenewswire.com",
+  "count": 6,
+  "examples": [
+   "https://www.globenewswire.com/news-release/2023/06/29/2697338/0/en/New-Iridium-Secures-1M-NSF-SBIR-Phase-II-Grant-to-Revolutionize-Chemical-Manufacturing-and-Combat-Climate-Change.html",
+   "https://www.globenewswire.com/news-release/2020/07/08/2059518/0/en/Colorado-based-New-Iridium-accelerating-global-production-of-potential-COVID-19-treatment-using-light-driven-chemistry.html",
+   "https://www.globenewswire.com/news-release/2026/03/25/3261894/0/en/Forge-Nano-Announces-Opening-of-Taiwan-Office-to-Accelerate-AI-Driven-Photonics-Manufacturing-and-Expand-Regional-Operations.html"
   ]
  },
  {
@@ -789,15 +807,6 @@
    "https://simpler.grants.gov/opportunity/5ed69538-0c16-44ad-a33e-ab3070585e12",
    "https://simpler.grants.gov/opportunity/d1ba49e5-3684-4420-849a-ab2330ec493e",
    "https://simpler.grants.gov/opportunity/359757"
-  ]
- },
- {
-  "host": "www.dailycamera.com",
-  "count": 5,
-  "examples": [
-   "https://www.dailycamera.com/2021/04/14/vaccine-transportation-startup-wins-cus-new-venture-challenge-pitch-slam",
-   "https://www.dailycamera.com/2023/10/16/cu-boulder-seeks-to-be-a-leader-in-innovation-nationwide",
-   "https://www.dailycamera.com/2025/02/16/a-broader-impact-cu-boulder-startup-culture-brings-life-changing-technology-to-colorado"
   ]
  },
  {
@@ -831,13 +840,6 @@
   "examples": [
    "https://ucdenverdata.formstack.com/forms/theclimb2026_consulting",
    "https://ucdenverdata.formstack.com/forms/theclimb2026_market"
-  ]
- },
- {
-  "host": "buffgoldventures.com",
-  "count": 5,
-  "examples": [
-   "https://buffgoldventures.com/"
   ]
  }
 ]

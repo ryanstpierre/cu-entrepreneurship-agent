@@ -1477,7 +1477,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2025-05-15-internal-news-oedit-announces-grants-cu-",
-  "url": "http://www.colorado.edu/venturepartners/2025/05/15/internal-news/oedit-announces-grants-cu-boulder-and-cu-denver-startups-and-researchers",
+  "url": "https://colorado.edu/venturepartners/2025/05/15/internal-news/oedit-announces-grants-cu-boulder-and-cu-denver-startups-and-researchers",
   "title": "Colorado Office of Economic Development and International Trade announces grants to CU Boulder and CU Denver startups and researchers | Vent",
   "org": "colorado.edu/venturepartners",
   "type": "funding",
@@ -1511,10 +1511,10 @@
    "due August 28, 2025"
   ],
   "specificity": 10,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/startup-portfolio/icarus-quantum-inc",
-  "fetchedAt": "2026-08-11T16:53:43.226Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/icarus-quantum-inc",
+  "fetchedAt": "2026-08-11T17:08:58.198Z",
   "needsAnalysis": false
  },
  {
@@ -3758,7 +3758,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-mana-battery-inc",
-  "url": "http://www.colorado.edu/venturepartners/startup-portfolio/mana-battery-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/mana-battery-inc",
   "title": "Mana Battery Inc. | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -3790,10 +3790,10 @@
    "due to insufficient cycle lifetimes and energy density"
   ],
   "specificity": 10,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
-  "fetchedAt": "2026-08-11T16:53:43.481Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
+  "fetchedAt": "2026-08-11T17:08:57.915Z",
   "needsAnalysis": false
  },
  {
@@ -4397,7 +4397,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2024-05-16-internal-news-colorado-office-economic-d",
-  "url": "http://colorado.edu/venturepartners/2024/05/16/internal-news/colorado-office-economic-development-and-international-trade-announces-grants-cu",
+  "url": "https://colorado.edu/venturepartners/2024/05/16/internal-news/colorado-office-economic-development-and-international-trade-announces-grants-cu",
   "title": "The Colorado Office of Economic Development and International Trade announces grants to CU researchers and startups | Venture Partners at CU",
   "org": "colorado.edu/venturepartners",
   "type": "funding",
@@ -4426,10 +4426,10 @@
    "due Thursday, August 29, 2024"
   ],
   "specificity": 10,
-  "depth": 6,
+  "depth": 8,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/exopower-inc",
-  "fetchedAt": "2026-08-11T16:54:29.192Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/exopower-inc",
+  "fetchedAt": "2026-08-11T17:08:59.530Z",
   "needsAnalysis": false
  },
  {
@@ -4742,6 +4742,50 @@
   "discoveredVia": "link",
   "parent": "https://colorado.edu/oce/funding-and-resources/foundations-community-engaged-research-micro-credential-program",
   "fetchedAt": "2026-08-11T17:07:02.139Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-apply-to-pitch-at-naturally-rising-the-conscious-busin",
+  "url": "https://startupcolorado.org/event/apply-to-pitch-at-naturally-rising-the-conscious-business-pitch-competition",
+  "title": "Apply to pitch at Naturally Rising: The Conscious Business Pitch Competition - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "APPLICATIONS TO PITCH AT THE NATURALLY RISING: CONSCIOUS BUSINESS PITCH COMPETTION ARE NOW OPEN. DEADLINE TO APPLY IS FEBRUARY 6TH.  INFORMATION ABOUT THE EVENT BELOW: Welcome to Naturally Colorado’s 21st [&hellip;]",
+  "audience": [
+   "community",
+   "high school"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [
+   "kristine@naturallycolorado.org",
+   "info@naturallycolorado.org",
+   "taylor@naturallycolorado.org"
+  ],
+  "funding": [
+   "$75",
+   "$100",
+   "$85",
+   "$110",
+   "$105",
+   "$130"
+  ],
+  "deadlines": [
+   "DEADLINE TO APPLY IS FEBRUARY 6TH",
+   "deadline to apply is February 6th"
+  ],
+  "specificity": 10,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person/page/2",
+  "fetchedAt": "2026-08-11T17:09:47.799Z",
   "needsAnalysis": false
  },
  {
@@ -6400,7 +6444,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2025-05-06-internal-news-university-colorado-boulde",
-  "url": "http://www.colorado.edu/venturepartners/2025/05/06/internal-news/university-colorado-boulder-awards-pre-seed-funding-alums-promising-gps-startup",
+  "url": "https://colorado.edu/venturepartners/2025/05/06/internal-news/university-colorado-boulder-awards-pre-seed-funding-alums-promising-gps-startup",
   "title": "CU Boulder awards pre-seed funding to alum’s promising GPS startup | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "competition",
@@ -6436,10 +6480,10 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/startup-portfolio/precisionterra-inc",
-  "fetchedAt": "2026-08-11T16:53:44.079Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/precisionterra-inc",
+  "fetchedAt": "2026-08-11T17:08:59.216Z",
   "needsAnalysis": false
  },
  {
@@ -6661,7 +6705,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2026-04-28-internal-news-forge-nano-list-16-billion",
-  "url": "http://colorado.edu/venturepartners/2026/04/28/internal-news/forge-nano-list-16-billion-spac-deal-making-it-cu-boulders-11th-unicorn-spinout",
+  "url": "https://colorado.edu/venturepartners/2026/04/28/internal-news/forge-nano-list-16-billion-spac-deal-making-it-cu-boulders-11th-unicorn-spinout",
   "title": "Forge Nano to go public via $1.6B SPAC, becoming CU Boulder’s 11th unicorn | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -6692,10 +6736,10 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/forge-nano-inc",
-  "fetchedAt": "2026-08-11T16:54:33.639Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/forge-nano-inc",
+  "fetchedAt": "2026-08-11T17:08:59.263Z",
   "needsAnalysis": false
  },
  {
@@ -9550,7 +9594,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2024-03-19-internal-news-pitch-competition-celebrat",
-  "url": "http://colorado.edu/venturepartners/2024/03/19/internal-news/pitch-competition-celebrates-and-funds-new-cu-boulder-ventures",
+  "url": "https://colorado.edu/venturepartners/2024/03/19/internal-news/pitch-competition-celebrates-and-funds-new-cu-boulder-ventures",
   "title": "Pitch competition celebrates and funds new CU Boulder ventures founded on scientific discoveries | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "competition",
@@ -9581,10 +9625,10 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 6,
+  "depth": 8,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/2025/03/10/internal-news/alum-sristy-agrawal-leads-cu-boulder-startup-mesa-quantum-success",
-  "fetchedAt": "2026-08-11T16:54:29.805Z",
+  "parent": "https://colorado.edu/venturepartners/2025/03/10/internal-news/alum-sristy-agrawal-leads-cu-boulder-startup-mesa-quantum-success",
+  "fetchedAt": "2026-08-11T17:09:00.111Z",
   "needsAnalysis": false
  },
  {
@@ -10123,7 +10167,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2026-03-20-external-news-two-cu-boulder-startups-se",
-  "url": "http://www.colorado.edu/venturepartners/2026/03/20/external-news/two-cu-boulder-startups-selected-luminate-new-york-accelerator",
+  "url": "https://colorado.edu/venturepartners/2026/03/20/external-news/two-cu-boulder-startups-selected-luminate-new-york-accelerator",
   "title": "Two CU Boulder startups selected for Luminate New York Accelerator | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "competition",
@@ -10153,10 +10197,10 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/startup-portfolio/manifest-technologies",
-  "fetchedAt": "2026-08-11T16:53:42.970Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/manifest-technologies",
+  "fetchedAt": "2026-08-11T17:08:57.877Z",
   "needsAnalysis": false
  },
  {
@@ -10211,7 +10255,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2026-07-08-external-news-cu-boulder-startup-page-te",
-  "url": "http://www.colorado.edu/venturepartners/2026/07/08/external-news/cu-boulder-startup-page-technologies-wins-400000-epa-sbir-phase-ii",
+  "url": "https://colorado.edu/venturepartners/2026/07/08/external-news/cu-boulder-startup-page-technologies-wins-400000-epa-sbir-phase-ii",
   "title": "CU Boulder startup Page Technologies wins $400,000 EPA SBIR Phase II | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "funding",
@@ -10240,10 +10284,10 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/startup-portfolio/page-technologies-inc",
-  "fetchedAt": "2026-08-11T16:53:43.778Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/page-technologies-inc",
+  "fetchedAt": "2026-08-11T17:08:58.893Z",
   "needsAnalysis": false
  },
  {
@@ -10586,7 +10630,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2025-04-16-external-news-mesa-quantum-scores-100k-i",
-  "url": "http://colorado.edu/venturepartners/2025/04/16/external-news/mesa-quantum-scores-100k-inaugural-state-grant-quantum-sensor-development",
+  "url": "https://colorado.edu/venturepartners/2025/04/16/external-news/mesa-quantum-scores-100k-inaugural-state-grant-quantum-sensor-development",
   "title": "Mesa Quantum scores $100K inaugural state grant for quantum sensor development | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "funding",
@@ -10611,10 +10655,10 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/mesa-quantum-systems-inc",
-  "fetchedAt": "2026-08-11T16:54:29.664Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/mesa-quantum-systems-inc",
+  "fetchedAt": "2026-08-11T17:08:59.963Z",
   "needsAnalysis": false
  },
  {
@@ -11068,7 +11112,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-systems-inc",
-  "url": "http://www.colorado.edu/venturepartners/startup-portfolio/mesa-quantum-systems-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/mesa-quantum-systems-inc",
   "title": "Mesa Quantum Systems Inc. | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -11104,15 +11148,15 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/lab-venture-challenge",
-  "fetchedAt": "2026-08-11T16:53:43.041Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/lab-venture-challenge",
+  "fetchedAt": "2026-08-11T17:08:57.537Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact-lab-ventur",
-  "url": "http://www.colorado.edu/venturepartners/make-gift-and-translate-discovery-impact/lab-venture-challenge-opportunities-support",
+  "url": "https://colorado.edu/venturepartners/make-gift-and-translate-discovery-impact/lab-venture-challenge-opportunities-support",
   "title": "Lab Venture Challenge Opportunities for Support | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "competition",
@@ -11140,15 +11184,15 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/lab-venture-challenge",
-  "fetchedAt": "2026-08-11T16:53:43.086Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/lab-venture-challenge",
+  "fetchedAt": "2026-08-11T17:08:57.906Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-icarus-quantum-inc",
-  "url": "http://www.colorado.edu/venturepartners/startup-portfolio/icarus-quantum-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/icarus-quantum-inc",
   "title": "Icarus Quantum Inc. | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -11179,15 +11223,15 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
-  "fetchedAt": "2026-08-11T16:53:43.121Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
+  "fetchedAt": "2026-08-11T17:08:57.895Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-otoro-energy-inc",
-  "url": "http://www.colorado.edu/venturepartners/startup-portfolio/otoro-energy-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/otoro-energy-inc",
   "title": "Otoro Energy Inc. | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -11217,15 +11261,15 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
-  "fetchedAt": "2026-08-11T16:53:43.589Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
+  "fetchedAt": "2026-08-11T17:08:58.245Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-page-technologies-inc",
-  "url": "http://www.colorado.edu/venturepartners/startup-portfolio/page-technologies-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/page-technologies-inc",
   "title": "PAGE Technologies Inc. | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -11255,15 +11299,15 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
-  "fetchedAt": "2026-08-11T16:53:43.657Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
+  "fetchedAt": "2026-08-11T17:08:58.535Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-tynt-technologies-inc",
-  "url": "http://www.colorado.edu/venturepartners/startup-portfolio/tynt-technologies-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/tynt-technologies-inc",
   "title": "Tynt Technologies Inc. | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -11292,15 +11336,15 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
-  "fetchedAt": "2026-08-11T16:53:43.805Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
+  "fetchedAt": "2026-08-11T17:08:58.547Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-eat-meatitm-meati-inc",
-  "url": "http://www.colorado.edu/venturepartners/startup-portfolio/eat-meatitm-meati-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/eat-meatitm-meati-inc",
   "title": "eat meati™ (Meati Inc.) | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -11332,10 +11376,10 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
-  "fetchedAt": "2026-08-11T16:53:44.106Z",
+  "parent": "https://colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
+  "fetchedAt": "2026-08-11T17:08:58.922Z",
   "needsAnalysis": false
  },
  {
@@ -13059,7 +13103,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2025-03-10-internal-news-alum-sristy-agrawal-leads-",
-  "url": "http://colorado.edu/venturepartners/2025/03/10/internal-news/alum-sristy-agrawal-leads-cu-boulder-startup-mesa-quantum-success",
+  "url": "https://colorado.edu/venturepartners/2025/03/10/internal-news/alum-sristy-agrawal-leads-cu-boulder-startup-mesa-quantum-success",
   "title": "Alum Sristy Agrawal leads CU Boulder startup Mesa Quantum to success | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "funding",
@@ -13094,15 +13138,15 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/mesa-quantum-systems-inc",
-  "fetchedAt": "2026-08-11T16:54:29.672Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/mesa-quantum-systems-inc",
+  "fetchedAt": "2026-08-11T17:08:59.970Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-forge-nano-inc",
-  "url": "http://colorado.edu/venturepartners/startup-portfolio/forge-nano-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/forge-nano-inc",
   "title": "Forge Nano Inc. | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -13131,15 +13175,15 @@
   ],
   "deadlines": [],
   "specificity": 8,
-  "depth": 3,
+  "depth": 5,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners",
-  "fetchedAt": "2026-08-11T16:54:33.265Z",
+  "parent": "https://colorado.edu/venturepartners",
+  "fetchedAt": "2026-08-11T17:08:57.544Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-lab-venture-challenge-lvc",
-  "url": "http://colorado.edu/venturepartners/lab-venture-challenge-lvc",
+  "url": "https://colorado.edu/venturepartners/lab-venture-challenge-lvc",
   "title": "Lab Venture Challenge | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "competition",
@@ -13175,10 +13219,10 @@
    "Deadline to disclose innovations— Disclose Now If you are uncertain if your technology a"
   ],
   "specificity": 8,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/2026/04/28/internal-news/forge-nano-list-16-billion-spac-deal-making-it-cu-boulders-11th-unicorn-spinout",
-  "fetchedAt": "2026-08-11T16:54:33.909Z",
+  "parent": "https://colorado.edu/venturepartners/2026/04/28/internal-news/forge-nano-list-16-billion-spac-deal-making-it-cu-boulders-11th-unicorn-spinout",
+  "fetchedAt": "2026-08-11T17:09:00.298Z",
   "needsAnalysis": false
  },
  {
@@ -17617,7 +17661,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-darwin-biosciences-inc",
-  "url": "http://www.colorado.edu/venturepartners/startup-portfolio/darwin-biosciences-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/darwin-biosciences-inc",
   "title": "Startup Portfolio | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -17643,10 +17687,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/lab-venture-challenge",
-  "fetchedAt": "2026-08-11T16:53:42.820Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/lab-venture-challenge",
+  "fetchedAt": "2026-08-11T17:08:57.566Z",
   "needsAnalysis": false
  },
  {
@@ -19432,7 +19476,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
-  "url": "http://colorado.edu/venturepartners/ascent-deep-tech-accelerator",
+  "url": "https://colorado.edu/venturepartners/ascent-deep-tech-accelerator",
   "title": "Ascent Deep Tech Accelerator | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "program",
@@ -19471,10 +19515,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 6,
+  "depth": 8,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/exopower-inc",
-  "fetchedAt": "2026-08-11T16:54:29.302Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/exopower-inc",
+  "fetchedAt": "2026-08-11T17:08:59.640Z",
   "needsAnalysis": false
  },
  {
@@ -19977,7 +20021,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2023-05-26-internal-news-second-year-deep-tech-acce",
-  "url": "http://colorado.edu/venturepartners/2023/05/26/internal-news/second-year-deep-tech-accelerator-advances-cu-startups",
+  "url": "https://colorado.edu/venturepartners/2023/05/26/internal-news/second-year-deep-tech-accelerator-advances-cu-startups",
   "title": "In second year, deep tech accelerator advances CU startups | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "program",
@@ -20006,10 +20050,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 6,
+  "depth": 8,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/exopower-inc",
-  "fetchedAt": "2026-08-11T16:54:29.220Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/exopower-inc",
+  "fetchedAt": "2026-08-11T17:08:59.566Z",
   "needsAnalysis": false
  },
  {
@@ -20501,7 +20545,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2025-04-25-external-news-trailblazing-ideas-and-ent",
-  "url": "http://www.colorado.edu/venturepartners/2025/04/25/external-news/trailblazing-ideas-and-entrepreneurial-spirit-reap-rewards-2025-nvc-finals",
+  "url": "https://colorado.edu/venturepartners/2025/04/25/external-news/trailblazing-ideas-and-entrepreneurial-spirit-reap-rewards-2025-nvc-finals",
   "title": "Trailblazing ideas and entrepreneurial spirit reap rewards at the 2025 NVC Finals | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "competition",
@@ -20523,10 +20567,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/startup-portfolio/icarus-quantum-inc",
-  "fetchedAt": "2026-08-11T16:53:43.283Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/icarus-quantum-inc",
+  "fetchedAt": "2026-08-11T17:08:58.212Z",
   "needsAnalysis": false
  },
  {
@@ -20565,7 +20609,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2025-03-10-external-news-sustainable-spinouts-innov",
-  "url": "http://www.colorado.edu/venturepartners/2025/03/10/external-news/sustainable-spinouts-innovation-action",
+  "url": "https://colorado.edu/venturepartners/2025/03/10/external-news/sustainable-spinouts-innovation-action",
   "title": "Sustainable spinouts: innovation in action | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -20587,10 +20631,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/startup-portfolio/latimer-controls-inc",
-  "fetchedAt": "2026-08-11T16:53:43.489Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/latimer-controls-inc",
+  "fetchedAt": "2026-08-11T17:08:58.221Z",
   "needsAnalysis": false
  },
  {
@@ -21124,7 +21168,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-newsroom-cu-innovators-news",
-  "url": "http://www.colorado.edu/venturepartners/newsroom/cu-innovators-news",
+  "url": "https://colorado.edu/venturepartners/newsroom/cu-innovators-news",
   "title": "CU Innovators News | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -21146,15 +21190,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/investors-and-industry/licensing-industry",
-  "fetchedAt": "2026-08-11T16:53:40.653Z",
+  "parent": "https://colorado.edu/venturepartners/investors-and-industry/licensing-industry",
+  "fetchedAt": "2026-08-11T17:08:57.522Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-2025-07-14-external-news-us-energy-department-selec",
-  "url": "http://www.colorado.edu/venturepartners/2025/07/14/external-news/us-energy-department-selects-kian-lopez-osmopure-west-gate-lab-embedded-entrepreneurship",
+  "url": "https://colorado.edu/venturepartners/2025/07/14/external-news/us-energy-department-selects-kian-lopez-osmopure-west-gate-lab-embedded-entrepreneurship",
   "title": "U.S. Energy Department selects Kian Lopez of OsmoPure for West Gate Lab-Embedded Entrepreneurship Program | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "community",
@@ -21180,10 +21224,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/center-translational-research",
-  "fetchedAt": "2026-08-11T16:53:43.975Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/center-translational-research",
+  "fetchedAt": "2026-08-11T17:08:58.570Z",
   "needsAnalysis": false
  },
  {
@@ -21387,7 +21431,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2025-03-18-internal-news-cu-boulder-hosts-showcases",
-  "url": "http://colorado.edu/venturepartners/2025/03/18/internal-news/cu-boulder-hosts-showcases-highlighting-breakthrough-innovations-and-investment-ready",
+  "url": "https://colorado.edu/venturepartners/2025/03/18/internal-news/cu-boulder-hosts-showcases-highlighting-breakthrough-innovations-and-investment-ready",
   "title": "CU Boulder hosts showcases highlighting breakthrough innovations and investment-ready ventures | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -21421,10 +21465,10 @@
   ],
   "deadlines": [],
   "specificity": 6,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/icarus-quantum-inc",
-  "fetchedAt": "2026-08-11T16:54:30.018Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/icarus-quantum-inc",
+  "fetchedAt": "2026-08-11T17:09:00.270Z",
   "needsAnalysis": false
  },
  {
@@ -21762,7 +21806,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-2026-01-29-internal-news-destination-startup-announ",
-  "url": "http://colorado.edu/venturepartners/2026/01/29/internal-news/destination-startup-announces-startups-across-region-present-annual-showcase",
+  "url": "https://colorado.edu/venturepartners/2026/01/29/internal-news/destination-startup-announces-startups-across-region-present-annual-showcase",
   "title": "Destination Startup announces startups across the region to present at annual showcase | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "funding",
@@ -21784,15 +21828,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/manifest-technologies",
-  "fetchedAt": "2026-08-11T16:54:29.093Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/manifest-technologies",
+  "fetchedAt": "2026-08-11T17:08:59.798Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-manifest-technologies",
-  "url": "http://www.colorado.edu/venturepartners/startup-portfolio/manifest-technologies",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/manifest-technologies",
   "title": "Manifest Technologies Inc. (prev. Vitro3D Inc.) | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -21818,15 +21862,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/lab-venture-challenge",
-  "fetchedAt": "2026-08-11T16:53:42.789Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/lab-venture-challenge",
+  "fetchedAt": "2026-08-11T17:08:57.530Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-latimer-controls-inc",
-  "url": "http://www.colorado.edu/venturepartners/startup-portfolio/latimer-controls-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/latimer-controls-inc",
   "title": "Latimer Controls Inc. | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -21856,15 +21900,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
-  "fetchedAt": "2026-08-11T16:53:43.355Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
+  "fetchedAt": "2026-08-11T17:08:57.886Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-omc-thermochemistry",
-  "url": "http://www.colorado.edu/venturepartners/startup-portfolio/omc-thermochemistry",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/omc-thermochemistry",
   "title": "OMC Thermochemistry | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -21891,15 +21935,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
-  "fetchedAt": "2026-08-11T16:53:43.534Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/funding-opportunities-and-support/destination-startup",
+  "fetchedAt": "2026-08-11T17:08:58.229Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-get-started-path-commercialization",
-  "url": "http://www.colorado.edu/venturepartners/get-started/path-commercialization",
+  "url": "https://colorado.edu/venturepartners/get-started/path-commercialization",
   "title": "The Path to Commercialization | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -21926,15 +21970,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/university-innovators/intellectual-property-management/disclose-an-innovation",
-  "fetchedAt": "2026-08-11T16:53:43.842Z",
+  "parent": "https://colorado.edu/venturepartners/university-innovators/intellectual-property-management/disclose-an-innovation",
+  "fetchedAt": "2026-08-11T17:08:58.558Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-precisionterra-inc",
-  "url": "http://www.colorado.edu/venturepartners/startup-portfolio/precisionterra-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/precisionterra-inc",
   "title": "PrecisionTerra Inc. | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -21964,10 +22008,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
-  "fetchedAt": "2026-08-11T16:53:44.010Z",
+  "parent": "https://colorado.edu/venturepartners/opportunities-and-events/embark-deep-tech-startup-creator",
+  "fetchedAt": "2026-08-11T17:08:58.932Z",
   "needsAnalysis": false
  },
  {
@@ -22143,7 +22187,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-technology-portfolio-licensing-opportunities-quantu",
-  "url": "http://www.colorado.edu/venturepartners/technology-portfolio/licensing-opportunities-quantum-and-photonics-technologies",
+  "url": "https://colorado.edu/venturepartners/technology-portfolio/licensing-opportunities-quantum-and-photonics-technologies",
   "title": "Licensing Opportunities for Quantum and Photonics Technologies | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "service",
@@ -22175,15 +22219,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/investors-and-industry/licensing-industry",
-  "fetchedAt": "2026-08-11T16:53:46.377Z",
+  "parent": "https://colorado.edu/venturepartners/investors-and-industry/licensing-industry",
+  "fetchedAt": "2026-08-11T17:08:58.942Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-technology-portfolio-licensing-opportunities-climat",
-  "url": "http://www.colorado.edu/venturepartners/technology-portfolio/licensing-opportunities-climate-energy-and-sustainability",
+  "url": "https://colorado.edu/venturepartners/technology-portfolio/licensing-opportunities-climate-energy-and-sustainability",
   "title": "Licensing Opportunities for Climate, Energy and Sustainability | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "service",
@@ -22208,10 +22252,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 4,
+  "depth": 6,
   "discoveredVia": "link",
-  "parent": "http://www.colorado.edu/venturepartners/investors-and-industry/licensing-industry",
-  "fetchedAt": "2026-08-11T16:53:46.427Z",
+  "parent": "https://colorado.edu/venturepartners/investors-and-industry/licensing-industry",
+  "fetchedAt": "2026-08-11T17:08:58.953Z",
   "needsAnalysis": false
  },
  {
@@ -23086,7 +23130,7 @@
  },
  {
   "id": "colorado-edu-venturepartners-startup-portfolio-exopower-inc",
-  "url": "http://colorado.edu/venturepartners/startup-portfolio/exopower-inc",
+  "url": "https://colorado.edu/venturepartners/startup-portfolio/exopower-inc",
   "title": "ExoPower Inc. | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "space",
@@ -23113,15 +23157,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/2025/11/20/external-news/colorado-office-economic-development-and-international-trade-announces-grants-university",
-  "fetchedAt": "2026-08-11T16:54:28.946Z",
+  "parent": "https://colorado.edu/venturepartners/2025/11/20/external-news/colorado-office-economic-development-and-international-trade-announces-grants-university",
+  "fetchedAt": "2026-08-11T17:08:59.273Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-2025-02-16-external-news-broader-impact-cu-boulder-",
-  "url": "http://colorado.edu/venturepartners/2025/02/16/external-news/broader-impact-cu-boulder-startup-culture-brings-life-changing-technology-colorado",
+  "url": "https://colorado.edu/venturepartners/2025/02/16/external-news/broader-impact-cu-boulder-startup-culture-brings-life-changing-technology-colorado",
   "title": "‘A broader impact’: CU Boulder startup culture brings life-changing technology to Colorado | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -23143,15 +23187,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/manifest-technologies",
-  "fetchedAt": "2026-08-11T16:54:29.459Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/manifest-technologies",
+  "fetchedAt": "2026-08-11T17:08:59.940Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-2024-10-11-external-news-we-went-startup-symposium-",
-  "url": "http://colorado.edu/venturepartners/2024/10/11/external-news/we-went-startup-symposium-university-colorado-we-saw-these-nine-cool-startups-we-said",
+  "url": "https://colorado.edu/venturepartners/2024/10/11/external-news/we-went-startup-symposium-university-colorado-we-saw-these-nine-cool-startups-we-said",
   "title": "We went to a startup symposium at the University of Colorado. We saw these nine cool startups. We said “wow” a lot. | Venture Partners at CU",
   "org": "colorado.edu/venturepartners",
   "type": "program",
@@ -23173,15 +23217,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/manifest-technologies",
-  "fetchedAt": "2026-08-11T16:54:29.652Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/manifest-technologies",
+  "fetchedAt": "2026-08-11T17:08:59.952Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-2023-03-30-external-news-omc-hydrogen-wins-first-pl",
-  "url": "http://colorado.edu/venturepartners/2023/03/30/external-news/omc-hydrogen-wins-first-place-doe-competition",
+  "url": "https://colorado.edu/venturepartners/2023/03/30/external-news/omc-hydrogen-wins-first-place-doe-competition",
   "title": "OMC Hydrogen wins first place in DOE competition | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "competition",
@@ -23204,15 +23248,15 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/omc-thermochemistry",
-  "fetchedAt": "2026-08-11T16:54:30.117Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/omc-thermochemistry",
+  "fetchedAt": "2026-08-11T17:09:00.283Z",
   "needsAnalysis": false
  },
  {
   "id": "colorado-edu-venturepartners-2025-01-30-exernal-news-5-cu-boulder-startups-watch",
-  "url": "http://colorado.edu/venturepartners/2025/01/30/exernal-news/5-cu-boulder-startups-watch-2025",
+  "url": "https://colorado.edu/venturepartners/2025/01/30/exernal-news/5-cu-boulder-startups-watch-2025",
   "title": "5 CU Boulder startups to watch in 2025 | Venture Partners at CU Boulder",
   "org": "colorado.edu/venturepartners",
   "type": "reference",
@@ -23234,10 +23278,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 6,
-  "depth": 5,
+  "depth": 7,
   "discoveredVia": "link",
-  "parent": "http://colorado.edu/venturepartners/startup-portfolio/mesa-quantum-systems-inc",
-  "fetchedAt": "2026-08-11T16:54:30.406Z",
+  "parent": "https://colorado.edu/venturepartners/startup-portfolio/mesa-quantum-systems-inc",
+  "fetchedAt": "2026-08-11T17:09:00.254Z",
   "needsAnalysis": false
  },
  {
@@ -27971,6 +28015,253 @@
   "discoveredVia": "link",
   "parent": "https://startupcolorado.org/stories/category/founder-stories/page/5",
   "fetchedAt": "2026-08-11T17:08:33.781Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-lead-the-conversation",
+  "url": "https://startupcolorado.org/stories/lead-the-conversation",
+  "title": "Lead the Conversation: Why You Should Join the West Slope Startup Week Lineup This Year - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Lead the conversation in Durango—Join the West Slope Startup Week lineup this year and be a part of our vibrant community.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadline While official submissions are due by June 20th , we highly recommend getting a"
+  ],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/blog",
+  "fetchedAt": "2026-08-11T17:09:04.676Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-wssw-25-pitch-your-session",
+  "url": "https://startupcolorado.org/stories/wssw-25-pitch-your-session",
+  "title": "WSSW25: Pitch Your Session - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "It&#039;s time to pitch your session for WSSW 2025! What are you passionate about sharing with your community of entrepreneurs?",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "applications close"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/blog/page/5",
+  "fetchedAt": "2026-08-11T17:09:23.012Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-starting-blocks-customer-discovery-workshop",
+  "url": "https://startupcolorado.org/event/starting-blocks-customer-discovery-workshop",
+  "title": "Starting Blocks Customer Discovery Workshop - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Do you have an innovation that could make a difference? Whether a researcher, entrepreneur, inventor or problem solver, the National Science Foundation’s I-Corps Starting Blocks Customer Discovery Workshop at Venture Partners [&hellip;]",
+  "audience": [
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "deadline July 24"
+  ],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person",
+  "fetchedAt": "2026-08-11T17:09:28.232Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-ai-for-business-ai-skilling-in-the-workplace",
+  "url": "https://startupcolorado.org/event/ai-for-business-ai-skilling-in-the-workplace",
+  "title": "AI for Business — AI Skilling in the Workplace - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "This 2-hour FREE workshop brings together local business leaders for a conversation about how AI is solving real-world business problems and what that means for the future of skilling in [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "jennifer@ruralai.org"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person",
+  "fetchedAt": "2026-08-11T17:09:30.388Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-eagle-county-business-funding-panel",
+  "url": "https://startupcolorado.org/event/eagle-county-business-funding-panel",
+  "title": "Eagle County Business Funding Panel - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "funding",
+  "description": "Seeking capital to launch, grow, or sustain your business? The Eagle County Business Funding Panel demystifies the path to capital. Attendees will hear directly from a diverse panel of experts, [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "info@northwestsbdc.org"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person/page/2",
+  "fetchedAt": "2026-08-11T17:09:55.019Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rmmfi-business-idea-lab",
+  "url": "https://startupcolorado.org/event/rmmfi-business-idea-lab",
+  "title": "RMMFI Business Idea Lab - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Have a business idea but not sure where to start or working with someone who does? RMMFI’s Business Idea Lab is designed for early-stage entrepreneurs across Colorado (outside the Denver [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Applications Open: May 4, 2026 Applications Close: May 15, 2026 Program Kickoff (Orientation): Ma"
+  ],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:10:05.497Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-application-deadline-flagship-fellowship-powered-by-wa",
+  "url": "https://startupcolorado.org/event/application-deadline-flagship-fellowship-powered-by-watson-institute",
+  "title": "Application Deadline: Flagship Fellowship powered by Watson Institute - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "funding",
+  "description": "The final application deadline for the Flagship Fellowship 2026, powered by Watson Institute is June 28th! This fully funded fellowship is designed for entrepreneurs ready to grow their business and [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadline: Flagship Fellowship powered by Watson Institute - Startup Colorado Skip to con",
+   "Deadline: Flagship Fellowship powered by Watson Institute June 28 Register/Join Add to c",
+   "deadline for the Flagship Fellowship 2026, powered by Watson Institute is June 28th ! Th",
+   "Deadline: Flagship Fellowship powered by Watson Institute June 28, 2026 Register/Join Ad"
+  ],
+  "specificity": 6,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/photo/page/2/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:11:03.997Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-melty-bead-creations-how-to-make-homemade-products-tha",
+  "url": "https://startupcolorado.org/event/melty-bead-creations-how-to-make-homemade-products-that-sell",
+  "title": "Melty Bead Creations - How to Make Homemade Products that Sell! - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Join YouthBiz in this FREE workshop to learn to make successful handmade products! Participants will make products out of Melty Beads while learning about business best practices. • Materials provided [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "mking@yacenter.org"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 6,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/photo/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:11:08.534Z",
   "needsAnalysis": false
  },
  {
@@ -33655,52 +33946,6 @@
   "needsAnalysis": false
  },
  {
-  "id": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
-  "url": "https://www.cuanschutz.edu/cu-innovations/campus-innovator/faculty-or-researcher/form-a-company/innovation-hub",
-  "title": "Innovation Hub",
-  "org": "cuanschutz.edu",
-  "type": "reference",
-  "description": "Innovation Hub Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Alumni R",
-  "audience": [
-   "faculty",
-   "staff",
-   "alumni",
-   "community",
-   "students"
-  ],
-  "stage": [
-   "explore",
-   "build",
-   "launch"
-  ],
-  "sectors": [
-   "ai",
-   "biotech",
-   "bioscience",
-   "aerospace",
-   "edtech",
-   "health",
-   "arts",
-   "medtech",
-   "space"
-  ],
-  "contacts": [
-   "np@smithhopen.com",
-   "bfassett@wsgr.com",
-   "wbarrett@wsgr.com",
-   "steve@setterroche.com",
-   "Hello@ProximaCRO.com"
-  ],
-  "funding": [],
-  "deadlines": [],
-  "specificity": 5,
-  "depth": 3,
-  "discoveredVia": "link",
-  "parent": "https://www.cuanschutz.edu/innovations/campus-innovator/funding/toolbox-microgrants",
-  "fetchedAt": "2026-08-11T17:03:03.620Z",
-  "needsAnalysis": false
- },
- {
   "id": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-innovation-hub",
   "url": "https://www.cuanschutz.edu/cu-innovations/cu-innovations/innovator-resources/innovation-hub",
   "title": "Innovation Hub",
@@ -34493,6 +34738,1003 @@
   "discoveredVia": "link",
   "parent": "http://colorado.edu/researchinnovation/about",
   "fetchedAt": "2026-08-11T17:08:49.746Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-researchinnovation-human-research-irb-0",
+  "url": "http://colorado.edu/researchinnovation/human-research-irb-0",
+  "title": "Human Research & IRB | Research & Innovation Office",
+  "org": "colorado.edu/researchinnovation",
+  "type": "reference",
+  "description": "Human Research & IRB | Research & Innovation Office | University of Colorado Boulder Skip to main content Research & Innovation Office Home About Operations & Administration Research Operations & Administration Office of Contracts and Grants Partners with researchers throughout the lifecycle of an a",
+  "audience": [
+   "undergrads",
+   "grad students",
+   "postdocs",
+   "faculty",
+   "staff",
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "quantum"
+  ],
+  "contacts": [
+   "irbadmin@colorado.edu",
+   "rio@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/researchinnovation/research-security-integrity",
+  "fetchedAt": "2026-08-11T17:09:00.580Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ocg-fellowships-fellowship-faqs",
+  "url": "http://colorado.edu/ocg/fellowships/fellowship-faqs",
+  "title": "Fellowship FAQs | Office of Contracts and Grants",
+  "org": "colorado.edu/ocg",
+  "type": "funding",
+  "description": "Fellowship FAQs | Office of Contracts and Grants | University of Colorado Boulder Skip to main content Office of Contracts and Grants Home About Us Forms Policies FAQs Glossary Training eRA Directory Contact Us Translate English Spanish Chinese French German Korean Lao Nepali Japanese Tibetan Search",
+  "audience": [
+   "postdocs",
+   "students"
+  ],
+  "stage": [],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "deadline"
+  ],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ocg/fellowships",
+  "fetchedAt": "2026-08-11T17:09:01.058Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-tag-in-person-page-2",
+  "url": "https://startupcolorado.org/stories/tag/in-person/page/2",
+  "title": "In-Person Archives - Page 2 of 3 - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "In-Person Archives - Page 2 of 3 - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROG",
+  "audience": [
+   "community",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "deep tech"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "DEADLINE TO APPLY IS FEBRUARY 6TH"
+  ],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person",
+  "fetchedAt": "2026-08-11T17:09:43.635Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-jagannathan-sujatha-extyt37h6",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Jagannathan-Sujatha-EXTYT37H6",
+  "title": "sujatha.jagannathan@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "sujatha.jagannathan@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources ",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "sujatha.jagannathan@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:43.982Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-manoharan-niranjan-extt56ryd",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Manoharan-Niranjan-EXTT56RYD",
+  "title": "niranjan.manoharan@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "niranjan.manoharan@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources S",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "niranjan.manoharan@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:46.038Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-kuhn-kristi-extpq7zb7",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Kuhn-Kristi-EXTPQ7ZB7",
+  "title": "kristine.kuhn@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "kristine.kuhn@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "kristine.kuhn@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:46.498Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-li-suzhao-extc48963",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Li-Suzhao-EXTC48963",
+  "title": "suzhao.li@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "suzhao.li@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter ",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "suzhao.li@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:46.503Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-rissland-olivia-extsszhfb",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Rissland-Olivia-EXTSSZHFB",
+  "title": "olivia.rissland@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "olivia.rissland@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supp",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "olivia.rissland@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:46.895Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-wilcox-duncan-exto5e6b1",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Wilcox-Duncan-EXTO5E6B1",
+  "title": "duncan.wilcox@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "duncan.wilcox@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "duncan.wilcox@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:46.973Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-altunbas-cem-ext26972n",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Altunbas-Cem-EXT26972N",
+  "title": "cem.altunbas@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "cem.altunbas@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "cem.altunbas@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:47.250Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-bodine-cathy-ext55827e",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Bodine-Cathy-EXT55827E",
+  "title": "CATHY.BODINE@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "CATHY.BODINE@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [
+   "$80"
+  ],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:47.322Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-ramachandran-srinivas-exthophwe",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Ramachandran-Srinivas-EXTHOPHWE",
+  "title": "srinivas.ramachandran@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "srinivas.ramachandran@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resource",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "srinivas.ramachandran@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:47.412Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-bruce-kim-ext6dvd8h",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Bruce-Kim-EXT6DVD8H",
+  "title": "kimberley.bruce@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "kimberley.bruce@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supp",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "kimberley.bruce@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:47.585Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-bubak-andrew-ext5yb5tj",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Bubak-Andrew-EXT5YB5TJ",
+  "title": "andrew.bubak@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "andrew.bubak@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "andrew.bubak@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:47.674Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-flaig-thomas-extcieezu",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Flaig-Thomas-EXTCIEEZU",
+  "title": "thomas.flaig@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "thomas.flaig@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "thomas.flaig@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:48.853Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-hesselberth-jay-extzenjdt",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Hesselberth-Jay-EXTZENJDT",
+  "title": "jay.hesselberth@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "jay.hesselberth@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supp",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "jay.hesselberth@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:49.141Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-ifantides-cristos-ext829aun",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Ifantides-Cristos-EXT829AUN",
+  "title": "cristos.ifantides@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "cristos.ifantides@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Su",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "cristos.ifantides@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:49.515Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-lambert-jim-extjt9wyo",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Lambert-Jim-EXTJT9WYO",
+  "title": "jim.lambert@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "jim.lambert@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "jim.lambert@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:49.518Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-nagaraj-ram-extdl2xyj",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Nagaraj-Ram-EXTDL2XYJ",
+  "title": "ram.nagaraj@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "ram.nagaraj@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "energy"
+  ],
+  "contacts": [
+   "ram.nagaraj@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:50.059Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-nagel-maria-extt8dv7w",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Nagel-Maria-EXTT8DV7W",
+  "title": "maria.nagel@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "maria.nagel@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "high school",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "maria.nagel@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:50.193Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-mei-dan-omer-extz2shvw",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Mei-Dan-Omer-EXTZ2SHVW",
+  "title": "omer.meidan@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "omer.meidan@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "omer.meidan@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:50.330Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-nair-devatha-extghma27",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Nair-Devatha-EXTGHMA27",
+  "title": "devatha.nair@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "devatha.nair@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "devatha.nair@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:50.384Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-nordeen-steven-extp463am",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Nordeen-Steven-EXTP463AM",
+  "title": "steve.nordeen@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "steve.nordeen@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "steve.nordeen@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:50.805Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-pantcheva-mina-exthfky9o",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Pantcheva-Mina-EXTHFKY9O",
+  "title": "mina.pantcheva@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "mina.pantcheva@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppo",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "mina.pantcheva@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:50.893Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-segil-jacob-extauvwtz",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Segil-Jacob-EXTAUVWTZ",
+  "title": "noemail@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "noemail@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & ",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "noemail@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:51.159Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-thurman-joshua-ext1ezdl8",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Thurman-Joshua-EXT1EZDL8",
+  "title": "joshua.thurman@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "joshua.thurman@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppo",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "joshua.thurman@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:51.231Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-vibhakar-rajeev-exto1jycu",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Vibhakar-Rajeev-EXTO1JYCU",
+  "title": "RAJEEV.VIBHAKAR@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "RAJEEV.VIBHAKAR@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supp",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "due to the tumor's location in a critical brain region"
+  ],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:51.499Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-wempe-michael-extd2mvi9",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Wempe-Michael-EXTD2MVI9",
+  "title": "michael.wempe@cuanschutz.edu",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "michael.wempe@cuanschutz.edu Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [
+   "michael.wempe@cuanschutz.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:52.134Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-all-events-photo-page-2-eventdisplay-past",
+  "url": "https://startupcolorado.org/all-events/photo/page/2/?eventDisplay=past",
+  "title": "Display of Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 2 &#8211; Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Display of Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 2 &#8211; Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Bu",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadline: Flagship Fellowship powered by Watson Institute Jun 28 Application Deadline: F"
+  ],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/photo/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:10:58.783Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-all-events-list-page-2-eventdisplay-past",
+  "url": "https://startupcolorado.org/all-events/list/page/2/?eventDisplay=past",
+  "title": "Past Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 2 &#8211; Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Past Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 2 &#8211; Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building",
+  "audience": [
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "Deadline: Flagship Fellowship powered by Watson Institute June 28 Online The final appli",
+   "deadline for the Flagship Fellowship 2026, powered by Watson Institute is June 28th! Thi"
+  ],
+  "specificity": 5,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/list/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:11:27.832Z",
   "needsAnalysis": false
  },
  {
@@ -43454,6 +44696,39 @@
   "needsAnalysis": false
  },
  {
+  "id": "cuanschutz-edu-cu-innovations-campus-innovator-faculty-or-researcher-form-a-comp",
+  "url": "https://www.cuanschutz.edu/cu-innovations/campus-innovator/faculty-or-researcher/form-a-company/startup-portfolio",
+  "title": "Startup Portfolio | CU Innovations",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "Portfolio of Startups Developed through CU Innovations",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 7,
+  "discoveredVia": "link",
+  "parent": "https://colorado.edu/venturepartners/2025/11/20/external-news/colorado-office-economic-development-and-international-trade-announces-grants-university",
+  "fetchedAt": "2026-08-11T17:08:59.474Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "startupcolorado-org-event-soco-startup-week-community-hackathon-workshop-naturec",
   "url": "https://startupcolorado.org/event/soco-startup-week-community-hackathon-workshop-naturechase-mainstreet-adventure",
   "title": "SoCo Startup Week - Community Hackathon Workshop &amp; NatureChase Mainstreet Adventure - Startup Colorado",
@@ -45117,6 +46392,971 @@
   "discoveredVia": "link",
   "parent": "http://colorado.edu/researchinnovation/research-operations-administration",
   "fetchedAt": "2026-08-11T17:08:48.949Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-patrick-mcspadden",
+  "url": "http://colorado.edu/ideaforge/patrick-mcspadden",
+  "title": "Patrick McSpadden | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "course",
+  "description": "Patrick is a Manufacturing Engineer in the Idea Forge Machine Shop. He earned his degree in Mechanical Engineering from CU Boulder in 2022, where he developed a passion for hands-on engineering and discovered a love for teaching. Those experiences inspired him to join the Idea Forge team and help students develop their technical skills and confidence as engineers.",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [
+   "patrick.mcspadden@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities/machine-shop",
+  "fetchedAt": "2026-08-11T17:09:00.694Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "colorado-edu-ideaforge-people-patrick-maguire",
+  "url": "http://colorado.edu/ideaforge/people/patrick-maguire",
+  "title": "Patrick Maguire | Idea Forge",
+  "org": "colorado.edu/ideaforge",
+  "type": "course",
+  "description": "Pat Maguire is the Electronics and Fabrication Engineer at Idea Forge. He earned his degree in Mechanical Engineering from the University of Colorado Boulder and has built his career supporting hands-on engineering education and helping students turn ideas into working prototypes. Pat began his career as an electrician in the Boston area, developing a strong foundation in electrical systems, troubleshooting, and practical problem-solving.",
+  "audience": [
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "energy"
+  ],
+  "contacts": [
+   "patrick.maguire@colorado.edu"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "http://colorado.edu/ideaforge/facilities/rapid-prototyping-lab",
+  "fetchedAt": "2026-08-11T17:09:00.720Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-spring-food-ag-idea-factory",
+  "url": "https://startupcolorado.org/stories/spring-food-ag-idea-factory",
+  "title": "Announcing the Founders in the Spring Food &amp; Ag Idea Factory - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Announcing the founders in the spring Food &amp; Ag Idea Factory—meet the cohort of entrepreneurs driving CO&#039;s food, beverage, and ag industry.",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "health",
+   "food",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/blog",
+  "fetchedAt": "2026-08-11T17:09:09.986Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-soco-startup-week-soco-startup-showcase",
+  "url": "https://startupcolorado.org/event/soco-startup-week-soco-startup-showcase",
+  "title": "SoCo Startup Week - SoCo Startup Showcase - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "🚀 SoCo Startup Showcase Wednesday, August 26th | 4:30–6:30 PM Ent Center for the Arts at UCCS Presented by El Pomar Institute for Innovation and Commercialization (EPIIC) Southern Colorado is [&hellip;]",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "energy",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person",
+  "fetchedAt": "2026-08-11T17:09:12.643Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-soco-startup-week-startup-arcade-build-price-play",
+  "url": "https://startupcolorado.org/event/soco-startup-week-startup-arcade-build-price-play",
+  "title": "SoCo Startup Week - Startup Arcade: Build, Price, Play - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "🚀 Startup Arcade: Build, Price, Play Presented by El Pomar Institute for Innovation and Commercialization (EPIIC) Wednesday, August 26th | 1:30 PM–3:30 PM Hosted at Ent Center for the Arts [&hellip;]",
+  "audience": [
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person",
+  "fetchedAt": "2026-08-11T17:09:14.759Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-soco-startup-week-pivot-through-pain-bouncing-back-fro",
+  "url": "https://startupcolorado.org/event/soco-startup-week-pivot-through-pain-bouncing-back-from-failure",
+  "title": "SoCo Startup Week - Pivot Through Pain: Bouncing Back from Failure - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "🚀 Pivot Through Pain: Bouncing Back from Failure Presented by El Pomar Institute for Innovation and Commercialization (EPIIC) Wednesday, August 26th | 10:30 AM–12:00 PM Hosted at Ent Center for [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person",
+  "fetchedAt": "2026-08-11T17:09:18.133Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-soco-startup-week-afternoon-tour-of-emergent-campus",
+  "url": "https://startupcolorado.org/event/soco-startup-week-afternoon-tour-of-emergent-campus",
+  "title": "SoCo Startup Week - Afternoon Tour of Emergent Campus - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Afternoon Tour of Emergent Campus 📅 Tuesday, August 25th | 4:00 PM – 5:00 PM 📍 Emergent Campus, 215 Maple Avenue, Florence, CO Experience one of Colorado&#8217;s most exciting rural [&hellip;]",
+  "audience": [
+   "community",
+   "high school"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person",
+  "fetchedAt": "2026-08-11T17:09:18.846Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-soco-startup-week-after-party-at-observer-ranch",
+  "url": "https://startupcolorado.org/event/soco-startup-week-after-party-at-observer-ranch",
+  "title": "SoCo Startup Week - After Party at Observer Ranch - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "After Party at Observer Ranch 📅 Tuesday, August 25th | 5:00 PM – 7:00 PM 📍 Observer Ranch, Penrose, CO Unwind, connect, and celebrate an incredible day of rural entrepreneurship [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person",
+  "fetchedAt": "2026-08-11T17:09:27.396Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-tie-tail-startup-ages-8-18",
+  "url": "https://startupcolorado.org/event/tie-tail-startup-ages-8-18",
+  "title": "Tie &amp; Tail Startup - Ages 8-18 - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Tie &amp; Tail Startup &#8211; La Junta, CO Use upcycled materials to create either a tie toy for your pet or a blanket or pillow! Learn about small business as [&hellip;]",
+  "audience": [
+   "community",
+   "high school"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person",
+  "fetchedAt": "2026-08-11T17:09:32.787Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-from-trash-to-treasure-how-to-start-an-upcycling-busin",
+  "url": "https://startupcolorado.org/event/from-trash-to-treasure-how-to-start-an-upcycling-business",
+  "title": "From Trash to Treasure - How to Start an Upcycling Business - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Participants will learn to make high quality, market-ready products from recycled materials. They will build a product to take home, while learning how an upcycling business helps the planet&#8230;and your [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person",
+  "fetchedAt": "2026-08-11T17:09:34.606Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-credit-builder-session-taller-de-creacion-de-credito-2",
+  "url": "https://startupcolorado.org/event/credit-builder-session-taller-de-creacion-de-credito-2",
+  "title": "Credit Builder Session/Taller de Creación De Credito - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "FREE Zoom workshop Presented in English with simultaneous translation into Spanish Credit is a tool, whether you have no credit, limited credit, or negative credit, learn how to use it [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:09:37.984Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-strategic-organization-operations-for-rural-startups",
+  "url": "https://startupcolorado.org/event/strategic-organization-operations-for-rural-startups",
+  "title": "Strategic Organization &amp; Operations for Rural Startups - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "FREE Zoom Training Strategic Organization &amp; Operations for Rural Startups July 20th 2026, 6 pm, English workshop with Spanish interpretation July 21st 2026, 6 pm, Spanish workshop with English interpretation. [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:09:38.997Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-credit-builder-session-taller-de-creacion-de-credito",
+  "url": "https://startupcolorado.org/event/credit-builder-session-taller-de-creacion-de-credito",
+  "title": "Credit Builder Session/Taller de Creación De Credito - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "FREE Zoom workshop Presented in English with simultaneous translation into Spanish Credit is a tool, whether you have no credit, limited credit, or negative credit, learn how to use it [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:09:43.586Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-ascent-deep-tech-community-showcase",
+  "url": "https://startupcolorado.org/event/ascent-deep-tech-community-showcase",
+  "title": "Ascent Deep Tech Community Showcase - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "The Ascent Deep Tech Community Showcase brings together researchers, investors and community supporters to highlight innovative deep tech startups spinning out of the University of Colorado. Attendees will have a [&hellip;]",
+  "audience": [
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "deep tech"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person/page/2",
+  "fetchedAt": "2026-08-11T17:09:47.788Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-female-founders-funders-in-climate",
+  "url": "https://startupcolorado.org/event/female-founders-funders-in-climate",
+  "title": "Female Founders &amp; Funders in Climate - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "funding",
+  "description": "Where Breakthrough Innovation Meets Strategic Capital. ​Join Women Who Charge during Colorado Climate Week for an exclusive evening designed to dismantle the funding gap. Hosted at the historic Forney Museum of Transportation, this isn&#8217;t just [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "energy"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/in-person/page/2",
+  "fetchedAt": "2026-08-11T17:09:52.868Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-4",
+  "url": "https://startupcolorado.org/event/how-to-launch-your-business-a-startup-checklist-4",
+  "title": "How to Launch Your Business: A Startup Checklist - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Ready to start a business? Here is everything you need to know to go from idea to launch. About This Event Thinking about starting a business in Colorado? Join us [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:10:00.383Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-how-to-launch-your-business-a-startup-checklist-3",
+  "url": "https://startupcolorado.org/event/how-to-launch-your-business-a-startup-checklist-3",
+  "title": "How to Launch Your Business: A Startup Checklist - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Ready to start a business? Here is everything you need to know to go from idea to launch. About This Event Thinking about starting a business in Colorado? Join us [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:10:01.086Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-credit-builder-first-southwest-community-fund",
+  "url": "https://startupcolorado.org/event/credit-builder-first-southwest-community-fund",
+  "title": "Credit Builder - First Southwest Community Fund - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "funding",
+  "description": "FREE Zoom workshop Presented in English with simultaneous translation into Spanish Credit Builder Session April 21st 2026 2:30-4:00pm Credit is a tool, whether you have no credit, limited credit, or [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:10:01.103Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-startup-colorado-lean-coffee-2",
+  "url": "https://startupcolorado.org/event/startup-colorado-lean-coffee-2",
+  "title": "Startup Colorado Lean Coffee - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Join the Startup Colorado Community for our monthly Lean Coffee online series—an interactive networking discussion that’s tailored to entrepreneurs from all industries. Each month, we’re adding a new twist by [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/roadtrip",
+  "fetchedAt": "2026-08-11T17:10:16.056Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rural-women-in-entrepreneurship-2",
+  "url": "https://startupcolorado.org/event/rural-women-in-entrepreneurship-2",
+  "title": "Rural Women in Entrepreneurship - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Join the Rural Women in Entrepreneurship group for a free monthly networking hour to connect with women entrepreneurs and listen to speakers.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event/page/2",
+  "fetchedAt": "2026-08-11T17:10:20.689Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-belonging-colorado-startup-colorado-demo-day",
+  "url": "https://startupcolorado.org/event/belonging-colorado-startup-colorado-demo-day",
+  "title": "Belonging @ Startup Colorado Demo Day - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "competition",
+  "description": "Startup Colorado is hosting a special Demo Day featuring the inaugural Belonging @ Startup Colorado cohort.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/olivia-reed/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:10:23.341Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-outside-city-limits",
+  "url": "https://startupcolorado.org/event/outside-city-limits",
+  "title": "Outside City Limits: Startup Colorado Fundraiser Dinner - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Join us for a celebration of Colorado&#039;s rural entrepreneurs at the Outside City Limits fundraiser.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/olivia-reed",
+  "fetchedAt": "2026-08-11T17:10:28.243Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-roadtrip-weld-county-roadtrip",
+  "url": "https://startupcolorado.org/roadtrip/weld-county-roadtrip",
+  "title": "Weld County Roadtrip - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "The Roadtrip continues! We&#039;re stopping in Weld County to bring together entrepreneurs and experts from Greeley and surroounding areas.",
+  "audience": [
+   "community",
+   "high school",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "energy"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/event/weld-county-startup-colorado-roadtrip",
+  "fetchedAt": "2026-08-11T17:10:47.770Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rural-creative-connections-with-mesa-county-fantasy-fa",
+  "url": "https://startupcolorado.org/event/rural-creative-connections-with-mesa-county-fantasy-faire",
+  "title": "Rural Creative Connections with Mesa County Fantasy Faire - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "For our first Rural Creative Connections session of the year, we’re heading (virtually) to Grand Junction to meet Dierdre Monroe—co-owner of Sweet River Event Venue and organizer of the returning [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/vanessa-mccrann/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:10:57.563Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-west-slope-startup-week-2025",
+  "url": "https://startupcolorado.org/event/west-slope-startup-week-2025",
+  "title": "West Slope Startup Week 2025 - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "West Slope Startup Week will be back in Durango, October 6-10th, 2025!  West Slope Startup Week brings entrepreneurs, local leaders, and friends together to build momentum and opportunity around a [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [
+   "development@startupcolorado.org",
+   "vanessa@startupcolorado.org"
+  ],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/vanessa-mccrann/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:10:57.581Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-advanced-industries-rural-roadshow",
+  "url": "https://startupcolorado.org/event/advanced-industries-rural-roadshow",
+  "title": "Advanced Industries Rural Roadshow - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "The Colorado Office of Economic Development &amp; International Trade (OEDIT) will be hosting its Advanced Industries Rural Roadshow.",
+  "audience": [
+   "staff",
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "bioscience",
+   "aerospace",
+   "energy",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/photo/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:11:02.121Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-colorado-startup-week",
+  "url": "https://startupcolorado.org/event/colorado-startup-week",
+  "title": "Colorado Startup Week - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Colorado Startup Week is a free, community-driven celebration of bold ideas and entrepreneurial spirit—across Colorado and beyond. As the largest event of its kind in North America, CSW brings together [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/photo/page/2",
+  "fetchedAt": "2026-08-11T17:11:10.549Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-creative-writers-meetup-publishing",
+  "url": "https://startupcolorado.org/event/creative-writers-meetup-publishing",
+  "title": "Creative Writers&#039; Meetup + Publishing Q&amp;A - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "For creative writers, finding community can make the journey a lot more sustainable. Join us for a meetup + publishing Q&amp;A.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/photo/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:11:10.561Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-page-donate",
+  "url": "https://startupcolorado.org/page/donate",
+  "title": "Home - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Empowering startups in Colorado with resources, programs, and a vibrant community. Start your entrepreneurial journey with us.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/our-intern-read-the-startup-community-way-heres-what-she-thought",
+  "fetchedAt": "2026-08-11T17:11:55.120Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-january-lean-coffee",
+  "url": "https://startupcolorado.org/event/january-lean-coffee",
+  "title": "January Lean Coffee - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Join Startup Colorado for the first of our quarterly Lean Coffee events! This month we&#039;ll be diving into all things finances.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/startup-colorado/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:12:00.063Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rural-creative-roundtable-featuring-cine-fe",
+  "url": "https://startupcolorado.org/event/rural-creative-roundtable-featuring-cine-fe",
+  "title": "Rural Creative Roundtable: Featuring Cine Fe - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Rural Creative Roundtable: Featuring Cine Fe Friday, August 15th at 12pm | Online Join us for a conversation with Stephanie, documentary filmmaker and impact producer, who now leads Colorado’s film [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/startup-colorado/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:12:04.573Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-news-378286",
+  "url": "https://startupcolorado.org/news/378286",
+  "title": "Home - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Empowering startups in Colorado with resources, programs, and a vibrant community. Start your entrepreneurial journey with us.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/can-this-steamboat-springs-ranch-solve-the-local-housing-crisis",
+  "fetchedAt": "2026-08-11T17:12:07.988Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rural-women-in-entrepreneurship-7",
+  "url": "https://startupcolorado.org/event/rural-women-in-entrepreneurship-7",
+  "title": "Rural Women in Entrepreneurship - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Each month, the Rural Women in Entrepreneurship group inside the Startup Colorado Community comes together for a virtual hour of connection. ",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 4,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/featured/page/2/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:12:26.126Z",
   "needsAnalysis": false
  },
  {
@@ -52862,7 +55102,7 @@
  },
  {
   "id": "colorado-edu-researchinnovation-newsletter",
-  "url": "https://colorado.edu/researchinnovation/newsletter",
+  "url": "http://colorado.edu/researchinnovation/newsletter",
   "title": "Newsletter | Research & Innovation Office",
   "org": "colorado.edu/researchinnovation",
   "type": "reference",
@@ -52887,10 +55127,10 @@
   "funding": [],
   "deadlines": [],
   "specificity": 3,
-  "depth": 3,
+  "depth": 4,
   "discoveredVia": "link",
-  "parent": "https://colorado.edu/researchinnovation/newsletter/rio-bulletin/july-21-2026",
-  "fetchedAt": "2026-08-11T17:03:03.271Z",
+  "parent": "http://colorado.edu/researchinnovation/newsletter/rio-bulletin/july-21-2026",
+  "fetchedAt": "2026-08-11T17:09:00.611Z",
   "needsAnalysis": false
  },
  {
@@ -54459,6 +56699,1284 @@
   "discoveredVia": "link",
   "parent": "http://colorado.edu/researchinnovation/about",
   "fetchedAt": "2026-08-11T17:08:49.341Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-tag-online-event-page-2",
+  "url": "https://startupcolorado.org/stories/tag/online-event/page/2",
+  "title": "Online Event Archives - Page 2 of 3 - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Online Event Archives - Page 2 of 3 - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging P",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/tag/online-event",
+  "fetchedAt": "2026-08-11T17:10:08.628Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-organizer-olivia-reed-eventdisplay-past",
+  "url": "https://startupcolorado.org/organizer/olivia-reed/?eventDisplay=past",
+  "title": "Olivia Reed - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Olivia Reed - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS Close PROGRAMS O",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/olivia-reed",
+  "fetchedAt": "2026-08-11T17:10:11.477Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-henry-curtis-extiovt2e",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Henry-Curtis-EXTIOVT2E",
+  "title": "CURTIS.HENRY@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "CURTIS.HENRY@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:43.635Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-patel-vikas-ext1zl451",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Patel-Vikas-EXT1ZL451",
+  "title": "VIKAS.PATEL@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "VIKAS.PATEL@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:46.438Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-venkataraman-sujatha-extcq5cic",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Venkataraman-Sujatha-EXTCQ5CIC",
+  "title": "SUJATHA.VENKATARAMAN@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "SUJATHA.VENKATARAMAN@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:46.902Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-barker-alex-extfszvw5",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Barker-Alex-EXTFSZVW5",
+  "title": "ALEX.BARKER@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "ALEX.BARKER@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:47.245Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-borges-virginia-f-extxuetei",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Borges-Virginia-F-EXTXUETEI",
+  "title": "VIRGINIA.BORGES@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "VIRGINIA.BORGES@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supp",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:47.605Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-burger-van-der-walt-evalina-extimo",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Burger-Van-Der-Walt-Evalina-EXTIMOZ8C",
+  "title": "EVALINA.BURGER@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "EVALINA.BURGER@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppo",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:47.798Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-coughlan-christina-extv8s0kl",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Coughlan-Christina-EXTV8S0KL",
+  "title": "CHRISTINA.COUGHLAN@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "CHRISTINA.COUGHLAN@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources S",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "community",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:47.939Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-diaz-miron-jose-extpmfy2z",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Diaz-Miron-Jose-EXTPMFY2Z",
+  "title": "JOSE.DIAZ-MIRON@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "JOSE.DIAZ-MIRON@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supp",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:48.018Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-diot-quentin-extfslgkm",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Diot-Quentin-EXTFSLGKM",
+  "title": "QUENTIN.DIOT@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "QUENTIN.DIOT@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:48.119Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-duncan-luke-extc3ce0s",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Duncan-Luke-EXTC3CE0S",
+  "title": "LUCAS.2.DUNCAN@UCDENVER.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "LUCAS.2.DUNCAN@UCDENVER.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:48.142Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-friedman-norman-extnl0hg2",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Friedman-Norman-EXTNL0HG2",
+  "title": "NORMAN.FRIEDMAN@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "NORMAN.FRIEDMAN@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supp",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:48.359Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-davila-eduardo-exti2wbcg",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Davila-Eduardo-EXTI2WBCG",
+  "title": "EDUARDO.DAVILA@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "EDUARDO.DAVILA@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppo",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:48.494Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-gottlieb-peter-extgzxiwj",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Gottlieb-Peter-EXTGZXIWJ",
+  "title": "PETER.GOTTLIEB@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "PETER.GOTTLIEB@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppo",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:48.535Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-idrovo-juan-pablo-ext7lricp",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Idrovo-Juan-Pablo-EXT7LRICP",
+  "title": "JUAN.IDROVO@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "JUAN.IDROVO@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:48.986Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-green-adam-extjw3y56",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Green-Adam-EXTJW3Y56",
+  "title": "ADAM.GREEN@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "ADAM.GREEN@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:49.177Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-herrmann-brian-extjbpqgj",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Herrmann-Brian-EXTJBPQGJ",
+  "title": "BRIAN.HERRMANN@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "BRIAN.HERRMANN@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppo",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:49.313Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-klug-achim-extmudiw1",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Klug-Achim-EXTMUDIW1",
+  "title": "ACHIM.KLUG@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "ACHIM.KLUG@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:49.323Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-lyons-traci-ucd9600",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Lyons-Traci-UCD9600",
+  "title": "TRACI.LYONS@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "TRACI.LYONS@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "postdocs",
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:49.656Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-ma-ji-exta68ona",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Ma-Ji-EXTA68ONA",
+  "title": "JI.MA@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "JI.MA@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter & Al",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:49.670Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-maclean-ken-extm21avt",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/MacLean-Ken-EXTM21AVT",
+  "title": "KEN.MACLEAN@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "KEN.MACLEAN@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "food"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:49.846Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-michels-aaron-ext52qult",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Michels-Aaron-EXT52QULT",
+  "title": "AARON.MICHELS@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "AARON.MICHELS@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:50.038Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-lammers-steven-ext74ag4x",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Lammers-Steven-EXT74AG4X",
+  "title": "STEVEN.LAMMERS@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "STEVEN.LAMMERS@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppo",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:50.050Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-park-daewon-extajv56b",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Park-Daewon-EXTAJV56B",
+  "title": "DAEWON.PARK@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "DAEWON.PARK@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:50.672Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-payne-karin-ext3jiwka",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Payne-Karin-EXT3JIWKA",
+  "title": "KARIN.PAYNE@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "KARIN.PAYNE@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:50.730Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-pandita-aakriti-ext45dlmx",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Pandita-Aakriti-EXT45DLMX",
+  "title": "AAKRITI.PANDITA@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "AAKRITI.PANDITA@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supp",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:50.768Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-rove-jessica-ext7j56b5",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Rove-Jessica-EXT7J56B5",
+  "title": "JESSICA.ROVE@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "JESSICA.ROVE@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Support",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:51.087Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-shellman-yiqun-extk88zbg",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Shellman-Yiqun-EXTK88ZBG",
+  "title": "YIQUN.SHELLMAN@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "YIQUN.SHELLMAN@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppo",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:51.170Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-rentschler-mark-exttul88l",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Rentschler-Mark-EXTTUL88L",
+  "title": "MARK.RENTSCHLER@UCDENVER.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "MARK.RENTSCHLER@UCDENVER.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:51.382Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-tobin-richard-extnudnqj",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Tobin-Richard-EXTNUDNQJ",
+  "title": "RICHARD.TOBIN@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "RICHARD.TOBIN@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:51.456Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-wang-zhirui-ext2wjh7b",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Wang-Zhirui-EXT2WJH7B",
+  "title": "ZHIRUI.WANG@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "ZHIRUI.WANG@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporte",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:51.523Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-welle-cristin-ext3qshlk",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Welle-Cristin-EXT3QSHLK",
+  "title": "CRISTIN.WELLE@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "CRISTIN.WELLE@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppor",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:51.610Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-westerly-david-exts9haw9",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Westerly-David-EXTS9HAW9",
+  "title": "DAVID.WESTERLY@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "DAVID.WESTERLY@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Suppo",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health",
+   "energy"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:51.817Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-yu-liping-extg9u17j",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Yu-Liping-EXTG9U17J",
+  "title": "LIPING.YU@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "LIPING.YU@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter ",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "validate",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:51.839Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "cuanschutz-edu-innovations-who-we-are-profile-zhao-rui-extqq09ic",
+  "url": "https://www.cuanschutz.edu/innovations/who-we-are/profile/Zhao-Rui-EXTQQ09IC",
+  "title": "RUI.ZHAO@CUANSCHUTZ.EDU",
+  "org": "cuanschutz.edu",
+  "type": "reference",
+  "description": "RUI.ZHAO@CUANSCHUTZ.EDU Skip to content Webmail CU Access Canvas Quick Links Search CU Anschutz All University Sites Submit Tools & Resources Events Calendar Newsroom A Place To Strauss Health Sciences Library Department A-Z Directory Campus Directory Leadership Faculty & Staff Resources Supporter &",
+  "audience": [
+   "faculty",
+   "staff",
+   "alumni",
+   "students"
+  ],
+  "stage": [
+   "explore",
+   "build"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://www.cuanschutz.edu/innovations/spark/who-are-we/fellows",
+  "fetchedAt": "2026-08-11T17:10:51.896Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-all-events-photo-page-3",
+  "url": "https://startupcolorado.org/all-events/photo/page/3",
+  "title": "Display of Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Page 3 &#8211; Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Display of Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Page 3 &#8211; Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Bu",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/photo/page/2",
+  "fetchedAt": "2026-08-11T17:11:09.612Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-all-events-list-page-3",
+  "url": "https://startupcolorado.org/all-events/list/page/3",
+  "title": "Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Page 3 &#8211; Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Page 3 &#8211; Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belo",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/list/page/2",
+  "fetchedAt": "2026-08-11T17:11:17.063Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-2026-04-17",
+  "url": "https://startupcolorado.org/stories/2026/04/17",
+  "title": "April 17, 2026 - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "April 17, 2026 - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS Close PROGRAM",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [
+   "due to upfront costs"
+  ],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/ready-to-scale",
+  "fetchedAt": "2026-08-11T17:11:22.373Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-organizer-colorado-sbdc-serving-the-west-central-region-even",
+  "url": "https://startupcolorado.org/organizer/colorado-sbdc-serving-the-west-central-region/?eventDisplay=past",
+  "title": "Colorado SBDC serving the West Central region - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Colorado SBDC serving the West Central region - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building B",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "food"
+  ],
+  "contacts": [],
+  "funding": [
+   "$95 M",
+   "$95"
+  ],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/colorado-sbdc-serving-the-west-central-region",
+  "fetchedAt": "2026-08-11T17:12:00.574Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-all-events-featured-page-2-eventdisplay-past",
+  "url": "https://startupcolorado.org/all-events/featured/page/2/?eventDisplay=past",
+  "title": "Past Featured Featured Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 2 &#8211; Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Past Featured Featured Events from September 24, 2025 &#8211; August 6, 2025 &#8211; Page 2 &#8211; Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 3,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/all-events/list/featured/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:12:14.478Z",
   "needsAnalysis": false
  },
  {
@@ -58452,6 +61970,298 @@
   "needsAnalysis": true
  },
  {
+  "id": "startupcolorado-org-stories-ojt-spring-idea-factory",
+  "url": "https://startupcolorado.org/stories/ojt-spring-idea-factory",
+  "title": "14 Rural Founders Complete Idea Factory For Coal Transition Workers - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "We&#039;re thrilled to highlight the 14 rural founders that completed the spring Idea Factory for coal transition workers.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "energy",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/blog",
+  "fetchedAt": "2026-08-11T17:09:04.665Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-colorado-river-valley-idea-factory",
+  "url": "https://startupcolorado.org/stories/colorado-river-valley-idea-factory",
+  "title": "Meet the Colorado River Valley Idea Factory Cohort - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "community",
+  "description": "Meet the Colorado River Valley Idea Factory cohort—these founders are driving economic development for this diverse region.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "hardware",
+   "health",
+   "energy",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/blog",
+  "fetchedAt": "2026-08-11T17:09:08.570Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-event-rural-women-in-entrepreneurship",
+  "url": "https://startupcolorado.org/event/rural-women-in-entrepreneurship",
+  "title": "Rural Women in Entrepreneurship - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "All Colorado Women in Business and Business Support are Welcome! Each month, the Rural Women in Entrepreneurship group inside the Startup Colorado Community gathers to have a virtual networking conversation. [&hellip;]",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate",
+   "space"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 5,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/vanessa-mccrann/page/2/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:11:00.782Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-how-to-leverage-remote-teams-as-a-rural-startup",
+  "url": "https://startupcolorado.org/stories/how-to-leverage-remote-teams-as-a-rural-startup",
+  "title": "How to Leverage Remote Teams as a Rural Startup - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Ready to expand your team? This article from The Rural Startup highlights how to leverage remote teams as a rural startup.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice/page/2",
+  "fetchedAt": "2026-08-11T17:11:33.061Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-develop-climate-resilience-strategies",
+  "url": "https://startupcolorado.org/stories/develop-climate-resilience-strategies",
+  "title": "Why Rural Founders Should Develop Climate Resilience Strategies… Now - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "In this Rural Startup article, hear from the World Economic Forum about why rural founders should develop climate resilience strategies now.",
+  "audience": [
+   "community",
+   "researchers"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "climate"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice/page/2",
+  "fetchedAt": "2026-08-11T17:11:37.401Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-to-rebrand-or-to-refresh",
+  "url": "https://startupcolorado.org/stories/to-rebrand-or-to-refresh",
+  "title": "To Rebrand... or To Refresh? That Is the Question - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "In this Rural Startup article, we chat with the Psyche Digital team and consider: to rebrand... or to refresh? That is the question.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice/page/2",
+  "fetchedAt": "2026-08-11T17:11:37.418Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-building-rural-into-your-brand-identity",
+  "url": "https://startupcolorado.org/stories/building-rural-into-your-brand-identity",
+  "title": "Building “Rural” Into Your Brand Identity - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "In this Rural Startup article, Natalie Horner walks you through the do&#039;s and don&#039;ts building &quot;Rural&quot; into your brand identity.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice/page/2",
+  "fetchedAt": "2026-08-11T17:11:40.419Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-the-team-photo",
+  "url": "https://startupcolorado.org/stories/the-team-photo",
+  "title": "Does your startup need a team photo? - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Consider the importance of the team photo...This is a strategic tool that creates connection with your team and your customers!",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice/page/2",
+  "fetchedAt": "2026-08-11T17:11:43.017Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-stories-do-you-need-a-business-coach",
+  "url": "https://startupcolorado.org/stories/do-you-need-a-business-coach",
+  "title": "Do you need a business coach? - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "service",
+  "description": "From personalized advice to strategic planning, a coach offers various supports. Read on to discover: do you need a business coach?",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "arts"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/category/advice/page/2",
+  "fetchedAt": "2026-08-11T17:11:44.787Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-brittany-romano-appointed-ceo-of-startup-colorado",
+  "url": "https://startupcolorado.org/brittany-romano-appointed-ceo-of-startup-colorado",
+  "title": "Startup Colorado Appoints Brittany Romano as CEO &amp; Executive Director - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "reference",
+  "description": "Startup Colorado’s Board of Directors is thrilled to announce the appointment of Brittany Romano as the organization&#039;s new Chief Executive Officer and Executive Director.",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai",
+   "health"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 2,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/stories/brittany-romano-startup-colorados-new-executive-director",
+  "fetchedAt": "2026-08-11T17:11:52.980Z",
+  "needsAnalysis": false
+ },
+ {
   "id": "colorado-edu-emp-2023-10-17-global-semester-escend-engineering-managemententrepr",
   "url": "https://www.colorado.edu/emp/2023/10/17/global-semester-escend-engineering-managemententrepreneurship-minor-lisbon-portugal",
   "title": "Global Semester: ESCEND Engineering Management/Entrepreneurship Minor (Lisbon, Portugal) | Lockheed Martin Engineering Management Program",
@@ -58986,6 +62796,34 @@
   "discoveredVia": "link",
   "parent": "https://colorado.edu/oce/funding-and-resources/foundations-community-engaged-research-micro-credential-program",
   "fetchedAt": "2026-08-11T17:07:02.310Z",
+  "needsAnalysis": false
+ },
+ {
+  "id": "startupcolorado-org-organizer-vanessa-mccrann-page-2-eventdisplay-past",
+  "url": "https://startupcolorado.org/organizer/vanessa-mccrann/page/2/?eventDisplay=past",
+  "title": "Vanessa McCrann - Startup Colorado",
+  "org": "startupcolorado.org",
+  "type": "event",
+  "description": "Vanessa McCrann - Startup Colorado Skip to content ABOUT Close ABOUT Open ABOUT ABOUT US Supporting Rural Colorado Supporting Rural Colorado Fund Our Work Support Startup Colorado Support Startup Colorado BELONGING For Founders Building Belonging For Founders Building Belonging PROGRAMS Close PROGRA",
+  "audience": [
+   "community"
+  ],
+  "stage": [
+   "explore",
+   "build",
+   "launch"
+  ],
+  "sectors": [
+   "ai"
+  ],
+  "contacts": [],
+  "funding": [],
+  "deadlines": [],
+  "specificity": 1,
+  "depth": 4,
+  "discoveredVia": "link",
+  "parent": "https://startupcolorado.org/organizer/vanessa-mccrann/?eventDisplay=past",
+  "fetchedAt": "2026-08-11T17:10:55.658Z",
   "needsAnalysis": false
  },
  {
