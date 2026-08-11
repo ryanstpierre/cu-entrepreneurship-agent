@@ -486,6 +486,12 @@
   "depth": 1
  },
  {
+  "url": "https://www.colorado.edu/innovate/entrepreneurial-mentors/david-roberts",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
   "url": "https://www.colorado.edu/business/deming/news-stories/demystifying-entrepreneurship-rural-colorado-workshop-series-news",
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
@@ -691,6 +697,18 @@
  },
  {
   "url": "https://www.colorado.edu/innovate/entrepreneurship-0",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 1
+ },
+ {
+  "url": "https://www.colorado.edu/business/deming/news/2024/02/07/humsini-acharyas-impactful-path-new-venture-challenge-innovative-leadership",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 2
+ },
+ {
+  "url": "https://www.colorado.edu/venturepartners/deming-center-entrepreneurship",
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
   "depth": 1

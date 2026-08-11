@@ -1,5 +1,35 @@
 [
  {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-starting-blocks",
+  "kind": "mentions",
+  "weight": 5
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent",
+  "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "kind": "links_to",
+  "weight": 5
+ },
+ {
+  "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "kind": "links_to",
+  "weight": 5
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "kind": "links_to",
+  "weight": 4
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
+  "to": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
+  "kind": "links_to",
+  "weight": 4
+ },
+ {
   "from": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
   "to": "colorado-edu-business-faculty-research-directory-strategy-entrepreneurship-and-o",
   "kind": "links_to",
@@ -12,9 +42,135 @@
   "weight": 3
  },
  {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-mentorship-and-advising",
+  "to": "colorado-edu-venturepartners-what-we-do-mentorship-advising",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-research-to-mar",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training",
+  "to": "colorado-edu-venturepartners-innovators-commercialization-academy",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
+  "to": "colorado-edu-venturepartners-what-we-do-ip-management",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-ascent-deep-tec",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "to": "colorado-edu-innovate-ascent-deep-tech-accelerator",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-i-corpstm-hub-w",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-i-corps-hub-wes",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-embark-deep-tech-startup-c",
+  "to": "colorado-edu-venturepartners-embark",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-embark-deep-tech-startup-c",
+  "to": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-embark-deep-tech-startup-c",
+  "to": "colorado-edu-innovate-programs-resources-embark-deep-tech-startup-creator",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-venturepartners-funding-week",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-researchinnovation-research-development-funding-center-translationa",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent",
+  "to": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent",
+  "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-11-21-external-news-oedit-announces-grants-uni",
+  "to": "colorado-edu-venturepartners-2025-11-20-external-news-colorado-office-economic-d",
+  "kind": "mentions",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "to": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
+  "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "kind": "links_to",
+  "weight": 3
+ },
+ {
   "from": "colorado-edu-venturepartners-form-subscribe-for-updates-program-ascent-20deep-20",
   "to": "colorado-edu-venturepartners-form-subscribe-for-updates-program-embark-20deep-20",
   "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
+  "to": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
+  "kind": "links_to",
   "weight": 2
  },
  {
@@ -36,16 +192,94 @@
   "weight": 2
  },
  {
-  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
-  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-starting-blocks",
+  "from": "colorado-edu-venturepartners-2026-01-12-internal-news-announcing-2026-cohort-emb",
+  "to": "colorado-edu-venturepartners-embark",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-01-12-internal-news-announcing-2026-cohort-emb",
+  "to": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-01-12-internal-news-announcing-2026-cohort-emb",
+  "to": "colorado-edu-innovate-programs-resources-embark-deep-tech-startup-creator",
   "kind": "mentions",
   "weight": 2
  },
  {
   "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
-  "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-venturepartners-startup-portfolio-darwin-biosciences-inc",
   "kind": "links_to",
-  "weight": 1
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-venturepartners-events-and-opportunities-destination-startup",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
+  "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "to": "colorado-edu-venturepartners-ascent",
+  "kind": "mentions",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-venturepartners-2025-11-20-external-news-colorado-office-economic-d",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-venturepartners-2026-06-02-eight-cu-boulder-researchers-and-four-st",
+  "kind": "links_to",
+  "weight": 2
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-mentorship-and-advising",
+  "to": "colorado-edu-venturepartners-university-innovators-licensing-university-innovato",
+  "kind": "links_to",
+  "weight": 2
  },
  {
   "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
@@ -117,12 +351,6 @@
   "from": "colorado-edu-researchinnovation-venturewell-course-program-grants",
   "to": "colorado-edu-researchinnovation-venturewell-faculty-grants",
   "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
-  "to": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
-  "kind": "links_to",
   "weight": 1
  },
  {
@@ -336,24 +564,6 @@
   "weight": 1
  },
  {
-  "from": "colorado-edu-venturepartners-2026-01-12-internal-news-announcing-2026-cohort-emb",
-  "to": "colorado-edu-venturepartners-embark",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-2026-01-12-internal-news-announcing-2026-cohort-emb",
-  "to": "colorado-edu-venturepartners-commercialization-resources-embark-deep-tech-startu",
-  "kind": "mentions",
-  "weight": 1
- },
- {
-  "from": "colorado-edu-venturepartners-2026-01-12-internal-news-announcing-2026-cohort-emb",
-  "to": "colorado-edu-innovate-programs-resources-embark-deep-tech-startup-creator",
-  "kind": "mentions",
-  "weight": 1
- },
- {
   "from": "colorado-edu-innovate-campuskickoff",
   "to": "colorado-edu-innovate",
   "kind": "links_to",
@@ -452,6 +662,450 @@
  {
   "from": "colorado-edu-innovate-2026-07-13-congratulations-our-2026-innovation-entrepreneu",
   "to": "colorado-edu-innovate-2026-06-08-congratulations-our-2026-innovation-entrepreneu",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-promo-kit-nvc-women-founders-competition-finals",
+  "to": "calendar-colorado-edu-event-new-venture-challenge-women-founders-competition-fin",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "calendar-colorado-edu-event-registration-opens-nvc-women-founders-competition-am",
+  "to": "calendar-colorado-edu-event-registration-opens-nvc-women-founders-competition",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-nvc-2026-05-04-innovative-ideas-and-founder-spirit-ride-high-2026-n",
+  "to": "colorado-edu-nvc-2026-04-24-innovative-ideas-and-founder-spirit-ride-high-2026-n",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-promo-kit-embark-deep-tech-startup-creator",
+  "to": "colorado-edu-venturepartners-university-innovators-intellectual-property-managem",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-ascent-deep-tec",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent",
+  "to": "colorado-edu-innovate-ascent-deep-tech-accelerator",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent",
+  "to": "colorado-edu-venturepartners-investors-and-partners-licensing-industry-partners-",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent",
+  "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-mentorship-and-advising",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent",
+  "to": "colorado-edu-venturepartners-university-innovators-licensing-university-innovato",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-embark-deep-tech-startup-c",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-investors-and-partners-licensing-industry-partners-",
+  "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training",
+  "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-mentorship-and-advising",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-investors-partners-startup-portfolio-mesa-quantum-i",
+  "to": "colorado-edu-venturepartners-startup-portfolio-mesa-quantum-inc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-deming-center-entrepreneurship",
+  "to": "colorado-edu-business-deming",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-deming-center-entrepreneurship",
+  "to": "colorado-edu-innovate-programs-resources-deming-center-entrepreneurship",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-ascent-deep-tec",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "colorado-edu-innovate-ascent-deep-tech-accelerator",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "to": "colorado-edu-venturepartners-ascent",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2020-08-19-venture-partners-flagship-research-marke",
+  "to": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-techtransfer-investigators-commercialization-academy-starting-block",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-starting-blocks",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-research-to-mar",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "to": "colorado-edu-venturepartners-investors-and-partners-licensing-industry-partners-",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "to": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-mentorship-and-advising",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "to": "colorado-edu-venturepartners-university-innovators-licensing-university-innovato",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-innovators-commercialization-academy-research-marke",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-embark-deep-tech-startup-c",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-techtransfer-investigators-commercialization-academy-starting-block",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "to": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-venturepartners-2024-11-21-external-news-oedit-announces-grants-uni",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "to": "colorado-edu-venturepartners-2024-07-01-internal-news-activate-announces-cu-boul",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-07-01-internal-news-activate-announces-cu-boul",
+  "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-11-21-external-news-oedit-announces-grants-uni",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-embark-deep-tech-startup-c",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-11-20-external-news-colorado-office-economic-d",
+  "to": "colorado-edu-venturepartners-2024-11-21-external-news-oedit-announces-grants-uni",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2020-02-11-colorado-university-and-lab-ventures-be-",
+  "to": "colorado-edu-venturepartners-events-and-opportunities-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-techtransfer-business-community-destination-startup",
+  "to": "colorado-edu-venturepartners-events-and-opportunities-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2018-11-20-lab-venture-challenge-awards-900000-prom",
+  "to": "colorado-edu-techtransfer-2018-11-20-lab-venture-challenge-awards-900000-promisi",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-mentorship",
+  "to": "colorado-edu-venturepartners-what-we-do-mentorship-advising",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-mentorship",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-mentorship-and-advising",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2021-04-20-cu-spinout-sionic-energy-launches-commer",
+  "to": "colorado-edu-innovate-2021-04-20-cu-spinout-sionic-energy-launches-commercialize",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-destination-startup",
+  "to": "colorado-edu-venturepartners-events-and-opportunities-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-destination-startup",
+  "to": "colorado-edu-techtransfer-business-community-destination-startup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2023-05-26-internal-news-second-year-deep-tech-acce",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-i-corpstm-hub-w",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-i-corpstm-hub-w",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-i-corps-hub-wes",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-03-19-internal-news-pitch-competition-celebrat",
+  "to": "colorado-edu-venturepartners-2024-04-03-internal-news-pitch-competition-celebrat",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-what-we-do-funding-buff-venture-fund",
+  "to": "colorado-edu-venturepartners-university-innovators-funding-opportunities-and-sup",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-researchers-inventors-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-i-corpstm-hub-w",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-researchers-inventors-entrepreneurial-training-nsf-",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-i-corps-hub-wes",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-10-02-cu-researchers-compete-share-125m-grant-",
+  "to": "colorado-edu-venturepartners-2024-10-02-internal-news-cu-researchers-compete-sha",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2024-10-29-external-news-jila-based-innovation-team",
+  "to": "colorado-edu-innovate-2024-10-30-jila-based-innovation-team-flari-tech-wins-cu-b",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "to": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "to": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-07-23-external-news-new-quantum-physics-and-ai",
+  "to": "colorado-edu-today-2025-07-23-new-quantum-physics-and-ai-powered-microchip-desig",
+  "kind": "links_to",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-11-04-application-now-open-2025-ascent-deep-te",
+  "to": "colorado-edu-venturepartners-what-we-do-entrepreneurial-training-ascent-deep-tec",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-11-04-application-now-open-2025-ascent-deep-te",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-ascent-deep-tech-accelerat",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-11-04-application-now-open-2025-ascent-deep-te",
+  "to": "colorado-edu-innovate-ascent-deep-tech-accelerator",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-11-04-application-now-open-2025-ascent-deep-te",
+  "to": "colorado-edu-venturepartners-ascent",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2025-11-04-application-now-open-2025-ascent-deep-te",
+  "to": "colorado-edu-venturepartners-ascent-deep-tech-accelerator",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-01-12-internal-news-announcing-2026-cohort-emb",
+  "to": "colorado-edu-venturepartners-opportunities-and-events-embark-deep-tech-startup-c",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-04-02-move-your-innovation-forward-funding-sup",
+  "to": "colorado-edu-venturepartners-funding-week",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-04-02-move-your-innovation-forward-funding-sup",
+  "to": "colorado-edu-researchinnovation-research-development-funding-center-translationa",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-02-24-external-news-cu-boulder-biomedical-engi",
+  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-02-24-external-news-cu-boulder-biomedical-engi",
+  "to": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-2026-02-24-external-news-cu-boulder-biomedical-engi",
+  "to": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge",
+  "to": "colorado-edu-venturepartners-innovators-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge",
+  "to": "colorado-edu-techtransfer-proof-concept-lab-venture-challenge",
+  "kind": "mentions",
+  "weight": 1
+ },
+ {
+  "from": "colorado-edu-venturepartners-lab-venture-challenge",
+  "to": "colorado-edu-innovate-programs-resources-lab-venture-challenge-lvc",
   "kind": "mentions",
   "weight": 1
  }

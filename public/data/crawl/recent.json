@@ -1,542 +1,542 @@
 [
  {
-  "id": "colorado-edu-innovate-entrepreneurial-mentors-david-reeder",
-  "title": "David Reeder | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:53:01.805Z"
+  "id": "colorado-edu-researchinnovation-nsf-research-traineeship-nrt-program",
+  "title": "NSF Research Traineeship (NRT) Program | Research & Innovation Office",
+  "type": "program",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:26.466Z"
  },
  {
-  "id": "colorado-edu-innovate-entrepreneurial-mentors-rich-kopcho",
-  "title": "Rich Kopcho | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:53:01.758Z"
- },
- {
-  "id": "colorado-edu-innovate-entrepreneurial-mentors-bart-foster",
-  "title": "Bart Foster | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 5,
-  "at": "2026-08-11T16:53:01.665Z"
- },
- {
-  "id": "colorado-edu-innovate-entrepreneurial-mentors-susan-crouse",
-  "title": "Susan Crouse | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:53:01.592Z"
- },
- {
-  "id": "colorado-edu-innovate-entrepreneurial-mentors-loren-bendele",
-  "title": "Loren Bendele | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:53:01.199Z"
- },
- {
-  "id": "colorado-edu-innovate-2026-07-06-thank-you-all-our-2025-26-innovation-entreprene",
-  "title": "Thank you to all our 2025-26 Innovation & Entrepreneurship Partners! | Innovation & Entrepreneurship Initiative",
-  "type": "funding",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:53:01.178Z"
- },
- {
-  "id": "colorado-edu-innovate-entrepreneurial-mentors-ketan-bhalla",
-  "title": "Ketan Bhalla | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:53:01.146Z"
- },
- {
-  "id": "colorado-edu-innovate-entrepreneurship-0",
-  "title": "Entrepreneurship | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 2,
-  "at": "2026-08-11T16:53:01.095Z"
- },
- {
-  "id": "colorado-edu-innovate-seed-grants",
-  "title": "Seed Grants | Innovation & Entrepreneurship Initiative",
-  "type": "funding",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 2,
-  "at": "2026-08-11T16:53:00.981Z"
- },
- {
-  "id": "colorado-edu-innovate-2026-07-08-lab-venture-challenge-applications-now-open-202",
-  "title": "Lab Venture Challenge applications now open for 2026 | Innovation & Entrepreneurship Initiative",
+  "id": "colorado-edu-researchinnovation-nih-collaborative-program-grant-multidisciplinar",
+  "title": "NIH Collaborative Program Grant for Multidisciplinary Teams (RM1) (Clinical Trial Optional) | Research & Innovation Office",
   "type": "competition",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 5,
-  "at": "2026-08-11T16:53:00.890Z"
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:26.235Z"
  },
  {
-  "id": "colorado-edu-innovate-2026-07-16-applications-open-director-innovation-entrepren",
-  "title": "Applications open for Director of Innovation & Entrepreneurship Initiative | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
+  "id": "colorado-edu-researchinnovation-american-diabetes-association-pathway-stop-diabe",
+  "title": "American Diabetes Association Pathway to Stop Diabetes - Accelerator Award | Research & Innovation Office",
+  "type": "funding",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:26.228Z"
+ },
+ {
+  "id": "colorado-edu-researchinnovation-breast-cancer-alliance-research-grants",
+  "title": "Breast Cancer Alliance Research Grants | Research & Innovation Office",
+  "type": "funding",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:26.213Z"
+ },
+ {
+  "id": "colorado-edu-researchinnovation-nsf-cybercorpsr-scholarship-service-sfs",
+  "title": "NSF CyberAICorps Scholarship for Service (CyberAI SFS) | Research & Innovation Office",
+  "type": "funding",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:25.969Z"
+ },
+ {
+  "id": "colorado-edu-researchinnovation-nea-grants-arts-projects",
+  "title": "NEA Grants for Arts Projects | Research & Innovation Office",
+  "type": "funding",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:25.857Z"
+ },
+ {
+  "id": "colorado-edu-researchinnovation-edward-mallinckrodt-jr-foundation-grants-0",
+  "title": "Edward Mallinckrodt, Jr. Foundation Grants | Research & Innovation Office",
+  "type": "funding",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:25.525Z"
+ },
+ {
+  "id": "colorado-edu-researchinnovation-mathers-foundation-grant-program-spring-2025",
+  "title": "Mathers Foundation Grant Program (Spring 2026) | Research & Innovation Office",
+  "type": "funding",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:25.512Z"
+ },
+ {
+  "id": "colorado-edu-researchinnovation-william-t-grant-scholars-program",
+  "title": "William T. Grant Scholars | Research & Innovation Office",
+  "type": "funding",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:25.469Z"
+ },
+ {
+  "id": "colorado-edu-researchinnovation-nih-seed-instrumentation-support-sis-program",
+  "title": "NIH Seed Instrumentation Support (SIS) Program | Research & Innovation Office",
+  "type": "funding",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:25.310Z"
+ },
+ {
+  "id": "colorado-edu-researchinnovation-wm-keck-foundation-research-undergraduate-educat",
+  "title": "W.M. Keck Foundation Research Grants | Research & Innovation Office",
+  "type": "funding",
+  "org": "colorado.edu/researchinnovation",
+  "depth": 3,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:25.295Z"
+ },
+ {
+  "id": "colorado-edu-business-deming-news-2023-10-12-startup-scaleup-northwestern-colora",
+  "title": "StartUp to ScaleUp in Northwestern Colorado: Rural Colorado Workshop Series Yampa Valley Returns! | Leeds School of Business",
+  "type": "event",
+  "org": "colorado.edu/business",
+  "depth": 3,
+  "specificity": 3,
+  "at": "2026-08-11T16:53:25.112Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-newsroom-cu-innovators-news",
+  "title": "CU Innovators News | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 4,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:24.925Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-investors-and-partners-licensing-industry-partners",
+  "title": "Licensing for Industry | Venture Partners at CU Boulder",
+  "type": "service",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:24.798Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-path-commercialization",
+  "title": "The Path to Commercialization | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:24.754Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-lab-venture-challenge",
+  "title": "Lab Venture Challenge | Venture Partners at CU Boulder",
+  "type": "competition",
+  "org": "colorado.edu/venturepartners",
+  "depth": 3,
   "specificity": 8,
-  "at": "2026-08-11T16:53:00.817Z"
+  "at": "2026-08-11T16:53:24.607Z"
  },
  {
-  "id": "colorado-edu-innovate-2026-07-01-venture-partners-advances-188-innovations-launc",
-  "title": "Venture Partners advances 188 innovations, launches 23 CU startups | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:53:00.783Z"
- },
- {
-  "id": "colorado-edu-innovate-2026-06-10-research-driven-cu-startups-pitch-folsom-field-",
-  "title": "Research-driven CU startups to pitch at Folsom Field June 24 | Innovation & Entrepreneurship Initiative",
-  "type": "competition",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:53:00.635Z"
- },
- {
-  "id": "colorado-edu-venturepartners-2026-06-02-eight-cu-boulder-researchers-and-four-st",
-  "title": "Eight CU Boulder researchers and four startups receive funding through Colorado’s Advanced Industries Accelerator | Venture Partners at CU B",
+  "id": "colorado-edu-venturepartners-2026-07-28-external-news-modendo-awarded-3m-sbir-ph",
+  "title": "Modendo awarded a $3M SBIR Phase II Grant | Venture Partners at CU Boulder",
   "type": "funding",
   "org": "colorado.edu/venturepartners",
-  "depth": 2,
+  "depth": 1,
   "specificity": 8,
-  "at": "2026-08-11T16:53:00.620Z"
+  "at": "2026-08-11T16:53:24.404Z"
  },
  {
-  "id": "colorado-edu-innovate-2026-06-08-eight-cu-boulder-researchers-and-four-startups-",
-  "title": "Eight CU Boulder researchers and four startups receive funding through Colorado’s Advanced Industries Accelerator | Innovation & Entrepreneu",
+  "id": "colorado-edu-venturepartners-2026-07-08-external-news-cu-boulder-startup-page-te",
+  "title": "CU Boulder startup Page Technologies wins $400,000 EPA SBIR Phase II | Venture Partners at CU Boulder",
   "type": "funding",
-  "org": "colorado.edu/innovate",
+  "org": "colorado.edu/venturepartners",
   "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:53:00.296Z"
+  "specificity": 8,
+  "at": "2026-08-11T16:53:24.386Z"
  },
  {
-  "id": "colorado-edu-business-deming-news-2026-03-24-how-zoe-unsell-flexing-her-entrepre",
-  "title": "How Zoe Unsell is Flexing her Entrepreneurship Muscle | Leeds School of Business",
-  "type": "course",
-  "org": "colorado.edu/business",
-  "depth": 2,
-  "specificity": 4,
-  "at": "2026-08-11T16:53:00.275Z"
- },
- {
-  "id": "colorado-edu-business-deming-news-2026-04-21-entrepreneurship-australia-through-",
-  "title": "Entrepreneurship in Australia Through Kaitlyn Mckee’s Lens | Leeds School of Business",
-  "type": "reference",
-  "org": "colorado.edu/business",
-  "depth": 2,
-  "specificity": 4,
-  "at": "2026-08-11T16:53:00.127Z"
- },
- {
-  "id": "colorado-edu-innovate-2026-07-13-congratulations-our-2026-innovation-entrepreneu",
-  "title": "Congratulations to our 2026 Innovation & Entrepreneurship Initiative Award winners! | Innovation & Entrepreneurship Initiative",
+  "id": "colorado-edu-venturepartners-2026-06-29-internal-news-2026-ascent-deep-tech-comm",
+  "title": "2026 Ascent Deep Tech Community Showcase highlights CU’s next breakthrough startups | Venture Partners at CU Boulder",
   "type": "competition",
-  "org": "colorado.edu/innovate",
+  "org": "colorado.edu/venturepartners",
   "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:53:00.104Z"
+  "specificity": 8,
+  "at": "2026-08-11T16:53:24.379Z"
  },
  {
-  "id": "colorado-edu-innovate-2026-04-29-entrepreneurship-australia-through-kaitlyn-mcke",
-  "title": "Entrepreneurship in Australia Through Kaitlyn Mckee’s Lens | Innovation & Entrepreneurship Initiative",
+  "id": "colorado-edu-today-2026-06-22-cu-boulder-joins-cu-spinout-infleqtion-other-innov",
+  "title": "CU Boulder joins CU spinout Infleqtion, other innovators in America's Quantum Space Initiative | CU Boulder Today",
   "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:53:00.050Z"
+  "org": "colorado.edu/today",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:24.368Z"
  },
  {
-  "id": "colorado-edu-initiative-cubit-2026-04-29-colorado-advances-quantum-innovation-th",
-  "title": "Colorado advances quantum innovation with third round of translational seed grant awards | CUbit Quantum Initiative",
+  "id": "colorado-edu-venturepartners-2026-06-22-external-news-cu-boulder-joins-cu-spinou",
+  "title": "CU Boulder joins CU spinout Infleqtion, other innovators in America's Quantum Space Initiative | Venture Partners at CU Boulder",
+  "type": "center",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:24.224Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2026-02-24-external-news-cu-boulder-biomedical-engi",
+  "title": "CU Boulder biomedical engineering startup brings cancer care technology to the Lab Venture Challenge | Venture Partners at CU Boulder",
+  "type": "competition",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:24.070Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2026-03-20-external-news-two-cu-boulder-startups-se",
+  "title": "Two CU Boulder startups selected for Luminate New York Accelerator | Venture Partners at CU Boulder",
+  "type": "competition",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 8,
+  "at": "2026-08-11T16:53:24.066Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2026-04-02-move-your-innovation-forward-funding-sup",
+  "title": "Move your innovation forward with funding support from the Center for Translational Research | Venture Partners at CU Boulder",
   "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:24.055Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2026-03-10-university-colorado-grants-license-ciren",
+  "title": "University of Colorado grants license to Cirena for RNA-synthesis technology | Venture Partners at CU Boulder",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:23.906Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2026-02-12-internal-news-university-colorado-ascent",
+  "title": "The University of Colorado Ascent Deep Tech Accelerator announces 2026 cohort | Venture Partners at CU Boulder",
+  "type": "community",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 8,
+  "at": "2026-08-11T16:53:23.739Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2026-01-22-external-news-cu-boulder-joins-medtronic",
+  "title": "CU Boulder joins Medtronic in strategic partnership to drive breakthrough health innovations | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:23.684Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-11-04-application-now-open-2025-ascent-deep-te",
+  "title": "Application now open for the 2025 Ascent Deep Tech Accelerator | Venture Partners at CU Boulder",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:23.589Z"
+ },
+ {
+  "id": "colorado-edu-initiative-cubit-2025-03-12-second-round-quantum-seed-grants-awarde",
+  "title": "Second round of quantum seed grants awarded to drive innovation and impact | CUbit Quantum Initiative",
+  "type": "funding",
+  "org": "colorado.edu/initiative",
+  "depth": 3,
+  "specificity": 8,
+  "at": "2026-08-11T16:53:23.579Z"
+ },
+ {
+  "id": "colorado-edu-initiative-cubit-2025-10-29-cu-boulders-colorado-quantum-incubator-",
+  "title": "CU Boulder’s Colorado Quantum Incubator and Stout Street Capital partner to accelerate quantum innovation | CUbit Quantum Initiative",
+  "type": "center",
   "org": "colorado.edu/initiative",
   "depth": 2,
   "specificity": 8,
-  "at": "2026-08-11T16:52:59.835Z"
+  "at": "2026-08-11T16:53:23.429Z"
  },
  {
-  "id": "colorado-edu-innovate-2026-04-29-colorado-advances-quantum-innovation-third-roun",
-  "title": "Colorado advances quantum innovation with third round of translational seed grant awards | Innovation & Entrepreneurship Initiative",
+  "id": "colorado-edu-venturepartners-2026-01-06-internal-news-cu-boulder-pre-seed-invest",
+  "title": "CU Boulder pre-seed investment fuels cancer ‘moonshot’ spinout Illumen Therapeutics | Venture Partners at CU Boulder",
   "type": "funding",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:59.810Z"
- },
- {
-  "id": "colorado-edu-innovate-2026-05-04-innovative-ideas-and-founder-spirit-ride-high-2",
-  "title": "Innovative ideas and founder spirit ride high at the 2026 NVC Finals | Innovation & Entrepreneurship Initiative",
-  "type": "competition",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:59.704Z"
- },
- {
-  "id": "colorado-edu-innovate-2026-04-06-land-job-or-internship-startups2students",
-  "title": "Land a Job or Internship at Startups2Students | Innovation & Entrepreneurship Initiative",
-  "type": "event",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:52:59.558Z"
- },
- {
-  "id": "colorado-edu-innovate-2026-04-13-how-zoe-unsell-flexing-her-entrepreneurship-mus",
-  "title": "How Zoe Unsell is Flexing her Entrepreneurship Muscle | Innovation & Entrepreneurship Initiative",
-  "type": "course",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:59.501Z"
- },
- {
-  "id": "colorado-edu-innovate-2026-04-15-rally-around-next-generation-founders-nvc-final",
-  "title": "Rally around the next generation of founders at the NVC Finals | Innovation & Entrepreneurship Initiative",
-  "type": "competition",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:52:59.477Z"
- },
- {
-  "id": "colorado-edu-innovate-2026-04-09-hsnvc-showcasing-next-generation-entrepreneurs",
-  "title": "HSNVC: showcasing the next generation of entrepreneurs | Innovation & Entrepreneurship Initiative",
-  "type": "competition",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:52:59.447Z"
- },
- {
-  "id": "colorado-edu-researchinnovation-2025-12-12-projects-ai-and-quantum-water-and-wil",
-  "title": "Projects from AI and quantum to water and wildlife receive $870K+ in seed grants | Research & Innovation Office",
-  "type": "funding",
-  "org": "colorado.edu/researchinnovation",
-  "depth": 2,
-  "specificity": 6,
-  "at": "2026-08-11T16:52:58.928Z"
- },
- {
-  "id": "colorado-edu-innovate-2026-02-24-nominations-open-2026-innovation-entrepreneursh",
-  "title": "Nominations open for the 2026 Innovation & Entrepreneurship Initiative Awards | Innovation & Entrepreneurship Initiative",
-  "type": "funding",
-  "org": "colorado.edu/innovate",
+  "org": "colorado.edu/venturepartners",
   "depth": 1,
   "specificity": 8,
-  "at": "2026-08-11T16:52:58.923Z"
+  "at": "2026-08-11T16:53:23.374Z"
  },
  {
-  "id": "colorado-edu-innovate-2026-03-24-how-land-job-through-nvc-even-if-you-arent-pitc",
-  "title": "How to land a job through NVC even if you aren’t pitching | Innovation & Entrepreneurship Initiative",
-  "type": "competition",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:52:58.887Z"
- },
- {
-  "id": "colorado-edu-innovate-2026-03-09-commercialization-through-venture-partners-cu-b",
-  "title": "Commercialization through Venture Partners at CU Boulder drives $8.7 billion impact nationwide | Innovation & Entrepreneurship Initiative",
+  "id": "colorado-edu-venturepartners-2025-10-29-external-news-cu-boulders-colorado-quant",
+  "title": "CU Boulder’s Colorado Quantum Incubator and Stout Street Capital partner to accelerate quantum innovation | Venture Partners at CU Boulder",
   "type": "center",
-  "org": "colorado.edu/innovate",
+  "org": "colorado.edu/venturepartners",
   "depth": 1,
-  "specificity": 5,
-  "at": "2026-08-11T16:52:58.792Z"
+  "specificity": 6,
+  "at": "2026-08-11T16:53:23.344Z"
  },
  {
-  "id": "colorado-edu-innovate-2026-02-03-get-seed-funding-supports-student-ideas-and-inn",
-  "title": "Get Seed Funding supports student ideas and innovation | Innovation & Entrepreneurship Initiative",
+  "id": "colorado-edu-venturepartners-2025-10-07-external-news-cu-boulder-named-fast-comp",
+  "title": "Fast Company names University of Colorado Boulder a 2025 Ignition School driving entrepreneurship and innovation | Venture Partners at CU Bo",
   "type": "funding",
-  "org": "colorado.edu/innovate",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:23.217Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-06-11-external-news-carson-bruns-explores-nano",
+  "title": "Carson Bruns explores nanotech that turns plastic into fertilizer with RIO seed grant | Venture Partners at CU Boulder",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:23.160Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-06-10-internal-news-application-now-open-lab-v",
+  "title": "Application now open for the Lab Venture Challenge and $125,000 in funding | Venture Partners at CU Boulder",
+  "type": "competition",
+  "org": "colorado.edu/venturepartners",
   "depth": 1,
   "specificity": 8,
-  "at": "2026-08-11T16:52:58.747Z"
+  "at": "2026-08-11T16:53:23.029Z"
  },
  {
-  "id": "colorado-edu-innovate-2025-12-22-projects-ai-and-quantum-water-and-wildlife-rece",
-  "title": "Projects from AI and quantum to water and wildlife receive $870K+ in seed grants | Innovation & Entrepreneurship Initiative",
+  "id": "colorado-edu-venturepartners-2025-07-23-external-news-new-quantum-physics-and-ai",
+  "title": "New quantum physics and AI-powered microchip design software awarded grants | Venture Partners at CU Boulder",
   "type": "funding",
-  "org": "colorado.edu/innovate",
+  "org": "colorado.edu/venturepartners",
   "depth": 1,
-  "specificity": 5,
-  "at": "2026-08-11T16:52:58.500Z"
+  "specificity": 6,
+  "at": "2026-08-11T16:53:23.000Z"
  },
  {
-  "id": "colorado-edu-innovate-2025-12-01-thank-you-our-innovation-entrepreneurship-commu",
-  "title": "Thank you to our Innovation & Entrepreneurship community! | Innovation & Entrepreneurship Initiative",
+  "id": "colorado-edu-venturepartners-2025-06-30-internal-news-2025-ascent-deep-tech-comm",
+  "title": "2025 Ascent Deep Tech Community Showcase highlights CU’s next breakthrough startups | Venture Partners at CU Boulder",
+  "type": "competition",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 8,
+  "at": "2026-08-11T16:53:22.909Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-05-08-external-news-university-colorado-ranks-",
+  "title": "University of Colorado ranks among Top 20 U.S. universities for granted patents | Venture Partners at CU Boulder",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:22.759Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-05-15-internal-news-oedit-announces-grants-cu-",
+  "title": "Colorado Office of Economic Development and International Trade announces grants to CU Boulder and CU Denver startups and researchers | Vent",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:22.609Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-05-15-internal-news-cu-boulder-startups-select",
+  "title": "CU Boulder startups selected for Innosphere's 2025 Life Sciences Incubator | Venture Partners at CU Boulder",
   "type": "community",
-  "org": "colorado.edu/innovate",
+  "org": "colorado.edu/venturepartners",
   "depth": 1,
   "specificity": 6,
-  "at": "2026-08-11T16:52:58.489Z"
+  "at": "2026-08-11T16:53:22.601Z"
  },
  {
-  "id": "colorado-edu-innovate-2026-01-08-cu-boulder-pre-seed-investment-fuels-cancer-moo",
-  "title": "CU Boulder pre-seed investment fuels cancer ‘moonshot’ spinout Illumen Therapeutics | Innovation & Entrepreneurship Initiative",
-  "type": "funding",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:58.409Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-09-03-colorado-sustainability-challenge-entrepreneurs",
-  "title": "Colorado Sustainability Challenge: Entrepreneurship is for EVERYONE | Innovation & Entrepreneurship Initiative",
-  "type": "competition",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:52:58.272Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-12-08-oedit-announces-grants-university-colorado-star",
-  "title": "OEDIT announces grants to University of Colorado startups and researchers in the advanced industries | Innovation & Entrepreneurship Initiat",
-  "type": "funding",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:52:58.144Z"
- },
- {
-  "id": "colorado-edu-today-2025-07-23-new-quantum-physics-and-ai-powered-microchip-desig",
-  "title": "New quantum physics and AI-powered microchip design software awarded grants | CU Boulder Today",
-  "type": "funding",
-  "org": "colorado.edu/today",
-  "depth": 2,
-  "specificity": 8,
-  "at": "2026-08-11T16:52:58.042Z"
- },
- {
-  "id": "colorado-edu-atlas-bruns-explores-nanotech-turns-plastic-fertilizer-rio-seed-gra",
-  "title": "Bruns explores nanotech that turns plastic into fertilizer with RIO seed grant | The ATLAS Institute",
-  "type": "funding",
-  "org": "colorado.edu/atlas",
-  "depth": 2,
-  "specificity": 6,
-  "at": "2026-08-11T16:52:57.841Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-08-19-wanted-entrepreneurs-launch-startups-based-univ",
-  "title": "Wanted: Entrepreneurs to launch startups based on University of Colorado Boulder innovations | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:57.836Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-07-24-new-quantum-physics-and-ai-powered-microchip-de",
-  "title": "New quantum physics and AI-powered microchip design software awarded grants | Innovation & Entrepreneurship Initiative",
-  "type": "funding",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:57.691Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-07-09-2025-ascent-deep-tech-community-showcase-highli",
-  "title": "2025 Ascent Deep Tech Community Showcase highlights CU’s next breakthrough startups | Innovation & Entrepreneurship Initiative",
-  "type": "competition",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:52:57.487Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-06-24-bruns-explores-nanotech-turns-plastic-fertilize",
-  "title": "Bruns explores nanotech that turns plastic into fertilizer with RIO seed grant | Innovation & Entrepreneurship Initiative",
-  "type": "funding",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:57.458Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-05-27-lab-venture-challenge-info-session-set-june-10",
-  "title": "Lab Venture Challenge info session set for June 10 | Innovation & Entrepreneurship Initiative",
-  "type": "competition",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:57.400Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-05-19-university-colorado-ranks-among-top-20-us-unive",
-  "title": "University of Colorado ranks among Top 20 U.S. universities for granted patents | Innovation & Entrepreneurship Initiative",
-  "type": "funding",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:57.009Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-05-14-congratulations-our-2025-innovation-entrepreneu",
-  "title": "Congratulations to our 2025 Innovation & Entrepreneurship Initiative Award winners! | Innovation & Entrepreneurship Initiative",
-  "type": "competition",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:52:56.872Z"
- },
- {
-  "id": "colorado-edu-nvc-2025-04-24-trailblazing-ideas-and-entrepreneurial-spirit-reap-r",
-  "title": "Trailblazing ideas and entrepreneurial spirit reap rewards at the 2025 NVC Finals | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 2,
-  "specificity": 8,
-  "at": "2026-08-11T16:52:56.836Z"
- },
- {
-  "id": "colorado-edu-center-music-entrepreneurship-2025-05-13-entrepreneurship-center-mu",
-  "title": "Entrepreneurship Center for Music announces leadership transition | Entrepreneurship Center for Music",
-  "type": "center",
-  "org": "colorado.edu/center/music-entrepreneurship",
-  "depth": 2,
-  "specificity": 6,
-  "at": "2026-08-11T16:52:56.785Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-05-14-boulder-founders-summit-connects-students-local",
-  "title": "Boulder Founders Summit connects students with the local startup ecosystem | Innovation & Entrepreneurship Initiative",
-  "type": "event",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 6,
-  "at": "2026-08-11T16:52:56.389Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-04-25-trailblazing-ideas-and-entrepreneurial-spirit-r",
-  "title": "Trailblazing ideas and entrepreneurial spirit reap rewards at the 2025 NVC Finals | Innovation & Entrepreneurship Initiative",
-  "type": "competition",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:56.374Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-05-13-entrepreneurship-center-music-announces-leaders",
-  "title": "Entrepreneurship Center for Music announces leadership transition | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:56.370Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-03-18-five-ways-help-build-your-entrepreneurship-and-",
-  "title": "Five ways to help build your entrepreneurship and networking skills | Innovation & Entrepreneurship Initiative",
+  "id": "colorado-edu-venturepartners-2025-05-15-internal-news-university-colorados-ascen",
+  "title": "University of Colorado's Ascent Deep Tech Accelerator to showcase 2025 cohort in June | Venture Partners at CU Boulder",
   "type": "community",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 7,
-  "at": "2026-08-11T16:52:56.266Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-04-29-congratulations-our-2025-nvc-specialty-competit",
-  "title": "Congratulations to our 2025 NVC Specialty Competition winners! | Innovation & Entrepreneurship Initiative",
-  "type": "competition",
-  "org": "colorado.edu/innovate",
+  "org": "colorado.edu/venturepartners",
   "depth": 1,
   "specificity": 8,
-  "at": "2026-08-11T16:52:56.128Z"
+  "at": "2026-08-11T16:53:22.531Z"
  },
  {
-  "id": "colorado-edu-innovate-2025-03-13-nominations-open-2025-innovation-entrepreneursh",
-  "title": "Nominations open for the 2025 Innovation & Entrepreneurship Initiative Awards | Innovation & Entrepreneurship Initiative",
-  "type": "funding",
-  "org": "colorado.edu/innovate",
+  "id": "colorado-edu-venturepartners-2025-05-05-internal-news-new-climate-initiative-tur",
+  "title": "New climate initiative to turn student innovations into startup success | Venture Partners at CU Boulder",
+  "type": "center",
+  "org": "colorado.edu/venturepartners",
   "depth": 1,
   "specificity": 6,
-  "at": "2026-08-11T16:52:56.075Z"
+  "at": "2026-08-11T16:53:22.484Z"
  },
  {
-  "id": "colorado-edu-business-deming-news-2025-02-18-erin-batemans-entrepreneurial-journ",
-  "title": "How Erin Bateman is Breaking the Mold and Redefining Entrepreneurship and Career Growth Through Adaptability and Growth | Leeds School of Bu",
+  "id": "colorado-edu-venturepartners-2025-03-10-external-news-sustainable-spinouts-innov",
+  "title": "Sustainable spinouts: innovation in action | Venture Partners at CU Boulder",
   "type": "reference",
-  "org": "colorado.edu/business",
-  "depth": 2,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:55.840Z"
- },
- {
-  "id": "colorado-edu-graduateschool-2025-02-07-grad-student-innovators-among-winners-lab",
-  "title": "Grad student innovators among winners of Lab Venture Challenge | Graduate School",
-  "type": "competition",
-  "org": "colorado.edu/graduateschool",
-  "depth": 2,
-  "specificity": 8,
-  "at": "2026-08-11T16:52:55.816Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-03-11-six-ways-find-startup-job-or-internship-summer",
-  "title": "Six ways to find a startup job or internship by summer | Innovation & Entrepreneurship Initiative",
-  "type": "center",
-  "org": "colorado.edu/innovate",
+  "org": "colorado.edu/venturepartners",
   "depth": 1,
   "specificity": 6,
-  "at": "2026-08-11T16:52:55.796Z"
+  "at": "2026-08-11T16:53:22.337Z"
  },
  {
-  "id": "colorado-edu-innovate-2025-02-28-get-seed-funding-provides-financial-backing-hel",
-  "title": "Get Seed Funding Provides Financial Backing to Help Jumpstart Student Innovations | Innovation & Entrepreneurship Initiative",
+  "id": "colorado-edu-venturepartners-startup-portfolio-vitro3d-inc",
+  "title": "Manifest Technologies Inc. (prev. Vitro3D Inc.) | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:22.321Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-04-25-external-news-trailblazing-ideas-and-ent",
+  "title": "Trailblazing ideas and entrepreneurial spirit reap rewards at the 2025 NVC Finals | Venture Partners at CU Boulder",
+  "type": "competition",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:22.164Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-internal-news-funding-your-research-or-creative-wor",
+  "title": "Fund your research or creative work through commercialization | Venture Partners at CU Boulder",
   "type": "funding",
-  "org": "colorado.edu/innovate",
+  "org": "colorado.edu/venturepartners",
   "depth": 1,
   "specificity": 8,
-  "at": "2026-08-11T16:52:55.604Z"
+  "at": "2026-08-11T16:53:22.135Z"
  },
  {
-  "id": "colorado-edu-innovate-2025-02-20-how-erin-bateman-breaking-mold-and-redefining-e",
-  "title": "How Erin Bateman is Breaking the Mold and Redefining Entrepreneurship and Career Growth Through Adaptability and Growth | Innovation & Entre",
-  "type": "event",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 3,
-  "at": "2026-08-11T16:52:55.568Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-02-06-thank-you-all-our-innovation-entrepreneurship-p",
-  "title": "Thank you to all our Innovation & Entrepreneurship Partners! | Innovation & Entrepreneurship Initiative",
-  "type": "funding",
-  "org": "colorado.edu/innovate",
-  "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:52:55.527Z"
- },
- {
-  "id": "colorado-edu-innovate-2025-02-11-grad-student-innovators-among-winners-lab-ventu",
-  "title": "Grad student innovators among winners of Lab Venture Challenge | Innovation & Entrepreneurship Initiative",
+  "id": "colorado-edu-venturepartners-2025-02-07-external-news-grad-student-innovators-am",
+  "title": "Grad student innovators among winners of Lab Venture Challenge | Venture Partners at CU Boulder",
   "type": "competition",
-  "org": "colorado.edu/innovate",
+  "org": "colorado.edu/venturepartners",
   "depth": 1,
-  "specificity": 4,
-  "at": "2026-08-11T16:52:55.501Z"
+  "specificity": 6,
+  "at": "2026-08-11T16:53:22.008Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-01-13-external-news-cu-boulder-startup-page-te",
+  "title": "PAGE Technologies among 24 small businesses receiving a total of $2.4M to develop innovative environmental technologies | Venture Partners a",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 8,
+  "at": "2026-08-11T16:53:21.952Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-02-12-nsf-colorado-wyoming-engine-announces-se",
+  "title": "NSF Colorado-Wyoming Engine announces second round of grant opportunities to accelerate innovations in community resilience | Venture Partne",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:21.852Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-02-06-internal-news-registration-now-open-emba",
+  "title": "Registration now open for the Embark Deep Tech Startup Creator Showcase | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 5,
+  "at": "2026-08-11T16:53:21.827Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2025-01-15-external-news-new-quantum-incubator-boul",
+  "title": "New quantum incubator in Boulder to propel innovations for real-world impact | Venture Partners at CU Boulder",
+  "type": "space",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:21.739Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2024-12-02-external-news-cu-engineering-advances-in",
+  "title": "CU Engineering advances innovation through startup success | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:21.651Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2024-10-29-external-news-jila-based-innovation-team",
+  "title": "JILA-based innovation team Flari Tech wins CU Boulder’s 2024 Lab Venture Challenge for breakthrough breath diagnostic technology targeting l",
+  "type": "competition",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:21.533Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2024-12-23-external-news-rising-startup-stars-srist",
+  "title": "Rising Startup Stars: Sristy Agrawal, co-founder and CEO of Mesa Quantum | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:21.509Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2024-09-18-external-news-silvis-materials-awarded-1",
+  "title": "Silvis Materials awarded $1 million NSF SBIR Phase II grant to reduce emissions in packaging and building industries | Venture Partners at C",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 8,
+  "at": "2026-08-11T16:53:21.456Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2024-10-02-cu-researchers-compete-share-125m-grant-",
+  "title": "CU researchers to compete for share of $1.25M in grant funding to bring bio- and physical-sciences innovations to market | Venture Partners ",
+  "type": "competition",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 10,
+  "at": "2026-08-11T16:53:21.198Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2024-09-12-external-news-cu-grad-and-founder-cu-spi",
+  "title": "CU grad and founder of CU spinout Blacks Swift Technologies gets job with Hurricane Hunters | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:21.110Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2024-09-13-internal-news-2024-cohort-cu-boulders-em",
+  "title": "2024 cohort of CU Boulder’s Embark Deep Tech Startup Creator launches new startups | Venture Partners at CU Boulder",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 8,
+  "at": "2026-08-11T16:53:21.003Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2024-05-30-external-news-maithreyi-gopalakrishnan-b",
+  "title": "Maithreyi Gopalakrishnan: Bridging Entrepreneurship and Community | Venture Partners at CU Boulder",
+  "type": "community",
+  "org": "colorado.edu/venturepartners",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:53:20.990Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-researchers-inventors-entrepreneurial-training-nsf-",
+  "title": "NSF I-Corps Hub West | Venture Partners at CU Boulder",
+  "type": "reference",
+  "org": "colorado.edu/venturepartners",
+  "depth": 2,
+  "specificity": 8,
+  "at": "2026-08-11T16:53:20.925Z"
  }
 ]

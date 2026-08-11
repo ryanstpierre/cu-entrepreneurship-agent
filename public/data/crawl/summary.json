@@ -1,14 +1,14 @@
 {
- "updatedAt": "2026-08-11T16:53:02.067Z",
+ "updatedAt": "2026-08-11T16:53:26.740Z",
  "startedAt": "2026-08-11T16:50:27.591Z",
- "batches": 3,
- "pagesFetched": 553,
- "resourcesCatalogued": 439,
- "relationshipEdges": 76,
- "frontierSize": 2480,
- "analysisQueueSize": 117,
- "externalDomainsFound": 161,
- "errors": 0,
+ "batches": 4,
+ "pagesFetched": 807,
+ "resourcesCatalogued": 615,
+ "relationshipEdges": 185,
+ "frontierSize": 2462,
+ "analysisQueueSize": 120,
+ "externalDomainsFound": 184,
+ "errors": 1,
  "maxDepthReached": 4,
  "depthHistogram": {
   "0": {
@@ -17,35 +17,41 @@
    "pending": 0
   },
   "1": {
-   "fetched": 287,
+   "fetched": 442,
    "discovered": 1672,
-   "pending": 1385
+   "pending": 1230
   },
   "2": {
-   "fetched": 216,
-   "discovered": 808,
-   "pending": 592
+   "fetched": 250,
+   "discovered": 900,
+   "pending": 650
   },
   "3": {
-   "fetched": 34,
-   "discovered": 510,
-   "pending": 476
+   "fetched": 90,
+   "discovered": 598,
+   "pending": 508
   },
   "4": {
-   "fetched": 4,
-   "discovered": 31,
-   "pending": 27
+   "fetched": 13,
+   "discovered": 81,
+   "pending": 68
+  },
+  "5": {
+   "fetched": 0,
+   "discovered": 6,
+   "pending": 6
   }
  },
  "saturation": {
   "0": 1,
-  "1": 0.172,
-  "2": 0.267,
-  "3": 0.067,
-  "4": 0.129
+  "1": 0.264,
+  "2": 0.278,
+  "3": 0.151,
+  "4": 0.16,
+  "5": 0
  },
  "perOrgDepth": {
-  "colorado.edu/venturepartners": 3,
+  "colorado.edu/venturepartners": 4,
   "colorado.edu/researchinnovation": 3,
   "colorado.edu/innovate": 3,
   "colorado.edu/nvc": 2,
@@ -58,7 +64,7 @@
   "colorado.edu/business": 3,
   "colorado.edu/law": 2,
   "colorado.edu/today": 2,
-  "colorado.edu/initiative": 2,
+  "colorado.edu/initiative": 3,
   "colorado.edu/graduateschool": 2,
   "siliconflatirons.org": 4,
   "colorado.edu/atlas": 2,
@@ -69,32 +75,32 @@
   "colorado.edu/news-events": 2
  },
  "byType": {
-  "event": 26,
-  "funding": 115,
-  "program": 14,
-  "competition": 125,
-  "reference": 27,
-  "community": 21,
-  "service": 2,
-  "center": 94,
+  "program": 26,
+  "funding": 164,
+  "event": 31,
+  "competition": 185,
+  "community": 32,
+  "reference": 53,
+  "service": 7,
+  "center": 101,
   "course": 13,
-  "space": 2
+  "space": 3
  },
  "byOrg": {
-  "colorado.edu/venturepartners": 63,
-  "colorado.edu/researchinnovation": 28,
-  "colorado.edu/innovate": 250,
-  "colorado.edu/nvc": 21,
+  "colorado.edu/venturepartners": 180,
+  "colorado.edu/researchinnovation": 40,
+  "colorado.edu/innovate": 252,
+  "colorado.edu/nvc": 54,
   "colorado.edu/service": 1,
   "colorado.edu/research": 1,
-  "colorado.edu/techtransfer": 2,
+  "colorado.edu/techtransfer": 4,
   "colorado.edu/engineering": 6,
-  "colorado.edu/event": 5,
-  "colorado.edu/mechanical": 2,
-  "colorado.edu/business": 34,
+  "colorado.edu/event": 6,
+  "colorado.edu/mechanical": 3,
+  "colorado.edu/business": 37,
   "colorado.edu/law": 2,
-  "colorado.edu/today": 5,
-  "colorado.edu/initiative": 2,
+  "colorado.edu/today": 8,
+  "colorado.edu/initiative": 4,
   "colorado.edu/graduateschool": 1,
   "siliconflatirons.org": 3,
   "colorado.edu/atlas": 2,
