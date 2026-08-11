@@ -1,542 +1,542 @@
 [
  {
-  "id": "colorado-edu-venturepartners-2024-10-28-external-news-spinout-longpath-technolog",
-  "title": "CU Boulder spinout LongPath Technologies to expand methane detection with $162M DOE loan | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 5,
-  "specificity": 8,
-  "at": "2026-08-11T16:55:01.577Z"
- },
- {
-  "id": "colorado-edu-venturepartners-2019-01-24-cu-boulder-brings-together-top-spinoffs-",
-  "title": "CU Boulder brings together top spinoffs from Colorado research institutions for Destination Startup | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 5,
-  "specificity": 5,
-  "at": "2026-08-11T16:55:01.571Z"
- },
- {
-  "id": "colorado-edu-venturepartners-2024-05-09-external-news-think-bioscience-cu-boulde",
-  "title": "Think Bioscience, a CU Boulder spinout, raises $26M to find ‘pockets’ for drug therapies | Venture Partners at CU Boulder",
-  "type": "funding",
-  "org": "colorado.edu/venturepartners",
-  "depth": 5,
-  "specificity": 8,
-  "at": "2026-08-11T16:55:01.209Z"
- },
- {
-  "id": "colorado-edu-venturepartners-2025-10-14-external-news-vitrivax-awarded-99m-grant",
-  "title": "VitriVax awarded $9.9M grant to enable scaling up of clinical manufacturing | Venture Partners at CU Boulder",
-  "type": "funding",
-  "org": "colorado.edu/venturepartners",
-  "depth": 5,
-  "specificity": 8,
-  "at": "2026-08-11T16:55:01.110Z"
- },
- {
-  "id": "colorado-edu-venturepartners-startup-portfolio-point-designs-llc",
-  "title": "Point Designs LLC | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 4,
-  "specificity": 8,
-  "at": "2026-08-11T16:55:01.047Z"
- },
- {
-  "id": "colorado-edu-venturepartners-startup-portfolio-think-bioscience-inc",
-  "title": "Think Bioscience Inc. | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 4,
-  "specificity": 8,
-  "at": "2026-08-11T16:55:00.747Z"
- },
- {
-  "id": "colorado-edu-venturepartners-startup-portfolio-polaris-electro-optics-inc",
-  "title": "Polaris Electro-Optics Inc. | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 4,
-  "specificity": 8,
-  "at": "2026-08-11T16:55:00.697Z"
- },
- {
-  "id": "colorado-edu-venturepartners-startup-portfolio-longpath-technologies-inc",
-  "title": "LongPath Technologies Inc. | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 4,
-  "specificity": 8,
-  "at": "2026-08-11T16:55:00.646Z"
- },
- {
-  "id": "colorado-edu-venturepartners-startup-portfolio-vitrivax-inc",
-  "title": "VitriVax Inc. | Venture Partners at CU Boulder",
-  "type": "event",
-  "org": "colorado.edu/venturepartners",
-  "depth": 4,
-  "specificity": 8,
-  "at": "2026-08-11T16:55:00.630Z"
- },
- {
-  "id": "colorado-edu-venturepartners-2025-11-25-internal-news-behind-our-innovation-engi",
-  "title": "Behind our innovation engine is a team worth celebrating | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 4,
-  "specificity": 6,
-  "at": "2026-08-11T16:55:00.370Z"
- },
- {
-  "id": "colorado-edu-venturepartners-about-people-emily-vogt",
-  "title": "Emily Vogt | Venture Partners at CU Boulder",
-  "type": "event",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T16:55:00.273Z"
- },
- {
-  "id": "colorado-edu-venturepartners-about-reports-current-annual-report",
-  "title": "Venture Partners Annual Report | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T16:55:00.232Z"
- },
- {
-  "id": "colorado-edu-venturepartners-contact-us",
-  "title": "Contact Us | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T16:55:00.162Z"
- },
- {
-  "id": "colorado-edu-venturepartners-frequently-asked-questions",
-  "title": "Frequently Asked Questions | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:59.999Z"
- },
- {
-  "id": "siliconflatirons-org-events-startup-variety-show-2025-02-20",
-  "title": "Startup Variety Show | Silicon Flatirons",
-  "type": "event",
-  "org": "siliconflatirons.org",
-  "depth": 3,
-  "specificity": 5,
-  "at": "2026-08-11T16:54:59.994Z"
- },
- {
-  "id": "colorado-edu-venturepartners-newsroom",
-  "title": "Newsroom | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:59.904Z"
- },
- {
-  "id": "colorado-edu-venturepartners-subscribe",
-  "title": "Subscribe to The Insider Newsletters | Venture Partners at CU Boulder",
+  "id": "startupcolorado-org-meet-the-founders-september-cohort-2023",
+  "title": "Meet the Founders: September COOPETITION COHORT - Startup Colorado",
   "type": "community",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:59.888Z"
+  "org": "startupcolorado.org",
+  "depth": 5,
+  "specificity": 8,
+  "at": "2026-08-11T16:59:55.737Z"
  },
  {
-  "id": "siliconflatirons-org-announcements-silicon-flatirons-opens-call-for-proposals-fo",
-  "title": "Silicon Flatirons Opens Call for Proposals for Entrepreneurial Policy Academy | Silicon Flatirons",
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-holers-michael-exth58kar",
+  "title": "michael.holers@cuanschutz.edu",
   "type": "reference",
-  "org": "siliconflatirons.org",
-  "depth": 3,
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 5,
+  "at": "2026-08-11T16:59:54.871Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-sperry-taylor-ucd6004345246",
+  "title": "taylor.sperry@cuanschutz.edu",
+  "type": "reference",
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 5,
+  "at": "2026-08-11T16:59:53.757Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-mao-rebecca-ucd6004457262",
+  "title": "rebecca.mao@cuanschutz.edu",
+  "type": "reference",
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 7,
+  "at": "2026-08-11T16:59:53.682Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-zuscik-michael-extumgt6i",
+  "title": "michael.zuscik@cuanschutz.edu",
+  "type": "reference",
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 5,
+  "at": "2026-08-11T16:59:53.671Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-baler-gali-extp66qym",
+  "title": "gali.baler@cuanschutz.edu",
+  "type": "reference",
+  "org": "cuanschutz.edu",
+  "depth": 2,
   "specificity": 9,
-  "at": "2026-08-11T16:54:59.809Z"
+  "at": "2026-08-11T16:59:53.423Z"
  },
  {
-  "id": "colorado-edu-venturepartners-newsroom-cu-startups-news",
-  "title": "CU Startups News | Venture Partners at CU Boulder",
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-yang-heiko-extzrsl9m",
+  "title": "heiko.yang@cuanschutz.edu",
   "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 4,
+  "org": "cuanschutz.edu",
+  "depth": 2,
   "specificity": 5,
-  "at": "2026-08-11T16:54:59.584Z"
+  "at": "2026-08-11T16:59:53.292Z"
  },
  {
-  "id": "colorado-edu-venturepartners-opportunities-and-events",
-  "title": "Opportunities and Events | Venture Partners at CU Boulder",
-  "type": "event",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 10,
-  "at": "2026-08-11T16:54:59.514Z"
- },
- {
-  "id": "colorado-edu-venturepartners-make-gift-and-translate-discovery-impact",
-  "title": "Make a Gift and Translate Discovery into Impact | Venture Partners at CU Boulder",
-  "type": "competition",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:59.078Z"
- },
- {
-  "id": "colorado-edu-venturepartners-investors-and-industry",
-  "title": "Investment and Industry Opportunities | Venture Partners at CU Boulder",
+  "id": "startupcolorado-org-stories-listen-how-entrepreneurs-can-tap-into-podcasting",
+  "title": "Listen: How Entrepreneurs Can Tap Into Podcasting - Startup Colorado",
   "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:58.952Z"
+  "org": "startupcolorado.org",
+  "depth": 5,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:53.134Z"
  },
  {
-  "id": "colorado-edu-venturepartners-technology-portfolio",
-  "title": "Technology Portfolio | Venture Partners at CU Boulder",
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-wang-richard-extd5za0f",
+  "title": "richard.c.wang@cuanschutz.edu",
+  "type": "reference",
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 5,
+  "at": "2026-08-11T16:59:53.087Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-nagaraj-ram-extdl2xyj",
+  "title": "ram.nagaraj@cuanschutz.edu",
+  "type": "reference",
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 5,
+  "at": "2026-08-11T16:59:52.972Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-lu-shi-long-extnncntp",
+  "title": "shi-long.lu@cuanschutz.edu",
+  "type": "reference",
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 5,
+  "at": "2026-08-11T16:59:52.959Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-lampe-jed-extzc7uy4",
+  "title": "jed.lampe@cuanschutz.edu",
+  "type": "reference",
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 5,
+  "at": "2026-08-11T16:59:52.721Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-bruce-kim-ext6dvd8h",
+  "title": "kimberley.bruce@cuanschutz.edu",
+  "type": "reference",
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 5,
+  "at": "2026-08-11T16:59:52.630Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-joy-melanie-extfdo3ym",
+  "title": "melanie.joy@cuanschutz.edu",
+  "type": "reference",
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 5,
+  "at": "2026-08-11T16:59:52.620Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-kramer-dan-exttf719i",
+  "title": "daniel.r.kramer@cuanschutz.edu",
+  "type": "reference",
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 5,
+  "at": "2026-08-11T16:59:52.385Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-about-us-team-profile-goldberg-elizabeth-extb537e5",
+  "title": "elizabeth.goldberg@cuanschutz.edu",
+  "type": "reference",
+  "org": "cuanschutz.edu",
+  "depth": 2,
+  "specificity": 5,
+  "at": "2026-08-11T16:59:52.030Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-campus-innovator-faculty-or-researcher-manage-ip-heal",
+  "title": "Healthcare Advisors and EIRs",
   "type": "service",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:58.946Z"
- },
- {
-  "id": "colorado-edu-venturepartners-opportunities-and-events-creative-futures-fellowshi",
-  "title": "Creative Futures Fellowship | Venture Partners at CU Boulder",
-  "type": "funding",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:58.608Z"
- },
- {
-  "id": "colorado-edu-venturepartners-get-started",
-  "title": "Get Started | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:58.534Z"
- },
- {
-  "id": "colorado-edu-venturepartners-about",
-  "title": "About Us | Venture Partners at CU Boulder",
-  "type": "course",
-  "org": "colorado.edu/venturepartners",
-  "depth": 3,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:58.516Z"
- },
- {
-  "id": "siliconflatirons-org-events-startup-variety-show-2023-07-20",
-  "title": "Startup Variety Show | Silicon Flatirons",
-  "type": "event",
-  "org": "siliconflatirons.org",
-  "depth": 3,
+  "org": "cuanschutz.edu",
+  "depth": 2,
   "specificity": 5,
-  "at": "2026-08-11T16:54:57.179Z"
+  "at": "2026-08-11T16:59:51.783Z"
  },
  {
-  "id": "calendar-colorado-edu-calendar-event-types-5b-5d-113916",
-  "title": "Research & Innovation Events  on August 11 - September 9, 2026 - University of Colorado Boulder",
-  "type": "event",
-  "org": "colorado.edu/calendar",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:56.126Z"
- },
- {
-  "id": "colorado-edu-nvc-contact-us",
-  "title": "Contact Us | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:55.918Z"
- },
- {
-  "id": "colorado-edu-nvc-events",
-  "title": "Events and Opportunities | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 3,
-  "specificity": 10,
-  "at": "2026-08-11T16:54:55.824Z"
- },
- {
-  "id": "colorado-edu-nvc-news",
-  "title": "News | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 3,
-  "specificity": 3,
-  "at": "2026-08-11T16:54:55.653Z"
- },
- {
-  "id": "colorado-edu-nvc-get-involved",
-  "title": "Support | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 3,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:55.558Z"
- },
- {
-  "id": "colorado-edu-nvc-compete",
-  "title": "Compete | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 3,
-  "specificity": 10,
-  "at": "2026-08-11T16:54:55.489Z"
- },
- {
-  "id": "colorado-edu-nvc-about",
-  "title": "About the New Venture Challenge (NVC) | New Venture Challenge",
-  "type": "competition",
-  "org": "colorado.edu/nvc",
-  "depth": 3,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:55.387Z"
- },
- {
-  "id": "colorado-edu-venturepartners-2025-01-11-external-news-local-tech-startup-aims-po",
-  "title": "Local tech startup ExoPower aims to power commercial robots | Venture Partners at CU Boulder",
-  "type": "center",
-  "org": "colorado.edu/venturepartners",
-  "depth": 6,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:55.175Z"
- },
- {
-  "id": "colorado-edu-venturepartners-2023-11-13-internal-news-state-and-university-partn",
-  "title": "State and university partner to award over $1.5 million in funding to University of Colorado innovations | Venture Partners at CU Boulder",
-  "type": "funding",
-  "org": "colorado.edu/venturepartners",
-  "depth": 6,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:54.898Z"
- },
- {
-  "id": "colorado-edu-venturepartners-startup-portfolio-kioga-inc",
-  "title": "Kioga Inc. | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 6,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:54.760Z"
- },
- {
-  "id": "colorado-edu-venturepartners-startup-portfolio-modendo-inc",
-  "title": "Modendo Inc. | Venture Partners at CU Boulder",
-  "type": "reference",
-  "org": "colorado.edu/venturepartners",
-  "depth": 6,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:54.357Z"
- },
- {
-  "id": "colorado-edu-catalyzecu-new-1-credit-courses-spring-2026",
-  "title": "NEW 1 Credit Courses FOR SPRING 2026 | Catalyze CU",
-  "type": "course",
-  "org": "colorado.edu/catalyzecu",
-  "depth": 2,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:54.309Z"
- },
- {
-  "id": "colorado-edu-catalyzecu-employment",
-  "title": "Employment | Catalyze CU",
-  "type": "program",
-  "org": "colorado.edu/catalyzecu",
-  "depth": 2,
-  "specificity": 8,
-  "at": "2026-08-11T16:54:54.296Z"
- },
- {
-  "id": "colorado-edu-catalyzecu-contact-us",
-  "title": "Contact Us | Catalyze CU",
-  "type": "reference",
-  "org": "colorado.edu/catalyzecu",
-  "depth": 2,
-  "specificity": 3,
-  "at": "2026-08-11T16:54:53.977Z"
- },
- {
-  "id": "colorado-edu-catalyzecu-support",
-  "title": "Become a Catalyze CU Partner | Catalyze CU",
-  "type": "program",
-  "org": "colorado.edu/catalyzecu",
-  "depth": 2,
-  "specificity": 4,
-  "at": "2026-08-11T16:54:53.925Z"
- },
- {
-  "id": "colorado-edu-catalyzecu-news",
-  "title": "Catalyze CU Startups in the News | Catalyze CU",
-  "type": "reference",
-  "org": "colorado.edu/catalyzecu",
-  "depth": 2,
-  "specificity": 3,
-  "at": "2026-08-11T16:54:53.849Z"
- },
- {
-  "id": "colorado-edu-catalyzecu-about",
-  "title": "About | Catalyze CU",
-  "type": "program",
-  "org": "colorado.edu/catalyzecu",
-  "depth": 2,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:53.845Z"
- },
- {
-  "id": "colorado-edu-catalyzecu-summers-cohort",
-  "title": "This Summer's Cohort | Catalyze CU",
+  "id": "startupcolorado-org-news-648759",
+  "title": "Home - Startup Colorado",
   "type": "community",
-  "org": "colorado.edu/catalyzecu",
-  "depth": 2,
-  "specificity": 6,
-  "at": "2026-08-11T16:54:53.821Z"
+  "org": "startupcolorado.org",
+  "depth": 5,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:51.628Z"
  },
  {
-  "id": "colorado-edu-ideaforge-faculty-support",
-  "title": "Faculty Support | Idea Forge",
-  "type": "course",
-  "org": "colorado.edu/ideaforge",
-  "depth": 2,
-  "specificity": 2,
-  "at": "2026-08-11T16:54:53.601Z"
- },
- {
-  "id": "colorado-edu-ideaforge-workshops",
-  "title": "Workshops | Idea Forge",
-  "type": "event",
-  "org": "colorado.edu/ideaforge",
-  "depth": 2,
-  "specificity": 0,
-  "at": "2026-08-11T16:54:53.432Z"
- },
- {
-  "id": "colorado-edu-ideaforge-about-tours",
-  "title": "Tours | Idea Forge",
-  "type": "course",
-  "org": "colorado.edu/ideaforge",
-  "depth": 2,
-  "specificity": 2,
-  "at": "2026-08-11T16:54:53.408Z"
- },
- {
-  "id": "colorado-edu-ideaforge-facilities-idea-forge-commons",
-  "title": "Idea Forge Commons | Idea Forge",
-  "type": "event",
-  "org": "colorado.edu/ideaforge",
-  "depth": 3,
-  "specificity": 2,
-  "at": "2026-08-11T16:54:53.039Z"
- },
- {
-  "id": "colorado-edu-ideaforge-facilities-makerspace",
-  "title": "Makerspace Woodshop | Idea Forge",
-  "type": "space",
-  "org": "colorado.edu/ideaforge",
-  "depth": 3,
-  "specificity": 1,
-  "at": "2026-08-11T16:54:53.004Z"
- },
- {
-  "id": "colorado-edu-researchinnovation-newsletter-rio-bulletin-july-21-2026",
-  "title": "July 21, 2026 | Research & Innovation Office",
+  "id": "cuanschutz-edu-innovations-cu-innovations-protect-your-innovation-disclose-an-in",
+  "title": "Invention &amp; Copyright Material Disclosure Process",
   "type": "reference",
-  "org": "colorado.edu/researchinnovation",
-  "depth": 2,
-  "specificity": 5,
-  "at": "2026-08-11T16:54:52.297Z"
- },
- {
-  "id": "colorado-edu-ideaforge-news",
-  "title": "In the News | Idea Forge",
-  "type": "reference",
-  "org": "colorado.edu/ideaforge",
+  "org": "cuanschutz.edu",
   "depth": 2,
   "specificity": 3,
-  "at": "2026-08-11T16:54:52.250Z"
+  "at": "2026-08-11T16:59:51.512Z"
  },
  {
-  "id": "colorado-edu-ideaforge-workshops-videos",
-  "title": "Workshops & Videos | Idea Forge",
-  "type": "event",
-  "org": "colorado.edu/ideaforge",
-  "depth": 2,
-  "specificity": 0,
-  "at": "2026-08-11T16:54:52.231Z"
+  "id": "cuanschutz-edu-cu-innovations-cu-innovations-innovator-resources-funding-resourc",
+  "title": "Toolbox Microgrants",
+  "type": "funding",
+  "org": "cuanschutz.edu",
+  "depth": 3,
+  "specificity": 7,
+  "at": "2026-08-11T16:59:51.052Z"
  },
  {
-  "id": "colorado-edu-ideaforge-fabrication",
-  "title": "Fabrication | Idea Forge",
-  "type": "reference",
-  "org": "colorado.edu/ideaforge",
+  "id": "cuanschutz-edu-innovations-spark-about-spark-funding-sources",
+  "title": "Our Funding Sources | SPARK",
+  "type": "funding",
+  "org": "cuanschutz.edu",
+  "depth": 3,
+  "specificity": 5,
+  "at": "2026-08-11T16:59:51.007Z"
+ },
+ {
+  "id": "startupcolorado-org-referral-disclaimer",
+  "title": "Referral Disclaimer - Startup Colorado",
+  "type": "program",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:59:50.614Z"
+ },
+ {
+  "id": "cuanschutz-edu-innovations-spark",
+  "title": "SPARK | University of Colorado Anschutz Medical Campus",
+  "type": "program",
+  "org": "cuanschutz.edu",
   "depth": 2,
   "specificity": 4,
-  "at": "2026-08-11T16:54:52.214Z"
+  "at": "2026-08-11T16:59:50.496Z"
  },
  {
-  "id": "colorado-edu-ideaforge-facilities",
-  "title": "Facilities | Idea Forge",
-  "type": "space",
-  "org": "colorado.edu/ideaforge",
+  "id": "startupcolorado-org-foundercoopetition",
+  "title": "Home - Startup Colorado",
+  "type": "community",
+  "org": "startupcolorado.org",
+  "depth": 5,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:50.103Z"
+ },
+ {
+  "id": "watson-is-google-data-center-community-ai-fellowship-application",
+  "title": "2026 Google Data Center Community AI Fellowship: Apply Today",
+  "type": "competition",
+  "org": "watson.is",
+  "depth": 1,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:49.482Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2022-08-18-cu-boulder-spinout-think-bioscience-rais",
+  "title": "CU Boulder spinout Think Bioscience raises $17M to target undruggable proteins | Venture Partners at CU Boulder",
+  "type": "funding",
+  "org": "colorado.edu/venturepartners",
+  "depth": 5,
+  "specificity": 8,
+  "at": "2026-08-11T16:59:49.408Z"
+ },
+ {
+  "id": "colorado-edu-venturepartners-2024-07-25-internal-news-six-cu-boulder-startups-se",
+  "title": "Six CU Boulder startups selected to present at the Rocky Mountain Life Science Investor Conference | Venture Partners at CU Boulder",
+  "type": "event",
+  "org": "colorado.edu/venturepartners",
+  "depth": 5,
+  "specificity": 8,
+  "at": "2026-08-11T16:59:49.050Z"
+ },
+ {
+  "id": "startupcolorado-org-startup-colorado-privacy-policy",
+  "title": "Compliance, Ethics and Policy Matter - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:59:48.739Z"
+ },
+ {
+  "id": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado-",
+  "title": "Home - Startup Colorado",
+  "type": "competition",
+  "org": "startupcolorado.org",
   "depth": 2,
-  "specificity": 3,
-  "at": "2026-08-11T16:54:52.206Z"
+  "specificity": 4,
+  "at": "2026-08-11T16:59:48.580Z"
  },
  {
-  "id": "colorado-edu-ideaforge-about",
-  "title": "About | Idea Forge",
-  "type": "space",
-  "org": "colorado.edu/ideaforge",
+  "id": "watson-is-ford-philanthropy-fellowship-application",
+  "title": "Application: Ford Philanthropy Fellowship",
+  "type": "funding",
+  "org": "watson.is",
+  "depth": 1,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:48.495Z"
+ },
+ {
+  "id": "watson-is-bmo-fellowship-application",
+  "title": "Application: BMO Fellowship",
+  "type": "funding",
+  "org": "watson.is",
+  "depth": 1,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:46.612Z"
+ },
+ {
+  "id": "startupcolorado-org-stories-startup-colorados-pop-event-series",
+  "title": "Startup Colorado’s POP Event Series - Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:59:45.618Z"
+ },
+ {
+  "id": "startupcolorado-org-stories-standing-with-rural-colorado",
+  "title": "Standing With Rural Colorado Through the Fires - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:59:45.525Z"
+ },
+ {
+  "id": "startupcolorado-org-stories-what-three-recent-investments-reveal-about-rural-col",
+  "title": "What Three Recent Investments Reveal About Rural Colorado’s Startup Ecosystem - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 6,
+  "at": "2026-08-11T16:59:44.541Z"
+ },
+ {
+  "id": "startupcolorado-org-stories-rural-startup-days-debuts",
+  "title": "Rural Startup Days Debuts with High Engagement and Early Momentum - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:43.181Z"
+ },
+ {
+  "id": "startupcolorado-org-stories-startup-colorado-partners-with-colorado-ojt",
+  "title": "Startup Colorado Partners with Colorado Office of Just Transition to Support Coal Transition Workers Through Entrepreneurship - Startup Colo",
+  "type": "center",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 8,
+  "at": "2026-08-11T16:59:40.237Z"
+ },
+ {
+  "id": "startupcolorado-org-listen-this-entrepreneur-is-flipping-towns",
+  "title": "Listen: This Entrepreneur Is &quot;Flipping&quot; Towns - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
   "depth": 2,
   "specificity": 2,
-  "at": "2026-08-11T16:54:51.855Z"
+  "at": "2026-08-11T16:59:40.227Z"
  },
  {
-  "id": "lawinnovation-colorado-edu-public-facultypublications-year-2014",
-  "title": "Colorado Law | Selected Faculty Publications for 2014",
-  "type": "reference",
-  "org": "colorado.edu/Public",
-  "depth": 2,
-  "specificity": 3,
-  "at": "2026-08-11T16:54:47.943Z"
+  "id": "startupcolorado-org-event-ready-to-reach-further-a-brand-first-plan-for-expandin",
+  "title": "Ready to Reach Further: A Brand-First Plan for Expanding Your Creative Business - Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:37.233Z"
  },
  {
-  "id": "lawinnovation-colorado-edu-public-facultypublications-year-2018",
-  "title": "Colorado Law | Selected Faculty Publications for 2018",
-  "type": "reference",
-  "org": "colorado.edu/Public",
+  "id": "startupcolorado-org-how-wssw-has-evolved-to-serve-more-rural-entrepreneurs",
+  "title": "How WSSW Has Evolved to Serve More Rural Entrepreneurs - Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
   "depth": 2,
-  "specificity": 3,
-  "at": "2026-08-11T16:54:46.566Z"
+  "specificity": 4,
+  "at": "2026-08-11T16:59:35.809Z"
  },
  {
-  "id": "lawinnovation-colorado-edu-public-facultypublications-year-2020",
-  "title": "Colorado Law | Selected Faculty Publications for 2020",
-  "type": "reference",
-  "org": "colorado.edu/Public",
+  "id": "startupcolorado-org-event-capital-bootcamp-pitch-prep-telling-your-story-learnin",
+  "title": "Capital Bootcamp Pitch Prep - Startup Colorado",
+  "type": "competition",
+  "org": "startupcolorado.org",
   "depth": 2,
-  "specificity": 3,
-  "at": "2026-08-11T16:54:46.366Z"
+  "specificity": 6,
+  "at": "2026-08-11T16:59:33.888Z"
  },
  {
-  "id": "lawinnovation-colorado-edu-public-facultypublications-year-2021",
-  "title": "Colorado Law | Selected Faculty Publications for 2021",
-  "type": "reference",
-  "org": "colorado.edu/Public",
+  "id": "startupcolorado-org-rural-creative-collective",
+  "title": "Rural Creative Collective - Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:32.278Z"
+ },
+ {
+  "id": "startupcolorado-org-event-colorado-capital-funding-opportunities-you-may-be-miss",
+  "title": "Colorado Capital: Don&#039;t miss these OEDIT funding opportunities - Startup Colorado",
+  "type": "funding",
+  "org": "startupcolorado.org",
   "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T16:59:31.973Z"
+ },
+ {
+  "id": "startupcolorado-org-how-sasquatch-campers-earned-a-rural-jump-start-grant",
+  "title": "How Sasquatch Campers Earned a Rural Jump-Start Grant - Startup Colorado",
+  "type": "funding",
+  "org": "startupcolorado.org",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:59:31.126Z"
+ },
+ {
+  "id": "startupcolorado-org-ecosystem-builders",
+  "title": "Ecosystem Builders - Startup Colorado",
+  "type": "service",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 2,
+  "at": "2026-08-11T16:59:28.307Z"
+ },
+ {
+  "id": "startupcolorado-org-geekpack-founder-julia-taylor-awarded-cartier-fellowship-for",
+  "title": "GeekPack Founder Julia Taylor Awarded Cartier Fellowship for Women in Business - Startup Colorado",
+  "type": "funding",
+  "org": "startupcolorado.org",
+  "depth": 3,
+  "specificity": 6,
+  "at": "2026-08-11T16:59:27.950Z"
+ },
+ {
+  "id": "startupcolorado-org-all-events-photo-featured-shortcode-fdcdb04f",
+  "title": "Display of Featured Events from August 6, 2025 &#8211; September 24, 2025 &#8211; Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
+  "depth": 1,
   "specificity": 3,
-  "at": "2026-08-11T16:54:46.117Z"
+  "at": "2026-08-11T16:59:27.417Z"
+ },
+ {
+  "id": "startupcolorado-org-resource-center-explained-how-colorados-rural-jump-start-pro",
+  "title": "Explained: How Colorado&#039;s Rural Jump-Start Program Supports Founders - Startup Colorado",
+  "type": "center",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T16:59:26.107Z"
+ },
+ {
+  "id": "startupcolorado-org-colorado-state-grants-and-tax-incentives-explained",
+  "title": "Colorado State Grants and Tax Incentives Explained - Startup Colorado",
+  "type": "funding",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 8,
+  "at": "2026-08-11T16:59:22.200Z"
+ },
+ {
+  "id": "startupcolorado-org-education-explained-how-colorados-rural-jump-start-program-s",
+  "title": "Home - Startup Colorado",
+  "type": "community",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:21.942Z"
+ },
+ {
+  "id": "startupcolorado-org-founder-coopetition-2",
+  "title": "Home - Startup Colorado",
+  "type": "community",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:20.630Z"
+ },
+ {
+  "id": "startupcolorado-org-join-the-community",
+  "title": "Join The Community - Startup Colorado",
+  "type": "community",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:19.701Z"
+ },
+ {
+  "id": "startupcolorado-org-education",
+  "title": "Education - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 2,
+  "at": "2026-08-11T16:59:19.031Z"
+ },
+ {
+  "id": "startupcolorado-org-resource-center-workforce-development-resource-hub",
+  "title": "Workforce Development Resource Hub - Startup Colorado",
+  "type": "center",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:17.425Z"
+ },
+ {
+  "id": "startupcolorado-org-resource-center",
+  "title": "Resource Center - Startup Colorado",
+  "type": "center",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 2,
+  "at": "2026-08-11T16:59:16.932Z"
+ },
+ {
+  "id": "startupcolorado-org-meet-the-entrepreneurs-behind-the-vanlife-boom",
+  "title": "Meet the Entrepreneurs Behind the #Vanlife Boom - Startup Colorado",
+  "type": "reference",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:13.238Z"
+ },
+ {
+  "id": "startupcolorado-org-events-outside-city-limits",
+  "title": "Outside City Limits - Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 2,
+  "at": "2026-08-11T16:59:13.115Z"
+ },
+ {
+  "id": "startupcolorado-org-meet-thayer-hirsh-of-knome-founder-coopetition-winner",
+  "title": "Meet Thayer Hirsh of Knome - Founder Coopetition Winner - Startup Colorado",
+  "type": "funding",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 6,
+  "at": "2026-08-11T16:59:09.854Z"
+ },
+ {
+  "id": "startupcolorado-org-event-august-pitch-readiness-workshop-with-startup-colorado",
+  "title": "August Pitch Workshop with Startup Colorado - Startup Colorado",
+  "type": "competition",
+  "org": "startupcolorado.org",
+  "depth": 2,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:09.841Z"
+ },
+ {
+  "id": "startupcolorado-org-events",
+  "title": "Events - Startup Colorado",
+  "type": "event",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 8,
+  "at": "2026-08-11T16:59:08.215Z"
+ },
+ {
+  "id": "startupcolorado-org-about",
+  "title": "About - Startup Colorado",
+  "type": "community",
+  "org": "startupcolorado.org",
+  "depth": 1,
+  "specificity": 4,
+  "at": "2026-08-11T16:59:05.197Z"
  }
 ]

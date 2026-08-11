@@ -9,6 +9,48 @@
   ]
  },
  {
+  "host": "community.startupcolorado.org",
+  "count": 562,
+  "examples": [
+   "https://community.startupcolorado.org/events/110697?amp%3Bmc_eid=efea1eee39",
+   "https://community.startupcolorado.org/events/109764?amp%3Bmc_eid=efea1eee39",
+   "https://community.startupcolorado.org/events/110823?amp%3Bmc_eid=efea1eee39"
+  ]
+ },
+ {
+  "host": "ruralstartup.substack.com",
+  "count": 424,
+  "examples": [
+   "https://ruralstartup.substack.com/",
+   "https://ruralstartup.substack.com/p/signup",
+   "https://ruralstartup.substack.com/p/your-startup-community-wont-build"
+  ]
+ },
+ {
+  "host": "ruralstartupdays.com",
+  "count": 276,
+  "examples": [
+   "https://ruralstartupdays.com/",
+   "http://ruralstartupdays.com/"
+  ]
+ },
+ {
+  "host": "airtable.com",
+  "count": 275,
+  "examples": [
+   "https://airtable.com/appecgjAEPF6G0oQe/pagl8MxeYG1r7sRv1/form?amp%3Bmc_eid=efea1eee39",
+   "https://airtable.com/appuqMEafOOQMf01L/pagUqCwwINXgZ1A5K/form?amp%3Butm_medium=Email&amp%3Butm_source=News",
+   "https://airtable.com/appecgjAEPF6G0oQe/pagrXdn9UAhXpxAfI/form"
+  ]
+ },
+ {
+  "host": "www.westslopestartupweek.com",
+  "count": 270,
+  "examples": [
+   "http://www.westslopestartupweek.com/"
+  ]
+ },
+ {
   "host": "nvc.startuptree.co",
   "count": 114,
   "examples": [
@@ -63,6 +105,15 @@
   ]
  },
  {
+  "host": "innosphere.org",
+  "count": 77,
+  "examples": [
+   "https://innosphere.org/accelerator",
+   "https://innosphere.org/sage",
+   "https://innosphere.org/our-startups"
+  ]
+ },
+ {
   "host": "o365coloradoedu-my.sharepoint.com",
   "count": 72,
   "examples": [
@@ -105,6 +156,36 @@
    "https://calendar.google.com/calendar/event?action=TEMPLATE&dates=20250321T000000Z%2F20250321T020000Z&details=Top+student+and+faculty+startups+founded+by+women+will+pitch+their+business+ideas+to+a+panel+of+esteemed+judges+and+you%2C+a+live+audience.+Come+support+the+next+big+CU+Boulder+innovations+as+we+give+away+%2415%2C000+in+funding%21%0A%0AThe+Women+Founders+Competition+of+the+New+Venture+Challenge+%28NVC%29+is+a+multi-round+entrepreneurial+competition+and+signature+program+of+CU+Boulder%E2%80%99s+Innovation+%26+Entrepreneurship+Initiative%2C+led+in+collaboration+with+the+Deming+Center+for+Entrepreneurship.+%0A%0A+%0A%0AEvent+specifics%3A%0A%0ADoors+open+at+5%3A15+p.m.+for+refreshments+and+networking.Each+attendee+must+register+for+their+own+ticket.Attendees+must+register+in+advance.Seating+is+limited%2C+and+at-the-door+registration+is+not+guaranteed.If+you+are+unable+to+join+us+after+registering%2C+please+let+us+know+as+soon+as+possible.+%0A%0ARSVP+Today%21%0A%0Ahttps%3A%2F%2Fcalendar.colorado.edu%2Fevent%2Fnew-venture-challenge-women-founders-competition-finals&location=Wolf+Law&sprop=website%3Acalendar.colorado.edu&text=New+Venture+Challenge+Women+Founders+Competition+Finals",
    "https://calendar.google.com/calendar/event?action=TEMPLATE&dates=20250208%2F20250209&details=The+Women+Founders+Competition+of+the+New+Venture+Challenge+%28NVC%29+is+a+multi-round+entrepreneurial+competition+and+signature+program+of+CU+Boulder%E2%80%99s+Innovation+%26+Entrepreneurship+Initiative%2C+led+in+collaboration+with+the+Deming+Center+for+Entrepreneurship.+Teams+with+at+least+one+core+team+member+who+is+a+woman+can+participate+in+this+specialty+competition+and+win+a+share+of+%2415%2C000%21+Learn+More%0A%0A+%0A%0AWho+can+participate%3F%0A%0AEveryone+at+CU+Boulder+is+invited+to+participate+%E2%80%93+current+students%2C+faculty%2C+staff+or+recent+graduates.+NVC+participants+can+earn+a+microcredential+while+gaining+experience+in+creating+a+startup+venture.%0A%0A+%0A%0A%E2%9C%B3%EF%B8%8F+Registration+Opens%3A+Feb.+8%2C+2025.+Learn+More%0A%0Ahttps%3A%2F%2Fcalendar.colorado.edu%2Fevent%2Fregistration-opens-nvc-women-founders-competition&location=&sprop=website%3Acalendar.colorado.edu&text=REGISTRATION+OPENS+on+Feb.+8%3A+NVC+Women+Founders+Competition",
    "https://calendar.google.com/calendar/event?action=TEMPLATE&dates=20250208%2F20250209&details=About+the+New+Venture+Challenge+%28NVC%29%0AThe+New+Venture+Challenge+%28NVC%29+%E2%80%93+a+signature+program+of+the+University+of+Colorado+Boulder%27s+Innovation+%26+Entrepreneurship+Initiative+%E2%80%94+is+a+launchpad+for+aspiring+problem-solvers+and+creatives.+During+this+multi-round%2C+multi-event+entrepreneurial+competition%2C+teams+can%E2%80%AFwin+a+share+of+%24320%2C000%E2%80%AFand+pitch+to+a+live+audience+at+the+Boulder+Theater.+Learn+More%0A%0A+%0A%0AWho+can+participate%3F%0A%0AEveryone+at+CU+Boulder+is+invited+to+participate+%E2%80%93+current+students%2C+faculty%2C+staff+or+recent+graduates.+NVC+participants+can+earn+a+microcredential+while+gaining+experience+in+creating+a+startup+venture.%0A%0A+%0A%0AHow+Does+it+Work%3F%0A%0AParticipants+can+compete+in+one+of+two+NVC+categories%3A%0A%0ADeep+Tech+Category+%E2%80%93+for+ventures+built+around+a+scientific+or+technological+innovation+that+has+been+developed+using+fundamental+scientific+disciplinesOpen+Category+%E2%80%93+for+ventures+not+meeting+the+Deep+Tech+criteria+%0A%0ASpecialty+Competition+Opportunities%0A%0AAdditionally%2C+NVC+offers+two+specialty+competition+opportunities%3A%0A%0ASocial+Impact+New+Venture+Challenge+%E2%80%93+for+ventures+that+want+to+create+a+positive+social+impactWomen+Founders+Competition+%E2%80%93+for+teams+with+at+least+one+core+team+member+who+is+a+woman%0A%E2%9C%B3%EF%B8%8F+Application+deadline%3A+Feb.+8%2C+2025.+Register+Now%0A%F0%9F%8C%9F+Get+promotional+materials+to...%0A%0Ahttps%3A%2F%2Fcalendar.colorado.edu%2Fevent%2Fdeadline-new-venture-challenge-competition-registration&location=&sprop=website%3Acalendar.colorado.edu&text=DEADLINE%3A+New+Venture+Challenge+Registration+Closes+on+Feb.+8%21"
+  ]
+ },
+ {
+  "host": "www.childrenscolorado.org",
+  "count": 46,
+  "examples": [
+   "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation",
+   "https://www.childrenscolorado.org/research-innovation/the-center-for-innovation/faculty-and-staff-form"
+  ]
+ },
+ {
+  "host": "www.uchealth.org",
+  "count": 46,
+  "examples": [
+   "https://www.uchealth.org/innovation"
+  ]
+ },
+ {
+  "host": "vimeo.com",
+  "count": 45,
+  "examples": [
+   "https://vimeo.com/cuinnovations",
+   "https://vimeo.com/cuinnovations/hie-impact"
+  ]
+ },
+ {
+  "host": "fitzsimonsinnovation.com",
+  "count": 45,
+  "examples": [
+   "https://fitzsimonsinnovation.com/"
   ]
  },
  {
@@ -172,11 +253,36 @@
  },
  {
   "host": "www.grants.gov",
-  "count": 25,
+  "count": 26,
   "examples": [
    "https://www.grants.gov/web/grants/view-opportunity.html?oppId=332368",
    "https://www.grants.gov/web/grants/view-opportunity.html?oppId=332386",
    "https://www.grants.gov/web/grants/view-opportunity.html?oppId=332227"
+  ]
+ },
+ {
+  "host": "www.google.com",
+  "count": 26,
+  "examples": [
+   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjVvpzG5MLxAhXKm2oFHTpaANgQFnoECAIQAw&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
+   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjU_o2c8NbxAhUCXc0KHTJpDLkQFjAAegQIBRAD&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
+   "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fstartupcolorado.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+  ]
+ },
+ {
+  "host": "innospherefund.com",
+  "count": 25,
+  "examples": [
+   "https://innospherefund.com/"
+  ]
+ },
+ {
+  "host": "www.cu.edu",
+  "count": 24,
+  "examples": [
+   "https://www.cu.edu/impact-cu",
+   "https://www.cu.edu/oaa/grants/diversity-inclusive-excellence-grant",
+   "https://www.cu.edu/ab-nexus"
   ]
  },
  {
@@ -196,21 +302,21 @@
   ]
  },
  {
-  "host": "www.cu.edu",
-  "count": 21,
-  "examples": [
-   "https://www.cu.edu/impact-cu",
-   "https://www.cu.edu/oaa/grants/diversity-inclusive-excellence-grant",
-   "https://www.cu.edu/ab-nexus"
-  ]
- },
- {
   "host": "www.energy.gov",
   "count": 21,
   "examples": [
    "https://www.energy.gov/cmei/office-critical-minerals-and-energy-innovation",
    "https://www.energy.gov/technologycommercialization/articles/department-energy-welcomes-29-innovators-lab-embedded",
    "https://www.energy.gov/eere/ammto/events/lab-embedded-entrepreneurship-program-leep-webinar"
+  ]
+ },
+ {
+  "host": "www.rockiesventureclub.org",
+  "count": 21,
+  "examples": [
+   "https://www.rockiesventureclub.org/signature-series?amp%3Butm_medium=email",
+   "https://www.rockiesventureclub.org/",
+   "https://www.rockiesventureclub.org/hyper-accelerator"
   ]
  },
  {
@@ -268,19 +374,18 @@
   ]
  },
  {
-  "host": "www.rockiesventureclub.org",
-  "count": 16,
-  "examples": [
-   "https://www.rockiesventureclub.org/signature-series?amp%3Butm_medium=email",
-   "https://www.rockiesventureclub.org/",
-   "https://www.rockiesventureclub.org/hyper-accelerator"
-  ]
- },
- {
   "host": "daniels.du.edu",
   "count": 15,
   "examples": [
    "https://daniels.du.edu/entrepreneurship"
+  ]
+ },
+ {
+  "host": "www.ucdenver.edu",
+  "count": 14,
+  "examples": [
+   "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx",
+   "https://www.ucdenver.edu/anschutz/about/cuinnovations/investigators/protecting-your-innovation/Pages/Submit-an-Innovation.aspx"
   ]
  },
  {
@@ -290,13 +395,6 @@
    "https://leeds.tfaforms.net/f/demingsignupexternal",
    "https://leeds.tfaforms.net/77",
    "https://leeds.tfaforms.net/f/entrepreneurshipcertificateapplication"
-  ]
- },
- {
-  "host": "www.ucdenver.edu",
-  "count": 13,
-  "examples": [
-   "http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx"
   ]
  },
  {
@@ -318,6 +416,15 @@
   ]
  },
  {
+  "host": "lp.constantcontactpages.com",
+  "count": 13,
+  "examples": [
+   "https://lp.constantcontactpages.com/ev/reg/xuqpgtk/lp/2e2ded75-b326-487d-90b3-62b2c61d63e0?source_id=ab5795ff-07b4-46d7-a494-e527c53b4e10&amp;source_type=em&amp;c=igePDX_B45pHJ1-BMX3EEyWFlH_GD6DZrbibNdCpCIfHyKMlhRGp3g==",
+   "https://lp.constantcontactpages.com/ev/reg/y9xchu4/lp/3b2bcccc-1e10-44d2-a3da-5214b3d21c2d?source_id=e12c39f0-8c6a-43bb-bbd0-32504fabc102&amp;source_type=em&amp;c=NADgEbaWUaQ5MxubVLY0Www0gScPMNBeIySN48cmIMOWrll1T34eHg==",
+   "https://lp.constantcontactpages.com/ev/reg/8mqqp6r/lp/c5eed7bf-d9c9-4bbb-8b80-649178df6881?source_id=b5897bb9-a67e-40dd-a954-5ac2c7de601c&amp;source_type=em&amp;c=_6UPEz7lhe57dJSDOLnNJsTjONNDDhkHxnMwcgtZSrh_iSYD8fn2Ow=="
+  ]
+ },
+ {
   "host": "www.coloradomesa.edu",
   "count": 12,
   "examples": [
@@ -334,12 +441,11 @@
   ]
  },
  {
-  "host": "lp.constantcontactpages.com",
+  "host": "westslopestartupweek.com",
   "count": 12,
   "examples": [
-   "https://lp.constantcontactpages.com/ev/reg/xuqpgtk/lp/2e2ded75-b326-487d-90b3-62b2c61d63e0?source_id=ab5795ff-07b4-46d7-a494-e527c53b4e10&amp;source_type=em&amp;c=igePDX_B45pHJ1-BMX3EEyWFlH_GD6DZrbibNdCpCIfHyKMlhRGp3g==",
-   "https://lp.constantcontactpages.com/ev/reg/y9xchu4/lp/3b2bcccc-1e10-44d2-a3da-5214b3d21c2d?source_id=e12c39f0-8c6a-43bb-bbd0-32504fabc102&amp;source_type=em&amp;c=NADgEbaWUaQ5MxubVLY0Www0gScPMNBeIySN48cmIMOWrll1T34eHg==",
-   "https://lp.constantcontactpages.com/ev/reg/8mqqp6r/lp/c5eed7bf-d9c9-4bbb-8b80-649178df6881?source_id=b5897bb9-a67e-40dd-a954-5ac2c7de601c&amp;source_type=em&amp;c=_6UPEz7lhe57dJSDOLnNJsTjONNDDhkHxnMwcgtZSrh_iSYD8fn2Ow=="
+   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39",
+   "https://westslopestartupweek.com/"
   ]
  },
  {
@@ -381,15 +487,6 @@
   "count": 10,
   "examples": [
    "https://sites.google.com/colorado.edu/boulderventureclub/home"
-  ]
- },
- {
-  "host": "community.startupcolorado.org",
-  "count": 10,
-  "examples": [
-   "https://community.startupcolorado.org/events/110697?amp%3Bmc_eid=efea1eee39",
-   "https://community.startupcolorado.org/events/109764?amp%3Bmc_eid=efea1eee39",
-   "https://community.startupcolorado.org/events/110823?amp%3Bmc_eid=efea1eee39"
   ]
  },
  {
@@ -574,21 +671,6 @@
   ]
  },
  {
-  "host": "www.google.com",
-  "count": 6,
-  "examples": [
-   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjVvpzG5MLxAhXKm2oFHTpaANgQFnoECAIQAw&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei",
-   "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjU_o2c8NbxAhUCXc0KHTJpDLkQFjAAegQIBRAD&amp;url=https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fweeklyindex.cfm&amp;usg=AOvVaw3WYzUPO3uHkNlJni8iY2ei"
-  ]
- },
- {
-  "host": "westslopestartupweek.com",
-  "count": 6,
-  "examples": [
-   "https://westslopestartupweek.com/?amp%3Bmc_eid=efea1eee39"
-  ]
- },
- {
   "host": "www.nrel.gov",
   "count": 6,
   "examples": [
@@ -604,21 +686,35 @@
   ]
  },
  {
-  "host": "innosphere.org",
-  "count": 6,
-  "examples": [
-   "https://innosphere.org/accelerator",
-   "https://innosphere.org/sage",
-   "https://innosphere.org/our-startups"
-  ]
- },
- {
   "host": "he.cecollaboratory.com",
   "count": 6,
   "examples": [
    "https://he.cecollaboratory.com/collaboratory/PO4S3ICW2/activities/9bd1f19b-2014-41d3-42c9-dbe7736a2ac6",
    "https://he.cecollaboratory.com/collaboratory/PO4S3ICW2/activities/144a0fd9-f982-4de0-563b-9d8d07181653",
    "https://he.cecollaboratory.com/collaboratory/PO4S3ICW2/activities/f7769b4b-27c0-445a-4de2-1e6b6f851141"
+  ]
+ },
+ {
+  "host": "launchpass.com",
+  "count": 6,
+  "examples": [
+   "https://launchpass.com/colorado-startups"
+  ]
+ },
+ {
+  "host": "podcasts.apple.com",
+  "count": 6,
+  "examples": [
+   "https://podcasts.apple.com/us/podcast/startup-colorado/id1504302939",
+   "https://podcasts.apple.com/us/podcast/the-startup-colorado-podcast/id1504302939?i=1000624056034",
+   "https://podcasts.apple.com/us/podcast/this-entrepreneur-is-flipping-towns/id1587040610?i=1000593674234"
+  ]
+ },
+ {
+  "host": "www.greatercolorado.vc",
+  "count": 6,
+  "examples": [
+   "https://www.greatercolorado.vc/"
   ]
  },
  {
@@ -660,12 +756,37 @@
   ]
  },
  {
+  "host": "www.globenewswire.com",
+  "count": 5,
+  "examples": [
+   "https://www.globenewswire.com/news-release/2023/06/29/2697338/0/en/New-Iridium-Secures-1M-NSF-SBIR-Phase-II-Grant-to-Revolutionize-Chemical-Manufacturing-and-Combat-Climate-Change.html",
+   "https://www.globenewswire.com/news-release/2020/07/08/2059518/0/en/Colorado-based-New-Iridium-accelerating-global-production-of-potential-COVID-19-treatment-using-light-driven-chemistry.html",
+   "https://www.globenewswire.com/news-release/2026/03/25/3261894/0/en/Forge-Nano-Announces-Opening-of-Taiwan-Office-to-Accelerate-AI-Driven-Photonics-Manufacturing-and-Expand-Regional-Operations.html"
+  ]
+ },
+ {
   "host": "simpler.grants.gov",
   "count": 5,
   "examples": [
    "https://simpler.grants.gov/opportunity/5ed69538-0c16-44ad-a33e-ab3070585e12",
    "https://simpler.grants.gov/opportunity/d1ba49e5-3684-4420-849a-ab2330ec493e",
    "https://simpler.grants.gov/opportunity/359757"
+  ]
+ },
+ {
+  "host": "cdn.prod.website-files.com",
+  "count": 5,
+  "examples": [
+   "https://cdn.prod.website-files.com/6945bbdd9607eac5b0ecee60/695d4f1b5028b57b37a02f42_FAQs-Document_Innosphere_Life_Sciences_Incubator_01052026_V1.pdf",
+   "https://cdn.prod.website-files.com/6945bbdd9607eac5b0ecee60/6a442d6a20f199198d7baadf_ASCEND_ARID_SHIELD_FAQ_Accelerator_26.pdf",
+   "https://cdn.prod.website-files.com/6945bbdd9607eac5b0ecee60/697bacf9fb7a32f96ca02bc1_Colorado%20Venture%20Capital%20Report%202025.pdf"
+  ]
+ },
+ {
+  "host": "www.bencolorado.org",
+  "count": 5,
+  "examples": [
+   "https://www.bencolorado.org/"
   ]
  },
  {
@@ -709,120 +830,6 @@
    "https://www.neh.gov/grants",
    "https://www.neh.gov/grants/preservation/infrastructure-and-capacity-building-challenge-grants",
    "https://www.neh.gov/grants/preservation/preservation-assistance-grants-smaller-institutions"
-  ]
- },
- {
-  "host": "accelerate.techstars.com",
-  "count": 4,
-  "examples": [
-   "https://accelerate.techstars.com/startup-community-partnership-webinar",
-   "https://accelerate.techstars.com/en/techstars-newsletter-subscribe?amp%3Butm_medium=website&amp%3Butm_campaign=footer"
-  ]
- },
- {
-  "host": "t.sidekickopen86.com",
-  "count": 4,
-  "examples": [
-   "https://t.sidekickopen86.com/s3t/c/5/f18dQhb0S7kF8cFFgpW4LcVXz2zGCwVN8Jbw_8QsNH0W1yWZX-3MPftRW8q2nkb56wzNhf197v5Y04?te=W3R5hFj4cm2zwW4cQKj043Whb6W4cQgwj4fPfQgW49Kvcn3FbmHYW43Whj11L68HCW1S0_Sf4m7YvmW1GhQkb1GrKqSW3_qq1r3_RwhRW4cfMtD1Gy1HlW3K78h349Kpv0w49PGqpbcN2&amp;si=8000000019463287&amp;pi=1e43f5f8-899f-4671-e250-e7114283352e"
-  ]
- },
- {
-  "host": "www.law.upenn.edu",
-  "count": 4,
-  "examples": [
-   "https://www.law.upenn.edu/clinic/entrepreneurship/startupkit/founders-agreement.pdf"
-  ]
- },
- {
-  "host": "davisgraham.com",
-  "count": 4,
-  "examples": [
-   "https://davisgraham.com/news-events/energy-innovators-network"
-  ]
- },
- {
-  "host": "nucleatehq.medium.com",
-  "count": 4,
-  "examples": [
-   "https://nucleatehq.medium.com/alnylam-renews-partnership-with-nucleate-to-support-young-biotech-entrepreneurs-36680745b861"
-  ]
- },
- {
-  "host": "startupspace.app",
-  "count": 4,
-  "examples": [
-   "https://startupspace.app/detail-normal-events/68663/2026_01_14/16_42?b_link=event_type%3Dupcoming%26search_group%3D404%26search_radius%3D50&amp;group_id=NDA0",
-   "https://startupspace.app/detail-normal-events/69266?b_link=event_type%3Dupcoming%26search_group%3D404%26search_radius%3D50&amp;group_id=NDA0"
-  ]
- },
- {
-  "host": "web.cvent.com",
-  "count": 4,
-  "examples": [
-   "https://web.cvent.com/event/13a589f6-bc94-4233-a8f8-d8339130264d/websitePage:21c88534-3dfe-46bb-990e-48a15749fa0e?session=f1acd7e0-fb26-4ccf-ae41-e2a35ce8634c&amp;shareLink=true"
-  ]
- },
- {
-  "host": "www.coloradodaily.com",
-  "count": 4,
-  "examples": [
-   "https://www.coloradodaily.com/2019/06/23/cu-boulder-to-teach-entrepreneurship-workshops-in-each-region-of-state",
-   "https://www.coloradodaily.com/2021/08/08/when-a-big-idea-needs-time-grant-programs-step-in",
-   "https://www.coloradodaily.com/2020/01/04/cu-boulder-startups-net-1-5m-in-grants"
-  ]
- },
- {
-  "host": "www.prnewswire.com",
-  "count": 4,
-  "examples": [
-   "https://www.prnewswire.com/news-releases/longpath-technologies-raises-22-million-series-a-to-meet-accelerating-demand-for-its-patented-methane-monitoring-network-301694043.html",
-   "https://www.prnewswire.com/news-releases/aspero-medical-receives-310-000-grant-for-development-of-pillar-micro-textured-gastrointestinal-endoscopic-balloon-overtube-301131953.html"
-  ]
- },
- {
-  "host": "buffgoldventures.com",
-  "count": 4,
-  "examples": [
-   "https://buffgoldventures.com/"
-  ]
- },
- {
-  "host": "www.globenewswire.com",
-  "count": 4,
-  "examples": [
-   "https://www.globenewswire.com/news-release/2023/06/29/2697338/0/en/New-Iridium-Secures-1M-NSF-SBIR-Phase-II-Grant-to-Revolutionize-Chemical-Manufacturing-and-Combat-Climate-Change.html",
-   "https://www.globenewswire.com/news-release/2020/07/08/2059518/0/en/Colorado-based-New-Iridium-accelerating-global-production-of-potential-COVID-19-treatment-using-light-driven-chemistry.html",
-   "https://www.globenewswire.com/news-release/2026/03/25/3261894/0/en/Forge-Nano-Announces-Opening-of-Taiwan-Office-to-Accelerate-AI-Driven-Photonics-Manufacturing-and-Expand-Regional-Operations.html"
-  ]
- },
- {
-  "host": "www.epa.gov",
-  "count": 4,
-  "examples": [
-   "https://www.epa.gov/newsreleases/boulder-company-among-24-small-businesses-receiving-total-24m-develop-innovative",
-   "https://www.epa.gov/newsreleases/epa-announces-36-million-funding-small-businesses-developing-innovative-environmental"
-  ]
- },
- {
-  "host": "forms.gle",
-  "count": 4,
-  "examples": [
-   "https://forms.gle/vRVUnE62B3mYLS7L7"
-  ]
- },
- {
-  "host": "airtable.com",
-  "count": 4,
-  "examples": [
-   "https://airtable.com/appecgjAEPF6G0oQe/pagl8MxeYG1r7sRv1/form?amp%3Bmc_eid=efea1eee39",
-   "https://airtable.com/appuqMEafOOQMf01L/pagUqCwwINXgZ1A5K/form?amp%3Butm_medium=Email&amp%3Butm_source=News"
-  ]
- },
- {
-  "host": "leeds.lightning.force.com",
-  "count": 4,
-  "examples": [
-   "https://leeds.lightning.force.com/lightning/r/conference360__Event__c/a5B6e000000UlR4EAK/deming.colorado.edu"
   ]
  }
 ]

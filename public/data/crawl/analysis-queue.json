@@ -288,6 +288,18 @@
   "depth": 1
  },
  {
+  "url": "https://startupcolorado.org/resource-center/funding-database",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 1
+ },
+ {
+  "url": "https://startupcolorado.org/stories/founder-co-opetition-where-are-they-now",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 5,
+  "depth": 4
+ },
+ {
   "url": "https://www.colorado.edu/innovate/2019/10/09/leeds-deming-center-wins-global-award-entrepreneurship-education",
   "reason": "high-relevance-low-extraction",
   "relevance": 4,
@@ -643,6 +655,18 @@
  },
  {
   "url": "https://www.colorado.edu/innovate/2024/10/21/flipping-couches-building-sellbuddy-startup-turning-furniture-fortune",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 2
+ },
+ {
+  "url": "https://startupcolorado.org/stories",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 4,
+  "depth": 1
+ },
+ {
+  "url": "https://startupcolorado.org/stories/entrepreneurship-is-a-unifying-force",
   "reason": "high-relevance-low-extraction",
   "relevance": 4,
   "depth": 2
@@ -1210,6 +1234,36 @@
   "reason": "high-relevance-low-extraction",
   "relevance": 3,
   "depth": 4
+ },
+ {
+  "url": "https://startupcolorado.org/stories/town-hall-startup-colorado-podcast",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 2
+ },
+ {
+  "url": "https://www.cuanschutz.edu/innovations/campus-innovator/faculty-or-researcher/discovery/license-tech-cu",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 2
+ },
+ {
+  "url": "https://startupcolorado.org/stories/funding-your-creative-business",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 3
+ },
+ {
+  "url": "https://startupcolorado.org/stories/determine-the-best-funding-path",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 3
+ },
+ {
+  "url": "https://www.cuanschutz.edu/cu-innovations/campus-innovator/funding/startup-toolbox",
+  "reason": "high-relevance-low-extraction",
+  "relevance": 3,
+  "depth": 2
  },
  {
   "url": "https://www.colorado.edu/innovate/media/2175",
